@@ -1,0 +1,12 @@
+Bergen Travpark;
+Biri Travbane;
+Bjerke Travbane;
+Drammen Travbane;
+Forus Travbane;
+Jarlsberg Travbane;
+Klosterskogen Travbane;
+Leangen Travbane;
+Momarken Travbane;
+Sørlandets Travpark;
+Harstad Travpark;
+

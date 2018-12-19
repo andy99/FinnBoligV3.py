@@ -1,0 +1,8 @@
+from django import forms
+print('Hello')
+age = raw_input(What's your age: )
+if age => 18: 
+    print "You can get a driver's licence!"
+else 
+    print "You have to wait", 1
+    8-age, "years."

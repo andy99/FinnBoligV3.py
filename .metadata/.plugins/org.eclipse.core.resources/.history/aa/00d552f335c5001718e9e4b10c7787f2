@@ -1,0 +1,23 @@
+from bs4 import BeautifulSoup
+import requests
+soup = BeautifulSoup
+#from test.test_pathlib import only_nt
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#html_doc = r.contents
+#print(BeautifulSoup(r.content, "html.parser",).prettify())
+
+soup = BeautifulSoup(r.content,"html.parser")
+hestetabell = soup.find(True,id="ctl00_MainRegion_horseInfo_startsUC_dgStarter")
+#print(hestetabell.text, "html.parser")
+#print(soup.prettify(formatter="text"))
+#soup.get_text(r.content)
+#li = hestetabell
+li_texts = []
+for li in hestetabell:
+    startertekst = li
+    #li_texts.append(text)
+    print(startertekst)
+
+for tr in startertekst:
+    td = tr.find_all_next('tr')
+    tabelldata = td.text    

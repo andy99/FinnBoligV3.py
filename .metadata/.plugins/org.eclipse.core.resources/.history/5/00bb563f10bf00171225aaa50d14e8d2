@@ -1,0 +1,32 @@
+from bs4 import BeautifulSoup
+import requests
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#print('Hello Gunnar ')
+r.content
+soup = BeautifulSoup(r.content,"html.parser")
+#for link in soup.find_all("tr"):
+#    print(link.text)
+#
+#
+Hestenavn = soup.find(True, id="ctl00_MainRegion_horseInfo_lblNavn")
+print(Hestenavn.text,"Innhold hestenavn")
+
+hestetabell = soup.find(True,id="ctl00_MainRegion_horseInfo_startsUC_dgStarter")
+#print(hestetabell.text)
+tekst = hestetabell.text
+#txthtm = hestetabell.html ingen Html her
+#print(txthtm,"Text html")
+uttekst = tekst.replace("nowrap",";")
+print(hestetabell.text,"Hestetabell")
+print(uttekst,"Hestetabellendret")
+#
+#
+#
+t1 = soup.find_all(True, href="javascript:__doPostBack('ctl00$MainRegion$horseInfo$startsUC$dgStarter$ctl02$ctl07','')")
+print(t1,"newtext")
+# texts = soup.find(True,id="ctl00_MainRegion_horseInfo_startsUC_dgStarter")
+# for t in texts:
+#     t = soup.find(True, href="javascript:__doPostBack('ctl00$MainRegion$horseInfo$startsUC$dgStarter$ctl07$ctl00','')")
+#     #newtext= t.replace_with(texts)
+#     newtext = t
+#     print(t.text,"newtext")

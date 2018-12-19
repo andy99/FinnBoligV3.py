@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;pythonapp/GyldigeBanerNavn.py&apos;" deleteContents="false" description="Delete resource &apos;pythonapp/GyldigeBanerNavn.py&apos;" element1="/pythonapp/GyldigeBanerNavn.py" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1532858922821"/>
+</session>

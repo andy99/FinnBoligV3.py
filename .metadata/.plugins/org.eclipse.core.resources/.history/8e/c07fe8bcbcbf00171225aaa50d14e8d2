@@ -1,0 +1,10 @@
+from bs4 import BeautifulSoup
+import requests
+soup = BeautifulSoup
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+html_innhold =r.text
+
+for tr in soup.find_all('tr')[2]:
+    tds = tr.find_all_next('td')
+    print("value:%s, Value 2:%s, Value 3:%s" \
+         (tds[0].text, tds[1].text,tds[2].text))

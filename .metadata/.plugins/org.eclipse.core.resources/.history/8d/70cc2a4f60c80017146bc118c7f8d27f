@@ -1,0 +1,32 @@
+from nt import write
+
+print('Hello what er som foregar')
+x = 4 
+if x < 6: 
+    print(x,x*x*x) 
+    
+Hestenum = 123599
+hesteid = 'Sokid='+ 'Hestenum'
+print(hesteid,"Hesteid er")
+from bs4 import BeautifulSoup
+import requests
+r = requests.get('http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599')
+
+r.content
+#print(r.content)
+soup = BeautifulSoup(r.content,"html.parser")
+print(r.content)
+Hesttabell = soup.find_all('table',class_ = 'dg')
+antalltabeller = len(Hesttabell)
+print(antalltabeller)
+
+tabelltype =type(Hesttabell)
+Hesttabell = Hesttabell[0]
+print(tabelltype,"Tabell type")
+with open("Hestedata2.txt","w") as r:
+     for row in Hesttabell.find_all('tr'):
+         for cell in row.find_all('td'):
+             #r.write(cell.text.replace("&nsp", ";"))
+             r.write(cell.text.ljust(22,';'))
+             r.write('\n')    
+        

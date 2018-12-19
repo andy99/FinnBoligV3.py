@@ -1,0 +1,30 @@
+ Tlf.priv.:;
+ 55119136;
+ Tlf.arb.:;
+ ;
+ Adresse:;
+ Rådalslien 40;
+ Mobiltlf.:;
+ 95249259;
+ Postnr/sted:;
+ 5239 RÅDAL;
+ Telefaks:;
+ ;
+ E-post:;
+ twassber@online.no;
+ Fødselsdato:;
+ 05.09.1973;
+ Lisens:;
+ ( A1 ) Proff trener A, trene og kjøre;
+ Monté:;
+ ;
+ Utelukket:;
+ Bane:;
+ Fra dato:;
+ Til dato:;
+ Bjerke:
+                300;
+ V75:
+                300;
+ Lokalt:    300;
+ Prosent:10;

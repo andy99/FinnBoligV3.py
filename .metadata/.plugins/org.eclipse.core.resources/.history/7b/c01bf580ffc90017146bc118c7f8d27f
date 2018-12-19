@@ -1,0 +1,11 @@
+#from bs4 import BeautifulSoup
+import bs4 as bs
+import requests
+#r = requests.get('http://sportsearch.rikstoto.no/pages/hest_info.aspx?+ hesteid')
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#soup = BeautifulSoup
+#table = r.text
+table = bs.BeautifulSoup.find_all('Table')
+# print(soup)
+# print(soup.text)
+print(table[0])

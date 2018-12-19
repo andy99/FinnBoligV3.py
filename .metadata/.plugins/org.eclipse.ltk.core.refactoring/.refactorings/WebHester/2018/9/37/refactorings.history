@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;WebHester/HesterTips/templates/listbane.html&apos; to &apos;banedatooppdatert_listbane.html&apos;" description="Rename resource &apos;listbane.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="HesterTips/templates/listbane.html" name="banedatooppdatert_listbane.html" stamp="1537008844702" updateReferences="true"/>
+</session>

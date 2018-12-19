@@ -1,0 +1,58 @@
+
+<!-- howdy/templates/about.html -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>TravTips!</title>
+    </head>
+    <style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+    <body>
+        <h1 style="color:blue;">Dette er siden om travroboten </h1>
+
+    <p>
+    Travroboten sine trav tips er laget av en robot.    
+    </p>
+    
+    <table border="9" bgcolor="#efefef">
+    <thead>
+       <tr>
+        <th scope="col">Bane</th> 
+		<th scope="col">Dato</th>
+		<th scope="col">Hestenavn</th>
+		<th scope="col">Formfaktor</th>
+		<th scope="col">Lop</th>
+		<th scope="col">Startnr</th>
+		<th scope="col">Trippelprosent</th>
+		<th scope="col">Sisteplassering</th>
+		<th scope="col">Gallop-prosent</th>
+    </tr>
+      <thead/>
+    {% for bane in baneliste %}
+    <tr> 
+
+        <td>{{ bane.bane   }}</td>
+        <td>{{ bane.dato }}</td>
+        <td>{{ bane.heste_navn }}</td>
+        <td>{{ bane.formfaktortotal }}</td>
+        <td>{{ bane.lop }}</td>
+        <td>{{ bane.startnr }}</td>
+        <td>{{ bane.trippelprosent }}</td>
+        <td>{{ bane.PlasseringSisteStart }}</td>
+         <td>{{ bane.galoppprosent }}</td>
+    </tr>
+    {% endfor %}
+</table>
+    
+    
+    
+    
+    
+    
+        <a href="/">Go back home</a>
+    </body>
+</html>

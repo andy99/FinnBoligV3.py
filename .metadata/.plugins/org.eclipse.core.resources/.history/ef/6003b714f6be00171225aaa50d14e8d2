@@ -1,0 +1,12 @@
+from bs4 import BeautifulSoup
+import requests
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#print('Hello Gunnar ')
+r.content
+soup = BeautifulSoup(r.content,"html.parser")
+for link in soup.find_all("tr"):
+    print(link.text)
+#
+#
+Hestetabell = soup.find(True, id="page_27")
+print(Hestetabell,"Innhold hestetabell")

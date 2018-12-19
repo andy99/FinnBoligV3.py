@@ -1,0 +1,62 @@
+# from django.shortcuts import render
+# import adodbapi
+# import dbapi20
+from django.http import HttpResponse
+from django.db import models
+# from django.shortcuts import render_to_response
+from django.views import View
+from django.views import generic
+from HesterTips.models import BaneDatoOppdatert
+from HesterTips.models import DjangoBeregnetform
+from django.views.generic.edit import CreateView, UpdateView, DeleteView
+# from WebHester.HesterTips.models import BaneDatoOppdatert
+from django.shortcuts import render
+import datetime
+import pypyodbc
+from django.template import loader
+from django.template.context_processors import request
+# from adodbapi.test.test_adodbapi_dbapi20 import instance
+def index(request):
+    model = BaneDatoOppdatert
+#     template_name = ('index.html') 
+    fields = ['dato','bane'] 
+#Hurra denne virker    
+    tider = datetime.datetime.now()
+#     tider = datetime.date 
+    now = tider
+
+#creating the values to pass
+#     now = '2040'      
+    context = {
+     'now': now,
+    }
+    return render(request,'index.html', context = context)  
+
+# return ('index.html', {'current_date': now})
+
+def banetabell(request):
+#      baneliste=BaneDatoOppdatert.objects.all()
+#      baneliste=BaneDatoOppdatert.objects.values_list()
+     baneliste = DjangoBeregnetform.objects.values_list('id','heste_navn','formfaktortotal')  
+     test4=DjangoBeregnetform.objects.values_list('bane','kusk','inntjent','formfaktortotal','heste_navn').filter(formfaktortotal__gt='1500')
+     test5 =test2=DjangoBeregnetform.objects.values_list('bane','heste_navn').extra(where=["formfaktortotal > '1000'"])
+#      test6 =DjangoBeregnetform.objects.all().filter(formfaktortotal__gt='0')
+     test6 =DjangoBeregnetform.objects.all().filter(dato='2018-12-10').order_by('lop','-formfaktortotal')
+#      test7 =DjangoBeregnetform.objects.heste_navn
+     for i in test6:
+#          pass
+#          bane =(1)
+        print("%s" % i.lop)
+        print("%s" % i.heste_navn)
+#          print(i)
+#          bane=["%s" % i]
+#          print(bane)
+#      DjangoBeregnetform.objects.values_list('lop','dato')
+     context = {'baneliste': test6}
+#      context = {'baneliste': baneliste}
+     return render(request,'banelist.html', context = context)
+
+#     def get_queryset(self):
+#         return BaneDatoOppdatert.objects.all()
+#     Template_name = 'HesterTips/index.html'
+#return render_to_response('index.html', {'current_date': now})

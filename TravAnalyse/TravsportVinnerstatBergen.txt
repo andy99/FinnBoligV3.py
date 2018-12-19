@@ -1,0 +1,288 @@
+Hop Roar;Bergen Travpark;51;8;4;7;19;220;267500
+Rønningen Åge;Bergen Travpark;11;2;1;0;3;93;49000
+Eriksen Einar Ludvig;Bergen Travpark;18;1;1;4;6;3;54500
+Steine Bjørn;Bergen Travpark;21;1;1;3;9;3;75500
+Øksnevad Bernt;Forus Travbane;4;1;1;0;1;146;25000
+Tjordal Per-Eivind;Forus Travbane;2;1;1;0;0;30;28000
+Tuft Thomas;Bergen Travpark;8;1;0;1;2;21;32500
+Søfteland Harry Åge;Bergen Travpark;5;1;0;0;2;309;21000
+Sælen Marita Kristin;Bergen Travpark;2;1;0;0;1;1;21000
+Greve Marte;Bergen Travpark;3;1;0;0;0;1;14000
+Salte Tord R.;Forus Travbane;1;1;0;0;0;2;12000
+Steine Håkon B.;Bergen Travpark;19;0;2;4;6;123;63500
+Nybø Synne;Bergen Travpark;7;0;2;0;2;2;24500
+Flolid Eva;Bergen Travpark;3;0;2;0;0;0;15000
+Kvamsdal Daniel;Bergen Travpark;14;0;1;1;6;8;29000
+Karlsen Thomas Sverre;Forus Travbane;4;0;1;1;2;11;20500
+Ingebrigtsen Ole Johan;Bergen Travpark;7;0;1;0;6;1;26000
+Håvardstun Håkon;Bergen Travpark;12;0;1;0;3;269;20000
+Rasmussen Mats-Andre;Bergen Travpark;4;0;1;0;2;0;14000
+Tvedt Edith Sofie;Bergen Travpark;5;0;1;0;2;2;15000
+Gudmestad Ole Gaute;Forus Travbane;2;0;1;0;1;62;11000
+Vie Geir;Bergen Travpark;8;0;0;1;6;0;17000
+Iversen Stine-Elise;Bergen Travpark;5;0;0;1;1;2;9000
+Hordvik Erik Hagseth;Bergen Travpark;9;0;0;0;6;16;16000
+Kaarevik Caroline;Bergen Travpark;5;0;0;0;2;0;5000
+Lyssand Øyvind;Bergen Travpark;3;0;0;0;2;10;6500
+Birkeland Bjarte;Bergen Travpark;4;0;0;0;2;1;7000
+Nedrebø Einar;Forus Travbane;3;0;0;0;2;79;13000
+Nybø Synne;Bergen Travpark;3;2;0;0;0;2;34000
+Høyland Hege Kristin;Bergen Travpark;3;1;0;0;0;4;12000
+Morken Caroline L.B.;Bergen Travpark;3;0;2;0;0;33;17000
+Kolle Helene;Jarlsberg Travbane;1;0;1;0;0;21;6000
+Storetvedt Elisabeth;Bergen Travpark;3;0;0;1;1;36;9000
+Rogstad Hilde;Leangen Travbane;2;0;0;1;1;4;8500
+Hande Christina A.;Bjerke Travbane;1;0;0;1;0;46;4000
+Steine Victoria;Bergen Travpark;2;0;0;0;2;11;6000
+Barka Beate;Forus Travbane;1;0;0;0;1;0;3000
+Svendsen Charlotte;Forus Travbane;2;0;0;0;1;11;4000
+Steine Henriette;Bergen Travpark;2;0;0;0;0;0;0
+Storetvedt Elisabeth;Bergen Travpark;28;3;0;6;6;36;97000
+Gundersen Magnus Teien;Bjerke Travbane;7;2;1;1;1;283;119000
+Rasmussen Joakim;Drammen Travbane;6;1;0;0;2;36;24000
+Wassberg Thomas;Bergen Travpark;2;1;0;0;0;5;16000
+Rasmussen Ann Kristin;Biri Travbane;2;0;0;0;0;9;0
+Wassberg Svein Ove;Bergen Travpark;100;15;16;11;33;1582;589000
+Wassberg Ove;Bergen Travpark;85;14;10;7;24;3353;426000
+Buer Pål;Forus Travbane;60;12;7;9;15;417;371500
+Tvedt Herman R.;Jarlsberg Travbane;35;6;6;0;8;271;202000
+Hauge Lars Tore;Bergen Travpark;84;5;6;12;27;311;297000
+Gudmestad Geir;Forus Travbane;11;5;1;1;2;690;101000
+Austevoll Øyvind;Bergen Travpark;75;4;12;4;29;831;278000
+Totland Tore;Bergen Travpark;47;4;6;5;12;548;172500
+Landaas Jan Erik;Bergen Travpark;63;2;6;7;26;759;193000
+Wiig Rune;Forus Travbane;9;2;3;0;2;3489;62000
+Olsen Claus;Bergen Travpark;39;2;2;5;19;406;123500
+Rennesvik Erlend;Bjerke Travbane;8;2;2;0;2;154;84000
+Tvedt Rolf;Bergen Travpark;29;2;1;2;12;836;80000
+Hop Vidar;Jarlsberg Travbane;8;2;1;0;2;4019;150000
+Djøseland Kjetil;Forus Travbane;4;2;1;0;1;392;51000
+Erga Tom;Forus Travbane;3;2;0;0;1;371;26000
+Halvorsen Ronny;Bergen Travpark;47;1;5;6;10;81;107000
+Handeland Kenneth;Forus Travbane;3;1;2;0;0;83;33000
+Storetvedt Odd;Bergen Travpark;43;1;1;9;19;846;140000
+Østre Ole Johan;Momarken Travbane;3;1;1;0;1;460;39000
+Kvasnes Kristine;Biri Travbane;3;1;0;0;1;458;53000
+Bjerring Jan Martin;Drammen Travbane;2;1;0;0;0;218;70000
+Kolle Lars Anvar;Jarlsberg Travbane;4;0;1;0;1;3210;34000
+Tengsareid Åsbjørn;Jarlsberg Travbane;3;0;1;0;1;2355;37000
+Ringheim Frank;Bergen Travpark;23;0;0;1;15;145;42000
+Pedersen Morten A.;Bjerke Travbane;2;0;0;1;0;85;20000
+Mikkelborg Olav;Bjerke Travbane;2;0;0;1;0;2552;20000
+Aarlie Renate;Drammen Travbane;2;0;0;1;0;63;8000
+Hop Roar;Bergen Travpark;51;8;4;7;19;220;267500
+Steine Bjørn;Bergen Travpark;21;1;1;3;9;3;75500
+Steine Håkon B.;Bergen Travpark;19;0;2;4;6;123;63500
+Eriksen Einar Ludvig;Bergen Travpark;18;1;1;4;6;3;54500
+Rønningen Åge;Bergen Travpark;11;2;1;0;3;93;49000
+Tuft Thomas;Bergen Travpark;8;1;0;1;2;21;32500
+Kvamsdal Daniel;Bergen Travpark;14;0;1;1;6;8;29000
+Tjordal Per-Eivind;Forus Travbane;2;1;1;0;0;30;28000
+Ingebrigtsen Ole Johan;Bergen Travpark;7;0;1;0;6;1;26000
+Øksnevad Bernt;Forus Travbane;4;1;1;0;1;146;25000
+Nybø Synne;Bergen Travpark;7;0;2;0;2;2;24500
+Sælen Marita Kristin;Bergen Travpark;2;1;0;0;1;1;21000
+Søfteland Harry Åge;Bergen Travpark;5;1;0;0;2;309;21000
+Karlsen Thomas Sverre;Forus Travbane;4;0;1;1;2;11;20500
+Håvardstun Håkon;Bergen Travpark;12;0;1;0;3;269;20000
+Vie Geir;Bergen Travpark;8;0;0;1;6;0;17000
+Hordvik Erik Hagseth;Bergen Travpark;9;0;0;0;6;16;16000
+Tvedt Edith Sofie;Bergen Travpark;5;0;1;0;2;2;15000
+Flolid Eva;Bergen Travpark;3;0;2;0;0;0;15000
+Rasmussen Mats-Andre;Bergen Travpark;4;0;1;0;2;0;14000
+Greve Marte;Bergen Travpark;3;1;0;0;0;1;14000
+Nedrebø Einar;Forus Travbane;3;0;0;0;2;79;13000
+Salte Tord R.;Forus Travbane;1;1;0;0;0;2;12000
+Gudmestad Ole Gaute;Forus Travbane;2;0;1;0;1;62;11000
+Iversen Stine-Elise;Bergen Travpark;5;0;0;1;1;2;9000
+Birkeland Bjarte;Bergen Travpark;4;0;0;0;2;1;7000
+Lyssand Øyvind;Bergen Travpark;3;0;0;0;2;10;6500
+Kaarevik Caroline;Bergen Travpark;5;0;0;0;2;0;5000
+Nybø Synne;Bergen Travpark;3;2;0;0;0;2;34000
+Morken Caroline L.B.;Bergen Travpark;3;0;2;0;0;33;17000
+Høyland Hege Kristin;Bergen Travpark;3;1;0;0;0;4;12000
+Storetvedt Elisabeth;Bergen Travpark;3;0;0;1;1;36;9000
+Rogstad Hilde;Leangen Travbane;2;0;0;1;1;4;8500
+Kolle Helene;Jarlsberg Travbane;1;0;1;0;0;21;6000
+Steine Victoria;Bergen Travpark;2;0;0;0;2;11;6000
+Svendsen Charlotte;Forus Travbane;2;0;0;0;1;11;4000
+Hande Christina A.;Bjerke Travbane;1;0;0;1;0;46;4000
+Barka Beate;Forus Travbane;1;0;0;0;1;0;3000
+Steine Henriette;Bergen Travpark;2;0;0;0;0;0;0
+Gundersen Magnus Teien;Bjerke Travbane;7;2;1;1;1;283;119000
+Storetvedt Elisabeth;Bergen Travpark;28;3;0;6;6;36;97000
+Rasmussen Joakim;Drammen Travbane;6;1;0;0;2;36;24000
+Wassberg Thomas;Bergen Travpark;2;1;0;0;0;5;16000
+Rasmussen Ann Kristin;Biri Travbane;2;0;0;0;0;9;0
+Wassberg Svein Ove;Bergen Travpark;100;15;16;11;33;1582;589000
+Wassberg Ove;Bergen Travpark;85;14;10;7;24;3353;426000
+Buer Pål;Forus Travbane;60;12;7;9;15;417;371500
+Hauge Lars Tore;Bergen Travpark;84;5;6;12;27;311;297000
+Austevoll Øyvind;Bergen Travpark;75;4;12;4;29;831;278000
+Tvedt Herman R.;Jarlsberg Travbane;35;6;6;0;8;271;202000
+Landaas Jan Erik;Bergen Travpark;63;2;6;7;26;759;193000
+Totland Tore;Bergen Travpark;47;4;6;5;12;548;172500
+Hop Vidar;Jarlsberg Travbane;8;2;1;0;2;4019;150000
+Storetvedt Odd;Bergen Travpark;43;1;1;9;19;846;140000
+Olsen Claus;Bergen Travpark;39;2;2;5;19;406;123500
+Halvorsen Ronny;Bergen Travpark;47;1;5;6;10;81;107000
+Gudmestad Geir;Forus Travbane;11;5;1;1;2;690;101000
+Rennesvik Erlend;Bjerke Travbane;8;2;2;0;2;154;84000
+Tvedt Rolf;Bergen Travpark;29;2;1;2;12;836;80000
+Bjerring Jan Martin;Drammen Travbane;2;1;0;0;0;218;70000
+Wiig Rune;Forus Travbane;9;2;3;0;2;3489;62000
+Kvasnes Kristine;Biri Travbane;3;1;0;0;1;458;53000
+Djøseland Kjetil;Forus Travbane;4;2;1;0;1;392;51000
+Ringheim Frank;Bergen Travpark;23;0;0;1;15;145;42000
+Østre Ole Johan;Momarken Travbane;3;1;1;0;1;460;39000
+Tengsareid Åsbjørn;Jarlsberg Travbane;3;0;1;0;1;2355;37000
+Kolle Lars Anvar;Jarlsberg Travbane;4;0;1;0;1;3210;34000
+Handeland Kenneth;Forus Travbane;3;1;2;0;0;83;33000
+Erga Tom;Forus Travbane;3;2;0;0;1;371;26000
+Pedersen Morten A.;Bjerke Travbane;2;0;0;1;0;85;20000
+Mikkelborg Olav;Bjerke Travbane;2;0;0;1;0;2552;20000
+Aarlie Renate;Drammen Travbane;2;0;0;1;0;63;8000
+Hop Roar;Bergen Travpark;51;8;4;7;19;220;267500
+Rønningen Åge;Bergen Travpark;11;2;1;0;3;93;49000
+Eriksen Einar Ludvig;Bergen Travpark;18;1;1;4;6;3;54500
+Steine Bjørn;Bergen Travpark;21;1;1;3;9;3;75500
+Øksnevad Bernt;Forus Travbane;4;1;1;0;1;146;25000
+Tjordal Per-Eivind;Forus Travbane;2;1;1;0;0;30;28000
+Tuft Thomas;Bergen Travpark;8;1;0;1;2;21;32500
+Søfteland Harry Åge;Bergen Travpark;5;1;0;0;2;309;21000
+Sælen Marita Kristin;Bergen Travpark;2;1;0;0;1;1;21000
+Greve Marte;Bergen Travpark;3;1;0;0;0;1;14000
+Salte Tord R.;Forus Travbane;1;1;0;0;0;2;12000
+Steine Håkon B.;Bergen Travpark;19;0;2;4;6;123;63500
+Nybø Synne;Bergen Travpark;7;0;2;0;2;2;24500
+Flolid Eva;Bergen Travpark;3;0;2;0;0;0;15000
+Kvamsdal Daniel;Bergen Travpark;14;0;1;1;6;8;29000
+Karlsen Thomas Sverre;Forus Travbane;4;0;1;1;2;11;20500
+Ingebrigtsen Ole Johan;Bergen Travpark;7;0;1;0;6;1;26000
+Håvardstun Håkon;Bergen Travpark;12;0;1;0;3;269;20000
+Rasmussen Mats-Andre;Bergen Travpark;4;0;1;0;2;0;14000
+Tvedt Edith Sofie;Bergen Travpark;5;0;1;0;2;2;15000
+Gudmestad Ole Gaute;Forus Travbane;2;0;1;0;1;62;11000
+Vie Geir;Bergen Travpark;8;0;0;1;6;0;17000
+Iversen Stine-Elise;Bergen Travpark;5;0;0;1;1;2;9000
+Hordvik Erik Hagseth;Bergen Travpark;9;0;0;0;6;16;16000
+Kaarevik Caroline;Bergen Travpark;5;0;0;0;2;0;5000
+Lyssand Øyvind;Bergen Travpark;3;0;0;0;2;10;6500
+Birkeland Bjarte;Bergen Travpark;4;0;0;0;2;1;7000
+Nedrebø Einar;Forus Travbane;3;0;0;0;2;79;13000
+Nybø Synne;Bergen Travpark;3;2;0;0;0;2;34000
+Høyland Hege Kristin;Bergen Travpark;3;1;0;0;0;4;12000
+Morken Caroline L.B.;Bergen Travpark;3;0;2;0;0;33;17000
+Kolle Helene;Jarlsberg Travbane;1;0;1;0;0;21;6000
+Storetvedt Elisabeth;Bergen Travpark;3;0;0;1;1;36;9000
+Rogstad Hilde;Leangen Travbane;2;0;0;1;1;4;8500
+Hande Christina A.;Bjerke Travbane;1;0;0;1;0;46;4000
+Steine Victoria;Bergen Travpark;2;0;0;0;2;11;6000
+Barka Beate;Forus Travbane;1;0;0;0;1;0;3000
+Svendsen Charlotte;Forus Travbane;2;0;0;0;1;11;4000
+Steine Henriette;Bergen Travpark;2;0;0;0;0;0;0
+Storetvedt Elisabeth;Bergen Travpark;28;3;0;6;6;36;97000
+Gundersen Magnus Teien;Bjerke Travbane;7;2;1;1;1;284;119000
+Rasmussen Joakim;Drammen Travbane;6;1;0;0;2;36;24000
+Wassberg Thomas;Bergen Travpark;2;1;0;0;0;5;16000
+Rasmussen Ann Kristin;Biri Travbane;2;0;0;0;0;9;0
+Wassberg Svein Ove;Bergen Travpark;100;15;16;11;33;1582;589000
+Wassberg Ove;Bergen Travpark;85;14;10;7;24;3353;426000
+Buer Pål;Forus Travbane;60;12;7;9;15;417;371500
+Tvedt Herman R.;Jarlsberg Travbane;35;6;6;0;8;271;202000
+Hauge Lars Tore;Bergen Travpark;84;5;6;12;27;311;297000
+Gudmestad Geir;Forus Travbane;11;5;1;1;2;690;101000
+Austevoll Øyvind;Bergen Travpark;75;4;12;4;29;831;278000
+Totland Tore;Bergen Travpark;47;4;6;5;12;548;172500
+Landaas Jan Erik;Bergen Travpark;63;2;6;7;26;759;193000
+Wiig Rune;Forus Travbane;9;2;3;0;2;3489;62000
+Olsen Claus;Bergen Travpark;39;2;2;5;19;406;123500
+Rennesvik Erlend;Bjerke Travbane;8;2;2;0;2;154;84000
+Tvedt Rolf;Bergen Travpark;29;2;1;2;12;836;80000
+Hop Vidar;Jarlsberg Travbane;8;2;1;0;2;4019;150000
+Djøseland Kjetil;Forus Travbane;4;2;1;0;1;392;51000
+Erga Tom;Forus Travbane;3;2;0;0;1;371;26000
+Halvorsen Ronny;Bergen Travpark;47;1;5;6;10;81;107000
+Handeland Kenneth;Forus Travbane;3;1;2;0;0;83;33000
+Storetvedt Odd;Bergen Travpark;43;1;1;9;19;846;140000
+Østre Ole Johan;Momarken Travbane;3;1;1;0;1;461;39000
+Kvasnes Kristine;Biri Travbane;3;1;0;0;1;459;53000
+Bjerring Jan Martin;Drammen Travbane;2;1;0;0;0;218;70000
+Kolle Lars Anvar;Jarlsberg Travbane;4;0;1;0;1;3210;34000
+Tengsareid Åsbjørn;Jarlsberg Travbane;3;0;1;0;1;2355;37000
+Ringheim Frank;Bergen Travpark;23;0;0;1;15;145;42000
+Pedersen Morten A.;Bjerke Travbane;2;0;0;1;0;85;20000
+Mikkelborg Olav;Bjerke Travbane;2;0;0;1;0;2553;20000
+Aarlie Renate;Drammen Travbane;2;0;0;1;0;63;8000
+Hop Roar;Bergen Travpark;51;8;4;7;19;220;267500
+Steine Bjørn;Bergen Travpark;21;1;1;3;9;3;75500
+Steine Håkon B.;Bergen Travpark;19;0;2;4;6;123;63500
+Eriksen Einar Ludvig;Bergen Travpark;18;1;1;4;6;3;54500
+Rønningen Åge;Bergen Travpark;11;2;1;0;3;93;49000
+Tuft Thomas;Bergen Travpark;8;1;0;1;2;21;32500
+Kvamsdal Daniel;Bergen Travpark;14;0;1;1;6;8;29000
+Tjordal Per-Eivind;Forus Travbane;2;1;1;0;0;30;28000
+Ingebrigtsen Ole Johan;Bergen Travpark;7;0;1;0;6;1;26000
+Øksnevad Bernt;Forus Travbane;4;1;1;0;1;146;25000
+Nybø Synne;Bergen Travpark;7;0;2;0;2;2;24500
+Sælen Marita Kristin;Bergen Travpark;2;1;0;0;1;1;21000
+Søfteland Harry Åge;Bergen Travpark;5;1;0;0;2;309;21000
+Karlsen Thomas Sverre;Forus Travbane;4;0;1;1;2;11;20500
+Håvardstun Håkon;Bergen Travpark;12;0;1;0;3;269;20000
+Vie Geir;Bergen Travpark;8;0;0;1;6;0;17000
+Hordvik Erik Hagseth;Bergen Travpark;9;0;0;0;6;16;16000
+Tvedt Edith Sofie;Bergen Travpark;5;0;1;0;2;2;15000
+Flolid Eva;Bergen Travpark;3;0;2;0;0;0;15000
+Rasmussen Mats-Andre;Bergen Travpark;4;0;1;0;2;0;14000
+Greve Marte;Bergen Travpark;3;1;0;0;0;1;14000
+Nedrebø Einar;Forus Travbane;3;0;0;0;2;79;13000
+Salte Tord R.;Forus Travbane;1;1;0;0;0;2;12000
+Gudmestad Ole Gaute;Forus Travbane;2;0;1;0;1;62;11000
+Iversen Stine-Elise;Bergen Travpark;5;0;0;1;1;2;9000
+Birkeland Bjarte;Bergen Travpark;4;0;0;0;2;1;7000
+Lyssand Øyvind;Bergen Travpark;3;0;0;0;2;10;6500
+Kaarevik Caroline;Bergen Travpark;5;0;0;0;2;0;5000
+Nybø Synne;Bergen Travpark;3;2;0;0;0;2;34000
+Morken Caroline L.B.;Bergen Travpark;3;0;2;0;0;33;17000
+Høyland Hege Kristin;Bergen Travpark;3;1;0;0;0;4;12000
+Storetvedt Elisabeth;Bergen Travpark;3;0;0;1;1;36;9000
+Rogstad Hilde;Leangen Travbane;2;0;0;1;1;4;8500
+Kolle Helene;Jarlsberg Travbane;1;0;1;0;0;21;6000
+Steine Victoria;Bergen Travpark;2;0;0;0;2;11;6000
+Svendsen Charlotte;Forus Travbane;2;0;0;0;1;11;4000
+Hande Christina A.;Bjerke Travbane;1;0;0;1;0;46;4000
+Barka Beate;Forus Travbane;1;0;0;0;1;0;3000
+Steine Henriette;Bergen Travpark;2;0;0;0;0;0;0
+Gundersen Magnus Teien;Bjerke Travbane;7;2;1;1;1;284;119000
+Storetvedt Elisabeth;Bergen Travpark;28;3;0;6;6;36;97000
+Rasmussen Joakim;Drammen Travbane;6;1;0;0;2;36;24000
+Wassberg Thomas;Bergen Travpark;2;1;0;0;0;5;16000
+Rasmussen Ann Kristin;Biri Travbane;2;0;0;0;0;9;0
+Wassberg Svein Ove;Bergen Travpark;100;15;16;11;33;1582;589000
+Wassberg Ove;Bergen Travpark;85;14;10;7;24;3353;426000
+Buer Pål;Forus Travbane;60;12;7;9;15;417;371500
+Hauge Lars Tore;Bergen Travpark;84;5;6;12;27;311;297000
+Austevoll Øyvind;Bergen Travpark;75;4;12;4;29;831;278000
+Tvedt Herman R.;Jarlsberg Travbane;35;6;6;0;8;271;202000
+Landaas Jan Erik;Bergen Travpark;63;2;6;7;26;759;193000
+Totland Tore;Bergen Travpark;47;4;6;5;12;548;172500
+Hop Vidar;Jarlsberg Travbane;8;2;1;0;2;4019;150000
+Storetvedt Odd;Bergen Travpark;43;1;1;9;19;846;140000
+Olsen Claus;Bergen Travpark;39;2;2;5;19;406;123500
+Halvorsen Ronny;Bergen Travpark;47;1;5;6;10;81;107000
+Gudmestad Geir;Forus Travbane;11;5;1;1;2;690;101000
+Rennesvik Erlend;Bjerke Travbane;8;2;2;0;2;154;84000
+Tvedt Rolf;Bergen Travpark;29;2;1;2;12;836;80000
+Bjerring Jan Martin;Drammen Travbane;2;1;0;0;0;218;70000
+Wiig Rune;Forus Travbane;9;2;3;0;2;3489;62000
+Kvasnes Kristine;Biri Travbane;3;1;0;0;1;459;53000
+Djøseland Kjetil;Forus Travbane;4;2;1;0;1;392;51000
+Ringheim Frank;Bergen Travpark;23;0;0;1;15;145;42000
+Østre Ole Johan;Momarken Travbane;3;1;1;0;1;461;39000
+Tengsareid Åsbjørn;Jarlsberg Travbane;3;0;1;0;1;2355;37000
+Kolle Lars Anvar;Jarlsberg Travbane;4;0;1;0;1;3210;34000
+Handeland Kenneth;Forus Travbane;3;1;2;0;0;83;33000
+Erga Tom;Forus Travbane;3;2;0;0;1;371;26000
+Pedersen Morten A.;Bjerke Travbane;2;0;0;1;0;85;20000
+Mikkelborg Olav;Bjerke Travbane;2;0;0;1;0;2553;20000
+Aarlie Renate;Drammen Travbane;2;0;0;1;0;63;8000

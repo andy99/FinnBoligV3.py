@@ -1,0 +1,85 @@
+import pypyodbc
+from FunksjonleserWeb import FunksjonleserWeb
+#from macpath import split
+# coding=utf8
+con = pypyodbc.connect
+
+class Lastedato(object):
+    def __init__(self,DatoKlasse):
+        self.DatoKlasse
+    DatoKlasse ='01.01.1991'
+#import sys
+#con = connection = pypyodbc.connect('Driver={SQL Server};'
+#connection = pyodbc.connect('Driver={SQL Server};' 'Server=DESKTOP-0CMQN56;''Database=Trav;''user=Gunnar;' 'Pwd=gunnar')
+con = pypyodbc.connect('Driver={SQL Server};' 'Server=DESKTOP-0CMQN56;''Database=Trav;''user=Gunnar;' 'Pwd=gunnar')
+print(Lastedato.DatoKlasse)
+if con:
+    print("ja vi har forbindelse")
+    
+    
+SQL = '''\
+SELECT TOP 1000 [Resultat_Dato]
+  FROM [Trav].[dbo].[Travdatoer]
+'''     
+cursor = con.cursor()
+cursor.execute(SQL)
+
+#dato = cursor
+#cursor.next()
+for a in cursor:
+#     print(c[0])
+    Dato = a[0]
+    #henter ut aar
+    datolengde = len(Dato)
+#     print(datolengde,"Dato lengde")
+    aar = Dato[17:21]
+    ukeDag,ddmmmyyyy = Dato.split(',')
+#     print(UkeDag,"Dag")
+    print(ddmmmyyyy,"ddmmmyyyy")
+    dag,mndyyyy = ddmmmyyyy.split('.')
+    nydag = dag.strip()
+#     mnd,aar=mndyyyy.split(' ')
+    print(dag,"Dag  er")
+    if nydag == '1':
+        dag='01'
+    print(mndyyyy,"mnd År er")
+    aar=mndyyyy[5:9]
+    mnd =mndyyyy[1:4]
+    print(mnd,"Maned er")
+    print(aar,"Verdi aar")
+    if mnd == 'jan':
+        mndnr = '01'
+    elif mnd == 'feb':
+        mndnr = '02' 
+    elif mnd == 'mar':
+        mndnr = '03'    
+    elif mnd == 'apr':
+        mndnr = '04' 
+    elif mnd == 'mai':
+        mndnr = '05'
+    elif mnd == 'jun':
+        mndnr = '06' 
+    elif mnd == 'jul':
+        mndnr = '07'  
+    elif mnd == 'aug':
+        mndnr = '08' 
+    elif mnd == 'sep':
+        mndnr = '09' 
+    elif mnd == 'okt':
+        mndnr = '10' 
+    elif mnd == 'nov':
+        mndnr = '11'  
+    elif mnd == 'des':
+        mndnr = '12'                                          
+
+    print(mndnr,"Maanedsnr")
+    webdato = aar + mndnr + nydag
+    print(webdato,"Webdato")
+    FunksjonleserWeb(webdato)
+cursor.close()
+
+
+
+
+
+

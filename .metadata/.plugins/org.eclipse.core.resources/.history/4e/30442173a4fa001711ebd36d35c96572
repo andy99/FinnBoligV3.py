@@ -1,0 +1,11 @@
+# The pattern
+x, y, z = [1, 2, 3]
+
+# also works in loops:
+Gunnar = [(28, 'M',"Braveman"), (4, 'a','Tull'), (1990, 'r','kom igjen')]
+for x, y, z in Gunnar:
+    print(z)  # prints the numbers 28, 4, 1990
+
+# and also
+for index, (x, y,z) in enumerate(Gunnar):
+    print(z,x)  # prints the numbers 28, 4, 1990

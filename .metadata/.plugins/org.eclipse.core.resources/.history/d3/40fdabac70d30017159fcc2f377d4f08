@@ -1,0 +1,21 @@
+from bs4 import BeautifulSoup
+import requests
+from builtins import str
+#from idlelib.replace import replace
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#print('Hello Gunnar ')
+r.content
+print(r.content,"Hello Gunnar")
+soup = BeautifulSoup(r.text,"html.parser")
+
+Resultater = soup.find_all('tr',class_ = "dgAlternate")
+print (Resultater,"Resultater")
+
+Record1 = Resultater[0]
+kusknavn = Record1.find('td class="linkBlue"').text
+print(Record1,"Record1")
+print(kusknavn,"Kusknavn")
+
+
+
+

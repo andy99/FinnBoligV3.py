@@ -1,0 +1,23 @@
+from bs4 import BeautifulSoup
+import requests
+#soup = BeautifulSoup
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+html_innhold =r.text
+soup = BeautifulSoup(r.content,"html.parser")
+tabell = soup.find('table')
+tabell_rader = tabell.find_all('tr')
+
+for tr in tabell_rader:
+    td = tr.find_all_next('td')
+    rad = [a.text for a in td]
+    testtekst = rad
+    print(rad)
+    print(testtekst,"Skriver test tekst")
+
+rad_tekst = soup.findAll('td')
+rad_list = []
+
+for td in rad_tekst:
+    text = td.get_text().strip()
+    rad_list.append(text)
+    print(rad_list)

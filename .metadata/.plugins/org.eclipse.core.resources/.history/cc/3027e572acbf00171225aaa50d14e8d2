@@ -1,0 +1,25 @@
+from bs4 import BeautifulSoup
+import requests
+#from idlelib.replace import replace
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#print('Hello Gunnar ')
+r.content
+print(r.content,"Hello Gunnar")
+soup = BeautifulSoup(r.content,"html.parser")
+print(r.content)
+test1=r.content
+#print(test1,"gunnar test før replace")
+#test1=test1.replace("&nbsp", "")  feil ved encoding
+#print(test1,"gunnar test")
+texts = soup.find_all("table")
+print(texts,"hallo gunnar")
+for link in soup.find_all("table"):
+    #print("Hello Elisabeth")
+    #print(link.text)
+    nytekst = link.text
+    #print("hallo Nikolai")
+    #print(nytekst,"hallo aleks")
+#     for t in nytekst:
+#         uttekst = t.replace("&nbsp",";")
+#         #t.replace_with(uttekst)
+#         #print(uttekst)

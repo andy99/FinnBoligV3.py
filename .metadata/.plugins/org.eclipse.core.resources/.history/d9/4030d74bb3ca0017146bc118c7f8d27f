@@ -1,0 +1,17 @@
+from bs4 import BeautifulSoup
+#import bs4 as bs
+import requests
+#r = requests.get('http://sportsearch.rikstoto.no/pages/hest_info.aspx?+ hesteid')
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#soup = BeautifulSoup
+#table = r.text
+soup = BeautifulSoup(r.text,"html.parser")
+Hestedata = soup.find_all('table',class_ = 'dg')
+#print(Hestedata)
+# print(soup.text)
+
+tabellelengde=len(Hestedata)
+forst_resultat = Hestedata[0].find(href="javascript:__doPostBack('ctl00$MainRegion$horseInfo$startsUC$dgStarter$ctl01$ctl00','')").text
+print(forst_resultat)
+#print(tabellelengde)
+#print(Hestedata)

@@ -1,0 +1,6 @@
+def ukedag(dagnr):
+    print("Er funksjon ukedag")
+    if dagnr = '1'::
+      dagnr = '01' 
+ 
+    return dagnr

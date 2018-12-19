@@ -1,0 +1,32 @@
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 1; 2; Very Esterel (DK); 2100; 2:40,4; 16,4a; 16000; Ove    Wassberg;32
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 2; 5; The Flying Jet; 2100; 2:40,7; 16,5a; 8000; Eva    Flolid;92
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 3; 4; Benny B.R.; 2100; 2:41,2; 16,8a; 5000; Claus    Olsen;803
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 4; 3; Officer Kronos (IT); 2100; 2:41,6; 17,0a; 4000; Øyvind    Austevoll;703
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 5; 12; Sven (S); 2100; 2:41,7; 17,0a; 3000; Svein Ove    Wassberg;177
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 6; 10; Hopeful Tooma (S); 2100; 2:41,8; 17,0a; 3000; Joakim    Rasmussen;380
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 7; 6; Paddington Face (S); 2100; 2:41,9; 17,1ag; 3000; Roar    Hop;*31
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 0; 7; Little Samo (DE); 2100; 2:42,5; 17,4a; ; Elisabeth    Storetvedt;290
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 0; 11; Hoogerland (DE); 2100; 2:42,9; 17,6a; ; Pål    Buer;207
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 0; 1; Camillo Neo (S); 2100; 2:43,1; 17,7a; ; Åge    Rønningen;59
+ Resultater    -  Bergen Travpark  -  01.03.2018;1; 0; 9; Sidsel (DK); 2100; 2:43,9; 18,0a; ; Rolf    Tvedt;62
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; 1; 10; Viljar Odin; 2160; 3:24,6; 34,7; 12000; Rolf    Tvedt;56
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; 2; 8; Bjørkebalder; 2160; 3:25,4; 35,1; 6000; Lars Tore    Hauge;47
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; 3; 6; Vie Nina; 2160; 3:25,6; 35,2; 4000; Geir    Vie;1069
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; 4; 12; Almoda; 2160; 3:25,8; 35,3; 3000; Claus    Olsen;*43
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; 5; 13; Birk Simir; 2160; 3:26,2; 35,5; 2000; Roar    Hop;203
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; 6; 7; Bjørketora; 2160; 3:26,5; 35,6; 2000; Odd    Storetvedt;54
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; 7; 3; Søndre Stjerna; 2120; 3:26,6; 37,5; 2000; Frank    Ringheim;736
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; 8; 4; Austvass Lilja; 2140; 3:26,8; 36,6; 2000; Tore    Totland;117
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; 0; 14; Dreng Stjerna; 2160; 3:27,2; 35,9; ; Tor    Skilbrei;256
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; 0; 11; Egge Jarl; 2160; 3:29,0; 36,8 g; ; Svein Ove    Wassberg;58
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; Brutt løp; 5; Bondhus Prinsen; 2140; ; br g; ; Ronny    Halvorsen;223
+ Resultater    -  Bergen Travpark  -  01.03.2018;3; Brutt løp; 9; Pilfrik; 2160; ; br; ; Jan Erik    Landaas;265
+ Resultater    -  Bergen Travpark  -  01.03.2018;4; 1; 9; Karmland Stilson; 2120; 3:13,5; 31,3; 16000; Svein Ove    Wassberg;*17
+ Resultater    -  Bergen Travpark  -  01.03.2018;4; 2; 8; Tømmerprins; 2120; 3:14,6; 31,8; 8000; Øyvind    Austevoll;421
+ Resultater    -  Bergen Travpark  -  01.03.2018;4; 3; 11; Valle Max; 2140; 3:14,7; 31,0; 5000; Lars Tore    Hauge;47
+ Resultater    -  Bergen Travpark  -  01.03.2018;4; 4; 5; Haugestad Balto; 2120; 3:15,0; 32,0; 4000; Ronny    Halvorsen;168
+ Resultater    -  Bergen Travpark  -  01.03.2018;4; 5; 4; Jerkla O.K.; 2120; 3:15,4; 32,2; 3000; Rolf    Tvedt;119
+ Resultater    -  Bergen Travpark  -  01.03.2018;4; 6; 7; Tun Faksa; 2120; 3:15,6; 32,3; 3000; Jan Erik    Landaas;667
+ Resultater    -  Bergen Travpark  -  01.03.2018;4; 0; 1; Per Viking; 2100; 3:15,8; 33,2; ; Tore    Totland;207
+ Resultater    -  Bergen Travpark  -  01.03.2018;4; 0; 2; Barka Blesen; 2100; 3:15,8; 33,2 g; ; Odd    Storetvedt;50
+ Resultater    -  Bergen Travpark  -  01.03.2018;4; 0; 10; Jossejerven; 2140; 3:16,4; 31,8 g; ; Pål    Buer;366

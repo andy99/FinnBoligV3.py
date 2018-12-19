@@ -1,0 +1,47 @@
+import pypyodbc
+from FunkFakta import FunkFakta
+from Funkvinner import Funkvinner
+from Funktrippel import Funktrippel
+global prosentgallop
+utdata = 0
+con = pypyodbc.connect
+con = pypyodbc.connect('Driver={SQL Server};' 'Server=DESKTOP-0CMQN56;''Database=Trav;''user=Gunnar;' 'Pwd=gunnar')
+# print(Lastedato.DatoKlasse)
+if con:
+    print("ja vi har forbindelse")
+   
+SQL = '''\
+Select Heste_navn, Kusk, id_nr
+
+  FROM [Trav].[dbo].[StartListerBergen]
+  
+'''     
+cursor = con.cursor()
+cursor.execute(SQL)
+# prosentgallop = 0
+#dato = cursor
+#cursor.next()
+
+for a in cursor:
+    print(a[0], a[1], a[2])
+    
+    Hestenavn = a[0]
+    Kusk      = a[1] 
+    id_nr     = a[2]
+    Hestenummer = id_nr
+#     print(Hestenummer,"verdi til hestenummer i Hoved Program")
+#     FunksjonlesResultat(id_nr)
+    prosentgallop=FunkFakta(Hestenummer)
+    prosentvinner=Funkvinner(Hestenummer)
+    prosenttrippel=Funktrippel(Hestenummer)
+    print( prosenttrippel,Hestenummer,"Hoved program prosent trippel" )
+    with open('GaloppprosentBergen.txt', 'a') as f:
+        f.write("%.0f;%.0f;%.0f;%s" % \
+            ( prosentgallop,prosentvinner,prosenttrippel, Hestenummer))
+        f.write('\n')
+
+cursor.close() 
+
+
+
+    

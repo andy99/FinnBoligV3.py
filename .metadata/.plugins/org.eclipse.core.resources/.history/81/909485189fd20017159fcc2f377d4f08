@@ -1,0 +1,2 @@
+import sys, webbrowser, pyperclip
+print("Starte google maps")

@@ -1,0 +1,38 @@
+from bs4 import BeautifulSoup
+import requests
+from RaderKolloner import tabell_rader
+#from idlelib.replace import replace
+#r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+r = requests.get("http://www.alltidhest.org/Horses/Page/1" )
+#print('Hello Gunnar ')
+r.content
+#print(r.content,"Hello Gunnar")
+soup = BeautifulSoup(r.content,"html.parser")
+#print(r.content)
+test1=r.content
+nytekst = []
+tabell_rader =[]
+tabell = soup.find("table")
+tabell_rader = tabell.find_all('tr')
+#print(tabell,"hallo gunnar her er tabellen")
+#print(tabell_rader,"hallo Niko her er tabell raden")
+for tr in tabell_rader:
+    td = tr.find_all('td')
+    rad = [i.text for i in td]
+    print(rad,"Data i tabell rad")
+    #print("Hello Elisabeth")
+    #td = soup.find_all("td")
+    #print(td,"Td data")
+    #nytekst = td
+    #nytekst = nytekst.replace("Olav Mikkelborg","Olav Mikkelborg;")
+    #print("hallo Nikolai")
+    #print("hallo aleks")
+#     for t in nytekst:
+#         uttekst = nytekst.replace("Olav Mikkelborg","Olav Mikkelborg;")
+#         #uttekst.replace_with(nytekst)
+#         print(uttekst,"Hello Elisabet")
+# for i, value in enumerate(nytekst):
+#     rad_list = rad_list.remove("Olav Mikkelborg")
+#     print(i,nytekst,"Utskrift fra tabell")
+#     print(i,nytekst,"Brann er best")
+#     

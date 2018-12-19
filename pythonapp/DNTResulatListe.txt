@@ -1,0 +1,115 @@
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;1;Auto;Ingen galopp ;1;7;El Muro B.R.;2100;2:35,8;14,2a;20000;Siv Emilie    Løvvold;47
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;1;Auto;Ingen galopp ;2;2;King Royal;2100;2:36,1;14,3a;10000;Josefine    Eilertsen;257
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;1;Auto;Ingen galopp ;3;3;Winmecredit* (US);2100;2:36,4;14,5a;7000;Roya    Haghighat;84
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;1;Auto;Ingen galopp ;4;6;Dream On Plush;2100;2:40,9;16,6a;5000;Helene    Kolle;266
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;1;Auto;Ingen galopp ;5;1;Önas Julius (S);2100;2:42,6;17,4a;3500;Louise Vebostad    Trudvang;621
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;1;Auto;Ingen galopp ;Disk. galopp;4;Welcome S.E. (S);2100;DG;dg a;;Johanne Ulrica    Øveraasen;81
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;1;Auto;Ingen galopp ;Disk. galopp;5;Flashing Boko (S);2100;DG;dg a;;Christina A.    Hande;*14
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;Ingen galopp ;1;5;Reime Kongen;1660;2:26,6;28,3;60000;Jan Roar    Mjølnerød;*19
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;Ingen galopp ;2;7;Vital Vinter;1660;2:27,3;28,7;30000;Gunnar    Austevoll;45
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;Ingen galopp ;3;9;Rokne Bliss;1660;2:27,5;28,9;20000;Magnus Teien    Gundersen;406
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;Ingen galopp ;4;8;Ros Son;1660;2:28,3;29,3;12000;Kjetil    Djøseland;175
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;galopp;5;6;Kos Frigga;1660;2:28,5;29,5 g;8000;Ole Johan    Østre;376
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;galopp;6;11;Skumsjøstjerna;1660;2:28,9;29,7 g;5000;Frode    Mjølnerød;485
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;galopp;0;1;Spang Prinsessa;1640;2:31,9;32,6 g;;Anette    Frønes;494
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;Ingen galopp ;0;2;Tuxi Temi;1640;2:31,9;32,6;;Svein Olav    Ruud;315
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;galopp;0;4;Kleppe Spødå;1640;2:43,4;39,6 g;;Gry Vigdis    Bachmann;259
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;Ingen galopp ;Disk. galopp;3;Eiken;1640;DG;dg;;Adrian Solberg    Akselsen;222
+Resultater    -  Bjerke Travbane  -  15.12.2018; 135000; 1640;2;Volte;Ingen galopp ;Disk. galopp;10;Ard;1660;DG;dg;;Tom Erik    Solberg;37
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;3;Auto;Ingen galopp ;1;4;Princess Corner (DE);2100;2:39,2;15,8a;20000;Eirik    Høitomt;*12
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;3;Auto;Ingen galopp ;2;5;Thaia Sund;2100;2:39,7;16,0a;10000;Espen    Grohs;266
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;3;Auto;Ingen galopp ;3;3;Jasmin Sund (S);2100;2:40,1;16,2a;7000;Kristian    Malmin;49
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;3;Auto;Ingen galopp ;4;2;Seaborn Santana;2100;2:40,2;16,3a;5000;Andre H.    Stensen;716
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;3;Auto;Ingen galopp ;5;10;Fidji Rags;2100;2:40,3;16,3a;3500;Erik    Brækken;216
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;3;Auto;Ingen galopp ;0;1;Hillarys Revenge;2100;2:40,4;16,4a;;Herman R.    Tvedt;120
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;3;Auto;Ingen galopp ;0;9;Be My Ariel;2100;2:42,3;17,3a;;Per Oleg    Midtfjeld;411
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;3;Auto;Ingen galopp ;0;6;Pixie Frecel;2100;2:44,1;18,1a;;Ole Johan    Østre;155
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;3;Auto;Ingen galopp ;Strøket;7;Empress Act;2100;;;;Hans Chr.    Holm;0
+Resultater    -  Bjerke Travbane  -  15.12.2018; 45500; 2100;3;Auto;Ingen galopp ;Strøket;8;S.J.'s All In All;2100;;;;Simen Bjørbæk    Jessen;0
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;1;4;L'amour Bonanza;2100;2:36,1;14,3a;110000;Sven Olav    Weberg;*31
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;2;12;Red Shankly R.S.;2100;2:36,5;14,5a;55000;Geir    Mikkelsen;33
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;3;11;Magic Tile;2100;2:36,8;14,7a;27500;Eirik    Høitomt;128
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;4;10;Royal Winner;2100;2:36,8;14,7a;13000;Øystein    Tjomsland;709
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;5;5;Mira Prawo;2100;2:37,6;15,0a;9000;Dag-Sveinung    Dalen;105
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;6;1;Kasper T.T.;2100;2:38,1;15,3a;7000;Erlend    Rennesvik;47
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;0;3;Eros Barsk;2100;2:38,7;15,6a;;Magnus Teien    Gundersen;540
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;0;9;Next Game;2100;2:38,7;15,6a;;Lars Anvar    Kolle;442
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;0;8;Day U.S.;2100;2:39,3;15,9a;;Vidar    Hop;163
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;0;6;Xante;2100;2:42,2;17,2ar;;Åsbjørn    Tengsareid;83
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;Disk. galopp;7;Mr. Picasso;2100;DG;dg a;;Hans Chr.    Holm;669
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;4;Auto;Ingen galopp ;Strøket;2;Royal Baby;2100;;;;Tom Erik    Solberg;0
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;1;5;Gogo Hall;2100;2:38,4;15,4a;100000;Geir    Mikkelsen;63
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;2;8;Vici Celavie;2100;2:38,8;15,6a;50000;Lars Fredrik    Kolle;637
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;3;3;Amazing Case;2100;2:39,0;15,7a;25000;Frode    Hamre;91
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;4;12;Rocky Rich;2100;2:39,1;15,8a;12000;Adrian Solberg    Akselsen;568
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;5;1;Expensive Hangover;2100;2:39,3;15,9a;8000;Per Vetle    Kals;117
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;6;4;Miss Tanic;2100;2:39,4;15,9a;5000;Åsbjørn    Tengsareid;553
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;0;11;Nuclear Tile;2100;2:39,5;16,0a;;Vidar    Hop;420
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;0;7;Noble Tile;2100;2:39,5;16,0a;;Kristian    Malmin;*18
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;0;10;Donatell Viking R.R.;2100;2:39,5;16,0a;;Per Oleg    Midtfjeld;91
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;0;2;Towanda's Classic;2100;2:39,5;16,0a;;Dag-Sveinung    Dalen;89
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;0;9;Orlando Design;2100;2:40,8;16,6a;;Lars Anvar    Kolle;427
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;5;Auto;Ingen galopp ;0;6;Goodman B.R.;2100;2:42,3;17,3a;;Simen Bjørbæk    Jessen;262
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;Ingen galopp ;1;11;Professor Ø.K.;2100;3:01,6;26,5a;100000;Kjetil    Djøseland;*25
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;Ingen galopp ;2;12;Idfaxen;2100;3:01,8;26,6a;50000;Bjørn    Steinseth;101
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;Ingen galopp ;3;4;Stumne Fyr;2100;3:02,0;26,7a;25000;Åsbjørn    Tengsareid;68
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;Ingen galopp ;4;1;Alma Prins;2100;3:02,1;26,7a;12000;Jomar    Blekkan;187
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;Ingen galopp ;5;6;Lykkje Birk;2100;3:02,7;27,0a;8000;Vidar    Hop;66
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;Ingen galopp ;6;10;Frier Birk;2100;3:03,8;27,5a;5000;Anette    Frønes;91
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;Ingen galopp ;0;7;Loken;2100;3:04,1;27,7a;;Lars Anvar    Kolle;777
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;Ingen galopp ;0;9;Kuven Storm;2100;3:04,5;27,9a;;Magnus Teien    Gundersen;90
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;galopp;0;3;Jarand;2100;3:05,7;28,4ag;;Adrian Solberg    Akselsen;154
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;galopp;0;8;Neseldi;2100;3:06,2;28,7ag;;Knut Arne    Ødegaard;596
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;Ingen galopp ;0;5;Skauga Rasken;2100;3:09,8;30,4a;;Anne    Christensen;182
+Resultater    -  Bjerke Travbane  -  15.12.2018; 200000; 2100;6;Auto;Ingen galopp ;Disk. galopp;2;Edens Odin;2100;DG;dg a;;Per Oleg    Midtfjeld;210
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;1;11;Amarone Classic;2100;2:36,3;14,4a;110000;Kristian    Malmin;29
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;2;1;S.M.K. Silvousplait;2100;2:36,5;14,5a;55000;Adrian Solberg    Akselsen;63
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;3;10;Lightning;2100;2:36,9;14,7a;27500;Eirik    Høitomt;447
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;4;12;Wanda Classic;2100;2:37,1;14,8a;13000;Dag-Sveinung    Dalen;339
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;5;4;Riva Renn;2100;2:37,2;14,9a;9000;Per Oleg    Midtfjeld;326
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;6;6;Extreme Hangover;2100;2:38,3;15,4a;7000;Magnus Teien    Gundersen;151
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;0;8;Gaga B.R.;2100;2:39,1;15,8a;;Tom Erik    Solberg;322
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;0;5;Velvatter (US);2100;2:39,4;15,9a;;Frode    Hamre;*19
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;galopp;0;9;She's In Love;2100;2:44,2;18,2ag;;Noralf P.    Brækken;514
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;Disk. galopp;2;Encore un Sisu (S);2100;DG;dg a;;Lars Anvar    Kolle;197
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;Strøket;3;J.T.'s Moneypenny;2100;;;;Joakim    Hansen;0
+Resultater    -  Bjerke Travbane  -  15.12.2018; 221500; 2100;7;Auto;Ingen galopp ;Strøket;7;Exciting Chip (S);2100;;;;Vidar    Hop;0
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;galopp;1;10;Kiro Bia Balderina;2160;3:06,8;26,5 g;110000;Bjørn    Steinseth;127
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;2;15;Oriola;2180;3:07,0;25,8;55000;Lars Anvar    Kolle;534
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;3;12;Vesle Maia;2160;3:07,7;26,9;27500;Hans Jørgen    Eggen;181
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;4;14;Brenne Blissi;2180;3:07,8;26,1;13000;Åsbjørn    Tengsareid;*27
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;5;13;Arvesølv;2180;3:07,9;26,2;9000;Ole Johan    Østre;125
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;6;5;Kap Tilly;2160;3:08,1;27,1;7000;Geir    Mikkelsen;100
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;galopp;7;4;Stensvik Marikken;2140;3:08,2;27,9 g;7000;Andre H.    Stensen;327
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;0;8;Valle Tiril;2160;3:08,3;27,2;;Jomar    Blekkan;161
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;0;2;Tenk Nå Dina;2120;3:08,5;28,9;;Simen Bjørbæk    Jessen;97
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;0;7;Lykkje May;2160;3:09,0;27,5;;Kjetil    Djøseland;231
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;0;6;Mine;2160;3:09,3;27,6;;Eirik    Høitomt;387
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;0;11;Troll Ronja;2160;3:09,8;27,9;;Dag-Sveinung    Dalen;47
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;0;3;Ånei;2140;3:09,8;28,7;;Hans Chr.    Holm;567
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;0;9;Kagge Lina;2160;3:10,0;28,0;;Gunnar    Austevoll;248
+Resultater    -  Bjerke Travbane  -  15.12.2018; 228500; 2120;8;Volte;Ingen galopp ;0;1;T.M. Stjerna;2120;3:12,1;30,6;;Vidar    Hop;488
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;1;3;Da Vinci B.R.;2100;2:33,9;13,3a;125000;Lars Anvar    Kolle;128
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;2;2;Handsome Hank;2100;2:34,5;13,6a;60000;Åsbjørn    Tengsareid;136
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;3;11;Always On Time;2100;2:35,6;14,1a;30000;Eirik    Høitomt;57
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;4;10;Soros Kronos* (S);2100;2:36,0;14,3a;20000;Hans Chr.    Holm;402
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;5;6;Wilma Leggrowbach;2100;2:36,6;14,6a;10000;Geir    Mikkelsen;38
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;6;7;Rapide Frecel;2100;2:36,7;14,6a;10000;Frode    Hamre;107
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;galopp;0;5;Giant Star;2100;2:36,9;14,7ag;;Bjørn    Steinseth;736
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;0;4;Red Bar;2100;2:37,7;15,1a;;Ole Johan    Østre;135
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;0;12;Cash Converter (S);2100;2:37,9;15,2a;;Gunnar    Austevoll;230
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;0;8;Joe Hoo Lee (S);2100;2:39,4;15,9a;;Lars Fredrik    Kolle;224
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;Disk. galopp;9;Goldstile;2100;DG;dg a;;Tom Erik    Solberg;*26
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;9;Auto;Ingen galopp ;Strøket;1;Urakas Gilbak (DK);2100;;;;Dag-Sveinung    Dalen;0
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;galopp;1;9;Remix;2100;3:02,4;26,9ag;125000;Jomar    Blekkan;*41
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;Ingen galopp ;2;5;Alsaker Blest;2100;3:02,4;26,9a;60000;Vidar    Hop;292
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;Ingen galopp ;3;4;Magnums Othello;2100;3:02,4;26,9a;30000;Øystein    Tjomsland;104
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;Ingen galopp ;4;10;Høvding Jaros;2100;3:03,5;27,4a;20000;Odd Arne    Sagholen;409
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;Ingen galopp ;5;11;Eikfaksen;2100;3:04,4;27,8a;10000;Lars Anvar    Kolle;305
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;galopp;6;1;Hugo Bäck* (S);2100;3:05,2;28,2ag;10000;Gøran    Antonsen;309
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;Ingen galopp ;0;12;Ness Tjo Edel;2100;3:05,7;28,4a;;Frode    Hamre;351
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;galopp;0;8;Vetle Petter;2100;3:07,5;29,3ag;;Arnt-Sverre    Røren;104
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;Ingen galopp ;Disk. galopp;2;Brenne Banker;2100;DG;dg a;;Adrian Solberg    Akselsen;72
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;Ingen galopp ;Disk. galopp;3;Bossum Faksen;2100;DG;dg a;;Jan Roar    Mjølnerød;101
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;Ingen galopp ;Disk. galopp;6;Wellek;2100;DG;dg a;;Dag-Sveinung    Dalen;*41
+Resultater    -  Bjerke Travbane  -  15.12.2018; 255000; 2100;10;Auto;Ingen galopp ;Disk. galopp;7;Kaksen*;2100;DG;dg a;;Tor    Wollebæk;52

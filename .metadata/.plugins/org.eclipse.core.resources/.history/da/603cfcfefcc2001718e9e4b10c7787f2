@@ -1,0 +1,43 @@
+from bs4 import BeautifulSoup
+import requests
+#!/usr/bin/python
+# -*- coding: ascii -*-
+import csv
+from nt import replace
+from _overlapped import NULL
+from pip._vendor.pyparsing import empty
+#-*- coding: UTF-8 -*-
+#soup = BeautifulSoup
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+html_innhold =r.text
+soup = BeautifulSoup(r.content,"html.parser")
+tabell = soup.find('table')
+tabell_rader = tabell.find_all('tr')
+
+for tr in tabell_rader:
+    td = tr.find_all_next('td')
+    rad = [a.text for a in td]
+    testtekst = rad
+#print(rad)
+# print(testtekst,"Skriver test tekst")
+
+rad_tekst = soup.findAll('td')
+rad_list = []
+
+minfil = "C : \\ myfile \\ minfil.txt " 
+for td in rad_tekst:
+    text = td.get_text().strip()
+    text.replace("xa0", "")
+    rad_list.append(text)
+    print(rad_list)
+if rad_list[1] is not empty:
+    print("Ikke tom")
+   
+for i in rad_list:
+    print(rad_list[i])
+    
+    
+# with open("Bravehunter.csv","w") as bravehunterfile:
+#      writer = csv.writer(bravehunterfile)
+#      writer.writerow([rad_list[0],rad_list[1]])
+#      bravehunterfile.close()

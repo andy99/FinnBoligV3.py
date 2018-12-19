@@ -1,0 +1,37 @@
+from bs4 import BeautifulSoup
+import requests
+from RaderKolloner import tabell_rader
+#from idlelib.replace import replace
+#r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+r = requests.get("http://www.alltidhest.org/Horses/Page/1" )
+#print('Hello Gunnar ')
+r.content
+#print(r.content,"Hello Gunnar")
+soup = BeautifulSoup(r.content,"html.parser")
+#print(r.content)
+test1=r.content
+rad= []
+nytekst = []
+tabell_rader =[]
+tabell = soup.find("table")
+tabell_rader= tabell.find_all('tr')
+#print(tabell,"hallo gunnar her er tabellen")
+#print(tabell_rader,"hallo Niko her er tabell raden")
+for tr in tabell_rader[0]:
+    td = tr.find_all('td')
+    rad = [i.text.strip() for i in td]
+    print(rad,"Data i tabell rad")
+        #r.write(nytekst)
+# antrader = len(rad) - 1
+# print(antrader,"Antall rader")
+# tabell_rader = rad
+# for i, value in enumerate(tabell_rader):
+#     print(i,tabell_rader[antrader],"tabell rader")
+#     with open("Hestedata3.txt","w") as r:
+#         r.write(tabell_rader[antrader])
+# #         
+# while antrader < 8 and antrader > 0:
+#     print(antrader,"Antallrader mindre enn 7?")
+#     print(tabell_rader[antrader],"Innhold tabell")
+#     antrader = antrader - 1
+#     

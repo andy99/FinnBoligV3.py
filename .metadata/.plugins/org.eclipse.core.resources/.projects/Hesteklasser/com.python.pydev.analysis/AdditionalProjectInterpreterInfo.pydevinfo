@@ -1,0 +1,22 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\workplace_python\.metadata\.plugins\org.eclipse.core.resources\.projects\Hesteklasser\com.python.pydev.analysis\v2_indexcache
+Hestenavn|1516096726943789000|D:\workplace_python\Hesteklasser\Hestenavn.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=D:\workplace_python\Hesteklasser\Hestenavn.py
+2=Hestenavn
+-- END DICTIONARY
+-- START TREE 1
+6
+ant|1|anttabeller!1^10#1*19@
+hes|4|Hesteinfo!1^28#1*19@Hestedata!1^9#1*19@Hestenavn!1^27#1*19@Hestinfo!1^15#1*19@
+r|1|r!1^4#1*19@
+sou|1|soup!1^8#1*19@
+spa|1|span!1^23#13*19@
+tds|1|tds!1^19#13*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,43 @@
+from bs4 import BeautifulSoup
+#import bs4 as bs
+import requests
+#r = requests.get('http://sportsearch.rikstoto.no/pages/hest_info.aspx?+ hesteid')
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#soup = BeautifulSoup
+#table = r.text
+soup = BeautifulSoup(r.text,"html.parser")
+Hestedata = soup.find_all('table',class_ = 'dg')
+#print(Hestedata)
+# print(soup.text)
+
+tabellelengde=len(Hestedata)
+kusknavnheader = Hestedata[0].find(href="javascript:__doPostBack('ctl00$MainRegion$horseInfo$startsUC$dgStarter$ctl01$ctl00','')").text
+Banenavnheader   = Hestedata[0].find(href="javascript:__doPostBack('ctl00$MainRegion$horseInfo$startsUC$dgStarter$ctl01$ctl01','')").text
+Datoheader = Hestedata[0].find(href="javascript:__doPostBack('ctl00$MainRegion$horseInfo$startsUC$dgStarter$ctl01$ctl02','')").text
+LopHeader  = Hestedata[0].find(href="javascript:__doPostBack('ctl00$MainRegion$horseInfo$startsUC$dgStarter$ctl01$ctl03','')").text
+DistanseHeader = Hestedata[0].find(href="javascript:__doPostBack('ctl00$MainRegion$horseInfo$startsUC$dgStarter$ctl01$ctl04','')").text
+print(kusknavnheader,Banenavnheader,Datoheader,LopHeader,DistanseHeader)
+
+
+#print(tabellelengde)
+#print(Hestedata)
+
+Kuskdatarader = soup.find_all('td',class_="linkBlue")
+#print(Kuskdatarader)
+#first_kuske_rad = Hestedatarader[0].encoding='UTF-8' 
+# print(Hestedatarader[0].text)
+# antkusker = len(Hestedatarader)
+# for antkusker in Hestedatarader:
+#     print(Hestedatarader)
+#     
+# print(antkusker)
+
+Kusker = []
+#Virker
+#for td in Kuskdatarader:
+for td in soup.find_all("td"):
+    
+    print(td.text)
+    with open("Kuskedtadata.txt","a") as r:
+        r.write(td.text)
+        r.write('\n')    

@@ -1,0 +1,92 @@
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;1;Auto;Ingen galopp ;1;6;The Last Ticket;2140;2:37,3;13,5a;16000;Atle    Solhus;*11
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;1;Auto;Ingen galopp ;2;7;Rolling Stones* (S);2140;2:37,8;13,7a;8000;Isabella    Gustafsson;125
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;1;Auto;Ingen galopp ;3;3;Jaccaroo (S);2140;2:38,0;13,8a;5000;Jomar    Blekkan;65
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;1;Auto;Ingen galopp ;4;2;Diana Dixi;2140;2:39,5;14,5a;4000;Monika    Fremstad;364
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;1;Auto;Ingen galopp ;5;8;My Dream Come True;2140;2:39,6;14,6a;3000;Veronika    Bugge;298
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;1;Auto;Ingen galopp ;Midlertidig verdi for ikke overført tid;1;Hambler's Amigo;2140;;temp a;;Bjørn    Garberg;228
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;1;Auto;Ingen galopp ;0;4;Hard Cider (US);2140;2:39,9;14,7a;;Thomas    Mjøen;427
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;1;Auto;Ingen galopp ;0;5;Black Butan;2140;2:41,4;15,4a;;John Einar    Theodorsen;390
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;2;Auto;Ingen galopp ;1;4;Creek's Superline;2140;2:46,3;17,7a;16000;Veronika    Bugge;*14
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;2;Auto;Ingen galopp ;2;2;Rex Lavec* (S);2140;2:46,5;17,8a;8000;Thomas    Mjøen;66
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;2;Auto;Ingen galopp ;3;1;Natacha Line;2140;2:46,7;17,9a;5000;Jomar    Blekkan;197
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;2;Auto;Ingen galopp ;4;7;Likeawalkinthepark;2140;2:47,0;18,0a;4000;Andre H.    Stensen;60
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;2;Auto;Ingen galopp ;5;3;Extol's Pride;2140;2:47,2;18,1a;3000;Dag-Sveinung    Dalen;151
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;2;Auto;Ingen galopp ;0;8;The Indian Ocean;2140;2:47,4;18,2a;;Anita Valstad    Hagmann;638
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;2;Auto;Ingen galopp ;0;5;Vico Regio H.;2140;2:48,1;18,6a;;Edvard    Kristiansen;529
+Resultater    -  Leangen Travbane  -  29.10.2018; 36000; 2140;2;Auto;Ingen galopp ;Disk. galopp;6;Miss Tanic;2140;DG;dg a;;Torkil    Steinshaug;138
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;Ingen galopp ;1;7;Stumne Lyn;2140;3:08,6;28,1a;16000;Edvard    Kristiansen;*23
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;Ingen galopp ;2;5;Møre Bella;2140;3:10,2;28,9a;8000;Thomas    Mjøen;204
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;Ingen galopp ;3;11;Voll Prins;2140;3:11,7;29,6a;5000;Per Einar    Sørmo;507
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;Ingen galopp ;4;1;Solan;2140;3:11,9;29,7a;4000;Atle    Solhus;248
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;galopp;5;9;Komnes Nor;2140;3:13,0;30,2ag;3000;Karl Einar    Stubsjøen;63
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;galopp;6;6;Gullkontoen;2140;3:14,2;30,7ag;3000;Inge    Melby;195
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;galopp;7;10;Buaas Terna;2140;3:15,0;31,1ag;2000;Morten    Valstad;994
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;galopp;Brutt løp;4;Stormare;2140;;br arg;;Jarle Morten    Sørmo;382
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;Ingen galopp ;Disk. galopp;2;Gikling Leodin;2140;DG;dg a;;Andre H.    Stensen;27
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;Ingen galopp ;Disk. galopp;3;Odins Blessa;2140;DG;dg a;;Karl Ove    Nordtømme;159
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;3;Auto;Ingen galopp ;Disk. galopp;8;Odd Hera;2140;DG;dg a;;Hilde Marie    Østborg;190
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;1;5;Eik Odin;2140;3:06,1;27,0;16000;Atle    Solhus;*16
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;2;8;Lukas Rauen;2160;3:06,9;26,5;8000;Andre H.    Stensen;37
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;galopp;3;14;Røyns Stjernen;2160;3:07,7;26,9 g;5000;Ragnar    Fremstad;91
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;4;7;Sindor X.;2160;3:08,4;27,2;4000;Inge    Melby;583
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;5;3;Myrviks Amor;2140;3:08,5;28,1;3000;Thomas    Mjøen;520
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;6;6;Spang Trym;2140;3:08,6;28,1;3000;Bjørn    Garberg;739
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;7;4;Mireldine;2140;3:09,0;28,3;3000;Anita Valstad    Hagmann;1167
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;8;12;Gjølmes Spika;2160;3:09,2;27,6;2000;Odd Arne    Kjøsnes;721
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;0;9;Vildeli;2160;3:09,3;27,6;;Atle    Eggan;340
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;galopp;0;13;Pave Jerkila;2160;3:10,1;28,0 g;;Jomar    Blekkan;221
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;0;10;Svalner;2160;3:11,0;28,4;;Ole    Johnsen;126
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;0;2;Viborg Prinsen;2140;3:15,9;31,5;;Arne    Nilsen;1046
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;Brutt løp;1;Berg Elden;2140;;br;;Morten    Valstad;1267
+Resultater    -  Leangen Travbane  -  29.10.2018; 44000; 2140;4;Volte;Ingen galopp ;Disk. galopp;11;Theodor;2160;DG;dg;;Dag-Sveinung    Dalen;412
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;1;12;Little Red Corvette;2140;2:41,6;15,5a;16000;Thomas    Mjøen;*17
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;2;7;Chef Superb;2140;2:41,9;15,7a;8000;Jomar    Blekkan;85
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;3;10;Gjølmes Caviar;2140;2:42,3;15,8a;5000;Bjørn    Garberg;387
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;4;3;Daddy's Angel (S);2140;2:42,3;15,8a;4000;Torkil    Steinshaug;64
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;5;6;Bruno Marsh;2140;2:42,3;15,8a;3000;Arve    Sjoner;379
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;6;11;M.S. Capisce;2140;2:42,4;15,9a;3000;Gunnar    Bergem;316
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;7;4;Zarahs Valentino;2140;2:42,6;16,0a;2000;Atle    Solhus;184
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;0;8;Roxy Lady;2140;2:42,8;16,1a;;Monika    Fremstad;71
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;0;1;Unbeatable;2140;2:43,0;16,2a;;Veronika    Bugge;371
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;0;2;L.V. Mr. Bite It;2140;2:43,1;16,2a;;Dag-Sveinung    Dalen;268
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;galopp;Brutt løp;5;Mr. Sopranos;2140;;br ag;;Andre H.    Stensen;206
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;5;Auto;Ingen galopp ;Disk. galopp;9;Five Stars Genius;2140;DG;dg a;;Ragnhild    Bjørnbeth;467
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;Ingen galopp ;1;12;Jærvsørappen;2160;3:02,5;24,5;16000;Jomar    Blekkan;*13
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;Ingen galopp ;2;6;Pave Loma;2160;3:03,7;25,0;8000;Per Einar    Sørmo;257
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;Ingen galopp ;3;4;Mjølner Tore;2140;3:04,5;26,2;5000;Inge    Melby;139
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;Ingen galopp ;4;7;Gikling Lomeo;2160;3:04,7;25,5;4000;Karl Ove    Nordtømme;376
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;galopp;5;1;Bokli Teddy;2140;3:04,8;26,4 g;3000;Ragnhild    Bjørnbeth;73
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;Ingen galopp ;6;9;Tao Elda;2160;3:05,0;25,6;3000;Andre H.    Stensen;376
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;Ingen galopp ;7;10;Jardar;2160;3:05,4;25,8;2000;Arne    Nilsen;466
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;Ingen galopp ;0;2;Lykkje Svarten;2140;3:06,1;27,0;;Edvard    Kristiansen;574
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;Ingen galopp ;0;5;Magnums Sebastian;2140;3:12,3;29,9;;Erik    Brækken;949
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;galopp;Brutt løp;3;Bottem Viktor;2140;;br g;;Odd Arne    Kjøsnes;511
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;galopp;Brutt løp;11;Pave Faks;2160;;br g;;Thomas    Mjøen;277
+Resultater    -  Leangen Travbane  -  29.10.2018; 41000; 2140;6;Volte;Ingen galopp ;Disk. galopp;8;Bokli Vind;2160;DG;dg;;Dag-Sveinung    Dalen;80
+Resultater    -  Leangen Travbane  -  29.10.2018; 48000; 2140;7;Volte;Ingen galopp ;1;7;L.J.'s Musclemadness;2180;2:45,3;15,8;22000;Jomar    Blekkan;*11
+Resultater    -  Leangen Travbane  -  29.10.2018; 48000; 2140;7;Volte;Ingen galopp ;2;3;My Name Is Prince;2160;2:46,2;16,9;11000;Bjørn    Garberg;72
+Resultater    -  Leangen Travbane  -  29.10.2018; 48000; 2140;7;Volte;Ingen galopp ;3;6;Prince Apollo S.H.;2180;2:46,4;16,3;7000;Marit    Valstad;85
+Resultater    -  Leangen Travbane  -  29.10.2018; 48000; 2140;7;Volte;Ingen galopp ;4;4;Fidji Rags;2160;2:48,0;17,8;5000;Noralf P.    Brækken;139
+Resultater    -  Leangen Travbane  -  29.10.2018; 48000; 2140;7;Volte;Ingen galopp ;5;1;Moonshine Star;2140;2:49,6;19,3;3000;Erik    Brækken;352
+Resultater    -  Leangen Travbane  -  29.10.2018; 48000; 2140;7;Volte;Ingen galopp ;0;2;Witchy Woman;2140;2:50,5;19,7;;Ragnhild    Bjørnbeth;210
+Resultater    -  Leangen Travbane  -  29.10.2018; 48000; 2140;7;Volte;Ingen galopp ;Strøket;5;Welldone Wilma;2180;;;;Torkil    Steinshaug;
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;Ingen galopp ;1;5;Dag Minn;2160;3:25,3;35,0;12000;Inge    Melby;51
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;Ingen galopp ;2;9;Stjerne Bork;2160;3:25,4;35,1;6000;Edvard    Kristiansen;112
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;Ingen galopp ;3;7;Lesja Tøffen;2160;3:27,0;35,8;4000;Andre H.    Stensen;65
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;Ingen galopp ;4;6;Il Faxa;2160;3:27,6;36,1;3000;Thomas    Mjøen;211
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;galopp;5;8;Remo;2160;3:27,7;36,2 g;2000;Jomar    Blekkan;*21
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;Ingen galopp ;6;2;Jervsø Ronja;2140;3:30,2;38,2;2000;Noralf P.    Brækken;65
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;Ingen galopp ;7;11;Rygval;2160;3:32,3;38,3;2000;Atle    Solhus;187
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;Ingen galopp ;8;4;Hovsten Frøkna;2160;3:36,2;40,1;2000;Magne    Olsen;272
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;Ingen galopp ;Disk. galopp;1;Husgars Philip;2140;DG;dg;;Arne    Nilsen;316
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;Ingen galopp ;Disk. galopp;10;Greis Viktor;2160;DG;dg;;Arve    Sjoner;420
+Resultater    -  Leangen Travbane  -  29.10.2018; 33000; 2140;8;Volte;Ingen galopp ;Strøket;3;Høiby Håkon;2140;;;;Jarle Morten    Sørmo;
+Resultater    -  Leangen Travbane  -  29.10.2018; 0; 1640;8;Volte;Ingen galopp ;;1;Isadora B.R.;1640;2:19,8;25,2;;Veronika    Bugge;B
+Resultater    -  Leangen Travbane  -  29.10.2018; 0; 1640;8;Volte;Ingen galopp ;;2;Fit For Fortissimo;1640;2:19,8;25,2;;Atle    Solhus;B
+Resultater    -  Leangen Travbane  -  29.10.2018; 0; 1640;8;Volte;Ingen galopp ;Strøket;3;Viktor G.;1660;;;;Bjørn    Garberg;
+Resultater    -  Leangen Travbane  -  29.10.2018; 0; 2140;8;Volte;Ingen galopp ;P;2;Alcatraz;2140;2:54,5;21,5;;Ragnhild    Bjørnbeth;P
+Resultater    -  Leangen Travbane  -  29.10.2018; 0; 2140;8;Volte;Ingen galopp ;Strøket;1;One Knight Stand;2140;;;;Sarina Berntsen    Røstad;
+Resultater    -  Leangen Travbane  -  29.10.2018; 0; 2140;8;Volte;Ingen galopp ;Strøket;3;Trytocatchme;2140;;;;Atle    Solhus;
+Resultater    -  Leangen Travbane  -  29.10.2018; 0; 2140;8;Volte;Ingen galopp ;Strøket;4;Potetgull;2160;;;;Linn Therese    Sinnes;
+Resultater    -  Leangen Travbane  -  29.10.2018; 0; 2140;8;Volte;Ingen galopp ;Strøket;5;Rubb Og Stubb;2160;;;;Rakel    Krabseth;
+Resultater    -  Leangen Travbane  -  29.10.2018; 0; 2140;8;Volte;Ingen galopp ;Strøket;1;Martelle C.J.;2140;;22,8;;Kine Ørndal    Eggan;P

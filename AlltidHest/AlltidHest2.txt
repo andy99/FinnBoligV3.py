@@ -1,0 +1,555 @@
+Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)1. LøpGuleVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:55V65-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 400.000 kr.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.2. LøpBlåVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:15V65-2MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.3. LøpRødeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:40V65-3Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.4. LøpMørke grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:05V65-4V5-1TIDSLØP - TIDSLØP                                                                                                                                                                                                                                              TIDSLØP - TIDSLØPKaldblods 2100 m. Tillegg 20 m. for tid 1.37,0 og bedre, 40 m. for tid 1.35,0 og bedre.For 3-15-årige med rekord 1.33,0 og dårligere.Premier: 12.000-6.000-4.000-3.000-2.000-(2.000) kr.5. LøpHviteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:25V65-5V5-2DD-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 60.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.6. LøpSvarteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:45V65-6V5-3DD-2MAX 600 POENG                                                                                                                                                                                                                                                  MAX 600 POENGVarmblods 1609 m. Autostart. Maks 10 startende.For 3-12-årige høyest 675.000 kr med høyest 600 poeng.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.7. LøpBeigeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:00V5-4MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.8. LøpLillaVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:13V5-5Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.9. LøpLyse grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                17:50Prøveløp                                                                                                                                                                                                                                                       Prøveløp 2100 m. Voltestart.Alle.20. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:00MONTÉLØP -                                                                                                                                                                                                                                                     MONTÉLØP - - Monté Prøveløp 2100 m. Monté. Voltestart.Alle.21. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)1. LøpGuleVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:55V65-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 400.000 kr.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.2. LøpBlåVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:15V65-2MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.3. LøpRødeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:40V65-3Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.4. LøpMørke grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:05V65-4V5-1TIDSLØP - TIDSLØP                                                                                                                                                                                                                                              TIDSLØP - TIDSLØPKaldblods 2100 m. Tillegg 20 m. for tid 1.37,0 og bedre, 40 m. for tid 1.35,0 og bedre.For 3-15-årige med rekord 1.33,0 og dårligere.Premier: 12.000-6.000-4.000-3.000-2.000-(2.000) kr.5. LøpHviteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:25V65-5V5-2DD-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 60.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.6. LøpSvarteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:45V65-6V5-3DD-2MAX 600 POENG                                                                                                                                                                                                                                                  MAX 600 POENGVarmblods 1609 m. Autostart. Maks 10 startende.For 3-12-årige høyest 675.000 kr med høyest 600 poeng.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.7. LøpBeigeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:00V5-4MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.8. LøpLillaVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:13V5-5Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.9. LøpLyse grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                17:50Prøveløp                                                                                                                                                                                                                                                       Prøveløp 2100 m. Voltestart.Alle.20. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:00MONTÉLØP -                                                                                                                                                                                                                                                     MONTÉLØP - - Monté Prøveløp 2100 m. Monté. Voltestart.Alle.21. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)1. LøpGuleVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:55V65-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 400.000 kr.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.2. LøpBlåVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:15V65-2MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.3. LøpRødeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:40V65-3Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.4. LøpMørke grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:05V65-4V5-1TIDSLØP - TIDSLØP                                                                                                                                                                                                                                              TIDSLØP - TIDSLØPKaldblods 2100 m. Tillegg 20 m. for tid 1.37,0 og bedre, 40 m. for tid 1.35,0 og bedre.For 3-15-årige med rekord 1.33,0 og dårligere.Premier: 12.000-6.000-4.000-3.000-2.000-(2.000) kr.5. LøpHviteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:25V65-5V5-2DD-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 60.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.6. LøpSvarteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:45V65-6V5-3DD-2MAX 600 POENG                                                                                                                                                                                                                                                  MAX 600 POENGVarmblods 1609 m. Autostart. Maks 10 startende.For 3-12-årige høyest 675.000 kr med høyest 600 poeng.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.7. LøpBeigeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:00V5-4MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.8. LøpLillaVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:13V5-5Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.9. LøpLyse grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                17:50Prøveløp                                                                                                                                                                                                                                                       Prøveløp 2100 m. Voltestart.Alle.20. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:00MONTÉLØP -                                                                                                                                                                                                                                                     MONTÉLØP - - Monté Prøveløp 2100 m. Monté. Voltestart.Alle.21. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)1. LøpGuleVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:55V65-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 400.000 kr.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.2. LøpBlåVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:15V65-2MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.3. LøpRødeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:40V65-3Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.4. LøpMørke grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:05V65-4V5-1TIDSLØP - TIDSLØP                                                                                                                                                                                                                                              TIDSLØP - TIDSLØPKaldblods 2100 m. Tillegg 20 m. for tid 1.37,0 og bedre, 40 m. for tid 1.35,0 og bedre.For 3-15-årige med rekord 1.33,0 og dårligere.Premier: 12.000-6.000-4.000-3.000-2.000-(2.000) kr.5. LøpHviteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:25V65-5V5-2DD-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 60.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.6. LøpSvarteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:45V65-6V5-3DD-2MAX 600 POENG                                                                                                                                                                                                                                                  MAX 600 POENGVarmblods 1609 m. Autostart. Maks 10 startende.For 3-12-årige høyest 675.000 kr med høyest 600 poeng.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.7. LøpBeigeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:00V5-4MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.8. LøpLillaVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:13V5-5Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.9. LøpLyse grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                17:50Prøveløp                                                                                                                                                                                                                                                       Prøveløp 2100 m. Voltestart.Alle.20. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:00MONTÉLØP -                                                                                                                                                                                                                                                     MONTÉLØP - - Monté Prøveløp 2100 m. Monté. Voltestart.Alle.21. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)1. LøpGuleVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:55V65-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 400.000 kr.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.2. LøpBlåVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:15V65-2MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.3. LøpRødeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:40V65-3Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.4. LøpMørke grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:05V65-4V5-1TIDSLØP - TIDSLØP                                                                                                                                                                                                                                              TIDSLØP - TIDSLØPKaldblods 2100 m. Tillegg 20 m. for tid 1.37,0 og bedre, 40 m. for tid 1.35,0 og bedre.For 3-15-årige med rekord 1.33,0 og dårligere.Premier: 12.000-6.000-4.000-3.000-2.000-(2.000) kr.5. LøpHviteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:25V65-5V5-2DD-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 60.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.6. LøpSvarteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:45V65-6V5-3DD-2MAX 600 POENG                                                                                                                                                                                                                                                  MAX 600 POENGVarmblods 1609 m. Autostart. Maks 10 startende.For 3-12-årige høyest 675.000 kr med høyest 600 poeng.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.7. LøpBeigeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:00V5-4MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.8. LøpLillaVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:13V5-5Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.9. LøpLyse grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                17:50Prøveløp                                                                                                                                                                                                                                                       Prøveløp 2100 m. Voltestart.Alle.20. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:00MONTÉLØP -                                                                                                                                                                                                                                                     MONTÉLØP - - Monté Prøveløp 2100 m. Monté. Voltestart.Alle.21. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)1. LøpGuleVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:55V65-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 400.000 kr.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.2. LøpBlåVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:15V65-2MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.3. LøpRødeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:40V65-3Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.4. LøpMørke grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:05V65-4V5-1TIDSLØP - TIDSLØP                                                                                                                                                                                                                                              TIDSLØP - TIDSLØPKaldblods 2100 m. Tillegg 20 m. for tid 1.37,0 og bedre, 40 m. for tid 1.35,0 og bedre.For 3-15-årige med rekord 1.33,0 og dårligere.Premier: 12.000-6.000-4.000-3.000-2.000-(2.000) kr.5. LøpHviteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:25V65-5V5-2DD-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 60.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.6. LøpSvarteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:45V65-6V5-3DD-2MAX 600 POENG                                                                                                                                                                                                                                                  MAX 600 POENGVarmblods 1609 m. Autostart. Maks 10 startende.For 3-12-årige høyest 675.000 kr med høyest 600 poeng.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.7. LøpBeigeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:00V5-4MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.8. LøpLillaVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:13V5-5Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.9. LøpLyse grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                17:50Prøveløp                                                                                                                                                                                                                                                       Prøveløp 2100 m. Voltestart.Alle.20. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:00MONTÉLØP -                                                                                                                                                                                                                                                     MONTÉLØP - - Monté Prøveløp 2100 m. Monté. Voltestart.Alle.21. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:30Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)1. LøpGuleVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:55V65-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 400.000 kr.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.2. LøpBlåVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:15V65-2MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.3. LøpRødeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:40V65-3Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.4. LøpMørke grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:05V65-4V5-1TIDSLØP - TIDSLØP                                                                                                                                                                                                                                              TIDSLØP - TIDSLØPKaldblods 2100 m. Tillegg 20 m. for tid 1.37,0 og bedre, 40 m. for tid 1.35,0 og bedre.For 3-15-årige med rekord 1.33,0 og dårligere.Premier: 12.000-6.000-4.000-3.000-2.000-(2.000) kr.5. LøpHviteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:25V65-5V5-2DD-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 60.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.6. LøpSvarteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:45V65-6V5-3DD-2MAX 600 POENG                                                                                                                                                                                                                                                  MAX 600 POENGVarmblods 1609 m. Autostart. Maks 10 startende.For 3-12-årige høyest 675.000 kr med høyest 600 poeng.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.7. LøpBeigeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:00V5-4MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.8. LøpLillaVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:13V5-5Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.9. LøpLyse grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                17:50Prøveløp                                                                                                                                                                                                                                                       Prøveløp 2100 m. Voltestart.Alle.20. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:00MONTÉLØP -                                                                                                                                                                                                                                                     MONTÉLØP - - Monté Prøveløp 2100 m. Monté. Voltestart.Alle.21. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)1. LøpGuleVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:55V65-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 400.000 kr.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.2. LøpBlåVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:15V65-2MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.3. LøpRødeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:40V65-3Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.4. LøpMørke grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:05V65-4V5-1TIDSLØP - TIDSLØP                                                                                                                                                                                                                                              TIDSLØP - TIDSLØPKaldblods 2100 m. Tillegg 20 m. for tid 1.37,0 og bedre, 40 m. for tid 1.35,0 og bedre.For 3-15-årige med rekord 1.33,0 og dårligere.Premier: 12.000-6.000-4.000-3.000-2.000-(2.000) kr.5. LøpHviteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:25V65-5V5-2DD-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 60.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.6. LøpSvarteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:45V65-6V5-3DD-2MAX 600 POENG                                                                                                                                                                                                                                                  MAX 600 POENGVarmblods 1609 m. Autostart. Maks 10 startende.For 3-12-årige høyest 675.000 kr med høyest 600 poeng.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.7. LøpBeigeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:00V5-4MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.8. LøpLillaVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:13V5-5Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.9. LøpLyse grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                17:50Prøveløp                                                                                                                                                                                                                                                       Prøveløp 2100 m. Voltestart.Alle.20. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:00MONTÉLØP -                                                                                                                                                                                                                                                     MONTÉLØP - - Monté Prøveløp 2100 m. Monté. Voltestart.Alle.21. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)1. LøpGuleVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:55V65-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 400.000 kr.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.2. LøpBlåVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:15V65-2MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.3. LøpRødeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:40V65-3Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.4. LøpMørke grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:05V65-4V5-1TIDSLØP - TIDSLØP                                                                                                                                                                                                                                              TIDSLØP - TIDSLØPKaldblods 2100 m. Tillegg 20 m. for tid 1.37,0 og bedre, 40 m. for tid 1.35,0 og bedre.For 3-15-årige med rekord 1.33,0 og dårligere.Premier: 12.000-6.000-4.000-3.000-2.000-(2.000) kr.5. LøpHviteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:25V65-5V5-2DD-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 60.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.6. LøpSvarteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:45V65-6V5-3DD-2MAX 600 POENG                                                                                                                                                                                                                                                  MAX 600 POENGVarmblods 1609 m. Autostart. Maks 10 startende.For 3-12-årige høyest 675.000 kr med høyest 600 poeng.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.7. LøpBeigeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:00V5-4MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.8. LøpLillaVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:13V5-5Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.9. LøpLyse grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                17:50Prøveløp                                                                                                                                                                                                                                                       Prøveløp 2100 m. Voltestart.Alle.20. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:00MONTÉLØP -                                                                                                                                                                                                                                                     MONTÉLØP - - Monté Prøveløp 2100 m. Monté. Voltestart.Alle.21. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:30Start ca kl.
+                18:30Start ca kl.
+                18:30Varmblods 2100 m. Tillegg 20 m. ved vunnet 5.001 kr.For 3-12-årige høyest 20.000 kr.Premier: 12.000-6.000-4.000-3.000-2.000-2.000-2.000-2.000 (8 premier)1. LøpGuleVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:55V65-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 400.000 kr.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.2. LøpBlåVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:15V65-2MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.3. LøpRødeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                19:40V65-3Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.4. LøpMørke grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:05V65-4V5-1TIDSLØP - TIDSLØP                                                                                                                                                                                                                                              TIDSLØP - TIDSLØPKaldblods 2100 m. Tillegg 20 m. for tid 1.37,0 og bedre, 40 m. for tid 1.35,0 og bedre.For 3-15-årige med rekord 1.33,0 og dårligere.Premier: 12.000-6.000-4.000-3.000-2.000-(2.000) kr.5. LøpHviteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:25V65-5V5-2DD-1HOPPELØP - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                                                HOPPELØP - SPORTRAPP / GRUNNLAGKaldblods 2100 m. Autostart.For 3-15-årige hopper høyest 60.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.6. LøpSvarteVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                20:45V65-6V5-3DD-2MAX 600 POENG                                                                                                                                                                                                                                                  MAX 600 POENGVarmblods 1609 m. Autostart. Maks 10 startende.For 3-12-årige høyest 675.000 kr med høyest 600 poeng.Premier: 18.000-9.000-6.000-4.000-3.500-(3.000) kr.7. LøpBeigeVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:00V5-4MONTÉLØP - FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG                                                                                                                                                                                                           FRANSK PROPOSISJON - SPORTRAPP / GRUNNLAG - MONTÉLØP Varmblods 2100 m. Monté. Autostart. Maks 10 startende.For 4-12-årige høyest 225.000 kr.Premier: 16.000-8.000-5.000-4.000-3.000-(3.000) kr.8. LøpLillaVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                21:13V5-5Varmblods 1609 m. Autostart.For 3-12-årige 20.001 - 115.000 kr.Premier: 14.000-7.000-5.000-4.000-3.000-(3.000) kr.9. LøpLyse grønneVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                17:50Prøveløp                                                                                                                                                                                                                                                       Prøveløp 2100 m. Voltestart.Alle.20. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :Start ca kl.
+                18:00MONTÉLØP -                                                                                                                                                                                                                                                     MONTÉLØP - - Monté Prøveløp 2100 m. Monté. Voltestart.Alle.21. LøpVinner
+                :Duo
+            :Trippel
+            :Plass
+            :

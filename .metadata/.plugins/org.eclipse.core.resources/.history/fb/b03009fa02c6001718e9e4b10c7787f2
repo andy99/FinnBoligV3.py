@@ -1,0 +1,31 @@
+#pip_install beautiful.soup
+#from pip._vendor.requests.packages.urllib3 import response
+#from nt import link
+#from __init__ import soup
+#from pydoc import text
+
+print('Hello what ')
+x = 4 
+if x < 6: 
+    print(x,x*x*x) 
+    
+    
+from bs4 import BeautifulSoup
+import requests
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+
+r.content
+#print(r.content)
+soup = BeautifulSoup(r.content,"html.parser")
+print(r.content)
+#print (soup)
+#soup.find_all("a")
+#soup = BeautifulSoup('<div>a&nbsp;b</div>',"html.parser")
+#soup = BeautifulSoup(r.content,"html.parser")
+#soup.prettify(formatter=lambda s: s.replace(u'\xa0', ' '))
+for link in soup.find_all("td"):
+    #nonBreakSpace = u'\xa0'
+    #soup = soup.replace(nonBreakSpace, ';')
+    #print(link.get(text))
+    print(link.text)
+    #print(link.text.replace('&nbsp;',';'))

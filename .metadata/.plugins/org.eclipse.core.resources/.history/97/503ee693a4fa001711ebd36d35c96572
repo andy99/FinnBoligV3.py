@@ -1,0 +1,16 @@
+# The pattern
+x, y, z = [1, 2, 3]
+
+# also works in loops:
+Gunnar = [(28, 'M',"Braveman"), (4, 'a','Tull'), (1990, 'r','kom igjen')]
+for x, y, z in Gunnar:
+    print(z)  # prints the numbers 28, 4, 1990
+
+# and also
+for index, (x, y,z) in enumerate(Gunnar):
+    print(z,x)  # prints the numbers 28, 4, 1990
+    
+table = {'Sjoerd': 4127, 'Jack': 4098, 'Dcab': 7678}
+for name, phone in table.items():
+    print('{0:10} ==> {1:10d}'.format(name, phone))
+    

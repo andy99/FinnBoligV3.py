@@ -1,0 +1,16 @@
+from bs4 import BeautifulSoup
+#import bs4 as bs
+import requests
+#r = requests.get('http://sportsearch.rikstoto.no/pages/hest_info.aspx?+ hesteid')
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#soup = BeautifulSoup
+#table = r.text
+soup = BeautifulSoup(r.text,"html.parser")
+table = soup.find_all('table',class_ = 'dg')
+# print(soup)
+# print(soup.text)
+
+tabellelengde=len(table)
+forstresultat = tabellelengde[0]
+print(tabellelengde)
+print(table)

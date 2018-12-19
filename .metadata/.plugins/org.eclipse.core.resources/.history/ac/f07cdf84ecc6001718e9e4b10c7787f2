@@ -1,0 +1,30 @@
+from nt import write
+
+print('Hello what ')
+x = 4 
+if x < 6: 
+    print(x,x*x*x) 
+    
+    
+from bs4 import BeautifulSoup
+import requests
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+
+r.content
+#print(r.content)
+soup = BeautifulSoup(r.content,"html.parser")
+#print(r.content)
+Hesttabell = soup.find_all('table',class_ = 'dg')
+antalltabeller = len(Hesttabell)
+print(antalltabeller)
+
+tabelltype =type(Hesttabell)
+Hesttabell = Hesttabell[0]
+print(tabelltype,"Tabell type")
+with open("Hestedata2.txt","w") as r:
+     for row in Hesttabell.find_all('tr'):
+         for cell in row.find_all('td'):
+             cell.text.strip(" ")
+             r.write(cell.text.ljust(20))
+         r.write('\n')    
+        

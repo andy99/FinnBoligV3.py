@@ -1,0 +1,45 @@
+from bs4 import BeautifulSoup
+import requests
+num = 415
+while num < 416:
+#     num = 9
+    print(num)
+    #r = requests.get("http://www.alltidhest.org/Horses/Page/{}".format(num) )
+    r = requests.get("http://www.travsport.no/Sport/Startlister/Bjerke-Travbane/?date=20180110")
+    num = num + 1
+    r.content
+    soup = BeautifulSoup(r.content,"html.parser")
+    Hesttabell = soup.find_all('tbody')
+    #print(Hesttabell[1],"hestetabell")
+    antalltabeller = len(Hesttabell)
+    print(antalltabeller,"Antall tabeller")
+    
+    with open('AlltidHest.txt', 'a') as f:
+#         for tr in enumerate(Hesttabell[1]):
+        for tr in soup.find_all('tr')[2:]:
+            #print(tr,'Skriver tr i tabell 1')
+            tds = tr.find_all('td')
+            antkol = len(tds)
+            print(antkol,"Antall kolloner") 
+            wkol = 0
+            wkol = antkol
+            if antkol < 8:                              
+                print(tds,'innhold td')
+            elif
+                print(tds,"Antall kolonner  er ikke 7")
+                f.write(" %s" % \
+                 ( tds))
+                f.write('\n')   
+        
+         
+        
+    
+#     with open('AlltidHest.txt', 'a') as f:
+#         for tr in soup.find_all('tr'):
+#             print(tr,"Innhold tabell rad")
+#             tds = tr.find_all('td')
+#             print(tds,"innhold tds")
+#             f.write("Regnr: %s" % \
+#                 ( tds))
+#             f.write('\n')   
+#             

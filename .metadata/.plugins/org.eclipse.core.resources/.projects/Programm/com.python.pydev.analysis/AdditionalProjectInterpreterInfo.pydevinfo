@@ -1,0 +1,38 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\workplace_python\.metadata\.plugins\org.eclipse.core.resources\.projects\Programm\com.python.pydev.analysis\v2_indexcache
+fibon|1519897857042840000|D:\workplace_python\Programm\fibon.py
+Hello|1517745394372344000|D:\workplace_python\Programm\Hello.py
+Sparsertur|1522783441804237000|D:\workplace_python\Programm\Sparsertur.py
+StedIPAdresse|1519899262700554000|D:\workplace_python\Programm\StedIPAdresse.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+4=fibon
+8=Hello
+2=Sparsertur
+1=D:\workplace_python\Programm\Sparsertur.py
+5=D:\workplace_python\Programm\StedIPAdresse.py
+7=D:\workplace_python\Programm\Hello.py
+6=StedIPAdresse
+3=D:\workplace_python\Programm\fibon.py
+-- END DICTIONARY
+-- START TREE 1
+13
+dis|1|distance!1^18#9*19@
+fib|1|fibon!3^2#5*34@
+geo|2|geo_txt!5^25#1*51@geody!5^16#1*51@
+htm|1|html_page!5^18#1*51@
+ipa|1|ipaddr!5^14#5*51@
+my_|1|my_list!7^7#1*67@
+no_|2|no_transport_prosent!1^23#5*19@no_transport!1^15#5*19@
+num|1|number_of_walks!1^12#1*19@
+par|1|paragraph!5^22#1*51@
+ran|1|random_walk!1^4#5*18@
+res|1|response!7^3#1*67@
+sou|1|soup!5^19#1*51@
+usa|1|usage!5^7#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

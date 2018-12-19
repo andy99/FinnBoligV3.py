@@ -1,0 +1,57 @@
+from bs4 import BeautifulSoup
+import requests 
+import os
+if os.path.isfile("D:\workplace_python\pythonapp\TravsportVinnerstatBergen.txt"):
+    print("D:\workplace_python\pythonapp\TravsportVinnerstatBergen.txt","blir slettet")
+    os.remove("D:\workplace_python\pythonapp\TravsportVinnerstatBjerke.txt")
+coding='utf8'
+r = requests.get("http://www.travsport.no/Sport/Statistikk/Statistikk-2018/Kuskestatistikk1/Bjerke-Travbane/")
+#                       http://www.travsport.no/Sport/Resultater/Forus-Travbane/ 
+
+r.content
+soup = BeautifulSoup(r.content,"html.parser")
+lopdato=soup.find_all("h2")[1].get_text()
+print(lopdato,"Statistikk data")
+Starttabell = soup.find_all('table')
+#print(Starttabell[1],"hestetabell")
+#    antalltabeller = len(Hesttabell)
+    #print(antalltabeller,"Antall tabeller")
+wkol = 0
+lop = 0
+lopinformasjon=["Gunnar"]
+with open('TravsportVinnerstatBjerke.txt', 'a') as f:
+#         for tr in enumerate(Hesttabell[1]):
+    teller = 0 
+#     lop = 0
+    for tr in soup.find_all('tr')[0:]:
+        tds = tr.find_all('td')
+        antrader = len(tr)
+        print(antrader,"Antall rader")
+        antkol = len(tds)
+        print(antkol,"Antall koloner")
+#         if antrader == 3:
+#             print(tds[0] , " Her har vi antall kolloner =1innhold antal kolonner er 1")
+        
+#         print(antkol,"Antall kolloner") 
+
+            
+        if antkol == 9:    
+            startnr = tds[1].text.strip()
+#             if startnr in ('0','1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19'):
+#                     startnrint = int(startnr)
+# #             print(startnrint,"Startnr") 
+#             startnrint 
+
+#             if type(startnrint) == int:
+#                 print (startnr,'Her har vi integer')
+#             else:
+#                 print (Startnr,'Not an integer or a floating point decimal!' )                   
+#
+                   
+            f.write("%s;%s;%s;%s;%s;%s;%s;%s;%s" % \
+            (tds[0].text.strip(), tds[1].text.strip(), tds[2].text.strip(),tds[3].text.strip(), tds[4].text.strip(),tds[5].text.strip(),tds[6].text.strip(),tds[7].text.strip(),tds[8].text.strip()))
+            f.write('\n')
+        else:
+                #print(tds,"Antall kolonner  er ikke 7")
+                lopinfo = tr.find_all('caption')
+                antlop = len(lopinfo)

@@ -1,0 +1,31 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\workplace_python\.metadata\.plugins\org.eclipse.core.resources\.projects\Pythontest\com.python.pydev.analysis\v2_indexcache
+Testfunksjon|1524988991373230000|D:\workplace_python\Pythontest\Testfunksjon.py
+testavkalltilfunksjon|1524989442715294000|D:\workplace_python\Pythontest\testavkalltilfunksjon.py
+Testminesider|1525765503450215000|D:\workplace_python\Pythontest\Testminesider.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=testavkalltilfunksjon
+6=Testfunksjon
+5=D:\workplace_python\Pythontest\Testfunksjon.py
+4=Testminesider
+3=D:\workplace_python\Pythontest\Testminesider.py
+1=D:\workplace_python\Pythontest\testavkalltilfunksjon.py
+-- END DICTIONARY
+-- START TREE 1
+9
+a|1|a!1^7#1*19@
+ant|1|antalltabeller!3^14#1*35@
+b|1|b!1^8#1*19@
+cod|1|coding!3^4#1*35@
+hes|1|Hesttabell!3^13#1*35@
+r|1|r!3^5#1*35@
+sou|1|soup!3^10#1*35@
+tes|2|testav!5^1#5*50@testav!1^1#5*18@
+y|1|y!1^9#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

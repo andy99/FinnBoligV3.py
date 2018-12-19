@@ -1,0 +1,24 @@
+def ukedag(dagnr):
+    print("Er funksjon ukedag")
+    if dagnr == '1':
+      dagnr == '01' 
+      print(nydag,"Her dag feil")
+    elif nydag == '1':
+         nydag == '01'
+    elif nydag =='2':
+         nydag = '02' 
+    elif nydag =='3':
+         nydag = '03' 
+     elif nydag =='4':
+         nydag = '04'
+     elif nydag =='5':
+         nydag = '05'
+     elif nydag =='6':
+         nydag = '06'
+     elif nydag =='7':
+         nydag = '07' 
+     elif nydag =='8':
+         nydag = '08'  
+     elif nydag =='9':
+         nydag = '09'                    
+    return

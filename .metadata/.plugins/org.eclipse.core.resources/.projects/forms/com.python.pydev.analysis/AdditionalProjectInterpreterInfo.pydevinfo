@@ -1,0 +1,52 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\workplace_python\.metadata\.plugins\org.eclipse.core.resources\.projects\forms\com.python.pydev.analysis\v2_indexcache
+Kalkulator|1517057994023129000|D:\workplace_python\forms\Kalkulator.py
+Testbilde2|1517057707700823000|D:\workplace_python\forms\Testbilde2.py
+Enkeltskjermbilde|1516959392036193000|D:\workplace_python\forms\Enkeltskjermbilde.py
+testskjermbilde|1516959605945394000|D:\workplace_python\forms\testskjermbilde.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+8=Kalkulator
+9=App
+5=D:\workplace_python\forms\Enkeltskjermbilde.py
+2=Testbilde2
+6=Enkeltskjermbilde
+4=testskjermbilde
+1=D:\workplace_python\forms\Testbilde2.py
+3=D:\workplace_python\forms\testskjermbilde.py
+7=D:\workplace_python\forms\Kalkulator.py
+10=App.__init__
+-- END DICTIONARY
+-- START TREE 1
+20
+app|3|app!1^38#1*19@App!1^6#7*17@App!3^3#7*33@
+b|2|b!5^29#5*51@b!3^30#5*35@
+c|1|c!7^80#1*67@
+cna|1|cnames!7^34#1*67@
+cou|2|countrynames!7^33#1*67@countrycodes!7^30#1*67@
+g1|1|g1!7^90#1*67@
+g2|1|g2!7^91#1*67@
+g3|1|g3!7^92#1*67@
+gif|2|gifts!7^41#1*67@gift!7^44#1*67@
+lbl|1|lbl!7^89#1*67@
+lbo|1|lbox!7^88#1*67@
+mas|1|master!5^11#1*51@
+mod|2|MODES!5^22#1*51@MODES!3^23#1*35@
+mya|1|myapp!3^9#1*35@
+pop|1|populations!7^38#1*67@
+roo|1|root!7^24#1*67@
+sen|4|sentmsg!7^45#1*67@sendGift!7^70#5*66@sentlbl!7^94#1*67@send!7^93#1*67@
+sho|1|showPopulation!7^54#5*66@
+sta|2|statusmsg!7^46#1*67@status!7^95#1*67@
+v|2|v!3^25#1*35@v!5^24#1*51@
+-- END TREE
+-- START TREE 2
+5
+__i|2|__init__!9&1^8#9*18@__init__!9&3^4#9*34@
+cha|1|change_style!9&1^28#9*18@
+com|1|combo!10&1^19#9*19@
+roo|1|root!10&1^9#9*19@
+sty|1|style!10&1^10#9*19@
+-- END TREE

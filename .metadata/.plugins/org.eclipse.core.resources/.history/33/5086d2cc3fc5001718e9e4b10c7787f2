@@ -1,0 +1,27 @@
+from bs4 import BeautifulSoup
+import requests
+#from idlelib.replace import replace
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#print('Hello Gunnar ')
+r.content
+print(r.content,"Hello Gunnar")
+soup = BeautifulSoup(r.content,"html.parser")
+print(r.content)
+test1=r.content
+nytekst = []
+texts = soup.find_all("table")
+print(texts,"hallo gunnar")
+for tr in soup.find_all("tr"):
+    #print("Hello Elisabeth")
+    #print(link.text)
+    nytekst = tr.text
+    #nytekst = nytekst.replace("Olav Mikkelborg","Olav Mikkelborg;")
+    #print("hallo Nikolai")
+    print(nytekst,"hallo aleks")
+#     for t in nytekst:
+#         uttekst = nytekst.replace("Olav Mikkelborg","Olav Mikkelborg;")
+#         #uttekst.replace_with(nytekst)
+#         print(uttekst,"Hello Elisabet")
+for i, value in enumerate(nytekst):
+    #rad_list = rad_list.remove("Olav Mikkelborg")
+    print(i,nytekst[i],"Utskrift fra tabell")

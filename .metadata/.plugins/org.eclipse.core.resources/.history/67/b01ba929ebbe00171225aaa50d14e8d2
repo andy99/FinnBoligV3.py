@@ -1,0 +1,23 @@
+from bs4 import BeautifulSoup
+import requests
+from builtins import str
+#from idlelib.replace import replace
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+#print('Hello Gunnar ')
+r.content
+#print(r.content,"Hello Gunnar")
+soup = BeautifulSoup(r.content,"html.parser")
+#print(r.content)
+test1=r.content
+texts = soup.find_all("a")
+#print(texts,"hallo gunnar")
+for link in soup.find_all("table"):
+    #print("Hello Elisabeth")
+    link.text = strip()
+    print(link.text)
+    #nytekst = texts
+    #print("hallo Nikolai")
+    #print(nytekst,"hallo aleks")
+    #g_data = soup._find_all("div,")
+    #print(g_data)
+

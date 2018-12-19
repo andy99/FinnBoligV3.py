@@ -1,0 +1,6 @@
+from bs4 import BeautifulSoup
+import requests
+from test.test_pathlib import only_nt
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+html_doc = r.contents
+print(BeautifulSoup(html_doc, "html.parser",).prettify())

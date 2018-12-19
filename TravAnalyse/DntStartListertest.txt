@@ -1,0 +1,94 @@
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;1;Effi's Wonder;Dag-Sveinung Dalen;6.000;;1.20,3a
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;2;Call Me Fancy;Tim Nagel;8.154;1.19,0v;
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;3;Isabella;Eirik Høitomt;0;;
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;4;Fanny va Bene;Johan Herbjørn Undem;2.000;1.22,5v;
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;5;T.K.'s Victory;Tomas Pedersen;4.000;;1.21,4a
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;6;I.D. Glamour;Hans Wilhelm Storås;0;;
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;7;Northernlight Genius;Åsbjørn Tengsareid;3.000;;1.20,6a
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;8;Hickomaniac;Henning Nygård;3.000;1.21,1v;
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;9;Sweet Nona;Lars Anvar Kolle;6.000;1.22,1v;1.19,9a
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;10;Fantasie Dream;Per Oleg Midtfjeld;0;;
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;11;Zuni Kiva;Gunnar Austevoll;6.000;1.19,4v;1.20,2a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;1;Pebbe Simoni;Eirik Høitomt;1.889.565;1.13,6v;1.11,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;2;Ramona's Fighter;Louise Vebostad Trudvang;1.034.306;1.14,1v;1.12,4a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;3;Radieux;Svein Ove Wassberg;3.346.108;1.11,9v;1.10,5a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;4;Deep Sea Dream;Tom Erik Solberg;2.283.525;1.12,8v;1.10,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;5;Donatomite;Frode Hamre;1.899.277;1.13,3v;1.09,1a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;6;Billy Flynn;Erlend Rennesvik;3.493.469;1.13,0v;1.10,5a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;7;Photo Va Bene;Marius Høitomt;1.430.057;1.14,6v;1.11,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;1;Blue Gift;Ole Johan Østre;13.000;1.18,7v;1.18,4a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;2;Sappho Wiking;Åsbjørn Tengsareid;14.491;1.20,4v;1.19,7a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;3;Reveline Chip;Tom Erik Solberg;19.000;1.18,8v;
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;4;Amazing Surprise;Andre H. Stensen;24.000;;1.16,7a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;5;Annabella Knick;Frode Hamre;18.446;1.18,7v;1.17,5a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;6;Lily Bourbon;Gøran Antonsen;27.771;1.18,3v;1.16,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;7;Hardstyle d'Estino;Olav Mikkelborg;26.491;1.18,4v;1.18,4a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;8;S.K.'s Iron Lady;Eirik Høitomt;18.000;1.20,6v;1.16,7a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;9;Entereza;Dag-Sveinung Dalen;8.000;1.20,6v;1.18,2a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;10;She;Lars Anvar Kolle;13.000;1.20,2v;
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;1;Engli Ilmina;Gunnar Austevoll;338.991;1.25,5v;1.25,6a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;2;Stumne Luna;Hans Chr. Holm;326.683;1.25,9v;1.26,7a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;3;Rapptor;Ole Johan Østre;294.142;1.26,5v;1.25,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;4;Skauge Faks;Ernst-Petter Knutsen;334.000;1.26,1v;1.25,3a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;5;Fjord Jerka;Adrian Solberg Akselsen;312.206;1.25,5v;1.26,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;6;Lykkje Embla;Eirik Høitomt;304.533;1.26,0v;1.25,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;7;Ra Tore;Jan Roar Mjølnerød;341.745;1.26,7v;1.25,5a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;8;Ruskeli Blesa;Vidar Hop;313.000;1.25,3v;1.26,6a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;9;Jillborka;Tom Erik Solberg;271.146;1.26,7v;1.26,1a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;10;Anima;Stig Ingar Fossen;286.865;1.26,7v;1.26,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;1;Maksi Royal;Joakim Hansen;97.619;1.17,7v;1.14,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;2;Sofarsogood;Per Vetle Kals;104.037;1.16,7v;1.15,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;3;Sarek;Ragnhild Bjørnbeth;116.990;1.18,2v;1.15,5a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;4;Let's Talk;Henning Nygård;130.000;;1.14,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;5;Lindy Cru;Hans Jørgen Eggen;126.691;1.16,5v;1.13,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;6;Vivienne;Josefine Eilertsen;105.000;1.16,8v;1.15,2a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;7;Do it Fass;Lars Fredrik Kolle;132.030;1.16,3v;1.15,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;8;Balotelli;Magnus Teien Gundersen;116.751;1.18,8v;1.13,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;9;Hot Chili Klenod;Adrian Solberg Akselsen;87.000;1.18,2v;1.15,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;10;Rocket Queen;Louise Vebostad Trudvang;139.000;1.17,2v;1.14,3a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;11;C.C. Gyrus;Ole-Christian Kjenner;88.138;1.17,3v;1.14,7a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;12;Guy Fanatic;Christina Kjenner;135.184;1.15,1v;1.13,1a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;1;Cool Counter M.E.;Adrian Solberg Akselsen;37.000;1.18,6v;1.16,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;2;Starlight Morning;Connie Engebråthen;44.500;1.19,0v;1.17,3a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;3;The Best Knight;Hans Chr. Holm;47.000;1.19,6v;1.16,4a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;4;Ecko;Gunnar Austevoll;45.500;1.17,6v;1.16,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;5;Vicky Waiting;Vidar Hop;45.591;;1.15,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;6;Ideal Yankee;Hans Wilhelm Storås;45.000;1.18,1v;1.18,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;7;Photo Mack;Ole Johan Østre;43.000;1.19,8v;1.16,4a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;8;Kissy's Icon;Per Anders Thuresson;44.950;1.19,2v;1.17,2a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;9;Princess Pedro;Eirik Høitomt;49.000;1.17,6v;1.16,3a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;10;Cigarette;Dag-Sveinung Dalen;45.094;1.17,7v;1.16,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;11;S.K.'s El Capitano;Lars Anvar Kolle;43.000;1.19,2v;1.16,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;12;Gaius B.R.;Olav Mikkelborg;50.000;1.17,6v;1.17,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;1;Tekno Jerken;Erlend Rennesvik;3.198.740;1.21,2v;1.19,1a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;2;Finnskog Sjefen;Henrik Kulblik;1.194.641;1.25,1v;1.21,5a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;3;Torpa Nicklas;Odd Arne Sagholen;1.049.148;1.22,6v;1.23,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;4;Tord Viking;Eirik Høitomt;1.511.835;1.23,3v;1.22,2a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;5;Lex Lodney;Ole Johan Østre;1.946.807;1.22,3v;1.19,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;6;Tin Balder;Joakim Rasmussen;1.286.000;1.22,7v;1.22,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;7;Valle Mattis;Magnus Teien Gundersen;947.338;1.22,5v;1.22,2a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;8;Moe Svarten;Jan Martin Bjerring;2.486.050;1.22,5v;1.23,4a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;9;Stumne Scott;Tom Erik Solberg;815.665;1.23,4v;1.22,5a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;1;City Va Bene;Joakim Hansen;197.000;1.18,0v;1.14,1a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;2;B.B. Photo;Adrian Solberg Akselsen;253.000;1.16,2v;1.15,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;3;Anthony Downs;Per Vetle Kals;273.500;1.16,2v;1.14,4a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;4;Akissassweetaswine;Ole-Christian Kjenner;238.500;1.15,7v;1.12,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;5;Eddie Arctous;Louise Vebostad Trudvang;182.000;1.19,4v;1.14,6a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;6;Ejakval Boko;Hans Jørgen Eggen;235.476;1.19,3v;1.13,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;7;I See U. One;Ragnhild Bjørnbeth;261.515;1.16,6v;1.14,5a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;8;Tallahassee;Henning Nygård;273.861;1.15,6v;1.12,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;9;Sao Paulo;Christina Kjenner;289.644;1.16,0v;1.12,3a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;10;Perillat;Lars Fredrik Kolle;250.384;1.16,6v;1.13,9a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;11;Free Million;Josefine Eilertsen;241.780;1.16,9v;1.12,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;12;Victor Hastrup;Magnus Teien Gundersen;267.393;1.16,0v;1.13,6a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;1;Frivoll Borken;Tom Erik Solberg;166.491;1.29,4v;1.27,3a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;2;Sprov Hiljar;Geir Vegard Gundersen;220.000;1.28,4v;1.26,1a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;3;Åls Faksen;Dag-Sveinung Dalen;179.500;1.28,9v;1.25,4a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;4;Adelinn;Louise Vebostad Trudvang;176.851;1.28,9v;1.27,7a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;5;Brage Mollyn;Anette Frønes;208.500;1.27,6v;1.25,8a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;6;Lygna Lotte;Eirik Høitomt;205.054;1.28,8v;1.26,0a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;7;Finnskog Nox;Henrik Kulblik;220.892;1.28,3v;1.27,7a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;8;Tyri Troll;Vidar Hop;162.000;1.28,7v;1.28,6a
+Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;9;Lesja Titan;Hans Chr. Holm;203.026;1.27,8v;1.26,0a
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;10;2140;1;Havik di Quattro;Olav Mikkelborg;0;;
+Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;10;2140;2;Alice Road;Åsbjørn Tengsareid;0;;

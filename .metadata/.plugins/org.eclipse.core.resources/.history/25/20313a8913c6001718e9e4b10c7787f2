@@ -1,0 +1,36 @@
+#pip_install beautiful.soup
+#from pip._vendor.requests.packages.urllib3 import response
+#from nt import link
+#from __init__ import soup
+#from pydoc import text
+from nt import write
+
+print('Hello what ')
+x = 4 
+if x < 6: 
+    print(x,x*x*x) 
+    
+    
+from bs4 import BeautifulSoup
+import requests
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+
+r.content
+#print(r.content)
+soup = BeautifulSoup(r.content,"html.parser")
+#print(r.content)
+Hesttabell = soup.find_all('table',class_ = 'fixedTable')
+antalltabeller = len(Hesttabell)
+print(antalltabeller)
+
+tabelltype =type(Hesttabell)
+Hesttabell = Hesttabell[1]
+print(tabelltype,"Tabell type")
+with open("Hestedata.txt","w") as r:
+     for row in Hesttabell.find_all('tr'):
+         for cell in row.find_all('td'):
+             r.write(cell.text.ljust(5))
+         r.write('\n')    
+        
+    
+    

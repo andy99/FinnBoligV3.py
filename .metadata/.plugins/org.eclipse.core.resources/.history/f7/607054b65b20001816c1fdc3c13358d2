@@ -1,0 +1,119 @@
+import pypyodbc
+#from macpath import split
+# coding=utf8
+con = pypyodbc.connect
+
+class Lastedato(object):
+    def __init__(self,DatoKlasse):
+        self.DatoKlasse
+    DatoKlasse ='01.01.1991'
+#import sys
+#con = connection = pypyodbc.connect('Driver={SQL Server};'
+#connection = pyodbc.connect('Driver={SQL Server};' 'Server=DESKTOP-0CMQN56;''Database=Trav;''user=Gunnar;' 'Pwd=gunnar')
+con = pypyodbc.connect('Driver={SQL Server};' 'Server=DESKTOP-0CMQN56;''Database=Trav;''user=Gunnar;' 'Pwd=gunnar')
+print(Lastedato.DatoKlasse)
+if con:
+    print("ja vi har forbindelse")
+    
+    
+SQL = '''\
+SELECT TOP 1000 [Resultat_Dato]
+  FROM [Trav].[dbo].[Travdatoer]
+'''     
+cursor = con.cursor()
+cursor.execute(SQL)
+
+#dato = cursor
+#cursor.next()
+for a in cursor:
+#     print(c[0])
+    Dato = a[0]
+    #henter ut aar
+    datolengde = len(Dato)
+#     print(datolengde,"Dato lengde")
+    aar = Dato[17:21]
+    ukeDag,ddmmmyyyy = Dato.split(',')
+#     print(UkeDag,"Dag")
+    print(ddmmmyyyy,"ddmmmyyyy")
+    dag,mndyyyy = ddmmmyyyy.split('.')
+#     mnd,aar=mndyyyy.split(' ')
+    print(dag,"Dag  er")
+    print(mndyyyy,"mnd År er")
+    aar=mndyyyy[5:9]
+    mnd =mndyyyy[1:4]
+    print(mnd,"Maned er")
+    print(aar,"Verdi aar")
+    
+    if mnd = 'jan':
+       mndnr = '01'
+    elif mnd = 'feb' 
+            
+#         mndnr = '01'
+#     elif score >= 70:
+#         letter = 'C'
+#     elif score >= 60:
+#         letter = 'D'
+#     else:
+#         letter = 'F'    
+# If mnd = 'jan':
+#    mndnr = "01" 
+#     If mnd = "jan":
+#         mndnr = "01"
+#         End If
+#         If maaned = "feb" Then
+#             mndnr = "02"
+#         End If
+#         If maaned = "mar" Then
+#             mndnr = "03"
+#         End If
+#         If maaned = "apr" Then
+#             mndnr = "04"
+#         End If
+#         If maaned = "mai" Then
+#             mndnr = "05"
+#         End If
+#         If maaned = "jun" Then
+#             mndnr = "06"
+#         End If
+#         If maaned = "jul" Then
+#             mndnr = "07"
+#         End If
+#         If maaned = "aug" Then
+#             mndnr = "08"
+#         End If
+#         If maaned = "sept" Then
+#             mndnr = "09"
+#         End If
+#         If maaned = "okt" Then
+#             mndnr = "10"
+#         End If
+#         If maaned = "nov" Then
+#             mndnr = "11"
+#         End If
+#         If maaned = "des" Then
+#             mndnr = "12"
+#         End If
+cursor.close()
+
+
+
+
+
+
+# import urllib
+# import re
+# import urllib.request as ur
+
+# print ("we will try to open this url, in order to get IP Address")
+# 
+# url = "http://checkip.dyndns.org"
+# 
+# print (url)
+# s=urlopen(url)
+# sl = s.read()
+# #request = urllib.request.urlopen(url).read()
+# 
+# print(sl.strip())
+# # theIP = re.findall(r"d{1,3}.d{1,3}.d{1,3}.d{1,3}", sl)
+# 
+# print( "your IP Address is: ",  theIP)

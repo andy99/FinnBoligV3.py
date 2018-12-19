@@ -1,0 +1,41 @@
+# from django.shortcuts import render
+from django.http import HttpResponse
+from django.db import models
+# from django.shortcuts import render_to_response
+from django.views import View
+from django.views import generic
+from HesterTips.models import BaneDatoOppdatert
+from django.views.generic.edit import CreateView, UpdateView, DeleteView
+# from WebHester.HesterTips.models import BaneDatoOppdatert
+from django.shortcuts import render
+import datetime
+import pypyodbc
+from django.template import loader
+from django.template.context_processors import request
+def index(request):
+    model = BaneDatoOppdatert
+#     template_name = ('index.html') 
+    fields = ['dato','bane'] 
+#Hurra denne virker    
+    tider = datetime.datetime.now()
+#     tider = datetime.date 
+    now = tider
+
+#creating the values to pass
+#     now = '2040'      
+    context = {
+     'now': now,
+    }
+    return render(request,'index.html', context = context)  
+
+# return ('index.html', {'current_date': now})
+
+def banetabell(request):
+     baneliste=BaneDatoOppdatert.objects.all()
+     context = {'baneliste': baneliste}
+     return render(request,'banelist.html', context = context)
+
+#     def get_queryset(self):
+#         return BaneDatoOppdatert.objects.all()
+#     Template_name = 'HesterTips/index.html'
+#return render_to_response('index.html', {'current_date': now})

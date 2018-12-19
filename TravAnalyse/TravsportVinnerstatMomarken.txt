@@ -1,0 +1,220 @@
+Frønes Anette;Klosterskogen Travbane;5;1;1;1;1;61;35000
+Kulblik Henrik;Biri Travbane;3;1;0;0;2;166;23000
+Desserud Truls;Drammen Travbane;3;1;0;0;1;102;24500
+Nordbotten Geir;Jarlsberg Travbane;3;1;0;0;1;4;17000
+Frøhaug Nils-Erik;Drammen Travbane;1;1;0;0;0;38;14000
+Kruse Robert;Momarken Travbane;6;0;1;1;2;134;15500
+Holm Nils Olav;Momarken Travbane;6;0;1;1;1;178;17000
+Arvesen Per;Momarken Travbane;8;0;1;0;3;16;13000
+Fossen Stig Ingar;Bjerke Travbane;7;0;1;0;3;7;16000
+Drolsum Vemund Madsen;Biri Travbane;2;0;1;0;1;10;12000
+Kylen Gunnar;SVERIGE;6;0;1;0;1;5;10000
+Högberg Olof;Årjäng;2;0;1;0;1;0;11000
+Robertsen Amanda;Bjerke Travbane;2;0;1;0;1;119;11000
+Christensen Anne;Klosterskogen Travbane;2;0;1;0;1;7;10000
+Pettersen Jan;Jarlsberg Travbane;1;0;0;1;0;17;5000
+Mjølnerød Frode;Momarken Travbane;18;0;0;0;9;18;29000
+Beckman Bjørn;SVERIGE;3;0;0;0;3;0;9250
+Axelson Ulrika;SVERIGE;5;0;0;0;3;7;6000
+Sletsjø Andrea;Jarlsberg Travbane;1;0;0;0;1;2;3000
+Skaug Erik;Drammen Travbane;1;0;0;0;1;3;3500
+Benzon Niclas;Årjäng;1;0;0;0;1;20;3000
+Brenden Odd;Biri Travbane;3;0;0;0;1;2;3000
+Hauge Karin;Sørlandets Travpark;1;0;0;0;1;20;3000
+Hogner Silje;Bjerke Travbane;1;0;0;0;1;27;4000
+Nilsen Roy Atle Ruud;SVERIGE;1;0;0;0;1;0;3000
+Aurell Thomas;Åby;1;0;0;0;1;0;10000
+Albinsson Bjarne;SVERIGE;1;0;0;0;1;18;3000
+Strømnes Bjørn;Momarken Travbane;1;0;0;0;1;4;3000
+Kvasnes Kristine;Biri Travbane;6;3;2;0;0;459;61000
+Bye Henriette;Bjerke Travbane;4;2;0;0;0;41;30000
+Løvvold Siv Emilie;Bjerke Travbane;5;1;0;3;0;275;55000
+Robertsen Amanda;Bjerke Travbane;4;1;0;0;2;119;24000
+Rasmussen Anne Grete;Jarlsberg Travbane;4;1;0;0;1;12;19000
+Kolle Helene;Jarlsberg Travbane;5;0;2;0;2;21;34000
+Kanstad Maja;Bjerke Travbane;2;0;1;1;0;24;13000
+Pedersen Karoline;Bjerke Travbane;1;0;1;0;0;0;7000
+Haghighat Roya;Bergen Travpark;1;0;1;0;0;2;8000
+Eilertsen Josefine;Jarlsberg Travbane;3;0;1;0;0;35;8000
+Hande Christina A.;Bjerke Travbane;5;0;0;2;1;46;14000
+Morken Caroline L.B.;Bergen Travpark;1;0;0;1;0;33;12000
+Sørvik Martine O.;Drammen Travbane;1;0;0;1;0;44;5000
+Hagmann Anita Valstad;Momarken Travbane;7;0;0;0;6;36;20000
+Trudvang Louise Vebostad;Momarken Travbane;5;0;0;0;5;72;17000
+Hogner Silje;Bjerke Travbane;2;0;0;0;2;27;6000
+Øveraasen Johanne Ulrica;Biri Travbane;3;0;0;0;2;150;12000
+Lamvik Inga;Momarken Travbane;1;0;0;0;1;2;3000
+Edvardsen Hedda;Bjerke Travbane;2;0;0;0;1;1;3000
+Aaseng Renate;Bjerke Travbane;1;0;0;0;1;0;3000
+Dahl Julie;Momarken Travbane;1;0;0;0;1;3;3000
+Adolfsson Sofia;SVERIGE;1;0;0;0;1;5;4000
+Rattfält Emma;SVERIGE;1;0;0;0;1;1;3000
+Hauge Karin;Sørlandets Travpark;1;0;0;0;0;20;0
+Thonander Gro Helen;Biri Travbane;1;0;0;0;0;16;0
+Pedersen Liv;Biri Travbane;1;0;0;0;0;333;0
+Jacobsen Sophia;SVERIGE;2;0;0;0;0;16;0
+Ødegård Amalie;Jarlsberg Travbane;1;0;0;0;0;0;0
+Gundersen Magnus Teien;Bjerke Travbane;26;4;4;3;6;284;193500
+Trudvang Louise Vebostad;Momarken Travbane;11;2;4;1;3;72;87000
+Kjenner Christina;Momarken Travbane;7;1;1;1;3;13;38000
+Akselsen Adrian Solberg;Jarlsberg Travbane;11;1;0;1;6;118;47000
+Hansen Joakim;Jarlsberg Travbane;5;1;0;1;1;9;25500
+Eggen Hans Jørgen;Bjerke Travbane;4;1;0;0;2;207;61000
+Rasmussen Joakim;Drammen Travbane;3;1;0;0;1;36;19000
+Eilertsen Josefine;Jarlsberg Travbane;2;1;0;0;0;35;16000
+Tvedt Herman R.;Jarlsberg Travbane;2;0;1;0;1;272;11000
+Bjørnbeth Ragnhild;Leangen Travbane;1;0;1;0;0;111;20000
+Kjenner Ole-Christian;Momarken Travbane;21;0;0;2;9;119;39500
+Hagmann Anita Valstad;Momarken Travbane;6;0;0;1;4;36;18500
+Sedström Linda;Örebro;3;0;0;1;1;0;11000
+Arnerløf Rebecca;SVERIGE;1;0;0;1;0;7;5000
+Laursen Jens;DANMARK;2;0;0;0;2;2;7000
+Haapio Tomi;Boden;1;0;0;0;1;0;4000
+Tijunelis Ernestas;Drammen Travbane;1;0;0;0;1;11;1500
+Nygård Henning;Bjerke Travbane;1;0;0;0;1;5;1500
+Smeby Geir;Jarlsberg Travbane;1;0;0;0;1;5;3000
+Moberg Kim;Solvalla;2;0;0;0;0;0;2000
+Ydersbond Haakon A.;Drammen Travbane;1;0;0;0;0;1;0
+Strandberg Elias;SVERIGE;1;0;0;0;0;0;2000
+Theodorsen Jenny Martine;Drammen Travbane;1;0;0;0;0;0;0
+Ingves Peter;SVERIGE;1;0;0;0;0;7;0
+Nilsson Per;SVERIGE;1;0;0;0;0;2;2000
+Bronken Tone;Biri Travbane;1;0;0;0;0;3;0
+Tengsareid Åsbjørn;Jarlsberg Travbane;51;8;7;6;16;2355;439500
+Mjølnerød Jan Roar;Momarken Travbane;23;8;4;0;7;716;169500
+Høitomt Eirik;Jarlsberg Travbane;54;7;5;6;22;4612;336000
+Østre Ole Johan;Momarken Travbane;64;7;2;10;19;461;236000
+Kolle Lars Anvar;Jarlsberg Travbane;38;6;1;7;15;3210;243000
+Austevoll Gunnar;Momarken Travbane;57;4;3;7;23;2748;207500
+Goop Bjørn;SVERIGE;4;4;0;0;0;430;650000
+Hop Vidar;Jarlsberg Travbane;39;3;9;6;11;4019;333500
+Sagholen Odd Arne;Momarken Travbane;39;3;4;3;22;699;225250
+Solberg Tom Erik;Klosterskogen Travbane;18;3;4;2;4;1963;108000
+Antonsen Cato;Momarken Travbane;27;3;2;2;12;3423;108500
+Midtfjeld Per Oleg;Momarken Travbane;21;3;2;1;10;1784;132000
+Steinseth Bjørn;Biri Travbane;32;2;5;2;10;440;105500
+Malmin Kristian;Drammen Travbane;16;2;3;3;5;867;270000
+Holm Hans Chr.;Bjerke Travbane;20;2;0;2;8;1596;66000
+Kvasnes Kristine;Biri Travbane;10;2;0;1;1;459;39000
+Ruttenborg Øyvind;Biri Travbane;5;2;0;0;3;123;35000
+Flåten Geir;Jarlsberg Travbane;4;2;0;0;2;539;53000
+Stensen Andre H.;Biri Travbane;3;2;0;0;0;1984;28000
+Johansen Kai;Bjerke Travbane;35;1;6;4;17;1420;141000
+Dalen Dag-Sveinung;Drammen Travbane;42;1;3;2;18;581;177500
+Bjørnerød Kristian;Momarken Travbane;10;1;2;0;4;132;43000
+Jakobsson Magnus;SVERIGE;4;1;2;0;1;112;33500
+Rennesvik Erlend;Bjerke Travbane;12;1;1;4;3;155;78500
+Hamre Frode;Jarlsberg Travbane;9;1;1;2;1;1945;105000
+Lindbak Trond;Biri Travbane;7;1;1;1;1;44;35000
+Mikkelborg Olav;Bjerke Travbane;9;1;1;0;3;2554;30000
+Høitomt Marius;Jarlsberg Travbane;6;1;1;0;3;173;31000
+Frønes Anette;Klosterskogen Travbane;5;1;1;1;1;61;35000
+Mjølnerød Frode;Momarken Travbane;18;0;0;0;9;18;29000
+Desserud Truls;Drammen Travbane;3;1;0;0;1;102;24500
+Kulblik Henrik;Biri Travbane;3;1;0;0;2;166;23000
+Holm Nils Olav;Momarken Travbane;6;0;1;1;1;178;17000
+Nordbotten Geir;Jarlsberg Travbane;3;1;0;0;1;4;17000
+Fossen Stig Ingar;Bjerke Travbane;7;0;1;0;3;7;16000
+Kruse Robert;Momarken Travbane;6;0;1;1;2;134;15500
+Høgberg Anders;Gävle;1;0;0;0;1;1;15000
+Frøhaug Nils-Erik;Drammen Travbane;1;1;0;0;0;38;14000
+Arvesen Per;Momarken Travbane;8;0;1;0;3;16;13000
+Drolsum Vemund Madsen;Biri Travbane;2;0;1;0;1;10;12000
+Robertsen Amanda;Bjerke Travbane;2;0;1;0;1;119;11000
+Högberg Olof;Årjäng;2;0;1;0;1;0;11000
+Christensen Anne;Klosterskogen Travbane;2;0;1;0;1;7;10000
+Aurell Thomas;Åby;1;0;0;0;1;0;10000
+Kylen Gunnar;SVERIGE;6;0;1;0;1;5;10000
+Beckman Bjørn;SVERIGE;3;0;0;0;3;0;9250
+Axelson Ulrika;SVERIGE;5;0;0;0;3;7;6000
+Pettersen Jan;Jarlsberg Travbane;1;0;0;1;0;17;5000
+Sveen Ragnhild;Biri Travbane;2;0;0;0;1;150;4000
+Hogner Silje;Bjerke Travbane;1;0;0;0;1;27;4000
+Skaug Erik;Drammen Travbane;1;0;0;0;1;3;3500
+Sletsjø Andrea;Jarlsberg Travbane;1;0;0;0;1;2;3000
+Benzon Niclas;Årjäng;1;0;0;0;1;20;3000
+Brenden Odd;Biri Travbane;3;0;0;0;1;2;3000
+Hauge Karin;Sørlandets Travpark;1;0;0;0;1;20;3000
+Nilsen Roy Atle Ruud;SVERIGE;1;0;0;0;1;0;3000
+Kvasnes Kristine;Biri Travbane;6;3;2;0;0;459;61000
+Løvvold Siv Emilie;Bjerke Travbane;5;1;0;3;0;275;55000
+Kolle Helene;Jarlsberg Travbane;5;0;2;0;2;21;34000
+Bye Henriette;Bjerke Travbane;4;2;0;0;0;41;30000
+Robertsen Amanda;Bjerke Travbane;4;1;0;0;2;119;24000
+Hagmann Anita Valstad;Momarken Travbane;7;0;0;0;6;36;20000
+Rasmussen Anne Grete;Jarlsberg Travbane;4;1;0;0;1;12;19000
+Trudvang Louise Vebostad;Momarken Travbane;5;0;0;0;5;72;17000
+Hande Christina A.;Bjerke Travbane;5;0;0;2;1;46;14000
+Kanstad Maja;Bjerke Travbane;2;0;1;1;0;24;13000
+Øveraasen Johanne Ulrica;Biri Travbane;3;0;0;0;2;150;12000
+Morken Caroline L.B.;Bergen Travpark;1;0;0;1;0;33;12000
+Eilertsen Josefine;Jarlsberg Travbane;3;0;1;0;0;35;8000
+Haghighat Roya;Bergen Travpark;1;0;1;0;0;2;8000
+Pedersen Karoline;Bjerke Travbane;1;0;1;0;0;0;7000
+Hogner Silje;Bjerke Travbane;2;0;0;0;2;27;6000
+Sørvik Martine O.;Drammen Travbane;1;0;0;1;0;44;5000
+Adolfsson Sofia;SVERIGE;1;0;0;0;1;5;4000
+Lamvik Inga;Momarken Travbane;1;0;0;0;1;2;3000
+Edvardsen Hedda;Bjerke Travbane;2;0;0;0;1;1;3000
+Aaseng Renate;Bjerke Travbane;1;0;0;0;1;0;3000
+Dahl Julie;Momarken Travbane;1;0;0;0;1;3;3000
+Rattfält Emma;SVERIGE;1;0;0;0;1;1;3000
+Hauge Karin;Sørlandets Travpark;1;0;0;0;0;20;0
+Thonander Gro Helen;Biri Travbane;1;0;0;0;0;16;0
+Pedersen Liv;Biri Travbane;1;0;0;0;0;333;0
+Jacobsen Sophia;SVERIGE;2;0;0;0;0;16;0
+Ødegård Amalie;Jarlsberg Travbane;1;0;0;0;0;0;0
+Gundersen Magnus Teien;Bjerke Travbane;26;4;4;3;6;284;193500
+Trudvang Louise Vebostad;Momarken Travbane;11;2;4;1;3;72;87000
+Eggen Hans Jørgen;Bjerke Travbane;4;1;0;0;2;207;61000
+Akselsen Adrian Solberg;Jarlsberg Travbane;11;1;0;1;6;118;47000
+Kjenner Ole-Christian;Momarken Travbane;21;0;0;2;9;119;39500
+Kjenner Christina;Momarken Travbane;7;1;1;1;3;13;38000
+Hansen Joakim;Jarlsberg Travbane;5;1;0;1;1;9;25500
+Bjørnbeth Ragnhild;Leangen Travbane;1;0;1;0;0;111;20000
+Rasmussen Joakim;Drammen Travbane;3;1;0;0;1;36;19000
+Hagmann Anita Valstad;Momarken Travbane;6;0;0;1;4;36;18500
+Eilertsen Josefine;Jarlsberg Travbane;2;1;0;0;0;35;16000
+Tvedt Herman R.;Jarlsberg Travbane;2;0;1;0;1;272;11000
+Sedström Linda;Örebro;3;0;0;1;1;0;11000
+Laursen Jens;DANMARK;2;0;0;0;2;2;7000
+Arnerløf Rebecca;SVERIGE;1;0;0;1;0;7;5000
+Haapio Tomi;Boden;1;0;0;0;1;0;4000
+Smeby Geir;Jarlsberg Travbane;1;0;0;0;1;5;3000
+Moberg Kim;Solvalla;2;0;0;0;0;0;2000
+Nilsson Per;SVERIGE;1;0;0;0;0;2;2000
+Strandberg Elias;SVERIGE;1;0;0;0;0;0;2000
+Nygård Henning;Bjerke Travbane;1;0;0;0;1;5;1500
+Tijunelis Ernestas;Drammen Travbane;1;0;0;0;1;11;1500
+Ydersbond Haakon A.;Drammen Travbane;1;0;0;0;0;1;0
+Theodorsen Jenny Martine;Drammen Travbane;1;0;0;0;0;0;0
+Ingves Peter;SVERIGE;1;0;0;0;0;7;0
+Bronken Tone;Biri Travbane;1;0;0;0;0;3;0
+Goop Bjørn;SVERIGE;4;4;0;0;0;430;650000
+Tengsareid Åsbjørn;Jarlsberg Travbane;51;8;7;6;16;2355;439500
+Høitomt Eirik;Jarlsberg Travbane;54;7;5;6;22;4612;336000
+Hop Vidar;Jarlsberg Travbane;39;3;9;6;11;4019;333500
+Malmin Kristian;Drammen Travbane;16;2;3;3;5;867;270000
+Kolle Lars Anvar;Jarlsberg Travbane;38;6;1;7;15;3210;243000
+Østre Ole Johan;Momarken Travbane;64;7;2;10;19;461;236000
+Sagholen Odd Arne;Momarken Travbane;39;3;4;3;22;699;225250
+Austevoll Gunnar;Momarken Travbane;57;4;3;7;23;2748;207500
+Dalen Dag-Sveinung;Drammen Travbane;42;1;3;2;18;581;177500
+Mjølnerød Jan Roar;Momarken Travbane;23;8;4;0;7;716;169500
+Kolgjini Lutfi;SVERIGE;3;0;1;2;0;30;155000
+Johansen Kai;Bjerke Travbane;35;1;6;4;17;1420;141000
+Untersteiner Johan;Halmstad;4;1;0;0;1;8;135000
+Midtfjeld Per Oleg;Momarken Travbane;21;3;2;1;10;1784;132000
+Antonsen Cato;Momarken Travbane;27;3;2;2;12;3423;108500
+Solberg Tom Erik;Klosterskogen Travbane;18;3;4;2;4;1963;108000
+Steinseth Bjørn;Biri Travbane;32;2;5;2;10;440;105500
+Hamre Frode;Jarlsberg Travbane;9;1;1;2;1;1945;105000
+Rennesvik Erlend;Bjerke Travbane;12;1;1;4;3;155;78500
+Brækken Noralf P.;Leangen Travbane;1;0;1;0;0;516;75000
+Holm Hans Chr.;Bjerke Travbane;20;2;0;2;8;1596;66000
+Flåten Geir;Jarlsberg Travbane;4;2;0;0;2;539;53000
+Antonsen Gøran;Momarken Travbane;20;0;2;2;7;105;51000
+Tvedt Herman R.;Jarlsberg Travbane;10;0;2;1;2;272;43000
+Bjørnerød Kristian;Momarken Travbane;10;1;2;0;4;132;43000
+Kvasnes Kristine;Biri Travbane;10;2;0;1;1;459;39000
+Ødegaard Knut Arne;Momarken Travbane;21;0;0;3;8;152;38500

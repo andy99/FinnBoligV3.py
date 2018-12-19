@@ -1,0 +1,59 @@
+from bs4 import BeautifulSoup
+import requests
+#!/usr/bin/python
+# -*- coding: ascii -*-
+import csv
+from nt import replace
+from _overlapped import NULL
+from pip._vendor.pyparsing import empty
+from itertools import count
+#-*- coding: UTF-8 -*-
+#soup = BeautifulSoup
+r = requests.get("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599" )
+html_innhold =r.text
+soup = BeautifulSoup(r.content,"html.parser")
+tabell = soup.find('table')
+tabell_rader = tabell.find_all('tr')
+
+for tr in tabell_rader:
+    td = tr.find_all_next('td')
+    rad = [i.text for i in td]
+    #testtekst = rad
+    print(rad)
+# print(testtekst,"Skriver test tekst")
+
+#rad_tekst = soup.findAll('td')
+rad_list = []
+rad_list = rad
+
+minfil = "C : \\ myfile \\ minfil.txt " 
+# for td in rad_tekst:
+#     text = td.get_text().strip()
+#     rad_list = text
+# #     text.replace("xa0", "")
+#     rad_list.append(text)
+#     #print(rad_list)
+#if rad_list[1] is not empty:
+    #print(rad_list[1],"Ikke tom")
+   
+#a = count(rad_list[])
+# for i in rad_list:
+#     print(rad_list[30])
+    
+#print(rad_list[423],rad_list[422])  
+#i = 0
+Hestedatatabell = []
+# print(j,"Lengde j list antall rader i Html siden")
+# print(i,"Lengde rad list antall rader i Html siden")
+for i, value in enumerate(rad_list):
+    rad_list = rad_list.text.replace("xa0","")
+    print(i,rad_list)
+    
+    
+   
+    
+    
+# with open("Bravehunter.csv","w") as bravehunterfile:
+#      writer = csv.writer(bravehunterfile)
+#      writer.writerow([rad_list[0],rad_list[1]])
+#      bravehunterfile.close()

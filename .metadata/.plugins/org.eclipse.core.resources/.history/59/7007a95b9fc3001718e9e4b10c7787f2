@@ -1,0 +1,14 @@
+from bs4 import BeautifulSoup
+import requests
+import urllib
+from basic import soup
+from test.pystone import Record
+
+def make_soup(url):
+    thepage = urllib.request.urlopen(url)
+    soupdata = BeautifulSoup(thepage,"html.parser")
+    return soupdata
+soup = make_soup("http://sportsearch.rikstoto.no/pages/hest_info.aspx?sokid=123599")
+
+for  Record in soup.findall('tr'):
+    print(Record.text) 

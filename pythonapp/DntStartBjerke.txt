@@ -1,0 +1,116 @@
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;1;2140;1;Marco d'Estino;Bjørn Garberg;384.500;1.15,0v;1.13,3a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;1;2140;2;Bakkmo Bosse;Eirin Sørmo;473.689;1.15,2v;1.12,7a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;1;2140;3;Black Butan;Edvard Kristiansen;497.952;1.14,8v;1.13,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;1;2140;4;Jaccaroo;Jomar Blekkan;807.549;1.13,9v;1.12,4a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;1;2140;5;Baritron;Thomas Mjøen;849.618;1.13,8v;1.12,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;1;2140;6;Crimson Pirate;Ragnhild Bjørnbeth;856.628;1.14,0v;1.11,9a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;1;2140;7;Fux Pride;Karl Ove Nordtømme;874.582;1.13,0v;1.12,9a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;1;2140;8;The Last Ticket;Atle Solhus;974.042;1.12,6v;1.13,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;1;Dreamstile;Odd Arne Kjøsnes;58.000;1.17,4v;1.16,1a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;2;Daydream U.M.;Arne Nilsen;62.776;;1.14,8a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;3;Vivienne;Arve Sjoner;64.000;1.16,8v;1.16,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;4;Daddy's Angel;Torkil Steinshaug;68.000;1.19,2v;1.17,0a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;5;She's In Love;Noralf P. Brækken;69.000;1.17,9v;1.17,1a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;6;Natacha Line;Inge Melby;82.000;1.17,5v;1.16,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;7;Shai Soir;Dag Sandø Nilsen;102.000;1.17,4v;1.15,4a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;8;Cirkeline Day;Magne Olsen;102.260;1.17,7v;1.14,9a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;9;Fresh Fiona M.E.;Erik Brækken;93.500;1.17,6v;1.16,6a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;10;Emilsboy;Thomas Mjøen;97.000;1.18,4v;1.15,4a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;2;2140;11;Five Stars Genius;Bjørn Garberg;117.500;1.19,1v;1.15,8a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;1;Boston Vincent;Magne Olsen;130.111;1.18,4v;1.14,4a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;2;Gjølmes Caviar;Bjørn Garberg;138.000;1.17,1v;1.14,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;3;Sky Tanic;Thomas Mjøen;123.648;1.16,6v;1.15,0a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;4;C.R.L. Pretty Good;Odd Arne Kjøsnes;137.500;1.17,2v;1.15,1a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;5;Red Hot Fire I.V.;Atle Solhus;143.991;1.18,3v;1.16,9a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;6;Zarahs Valentino;Arne Nilsen;127.000;1.16,5v;1.15,0a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;7;Danny Delight;Ragnhild Bjørnbeth;133.500;1.16,9v;1.14,9a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;8;Olli's Texas;Amanda Robertsen;139.000;1.17,6v;1.15,4a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;9;Bruno Marsh;Arve Sjoner;130.647;1.18,7v;1.15,1a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;10;Seaborn Photo;Andre H. Stensen;119.000;1.16,8v;1.15,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;3;2140;11;Roxy Lady;Monika Fremstad;127.000;1.17,7v;1.15,8a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;1;Dream Sahbra P.;Inge Melby;243.500;1.16,0v;1.13,8a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;2;Little Red Corvette;Bjørn Garberg;192.152;1.16,0v;1.14,3a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;3;Synjo Danseuse;Roar Walsøe;238.000;1.17,2v;1.15,9a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;4;Snøvsen;Thomas Mjøen;230.029;1.16,2v;1.14,6a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;5;K.L.M. Sweetwater;Torkil Steinshaug;187.794;1.16,5v;1.14,3a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;6;Janske;Jomar Blekkan;216.905;;1.13,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;7;Gjølmes Lindy;Arve Sjoner;192.000;1.16,6v;1.13,3a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;8;Acers Poppey;Veronika Bugge;236.751;1.16,5v;1.12,9a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;9;Martelle C.J.;Ivar Asphaug;199.000;1.16,3v;1.14,7a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;10;Cantotis;Atle Eggan;221.003;;1.13,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;4;2140;11;N.Y. Doubleoseven;Andre H. Stensen;203.647;1.16,7v;1.14,2a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;1;Creek's Brave;Inge Melby;273.500;1.15,5v;1.13,7a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;2;Diana Dixi;Monika Fremstad;275.000;1.16,0v;1.13,2a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;3;Freaky Friday;Atle Eggan;328.143;1.15,4v;1.14,0a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;4;Play Online;Odd Arne Kjøsnes;341.911;1.15,7v;1.14,1a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;5;Sea Samedi;Ragnhild Bjørnbeth;337.776;1.15,3v;1.14,6a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;6;Derby d'Estino;Magne Olsen;316.833;1.15,8v;1.10,6a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;7;Hambler's Amigo;Atle Solhus;286.000;1.15,7v;1.13,2a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;8;Bacalao Va Bene;Jan Roar Trøan;297.000;1.15,3v;1.14,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;9;Xpress Bar;Andre H. Stensen;275.609;1.15,9v;1.13,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;10;Ms. Quaker Force;Arve Sjoner;261.000;1.16,2v;1.12,7a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;5;2140;11;Tarndon;Amanda Robertsen;277.500;1.16,4v;1.12,8a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2160;1;Livatt;Hilde Pettersen Vik;78.000;1.31,1v;1.29,3a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2160;2;Nordpåsokken;Ole Johnsen;112.644;1.29,3v;1.27,1a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2160;3;Agnor;Jarle Morten Sørmo;90.907;1.29,8v;1.27,4a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2160;4;Lyngsmaia;Edvard Kristiansen;88.000;1.31,6v;1.30,5a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2160;5;Stormare;Karl Ove Nordtømme;97.224;1.30,1v;1.30,4a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2160;6;Sørli Odin;Ragnhild Bjørnbeth;99.903;1.30,4v;1.29,2a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2160;7;Vesle Jerva;Andre H. Stensen;111.000;1.31,3v;1.29,8a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2160;8;Voll Prins;Per Einar Sørmo;114.500;1.30,0v;1.28,8a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2160;9;Trøndern;Arve Sjoner;64.000;1.31,9v;1.30,7a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2160;10;Voll Odin;Eirin Sørmo;77.500;1.29,7v;1.29,0a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2180;11;Buvoll Kos;Jomar Blekkan;133.500;1.30,0v;1.35,9a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2180;12;Skjetnemario;Thomas Mjøen;138.826;1.28,4v;1.28,8a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2180;13;Hovsten Express;Arvid M. Hovsten;141.000;1.27,4v;1.28,3a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2180;14;Hara Baktus;Per Englund;157.706;1.27,7v;1.28,0a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;6;2200;15;Gjølmes Spika;Bjørn Garberg;212.000;1.27,5v;1.26,1a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2140;1;Frøydis J.R.;Guro Berg;87.859;1.29,5v;1.30,6a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2160;2;Tangen Tinn;Trude Kleveland;728.477;1.24,8v;1.24,8a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2160;3;Varg Kongen;Marit Valstad;204.504;1.28,9v;1.27,2a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2160;4;Vildeli;Lisa Ranita Johansen;382.112;1.25,2v;1.24,0a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2160;5;Bo Jular;Stine Berget Nordvik;376.502;1.27,0v;1.26,5a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2160;6;Marve Tinn;Marion Kleveland;202.798;1.28,7v;1.27,6a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2160;7;Theodor;Olea Villa Furre;313.020;1.26,3v;1.26,6a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2160;8;Eldpeppi;Hilde Marie Østborg;313.499;1.26,9v;1.26,5a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2180;9;Pave Jerkila;Anita Valstad Hagmann;357.873;1.25,6v;1.26,5a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2180;10;Solbakken Jerv;Anne Lene Aursand;367.500;1.25,1v;1.24,8a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2180;11;Seter Birk;Amanda Robertsen;336.545;1.27,7v;1.27,1a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2180;12;Krokstad Juvita;Eirin Sørmo;313.570;1.26,6v;1.26,2a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;7;2200;13;Tøff;Victoria Amundsen;602.048;1.25,7v;1.25,9a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;8;2140;1;L.J.'s Musclemadness;Jomar Blekkan;0;;
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;8;2140;2;Prince Apollo S.H.;Marit Valstad;2.000;;1.19,7a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;8;2140;3;Lalitas Coktail;Thomas Mjøen;6.000;;1.18,9a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;8;2140;4;Folsom Line;Edvard Kristiansen;20.000;1.20,9v;1.18,8a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;8;2140;5;Golden Wildcat;Ole Johnsen;22.000;1.20,0v;1.19,8a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;8;2140;6;Credit Rolls;Ragnhild Bjørnbeth;24.500;1.19,8v;1.18,7a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;8;2140;7;Blue Ivy;Inge Melby;38.500;1.20,0v;1.17,0a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;8;2140;8;Conseila's De Bello;Arve Sjoner;41.000;;1.17,7a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;8;2140;9;Justasecond;Karl Ove Nordtømme;29.500;1.19,6v;1.18,6a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;8;2140;10;Efes Trotter;Magne Olsen;38.000;1.18,6v;1.17,3a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;9;2140;1;Chef Superb;Jomar Blekkan;172.207;1.18,6v;1.15,7a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;9;2140;2;Rapido G.T.;Inge Melby;183.342;1.16,5v;1.14,4a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;9;2140;3;Aday;Odd Arne Kjøsnes;158.500;1.16,9v;1.15,2a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;9;2140;4;Brightasabutton;Thomas Mjøen;169.000;1.16,3v;1.13,0a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;9;2140;5;Crazy Victor;Arve Sjoner;181.000;1.15,6v;1.14,3a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;9;2140;6;Mr. Unicum;Anita Valstad Hagmann;170.500;1.16,6v;1.15,1a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;9;2140;7;Baloo N.;Atle Solhus;159.881;1.16,3v;1.14,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;9;2140;8;Xandria;Bjørn Garberg;166.500;1.15,9v;1.15,9a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;9;2140;9;Euforia;Roar Walsøe;167.044;1.15,8v;1.13,5a
+Autostart;  Startliste    -  Leangen Travbane - 29.04.2018;9;2140;10;Runaway Train;Atle Eggan;163.035;1.15,3v;1.15,1a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2140;1;Årøli Ask;Bjørn Garberg;15.000;1.37,1v;
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2140;2;Mo Høvding;Amanda Robertsen;15.000;1.35,1v;1.36,8a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2140;3;Storm Teddy;Arve Sjoner;12.000;1.34,6v;
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2160;4;Tverdals Agnes;Atle Eggan;17.207;1.34,2v;
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2160;5;Stjerneiris;Arne Nilsen;29.139;1.32,6v;
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2160;6;Torpa Ola;Øystein Eithun;18.000;1.36,1v;
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2160;7;Sagen Idunn;Guri Grimsgård;24.000;1.34,4v;
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2180;8;Randli Katla;Jomar Blekkan;40.000;1.32,8v;1.34,0a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2180;9;Santiana;Ole Johnsen;31.879;1.34,3v;
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2180;10;Greis Jorun;Ragnhild Bjørnbeth;39.606;1.32,9v;1.34,9a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;10;2180;11;Øyans Storm;Inge Melby;34.412;1.31,9v;1.37,2a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;11;2140;1;Chanto Photo;Edvard Kristiansen;513.500;1.13,8v;1.11,2a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;11;2140;2;M.S. Star Trotter;Magne Olsen;0;;
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;11;2140;3;Kiss Me;Thomas Mjøen;0;;
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;11;2160;4;Sophus K.G.;Vera Lamvik Solhjell;420.000;1.26,1v;1.23,9a
+Volestart;  Startliste    -  Leangen Travbane - 29.04.2018;11;2160;5;Snonsøy Balder;Atle Eggan;0;;
