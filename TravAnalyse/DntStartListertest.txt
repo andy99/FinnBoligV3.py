@@ -1,94 +1,86 @@
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;1;Effi's Wonder;Dag-Sveinung Dalen;6.000;;1.20,3a
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;2;Call Me Fancy;Tim Nagel;8.154;1.19,0v;
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;3;Isabella;Eirik Høitomt;0;;
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;4;Fanny va Bene;Johan Herbjørn Undem;2.000;1.22,5v;
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;5;T.K.'s Victory;Tomas Pedersen;4.000;;1.21,4a
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;6;I.D. Glamour;Hans Wilhelm Storås;0;;
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;7;Northernlight Genius;Åsbjørn Tengsareid;3.000;;1.20,6a
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;8;Hickomaniac;Henning Nygård;3.000;1.21,1v;
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;9;Sweet Nona;Lars Anvar Kolle;6.000;1.22,1v;1.19,9a
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;10;Fantasie Dream;Per Oleg Midtfjeld;0;;
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;1;2140;11;Zuni Kiva;Gunnar Austevoll;6.000;1.19,4v;1.20,2a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;1;Pebbe Simoni;Eirik Høitomt;1.889.565;1.13,6v;1.11,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;2;Ramona's Fighter;Louise Vebostad Trudvang;1.034.306;1.14,1v;1.12,4a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;3;Radieux;Svein Ove Wassberg;3.346.108;1.11,9v;1.10,5a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;4;Deep Sea Dream;Tom Erik Solberg;2.283.525;1.12,8v;1.10,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;5;Donatomite;Frode Hamre;1.899.277;1.13,3v;1.09,1a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;6;Billy Flynn;Erlend Rennesvik;3.493.469;1.13,0v;1.10,5a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;2;1609;7;Photo Va Bene;Marius Høitomt;1.430.057;1.14,6v;1.11,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;1;Blue Gift;Ole Johan Østre;13.000;1.18,7v;1.18,4a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;2;Sappho Wiking;Åsbjørn Tengsareid;14.491;1.20,4v;1.19,7a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;3;Reveline Chip;Tom Erik Solberg;19.000;1.18,8v;
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;4;Amazing Surprise;Andre H. Stensen;24.000;;1.16,7a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;5;Annabella Knick;Frode Hamre;18.446;1.18,7v;1.17,5a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;6;Lily Bourbon;Gøran Antonsen;27.771;1.18,3v;1.16,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;7;Hardstyle d'Estino;Olav Mikkelborg;26.491;1.18,4v;1.18,4a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;8;S.K.'s Iron Lady;Eirik Høitomt;18.000;1.20,6v;1.16,7a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;9;Entereza;Dag-Sveinung Dalen;8.000;1.20,6v;1.18,2a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;3;2100;10;She;Lars Anvar Kolle;13.000;1.20,2v;
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;1;Engli Ilmina;Gunnar Austevoll;338.991;1.25,5v;1.25,6a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;2;Stumne Luna;Hans Chr. Holm;326.683;1.25,9v;1.26,7a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;3;Rapptor;Ole Johan Østre;294.142;1.26,5v;1.25,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;4;Skauge Faks;Ernst-Petter Knutsen;334.000;1.26,1v;1.25,3a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;5;Fjord Jerka;Adrian Solberg Akselsen;312.206;1.25,5v;1.26,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;6;Lykkje Embla;Eirik Høitomt;304.533;1.26,0v;1.25,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;7;Ra Tore;Jan Roar Mjølnerød;341.745;1.26,7v;1.25,5a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;8;Ruskeli Blesa;Vidar Hop;313.000;1.25,3v;1.26,6a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;9;Jillborka;Tom Erik Solberg;271.146;1.26,7v;1.26,1a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;4;2100;10;Anima;Stig Ingar Fossen;286.865;1.26,7v;1.26,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;1;Maksi Royal;Joakim Hansen;97.619;1.17,7v;1.14,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;2;Sofarsogood;Per Vetle Kals;104.037;1.16,7v;1.15,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;3;Sarek;Ragnhild Bjørnbeth;116.990;1.18,2v;1.15,5a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;4;Let's Talk;Henning Nygård;130.000;;1.14,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;5;Lindy Cru;Hans Jørgen Eggen;126.691;1.16,5v;1.13,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;6;Vivienne;Josefine Eilertsen;105.000;1.16,8v;1.15,2a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;7;Do it Fass;Lars Fredrik Kolle;132.030;1.16,3v;1.15,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;8;Balotelli;Magnus Teien Gundersen;116.751;1.18,8v;1.13,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;9;Hot Chili Klenod;Adrian Solberg Akselsen;87.000;1.18,2v;1.15,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;10;Rocket Queen;Louise Vebostad Trudvang;139.000;1.17,2v;1.14,3a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;11;C.C. Gyrus;Ole-Christian Kjenner;88.138;1.17,3v;1.14,7a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;5;2100;12;Guy Fanatic;Christina Kjenner;135.184;1.15,1v;1.13,1a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;1;Cool Counter M.E.;Adrian Solberg Akselsen;37.000;1.18,6v;1.16,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;2;Starlight Morning;Connie Engebråthen;44.500;1.19,0v;1.17,3a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;3;The Best Knight;Hans Chr. Holm;47.000;1.19,6v;1.16,4a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;4;Ecko;Gunnar Austevoll;45.500;1.17,6v;1.16,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;5;Vicky Waiting;Vidar Hop;45.591;;1.15,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;6;Ideal Yankee;Hans Wilhelm Storås;45.000;1.18,1v;1.18,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;7;Photo Mack;Ole Johan Østre;43.000;1.19,8v;1.16,4a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;8;Kissy's Icon;Per Anders Thuresson;44.950;1.19,2v;1.17,2a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;9;Princess Pedro;Eirik Høitomt;49.000;1.17,6v;1.16,3a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;10;Cigarette;Dag-Sveinung Dalen;45.094;1.17,7v;1.16,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;11;S.K.'s El Capitano;Lars Anvar Kolle;43.000;1.19,2v;1.16,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;6;2100;12;Gaius B.R.;Olav Mikkelborg;50.000;1.17,6v;1.17,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;1;Tekno Jerken;Erlend Rennesvik;3.198.740;1.21,2v;1.19,1a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;2;Finnskog Sjefen;Henrik Kulblik;1.194.641;1.25,1v;1.21,5a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;3;Torpa Nicklas;Odd Arne Sagholen;1.049.148;1.22,6v;1.23,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;4;Tord Viking;Eirik Høitomt;1.511.835;1.23,3v;1.22,2a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;5;Lex Lodney;Ole Johan Østre;1.946.807;1.22,3v;1.19,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;6;Tin Balder;Joakim Rasmussen;1.286.000;1.22,7v;1.22,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;7;Valle Mattis;Magnus Teien Gundersen;947.338;1.22,5v;1.22,2a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;8;Moe Svarten;Jan Martin Bjerring;2.486.050;1.22,5v;1.23,4a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;7;2100;9;Stumne Scott;Tom Erik Solberg;815.665;1.23,4v;1.22,5a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;1;City Va Bene;Joakim Hansen;197.000;1.18,0v;1.14,1a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;2;B.B. Photo;Adrian Solberg Akselsen;253.000;1.16,2v;1.15,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;3;Anthony Downs;Per Vetle Kals;273.500;1.16,2v;1.14,4a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;4;Akissassweetaswine;Ole-Christian Kjenner;238.500;1.15,7v;1.12,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;5;Eddie Arctous;Louise Vebostad Trudvang;182.000;1.19,4v;1.14,6a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;6;Ejakval Boko;Hans Jørgen Eggen;235.476;1.19,3v;1.13,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;7;I See U. One;Ragnhild Bjørnbeth;261.515;1.16,6v;1.14,5a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;8;Tallahassee;Henning Nygård;273.861;1.15,6v;1.12,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;9;Sao Paulo;Christina Kjenner;289.644;1.16,0v;1.12,3a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;10;Perillat;Lars Fredrik Kolle;250.384;1.16,6v;1.13,9a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;11;Free Million;Josefine Eilertsen;241.780;1.16,9v;1.12,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;8;2100;12;Victor Hastrup;Magnus Teien Gundersen;267.393;1.16,0v;1.13,6a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;1;Frivoll Borken;Tom Erik Solberg;166.491;1.29,4v;1.27,3a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;2;Sprov Hiljar;Geir Vegard Gundersen;220.000;1.28,4v;1.26,1a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;3;Åls Faksen;Dag-Sveinung Dalen;179.500;1.28,9v;1.25,4a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;4;Adelinn;Louise Vebostad Trudvang;176.851;1.28,9v;1.27,7a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;5;Brage Mollyn;Anette Frønes;208.500;1.27,6v;1.25,8a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;6;Lygna Lotte;Eirik Høitomt;205.054;1.28,8v;1.26,0a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;7;Finnskog Nox;Henrik Kulblik;220.892;1.28,3v;1.27,7a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;8;Tyri Troll;Vidar Hop;162.000;1.28,7v;1.28,6a
-Autostart;  Startliste    -  Bjerke Travbane - 19.12.2018;9;1609;9;Lesja Titan;Hans Chr. Holm;203.026;1.27,8v;1.26,0a
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;10;2140;1;Havik di Quattro;Olav Mikkelborg;0;;
-Volestart;  Startliste    -  Bjerke Travbane - 19.12.2018;10;2140;2;Alice Road;Åsbjørn Tengsareid;0;;
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;1;2100;1;Ådne Kommandør;Malene Berdalen;299.500;1.28,3v;1.25,9a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;1;2100;2;Vetle Jon;Arnt-Sverre Røren;274.500;1.28,6v;1.24,9a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;1;2100;3;Brenne Major;Eivind Gravdal;263.000;1.27,7v;1.23,9a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;1;2100;4;Vital Vinter;Eirik Høitomt;216.000;1.27,0v;1.28,1a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;1;2100;5;Sølv Gutt;Tom Erik Solberg;222.000;1.29,3v;1.26,2a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;1;2100;6;Tenk Nå Dina;Simen Bjørbæk Jessen;288.345;1.27,9v;1.25,0a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;1;2100;7;Harald;Magnus Teien Gundersen;308.100;1.27,2v;1.25,8a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;1;2100;8;Bleke Gnisten;Lars Anvar Kolle;255.122;1.26,5v;1.26,5a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;1;2100;9;Åls Faksen;Dag-Sveinung Dalen;270.000;1.26,5v;1.25,3a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;1;2100;10;M.H. Herkules;Odd Arne Sagholen;292.884;1.26,9v;1.26,5a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;1;I.D. Glamour;Tom Erik Solberg;29.500;1.20,1v;1.15,0a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;2;L.H. Celestine;Dag-Sveinung Dalen;40.000;1.19,0v;1.17,8a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;3;Turbo Lins;Eirik Høitomt;42.000;1.17,1v;1.16,4a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;4;Greed;Herman R. Tvedt;48.652;1.17,8v;1.15,7a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;5;O.M. Ebony;Knut Arne Ødegaard;55.688;1.16,9v;1.15,7a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;6;Sophie's Loveandxxx;Christina Sophie Myklebust;57.974;1.18,3v;1.16,0a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;7;Maxwell P.S.;Magnus Teien Gundersen;64.614;;1.16,0a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;8;Cayman Bee;Lars Anvar Kolle;74.075;1.17,7v;1.16,6a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;9;Black Jewel;Gunnar Austevoll;58.000;1.16,8v;1.16,7a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;10;C.C. Tag;Ole-Christian Kjenner;63.000;1.19,4v;1.16,2a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;11;Gemma B.R.;Simen Bjørbæk Jessen;76.500;1.18,8v;1.16,1a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;12;Victoria Cheyenne;Hans Chr. Holm;77.000;1.18,3v;1.15,5a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;1;Onkel Ola;Vidar Hop;88.452;1.27,8v;1.29,2a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;2;Santans;Pål Sem;89.500;1.30,4v;1.28,9a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;3;Solhøyulven;Dag-Sveinung Dalen;103.343;1.31,7v;1.28,9a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;4;A.H. Svarten;Lars Anvar Kolle;112.500;1.30,9v;1.28,3a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;5;Helmen Terna;Eirik Høitomt;113.000;1.27,9v;1.26,6a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;6;Tangen Tora;Gunnar Austevoll;124.517;1.29,5v;1.27,8a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;7;Lykkje Idunn;Ernst-Petter Knutsen;114.000;1.30,1v;1.28,6a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;8;Torpa Pi;Knut Arne Ødegaard;122.564;1.30,2v;1.27,7a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;9;Låhne Lina;Anders Magne Låhne;100.000;1.30,0v;1.28,7a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;10;Mo Lykke;Jo Svenstad;123.000;1.28,9v;1.26,0a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;11;Tegner Tarzan;Sol Emilie Risdal;81.500;1.30,8v;1.28,9a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;3;1700;12;Haugestad Gabrielle;Geir Flåten;102.000;1.28,6v;1.29,5a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;4;1700;1;Lome Gant;Amanda Robertsen;556.455;1.25,9v;1.25,7a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;4;1700;2;Solkongen;Kristine Kvasnes;535.073;1.24,1v;1.25,5a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;4;1700;3;Sprett Odin;Marion Kleveland;597.000;1.24,8v;1.23,6a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;4;1700;4;Hugo;Maja Kanstad;540.044;1.25,4v;1.25,5a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;4;1720;5;Troll Svenn;Helene Kolle;860.664;1.24,3v;1.24,9a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;4;1720;6;Kvikk Tojo;Anita Valstad Hagmann;655.628;1.23,1v;1.23,1a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;4;1720;7;Trø Hera;Siv Emilie Løvvold;974.277;1.24,4v;1.24,6a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;4;1720;8;Maks Mollyn;Louise Vebostad Trudvang;780.000;1.24,8v;1.22,4a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;4;1720;9;Bacchus Ø.K.;Inga Lamvik;921.000;1.24,0v;1.23,7a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;4;1720;10;Jærvinn S.K.;Johanne Ulrica Øveraasen;762.048;1.24,1v;1.23,4a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;1;Viking Ivi;Joakim Hansen;160.563;1.16,8v;1.13,8a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;2;Odd Supergirl;Simen Bjørbæk Jessen;211.000;1.17,4v;1.14,0a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;3;Tiria Jet;Maren Øyo;245.663;1.14,8v;1.15,0a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;4;Circe des Emois;Dag-Sveinung Dalen;213.280;1.16,0v;1.13,5a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;5;Barbie Love;Vidar Hop;166.000;1.18,2v;1.15,3a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;6;Cosmic Carpenter;Gunnar Austevoll;223.000;1.19,6v;1.13,8a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;7;New Talisman;Hans Chr. Holm;242.500;1.16,5v;1.14,6a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;8;Pyrechept;Magnus Teien Gundersen;247.000;1.18,6v;1.15,5a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;9;Balotelli;Herman R. Tvedt;190.251;1.17,5v;1.13,4a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;10;Expensive Hangover;Josefine Eilertsen;209.500;1.18,4v;1.13,6a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;11;Unaffected;Anette Frønes;227.500;1.16,9v;1.14,5a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;12;Millglow;Kristine Kvasnes;260.500;1.18,1v;1.13,8a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;1;Muscle Mack;Gunnar Austevoll;440.351;1.13,8v;1.12,3a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;2;Frascati B.R.;Tom Erik Solberg;535.500;1.15,8v;1.12,5a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;3;Ubuntu;Dag-Sveinung Dalen;428.000;1.16,6v;1.12,6a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;4;S.M.K. Spirit;Renate Aarlie;457.382;1.15,3v;1.12,5a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;5;Fabian B.R.;Magnus Teien Gundersen;477.724;1.14,7v;1.13,0a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;6;Soros Kronos;Hans Chr. Holm;508.723;1.14,7v;1.14,1a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;7;Hez So Perfect;Lars Anvar Kolle;578.707;1.16,8v;1.12,7a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;8;Lady Lara;Vidar Hop;461.500;1.18,5v;1.12,3a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;9;Among Hastrup;Herman R. Tvedt;457.496;1.15,4v;1.12,7a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;10;Bernardo Halbak;Åsbjørn Tengsareid;411.000;1.15,6v;1.13,6a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;11;Dream Builder;Eirik Høitomt;489.055;1.15,6v;1.13,7a
+Autostart;  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;12;Clint Classic;Kristian Malmin;574.491;1.14,8v;1.12,6a
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;1;Sandi;Pål Sem;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;2;Sølv Faks;Dag-Sveinung Dalen;3.500;1.37,1v;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;3;Børke Billie;Olav Mikkelborg;2.500;1.36,4v;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;4;T.K. Lars;Joakim Rasmussen;2.000;1.37,4v;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;5;Tora;Åsbjørn Tengsareid;2.000;1.36,8v;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;6;Torigutten;Magnus Teien Gundersen;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;7;Hage Jerka;Eirik Høitomt;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;8;Horgen Sehlina;Knut Arne Ødegaard;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;9;Birk Rapp;Vidar Hop;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;10;Valle Grid;Tom Erik Solberg;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;11;Alta Stjerna;Adrian Solberg Akselsen;2.000;1.37,8v;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;12;Mini Mira;Jenny Martine Theodorsen;2.000;1.41,2v;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;8;1700;1;Haugs Knekten;Knut Arne Ødegaard;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;8;1700;2;Geissler;Eirik Høitomt;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;8;1700;3;Elsås Stjernen;Geir Flåten;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;8;1700;4;Topp Stemning;Eivind Gravdal;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;8;1700;5;Grudis;Asbjørn Wright;0;;
+Volestart;  Startliste    -  Drammen Travbane - 18.11.2019;9;2100;1;Vetle Ulv;Arnt-Sverre Røren;0;;

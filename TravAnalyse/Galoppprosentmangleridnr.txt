@@ -1,4 +1,27 @@
-None;Googi
-None;Hvitsnipp E.E.
-None;Iasi
-None;Sofarsogood
+None;Givememorecredit
+None;Åsspik
+None;Spønsk
+None;Sanderling Mews
+None;Åsspik
+None;Miss Philocaly L.
+None;Bibbi
+None;Givememorecredit
+None;Dokonjo
+None;Whatsunshinelooklike
+None;Headofrace
+None;Rikosjett
+None;Fougueux
+None;Iwalu
+None;Fougueux
+None;Hefner
+None;Hush
+None;Somebodylikesyou
+None;Åsspik
+None;Hejmie
+None;Iwalu
+None;Headofrace
+None;Somebodylikesyou
+None;Fougueux
+None;Tapestry
+None;Fougueux
+None;DoYouWishDiamond

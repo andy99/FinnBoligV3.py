@@ -1,6 +1,9 @@
 MODULES_MANAGER_V2
 AlleHesterut|D:\workplace_python\AlltidHest\AlleHesterut.py
 AlleKusker|D:\workplace_python\AlltidHest\AlleKusker.py
+DntHest|D:\workplace_python\AlltidHest\DntHest.py
+FunkoppdaterHest|D:\workplace_python\AlltidHest\FunkoppdaterHest.py
+HovedProgramOppdaterHest|D:\workplace_python\AlltidHest\HovedProgramOppdaterHest.py
 KodeforColspan|D:\workplace_python\AlltidHest\KodeforColspan.py
 SkrivElement|D:\workplace_python\AlltidHest\SkrivElement.py
 StartListe2|D:\workplace_python\AlltidHest\StartListe2.py

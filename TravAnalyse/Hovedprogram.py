@@ -10,9 +10,9 @@ if os.path.isfile("D:\workplace_python\TravAnalyse\GaloppprosentFelles.txt"):
     os.remove("D:\workplace_python\TravAnalyse\GaloppprosentFelles.txt")
 #feil fil de som mangler idnr m hente nye data fra alltid hest    
 if os.path.isfile("D:\workplace_python\TravAnalyse\Galoppprosentmangleridnr.txt"):
+    
     print("D:\workplace_python\TravAnalyse\Galoppprosentmangleridnr.txt","blir slettet")
     os.remove("D:\workplace_python\TravAnalyse\Galoppprosentmangleridnr.txt")
-
 global prosentgallop
 utdata = 0
 con = pypyodbc.connect
@@ -39,10 +39,11 @@ for a in cursor:
     Hestenavn = a[0]
     Kusk      = a[1] 
     id_nr     = a[2]
+    
     Hestenummer = id_nr
     if id_nr == None:
         print(Hestenavn,"Problemer med id nr")
-        with open('Galoppprosentmangleridnr.txt', 'a') as f:
+        with open('D:\workplace_python\TravAnalyse\Galoppprosentmangleridnr.txt', 'a') as f:
                 
             f.write("%s;%s" % \
              ( Hestenummer,Hestenavn))
@@ -57,7 +58,7 @@ for a in cursor:
         prosentvinner=Funkvinner(Hestenummer)
         prosenttrippel=Funktrippel(Hestenummer)
 #     print( prosenttrippel,Hestenummer,"Hoved program prosent trippel" )
-        with open('GaloppprosentFelles.txt', 'a') as f:
+        with open('D:\workplace_python\TravAnalyse\GaloppprosentFelles.txt', 'a') as f:
                 
             f.write("%.0f;%.0f;%.0f;%.0f;%.0f;%s" % \
              ( prosentgallop,prosentvinner,prosenttrippel,antstarter,plassering123,Hestenummer))

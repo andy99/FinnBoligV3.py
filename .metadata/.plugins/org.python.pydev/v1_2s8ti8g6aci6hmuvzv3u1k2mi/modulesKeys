@@ -182,6 +182,7 @@ WebHester.HesterTips.migrations.0007_delete_index|D:\python\WebHester\HesterTips
 WebHester.HesterTips.migrations.0008_auto_20180917_1142|D:\python\WebHester\HesterTips\migrations\0008_auto_20180917_1142.py
 WebHester.HesterTips.migrations.0009_auto_20180917_1532|D:\python\WebHester\HesterTips\migrations\0009_auto_20180917_1532.py
 WebHester.HesterTips.migrations.0010_djangoberegnetform|D:\python\WebHester\HesterTips\migrations\0010_djangoberegnetform.py
+WebHester.HesterTips.migrations.0011_auto_20190909_1133|D:\python\WebHester\HesterTips\migrations\0011_auto_20190909_1133.py
 WebHester.HesterTips.migrations.__init__|D:\python\WebHester\HesterTips\migrations\__init__.py
 WebHester.HesterTips.models|D:\python\WebHester\HesterTips\models.py
 WebHester.HesterTips.tests|D:\python\WebHester\HesterTips\tests.py
@@ -3438,6 +3439,8 @@ uuid|D:\python\lib\uuid.py
 vcruntime140|D:\python\vcruntime140.dll
 venv.__init__|D:\python\lib\venv\__init__.py
 venv.__main__|D:\python\lib\venv\__main__.py
+virtualenv|D:\python\lib\site-packages\virtualenv.py
+virtualenv_support.__init__|D:\python\lib\site-packages\virtualenv_support\__init__.py
 warnings|D:\python\lib\warnings.py
 wave|D:\python\lib\wave.py
 weakref|D:\python\lib\weakref.py

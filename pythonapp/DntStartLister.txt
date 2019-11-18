@@ -1,70 +1,84 @@
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;1;2100;1;Don di Quattro;Jan Erik Landaas;433.157;1.12,4v;1.11,8a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;1;2100;2;Queenswood;Ove Wassberg;453.703;1.14,6v;1.11,9a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;1;2100;3;Very Esterel;Svein Ove Wassberg;537.741;1.14,5v;1.12,8a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;1;2100;4;Bolt Action;Kenneth Handeland;573.000;1.14,3v;1.11,5a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;1;2100;5;Roberto D.K.;Rolf Tvedt;591.000;1.14,1v;1.13,9a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;1;2100;6;Tip Esterel;Bjørn Steine;679.659;1.14,8v;1.11,3a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;2;1600;1;Parkthemall;Øyvind Austevoll;82.000;1.16,8v;1.16,0a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;2;1600;2;C.R. Seven;Svein Ove Wassberg;59.079;1.17,9v;1.17,3a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;2;1600;3;Glamour Jet M.;Lars Tore Hauge;81.000;1.16,6v;1.16,4a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;2;1600;4;Lagrain;Ove Wassberg;67.849;1.18,4v;1.15,8a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;2;1600;5;Chris K.;Einar Ludvig Eriksen;86.550;1.17,9v;1.16,1a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;2;1600;6;Caramello P.P.;Tore Totland;51.000;1.18,2v;1.17,0a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;2;1600;7;Olimpo Doc;Jan Erik Landaas;80.934;1.17,7v;1.15,8a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;2;1600;8;New Action;Kenneth Handeland;50.000;1.18,7v;1.16,2a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;3;2100;1;Dag Modin;Roya Haghighat;143.950;1.30,1v;1.29,6a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;3;2120;2;Haugestad Balto;Caroline L.B. Morken;243.000;1.28,4v;1.28,5a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;3;2120;3;Tun Faksa;Linda Thorsen Arnesen;182.500;1.29,5v;1.28,7a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;3;2140;4;Spik Lotta;Synne Nybø;349.671;1.25,8v;1.25,1a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;3;2140;5;Årsvoll Prinsen;Hege Kristin Høyland;338.000;1.26,1v;1.26,8a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;3;2140;6;Karslig;Elisabeth Storetvedt;355.000;1.25,9v;1.26,2a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;3;2160;7;Vertigo Bjørn;Henriette Steine;1.352.000;1.23,5v;1.21,8a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;3;2160;8;Super Gullet;Lene Rotneim;828.187;1.23,5v;1.25,4a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;3;2160;9;Ty Tinn;Eva Flolid;788.884;1.23,6v;1.23,3a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2100;1;Jippi;Ronny Halvorsen;5.700;1.36,3v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2100;2;Søndre Vinni;Ove Wassberg;6.200;1.35,9v;1.33,3a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2100;3;Sandejerven;Elisabeth Storetvedt;6.000;1.37,9v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2120;4;Vivelid Skinnfaks;Jan Erik Landaas;22.200;1.35,1v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2120;5;Bovis Oda;Lars Tore Hauge;22.000;1.32,5v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2120;6;Fesethlilja;Roar Hop;22.000;1.35,8v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2140;7;Rive Raptus;Roya Haghighat;45.000;1.32,6v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2140;8;Pilfrik;Claus Olsen;44.000;1.33,1v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2140;9;Mynte Rasmus;Tore Totland;44.764;1.31,3v;1.30,1a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2140;10;Tin Mai;Øyvind Austevoll;41.000;1.32,1v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2140;11;Nesfinn;Odd Storetvedt;27.000;1.35,4v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2140;12;Hauan Blesa;Frank Ringheim;30.000;1.34,7v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;4;2140;13;Sture Neon;Svein Ove Wassberg;37.000;1.33,1v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;5;2100;1;Olu Minni;Øyvind Austevoll;27.000;1.32,7v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;5;2120;2;Almoda;Claus Olsen;79.000;1.30,8v;1.31,3a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;5;2120;3;Åse Jenta;Tore Totland;49.000;1.32,9v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;5;2140;4;Rymix;Bjørn Steine;93.000;1.31,2v;1.32,8a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;5;2140;5;Spang Kosila;Jan Erik Landaas;124.000;1.30,3v;1.29,9a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;5;2140;6;Ospesetstjerna;Ove Wassberg;139.500;1.30,2v;1.29,5a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;5;2140;7;Timona Ø.K.;Frank Ringheim;121.500;1.29,2v;1.27,9a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;5;2140;8;Kleppe Elfina;Svein Ove Wassberg;122.500;1.29,4v;1.27,8a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;5;2140;9;Eldjerva;Lars Tore Hauge;157.000;1.30,3v;1.30,5a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;5;2140;10;Søstra Støen;Roar Hop;94.000;1.29,2v;1.31,0a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;6;2100;1;Aas Balder;Tore Totland;245.158;1.26,8v;1.25,5a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;6;2100;2;Vertigo Dominant;Håkon B. Steine;279.000;1.28,5v;1.25,9a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;6;2100;3;Sylv Svarta;Øyvind Austevoll;306.000;1.26,0v;1.26,9a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;6;2100;4;Prinsesse Sølv;Svein Ove Wassberg;375.000;1.26,2v;1.26,1a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;6;2100;5;Lyn Victor;Daniel Kvamsdal;375.500;1.26,7v;1.24,8a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;6;2100;6;Art Skogfari;Rolf Tvedt;455.379;1.26,7v;1.26,3a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;6;2100;7;Hage Jerven;Ove Wassberg;486.742;1.26,5v;1.24,8a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;7;2100;1;Coktail Above;Rolf Tvedt;4.500;1.20,7v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;7;2100;2;Alfred Goal;Roar Hop;6.200;1.22,0v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;7;2100;3;Loving Liana;Lars Tore Hauge;6.200;1.23,3v;1.20,3a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;7;2100;4;It's Hangover;Svein Ove Wassberg;7.000;1.20,0v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;7;2120;5;The Eliminator;Claus Olsen;22.000;1.19,3v;1.19,0a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;7;2120;6;Feel It Easy;Øyvind Austevoll;24.000;1.19,8v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;7;2120;7;Arctic Revenue;Odd Storetvedt;14.000;1.18,3v;
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;7;2120;8;Hilda Nibs;Ove Wassberg;28.500;1.18,7v;1.19,5a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;7;2120;9;Logical Cosmic;Tore Totland;26.000;1.19,9v;1.21,7a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;8;2100;1;Final Countdown;Svein Ove Wassberg;161.139;1.16,7v;1.16,3a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;8;2100;2;Silvio Landerye;Ronny Halvorsen;162.500;1.16,8v;1.14,9a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;8;2100;3;Easy Tolli T.;Thomas Tuft;126.268;1.18,2v;1.14,3a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;8;2100;4;Miss Chanel;Jan Erik Landaas;125.500;1.17,5v;1.15,9a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;8;2100;5;Grace Scott;Ove Wassberg;157.550;1.16,7v;1.16,7a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;8;2100;6;Eglise Boko;Erik Hagseth Hordvik;179.500;1.16,4v;1.14,2a
-Autostart;  Startliste    -  Bergen Travpark - 13.12.2018;8;2100;7;Wayward;Øyvind Austevoll;183.000;1.17,7v;1.15,2a
-Volestart;  Startliste    -  Bergen Travpark - 13.12.2018;9;2100;1;Princess Blue;Marianne Vikheim;267.833;1.15,2v;1.14,1a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;1;A Million To One;Trygve K. Håvardstun;196.000;1.16,3v;1.14,3a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;2;Ambitious Voyager;Rolf Tvedt;212.640;1.17,8v;1.13,0a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;3;Biwa;Harald Inge Hagen;194.500;1.15,9v;1.14,9a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;4;Scot Ganymede;Ove Wassberg;161.869;1.15,5v;1.13,5a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;5;Counterstrike;Svein Ove Wassberg;176.514;1.16,2v;1.13,5a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;6;Julia Ressie;Tore Totland;173.750;1.16,3v;1.14,7a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;7;Respect;Daniel Kvamsdal;193.399;1.16,6v;1.14,0a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;8;Bombastica;Håkon Håvardstun;156.472;1.17,1v;1.14,6a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;1;Parkthemall;Thomas Wassberg;98.000;1.16,8v;1.16,0a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;2;Fighting Odiwa;Ove Wassberg;120.500;1.17,0v;1.16,0a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;3;Hilda Nibs;Daniel Kvamsdal;60.250;1.18,7v;1.17,5a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;4;Caramello P.P.;Tore Totland;114.500;1.18,0v;1.15,8a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;5;Logical Cosmic;Øyvind Austevoll;129.500;1.17,2v;1.15,3a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;6;Orlandostile;Bjørn Steine;103.500;1.17,9v;1.15,1a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;7;Getreadyfortakeoff;Claus Olsen;125.725;1.18,3v;1.15,1a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;8;Blues Photo;Svein Ove Wassberg;105.000;1.16,6v;1.14,1a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;9;Loving Liana;Lars Tore Hauge;69.200;1.18,1v;1.17,8a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;1;Bad Boy de Chenu;Rolf Tvedt;235.073;1.17,1v;1.14,6a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;2;Cecilie Halbak;Thomas Wassberg;170.000;1.16,9v;1.14,6a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;3;Covergirl Division;Elisabeth Storetvedt;39.000;1.17,8v;1.15,9a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;4;Axe Brogård;Svein Ove Wassberg;220.274;;1.13,7a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;5;Mc Vet;Håkon Håvardstun;308.491;1.16,0v;1.13,6a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;6;Thundering Lover;Lars Tore Hauge;447.186;1.16,7v;1.11,8a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;7;S.K.'s Monoceros;Thomas Tuft;37.319;1.17,9v;1.21,2a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;8;Lightning;Harald Inge Hagen;406.000;1.15,4v;1.14,7a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;9;B.B. Photo;Ove Wassberg;265.750;1.16,2v;1.15,0a
+Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;10;Mountain Yankee;Bjørn Steine;137.500;1.17,3v;1.14,8a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2100;1;Kolnes Kine;Lars Tore Hauge;18.000;1.32,9v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;2;Vimse T. Ulla;Claus Olsen;29.000;1.33,4v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;3;Mistralen;Roar Hop;28.500;1.32,3v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;4;Vivelid Skinnfaks;Jan Erik Landaas;38.200;1.33,6v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;5;Bokli Inger;Thomas Tuft;29.500;1.33,0v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;6;Åsasvarten;Geir Vie;43.500;1.34,3v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;7;Suksess Med Bless;Elisabeth Storetvedt;34.000;1.34,6v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;8;Smygens Lille Siss;Ove Wassberg;32.000;1.32,5v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;9;Hoppestuss Pila R.S.;Øyvind Austevoll;39.500;1.33,6v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;10;Søndre Vinni;Frank Ringheim;35.200;1.32,3v;1.31,3a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;11;Grude Odin;Svein Ove Wassberg;37.000;1.32,0v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2140;12;Gompen Gullet;Daniel Kvamsdal;61.000;1.32,3v;1.33,1a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2140;13;Lustra Spretten;Anne-Serine Moe Reigstad;46.500;1.31,7v;1.32,8a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2160;14;Frk. Sjur;Håkon Håvardstun;80.000;1.26,3v;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2100;1;T.H. Thermina;Claus Olsen;231.000;1.26,3v;1.26,3a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2100;2;Pytt Elden;Ole Johan Ingebrigtsen;222.000;1.28,4v;1.27,8a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2100;3;Nebbenes Friggi;Jan Erik Landaas;252.000;1.26,8v;1.26,3a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2100;4;Mynte Rasmus;Tore Totland;236.764;1.28,5v;1.26,9a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;5;Valle Max;Rolf Tvedt;450.000;1.25,7v;1.26,3a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;6;Lukas;Elisabeth Storetvedt;476.365;1.25,6v;1.25,5a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;7;Rano Hilda;Lars Tore Hauge;366.000;1.26,1v;1.27,2a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;8;Haukeli Lilla;Svein Ove Wassberg;288.500;1.26,7v;1.27,1a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;9;Todin;Odd Storetvedt;409.000;1.26,4v;1.25,8a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;10;Erdinger;Øyvind Austevoll;467.000;1.25,2v;1.25,1a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2140;11;Art Skogfari;Ove Wassberg;624.629;1.25,8v;1.26,3a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;1;Maxundalex;Thomas Wassberg;285.396;1.16,7v;1.13,8a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;2;Dupont;Daniel Kvamsdal;244.491;1.16,7v;1.14,3a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;3;Wayward;Odd Storetvedt;251.500;1.16,4v;1.15,2a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;4;Shocking Day;Bjørn Steine;287.000;1.17,1v;1.13,9a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;5;Armagedon Vivel;Ove Wassberg;247.719;1.16,0v;1.14,6a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;6;Verona Mile;Øyvind Austevoll;272.697;1.15,9v;1.14,8a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;7;Diego Kievitshof;Stine-Elise Iversen;351.347;1.16,6v;1.14,8a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;8;Bellatrix;Roald Hamre;367.500;1.15,7v;1.14,8a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;9;Swinging Face;Jan Erik Landaas;318.634;1.16,3v;1.14,2a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;10;Unik Gardenia;Tore Totland;266.534;1.16,2v;1.14,4a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2120;11;Jailhouse Banker;Roar Hop;387.750;1.16,7v;1.12,5a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2120;12;Key To Candy;Claus Olsen;421.000;1.14,9v;1.13,2a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2120;13;Ulisse Kronos;Svein Ove Wassberg;653.356;1.13,8v;1.12,1a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2120;14;Roberto D.K.;Rolf Tvedt;733.500;1.14,1v;1.13,9a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2120;15;Flirtin Superb;Thomas Tuft;460.027;1.16,2v;1.12,2a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2100;1;Bovis Maia;Thomas Wassberg;59.400;1.31,0v;1.30,3a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2120;2;Lannem Hera;Hege Kristin Høyland;139.833;1.29,1v;1.27,6a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2120;3;Kleppe Maia;Stine-Elise Iversen;94.500;1.30,7v;1.31,3a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2120;4;Kvalviks Snippen;Caroline Kaarevik;132.500;1.28,8v;1.29,2a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2120;5;Bjørkevarg;Elisabeth Storetvedt;110.700;1.28,5v;1.28,6a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2120;6;Ludvik;Eirin Dächert Norekvål;123.000;1.29,3v;1.27,2a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2140;7;Boen Odin;Marita Kristin Sælen;201.500;1.29,4v;1.28,6a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2140;8;Alm Tekla;Maren Andrea Gjermundrød;212.500;1.28,3v;1.27,1a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2140;9;Bokli Stjernen;Bjørn Steine;213.000;1.27,9v;1.25,8a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2160;10;Mos Lomen;Hanne Karin Rasch;290.000;1.27,3v;1.26,3a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;8;1600;1;Birk Sindy;Ove Wassberg;0;;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;8;1600;2;Ping Ø.K.;Svein Ove Wassberg;0;;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;8;1600;3;Vimse Sven;Claus Olsen;0;;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;9;2100;1;Nalle Flax;Svein Ove Wassberg;72.302;1.18,0v;1.15,7a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;9;2100;2;Deep Sea Crusher;Roar Hop;16.000;1.17,3v;1.18,2a
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;9;2120;3;Huseby Minni;Jan Erik Landaas;0;;
+Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;9;2120;4;Ida V.A.;Ove Wassberg;202.000;1.27,9v;1.27,8a

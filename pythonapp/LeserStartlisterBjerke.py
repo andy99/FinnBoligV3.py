@@ -5,7 +5,7 @@ if os.path.isfile("D:\workplace_python\pythonapp\DntStartLister.txt"):
     print("D:\workplace_python\pythonapp\DntStartlister.txt","blir slettet")
     os.remove("D:\workplace_python\pythonapp\DntStartLister.txt")
 coding='utf8'
-r = requests.get("http://www.travsport.no/Sport/StartLister/Bergen-Travpark/?date=20181213")
+r = requests.get("http://www.travsport.no/Sport/StartLister/Bergen-Travpark/?date=20191114")
 #                       http://www.travsport.no/Sport/Resultater/Forus-Travbane/ 
 
 r.content
@@ -19,7 +19,8 @@ Starttabell = soup.find_all('table')
 wkol = 0
 lop = 0
 lopinformasjon=["Gunnar"]
-with open('DntStartLister.txt', 'a') as f:
+# with open('"D:\workplace_python\pythonapp\DntStartLister.txt', 'a' , encoding="utf-8") as f:
+with open('D:\workplace_python\pythonapp\DntStartLister.txt', 'a') as f:    
 #         for tr in enumerate(Hesttabell[1]):
     teller = 0 
 #     lop = 0
@@ -37,12 +38,12 @@ with open('DntStartLister.txt', 'a') as f:
         lopnr = 0
 #         lop = 0
         if antkol == 1:
-            print(tds[0].text.strip(), "Hva er innholdet nar kun 1 kollone")
+#             print(tds[0].text.strip(), "Hva er innholdet nar kun 1 kollone")
             lopinformasjon = tds[0].text.strip()
-            print(lopinformasjon, "Hva er Lopinformasjon")
+#             print(lopinformasjon, "Hva er Lopinformasjon")
             print( lopinformasjon.find(".Premier"))
             startmetodefinn = lopinformasjon.find("Autostart")
-            print(startmetodefinn,"Hva er verdien pa startmetode finn")
+#             print(startmetodefinn.encode("utf-8"),"Hva er verdien pa startmetode finn")
             if startmetodefinn > 0:
                 startmetode = "Autostart"
             else:

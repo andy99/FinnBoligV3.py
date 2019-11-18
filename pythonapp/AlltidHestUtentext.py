@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 num = 0
-while num < 417:
+while num < 521:
     
 #     num = 9
     print(num)

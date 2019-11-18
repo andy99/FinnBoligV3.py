@@ -1,6 +1,68 @@
-,3,Strøket,Hans Chr.    Holm,Resultater    -  Bjerke Travbane  -  15.12.2018,Empress Act,Auto
-,3,Strøket,Simen Bjørbæk    Jessen,Resultater    -  Bjerke Travbane  -  15.12.2018,S.J.'s All In All,Auto
-,4,Strøket,Tom Erik    Solberg,Resultater    -  Bjerke Travbane  -  15.12.2018,Royal Baby,Auto
-,7,Strøket,Joakim    Hansen,Resultater    -  Bjerke Travbane  -  15.12.2018,J.T.'s Moneypenny,Auto
-,7,Strøket,Vidar    Hop,Resultater    -  Bjerke Travbane  -  15.12.2018,Exciting Chip (S),Auto
-,9,Strøket,Dag-Sveinung    Dalen,Resultater    -  Bjerke Travbane  -  15.12.2018,Urakas Gilbak (DK),Auto
+,2,Strøket,Andre H.    Stensen,Resultater    -  Leangen Travbane  -  04.11.2019,Yesyesyes,Auto
+,5,Strøket,Hilde Marie    Østborg,Resultater    -  Leangen Travbane  -  04.11.2019,Odd Hera,Volte
+,6,Strøket,Torkil    Steinshaug,Resultater    -  Leangen Travbane  -  04.11.2019,Five Stars Genius,Auto
+,7,Strøket,Karl Ove    Nordtømme,Resultater    -  Leangen Travbane  -  04.11.2019,Vikan Jerva,Volte
+,1,Strøket,Stine    Lode,Resultater    -  Forus Travbane  -  05.11.2019,Gjerde Tora,Volte
+,1,Strøket,Beate    Barka,Resultater    -  Forus Travbane  -  05.11.2019,Misi Ø.K.,Volte
+,5,Strøket,Johan Kringeland    Eriksen,Resultater    -  Forus Travbane  -  05.11.2019,Kringeland Enok,Volte
+,7,Strøket,Einar    Nedrebø,Resultater    -  Forus Travbane  -  05.11.2019,Xante,Auto
+,8,Strøket,Johan Kringeland    Eriksen,Resultater    -  Forus Travbane  -  05.11.2019,Golden Daiquiri,Volte
+,9,Strøket,Atle    Erga,Resultater    -  Forus Travbane  -  05.11.2019,Erga Fenja,Volte
+,9,Strøket,Kenneth    Handeland,Resultater    -  Forus Travbane  -  05.11.2019,S.W.A.T.,Volte
+,1,Strøket,Jan Roar    Mjølnerød,Resultater    -  Bjerke Travbane  -  06.11.2019,Under,Volte
+,1,Strøket,Dag-Sveinung    Dalen,Resultater    -  Bjerke Travbane  -  06.11.2019,Stjerna Mi,Volte
+,2,Strøket,Maria    Lundgren,Resultater    -  Bjerke Travbane  -  06.11.2019,Geisha B.R.*,Auto
+,5,Strøket,Lars Anvar    Kolle,Resultater    -  Bjerke Travbane  -  06.11.2019,Delicious Babe (DK),Auto
+,7,Strøket,Olav    Mikkelborg,Resultater    -  Bjerke Travbane  -  06.11.2019,Lightning Mcqueen,Auto
+,8,Strøket,Hans Jørgen    Eggen,Resultater    -  Bjerke Travbane  -  06.11.2019,Crystals Standpoint,Volte
+,8,Strøket,Dag-Sveinung    Dalen,Resultater    -  Bjerke Travbane  -  06.11.2019,Unique Creation,Volte
+,2,Strøket,Gunnar    Austevoll,Resultater    -  Klosterskogen Travbane  -  07.11.2019,Fearless Beauty,Auto
+,3,Strøket,Ole Johan    Østre,Resultater    -  Klosterskogen Travbane  -  07.11.2019,Nota Fool Genius,Auto
+,4,Strøket,Gunnar    Austevoll,Resultater    -  Klosterskogen Travbane  -  07.11.2019,Huseby Snuppa,Auto
+,5,Strøket,Adrian Solberg    Akselsen,Resultater    -  Klosterskogen Travbane  -  07.11.2019,Trø Hera,Auto
+,5,Strøket,Åsbjørn    Tengsareid,Resultater    -  Klosterskogen Travbane  -  07.11.2019,Ask Eld,Auto
+,6,Strøket,Gunnar    Austevoll,Resultater    -  Klosterskogen Travbane  -  07.11.2019,Seabreeze Ås (US),Volte
+,7,Strøket,Anita Hansen    Juklerød,Resultater    -  Klosterskogen Travbane  -  07.11.2019,Jerkeld Frøya,Volte
+,2,Strøket,Kim    Mathisen,Resultater    -  Biri Travbane  -  08.11.2019,Jetalatotning,Auto
+,4,Strøket,Eirik    Høitomt,Resultater    -  Biri Travbane  -  08.11.2019,Tysvær Loke,Auto
+,6,Strøket,Dag-Sveinung    Dalen,Resultater    -  Biri Travbane  -  08.11.2019,Enjoythefuture S.C.,Auto
+,7,Strøket,Liv Marie    Hansen,Resultater    -  Biri Travbane  -  08.11.2019,Vangli Brego,Volte
+,7,Strøket,Øyvind    Ruttenborg,Resultater    -  Biri Travbane  -  08.11.2019,Tusse Minto,Volte
+,7,Strøket,Rune    Flaskerud,Resultater    -  Biri Travbane  -  08.11.2019,Strong Pepper,Volte
+,7,Strøket,Ole Fredrik    Karlsen,Resultater    -  Biri Travbane  -  08.11.2019,Spang Emblan,Volte
+,7,Strøket,Geir    Kihle,Resultater    -  Biri Travbane  -  08.11.2019,Kjempen,Volte
+,1,Strøket,Frode Karl    Hansen,Resultater    -  Jarlsberg Travbane  -  09.11.2019,Pegasus Dotcom,Auto
+,3,Strøket,Herman R.    Tvedt,Resultater    -  Jarlsberg Travbane  -  09.11.2019,Obrigado Brazz,Volte
+,6,Strøket,Dag-Sveinung    Dalen,Resultater    -  Jarlsberg Travbane  -  09.11.2019,Kick Off Classic,Auto
+,7,Strøket,Svein Ove    Wassberg,Resultater    -  Jarlsberg Travbane  -  09.11.2019,Jerkla O.K.,Volte
+,7,Strøket,Dag-Sveinung    Dalen,Resultater    -  Jarlsberg Travbane  -  09.11.2019,Haugestad Arne,Volte
+,1,Strøket,Mari    Løve,Resultater    -  Momarken Travbane  -  10.11.2019,Rolf Martin,Volte
+,3,Strøket,Jan Roar    Mjølnerød,Resultater    -  Momarken Travbane  -  10.11.2019,Garli Kongen,Volte
+,5,Strøket,Per Kr.    Klemmetsen,Resultater    -  Momarken Travbane  -  10.11.2019,Jocose Express,Auto
+,5,Strøket,Hans Chr.    Holm,Resultater    -  Momarken Travbane  -  10.11.2019,Vibra Thor,Auto
+,7,Strøket,Lars Fredrik    Kolle,Resultater    -  Momarken Travbane  -  10.11.2019,Joe Hoo Lee (S),Auto
+,9,Strøket,Tom    Horpestad,Resultater    -  Momarken Travbane  -  10.11.2019,Sunny Day* (S),Volte
+,9,Strøket,Anne Berit    Schei,Resultater    -  Momarken Travbane  -  10.11.2019,Skjeggejerven,Volte
+,9,Strøket,Eirik    Høitomt,Resultater    -  Momarken Travbane  -  10.11.2019,Krem Tora,Volte
+,1,Strøket,Inge    Melby,Resultater    -  Leangen Travbane  -  11.11.2019,Gemina,Volte
+,3,Strøket,Jarle Morten    Sørmo,Resultater    -  Leangen Travbane  -  11.11.2019,Hage Elna,Auto
+,4,Strøket,Atle    Solhus,Resultater    -  Leangen Travbane  -  11.11.2019,R.M.G. Dancing Queen,Volte
+,4,Strøket,Magne    Olsen,Resultater    -  Leangen Travbane  -  11.11.2019,Man Of Steel,Volte
+,5,Strøket,Ragnhild    Bjørnbeth,Resultater    -  Leangen Travbane  -  11.11.2019,Gaardens Viktor,Volte
+,5,Strøket,Atle    Solhus,Resultater    -  Leangen Travbane  -  11.11.2019,Storm Odd,Volte
+,6,Strøket,Inge    Melby,Resultater    -  Leangen Travbane  -  11.11.2019,Zarahs Valentino,Auto
+,9,Strøket,Karl Ove    Nordtømme,Resultater    -  Leangen Travbane  -  11.11.2019,S.K.'s Iron Lady,Auto
+,9,Strøket,Anders Lundstrøm    Wolden,Resultater    -  Leangen Travbane  -  11.11.2019,Gjølmes Magistrate,Auto
+,9,Strøket,Atle    Solhus,Resultater    -  Leangen Travbane  -  11.11.2019,Norbalder,Volte
+,3,Strøket,Tonje    Gudmestad,Resultater    -  Forus Travbane  -  12.11.2019,Lucky,Volte
+,7,Strøket,Oddvar    Mæland,Resultater    -  Forus Travbane  -  12.11.2019,Matchplay S.S.,Volte
+,8,Strøket,Per Arvid    Erga,Resultater    -  Forus Travbane  -  12.11.2019,Erga Viking,Volte
+,8,Strøket,Bjørn    Steine,Resultater    -  Forus Travbane  -  12.11.2019,Myrviks Pjokken,Volte
+,1,Strøket,Adrian Solberg    Akselsen,Resultater    -  Bjerke Travbane  -  13.11.2019,Ramstad Balder,Auto
+,4,Strøket,Tanja    Johansen,Resultater    -  Bjerke Travbane  -  13.11.2019,Odins Zamurai,Volte
+,4,Strøket,Eivind    Gravdal,Resultater    -  Bjerke Travbane  -  13.11.2019,Runi,Volte
+,6,Strøket,Åsbjørn    Tengsareid,Resultater    -  Bjerke Travbane  -  13.11.2019,Brenne Blissi,Volte
+,7,Strøket,Eirik    Høitomt,Resultater    -  Bjerke Travbane  -  13.11.2019,Aida Mae,Auto
+,8,Strøket,Morten A.    Pedersen,Resultater    -  Bjerke Travbane  -  13.11.2019,A Fair Friend,Volte
+,8,Strøket,Kristian    Malmin,Resultater    -  Bjerke Travbane  -  13.11.2019,Paris Tile,Volte
+,8,Strøket,Olav    Mikkelborg,Resultater    -  Bjerke Travbane  -  13.11.2019,Ejo Rappa,Volte

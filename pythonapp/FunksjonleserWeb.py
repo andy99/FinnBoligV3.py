@@ -8,7 +8,8 @@ def FunksjonleserWeb(webdato):
     print(webdato," webdatoer ifunksjon Leser hestedata Gunnar Hurra ")
     print(Lastedato," Lastedato er i funksjon Leser hestedata Gunnar Hurra ")  
     #r = requests.get("http://www.alltidhest.org/Horses/Page/{}".format(num) )
-    r = requests.get("http://www.travsport.no/Sport/Resultater/Bjerke-Travbane/?date=" + Lastedato)
+#     r = requests.get("http://www.travsport.no/Sport/Resultater/Leangen-Travbane/?date=" + Lastedato"
+    r = requests.get("http://www.travsport.no/Sport/Resultater/Leangen-Travbane/?date=" + Lastedato)
     r.content
     soup = BeautifulSoup(r.content,"html.parser")
     Hesttabell = soup.find_all('tbody')

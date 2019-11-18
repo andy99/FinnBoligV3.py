@@ -15,7 +15,7 @@ while num < 416:
     #print(LeserDNTdatofradatabase.Lastedato)
     #r = requests.get("http://www.alltidhest.org/Horses/Page/{}".format(num) )
 #     r = requests.get("http://www.travsport.no/Sport/Resultater/Bergen-Travpark/")
-    r = requests.get("http://www.travsport.no/Sport/Resultater/Bergen-Travpark/")
+    r = requests.get("http://www.travsport.no/Sport/Resultater/Leangen-Travbane/")
 #                       http://www.travsport.no/Sport/Resultater/Forus-Travbane/ 
     num = num + 1
     r.content

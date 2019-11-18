@@ -77,7 +77,7 @@ for h2 in soup.find_all('h2')[1]:
 wkol = 0
 lop = 0
 lopinformasjon=["Gunnar"]
-with open('Dntresultatlistertest.txt', 'a') as f:
+with open('D:\workplace_python\TravAnalyse\Dntresultatlistertest.txt', 'a') as f:
 #         for tr in enumerate(Hesttabell[1]):
     teller = 0 
 #     lop = 0
