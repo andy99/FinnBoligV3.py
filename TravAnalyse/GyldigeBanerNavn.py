@@ -2,7 +2,9 @@ import pypyodbc
 con = pypyodbc.connect
 def GyldigeBanerNavn(Banenavn):
 #     return prosentgallop
-    print(Banenavn,"Videre behandling av hestenummer i funksjon leser resultat") 
+    print(Banenavn,"Videre behandling av hestenummer i funksjon leser resultat")
+    if Banenavn == 'Orkla-Arena':
+        Banenavn = 'Varig-Orkla-Arena'
     con = pypyodbc.connect('Driver={SQL Server};' 'Server=DESKTOP-0CMQN56;''Database=Trav;''user=Gunnar;' 'Pwd=gunnar')
     if con:
 #         ingengalopp=0 

@@ -6,6 +6,9 @@ def Funkresauto(webdato,bane):
     #     Lastedato = '20180313'
     Lastedato = webdato
     Bane = bane
+    if Bane == 'Orkla-Arena':
+        Bane = 'Varig-Orkla-Arena'
+
     print(Bane,"Bane som det skal hentes resultat dato for auto")
     print(webdato," webdatoer funkresauto Leser hestedata Gunnar Hurra ")
     print(Lastedato," Lastedato er i funksjon Leser reslutater Automatisk")
@@ -32,7 +35,7 @@ def Funkresauto(webdato,bane):
 #         for tr in enumerate(Hesttabell[1]):
         teller = 0 
         for tr in soup.find_all('tr')[2:]:
-            #print(tr,'Skriver tr i tabell 1')
+            print(tr,'Skriver tr i tabell 1')
             tds = tr.find_all('td')
 #             antrader = len(tr)
             #print(antrader,"Antall rader")

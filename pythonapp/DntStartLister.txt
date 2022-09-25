@@ -1,84 +1,54 @@
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;1;A Million To One;Trygve K. Håvardstun;196.000;1.16,3v;1.14,3a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;2;Ambitious Voyager;Rolf Tvedt;212.640;1.17,8v;1.13,0a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;3;Biwa;Harald Inge Hagen;194.500;1.15,9v;1.14,9a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;4;Scot Ganymede;Ove Wassberg;161.869;1.15,5v;1.13,5a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;5;Counterstrike;Svein Ove Wassberg;176.514;1.16,2v;1.13,5a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;6;Julia Ressie;Tore Totland;173.750;1.16,3v;1.14,7a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;7;Respect;Daniel Kvamsdal;193.399;1.16,6v;1.14,0a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;1;2100;8;Bombastica;Håkon Håvardstun;156.472;1.17,1v;1.14,6a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;1;Parkthemall;Thomas Wassberg;98.000;1.16,8v;1.16,0a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;2;Fighting Odiwa;Ove Wassberg;120.500;1.17,0v;1.16,0a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;3;Hilda Nibs;Daniel Kvamsdal;60.250;1.18,7v;1.17,5a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;4;Caramello P.P.;Tore Totland;114.500;1.18,0v;1.15,8a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;5;Logical Cosmic;Øyvind Austevoll;129.500;1.17,2v;1.15,3a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;6;Orlandostile;Bjørn Steine;103.500;1.17,9v;1.15,1a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;7;Getreadyfortakeoff;Claus Olsen;125.725;1.18,3v;1.15,1a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;8;Blues Photo;Svein Ove Wassberg;105.000;1.16,6v;1.14,1a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;2;2100;9;Loving Liana;Lars Tore Hauge;69.200;1.18,1v;1.17,8a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;1;Bad Boy de Chenu;Rolf Tvedt;235.073;1.17,1v;1.14,6a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;2;Cecilie Halbak;Thomas Wassberg;170.000;1.16,9v;1.14,6a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;3;Covergirl Division;Elisabeth Storetvedt;39.000;1.17,8v;1.15,9a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;4;Axe Brogård;Svein Ove Wassberg;220.274;;1.13,7a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;5;Mc Vet;Håkon Håvardstun;308.491;1.16,0v;1.13,6a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;6;Thundering Lover;Lars Tore Hauge;447.186;1.16,7v;1.11,8a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;7;S.K.'s Monoceros;Thomas Tuft;37.319;1.17,9v;1.21,2a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;8;Lightning;Harald Inge Hagen;406.000;1.15,4v;1.14,7a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;9;B.B. Photo;Ove Wassberg;265.750;1.16,2v;1.15,0a
-Autostart;  Startliste    -  Bergen Travpark - 14.11.2019;3;2100;10;Mountain Yankee;Bjørn Steine;137.500;1.17,3v;1.14,8a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2100;1;Kolnes Kine;Lars Tore Hauge;18.000;1.32,9v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;2;Vimse T. Ulla;Claus Olsen;29.000;1.33,4v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;3;Mistralen;Roar Hop;28.500;1.32,3v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;4;Vivelid Skinnfaks;Jan Erik Landaas;38.200;1.33,6v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;5;Bokli Inger;Thomas Tuft;29.500;1.33,0v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;6;Åsasvarten;Geir Vie;43.500;1.34,3v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;7;Suksess Med Bless;Elisabeth Storetvedt;34.000;1.34,6v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;8;Smygens Lille Siss;Ove Wassberg;32.000;1.32,5v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;9;Hoppestuss Pila R.S.;Øyvind Austevoll;39.500;1.33,6v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;10;Søndre Vinni;Frank Ringheim;35.200;1.32,3v;1.31,3a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2120;11;Grude Odin;Svein Ove Wassberg;37.000;1.32,0v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2140;12;Gompen Gullet;Daniel Kvamsdal;61.000;1.32,3v;1.33,1a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2140;13;Lustra Spretten;Anne-Serine Moe Reigstad;46.500;1.31,7v;1.32,8a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;4;2160;14;Frk. Sjur;Håkon Håvardstun;80.000;1.26,3v;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2100;1;T.H. Thermina;Claus Olsen;231.000;1.26,3v;1.26,3a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2100;2;Pytt Elden;Ole Johan Ingebrigtsen;222.000;1.28,4v;1.27,8a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2100;3;Nebbenes Friggi;Jan Erik Landaas;252.000;1.26,8v;1.26,3a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2100;4;Mynte Rasmus;Tore Totland;236.764;1.28,5v;1.26,9a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;5;Valle Max;Rolf Tvedt;450.000;1.25,7v;1.26,3a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;6;Lukas;Elisabeth Storetvedt;476.365;1.25,6v;1.25,5a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;7;Rano Hilda;Lars Tore Hauge;366.000;1.26,1v;1.27,2a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;8;Haukeli Lilla;Svein Ove Wassberg;288.500;1.26,7v;1.27,1a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;9;Todin;Odd Storetvedt;409.000;1.26,4v;1.25,8a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2120;10;Erdinger;Øyvind Austevoll;467.000;1.25,2v;1.25,1a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;5;2140;11;Art Skogfari;Ove Wassberg;624.629;1.25,8v;1.26,3a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;1;Maxundalex;Thomas Wassberg;285.396;1.16,7v;1.13,8a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;2;Dupont;Daniel Kvamsdal;244.491;1.16,7v;1.14,3a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;3;Wayward;Odd Storetvedt;251.500;1.16,4v;1.15,2a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;4;Shocking Day;Bjørn Steine;287.000;1.17,1v;1.13,9a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;5;Armagedon Vivel;Ove Wassberg;247.719;1.16,0v;1.14,6a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;6;Verona Mile;Øyvind Austevoll;272.697;1.15,9v;1.14,8a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;7;Diego Kievitshof;Stine-Elise Iversen;351.347;1.16,6v;1.14,8a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;8;Bellatrix;Roald Hamre;367.500;1.15,7v;1.14,8a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;9;Swinging Face;Jan Erik Landaas;318.634;1.16,3v;1.14,2a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2100;10;Unik Gardenia;Tore Totland;266.534;1.16,2v;1.14,4a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2120;11;Jailhouse Banker;Roar Hop;387.750;1.16,7v;1.12,5a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2120;12;Key To Candy;Claus Olsen;421.000;1.14,9v;1.13,2a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2120;13;Ulisse Kronos;Svein Ove Wassberg;653.356;1.13,8v;1.12,1a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2120;14;Roberto D.K.;Rolf Tvedt;733.500;1.14,1v;1.13,9a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;6;2120;15;Flirtin Superb;Thomas Tuft;460.027;1.16,2v;1.12,2a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2100;1;Bovis Maia;Thomas Wassberg;59.400;1.31,0v;1.30,3a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2120;2;Lannem Hera;Hege Kristin Høyland;139.833;1.29,1v;1.27,6a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2120;3;Kleppe Maia;Stine-Elise Iversen;94.500;1.30,7v;1.31,3a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2120;4;Kvalviks Snippen;Caroline Kaarevik;132.500;1.28,8v;1.29,2a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2120;5;Bjørkevarg;Elisabeth Storetvedt;110.700;1.28,5v;1.28,6a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2120;6;Ludvik;Eirin Dächert Norekvål;123.000;1.29,3v;1.27,2a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2140;7;Boen Odin;Marita Kristin Sælen;201.500;1.29,4v;1.28,6a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2140;8;Alm Tekla;Maren Andrea Gjermundrød;212.500;1.28,3v;1.27,1a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2140;9;Bokli Stjernen;Bjørn Steine;213.000;1.27,9v;1.25,8a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;7;2160;10;Mos Lomen;Hanne Karin Rasch;290.000;1.27,3v;1.26,3a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;8;1600;1;Birk Sindy;Ove Wassberg;0;;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;8;1600;2;Ping Ø.K.;Svein Ove Wassberg;0;;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;8;1600;3;Vimse Sven;Claus Olsen;0;;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;9;2100;1;Nalle Flax;Svein Ove Wassberg;72.302;1.18,0v;1.15,7a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;9;2100;2;Deep Sea Crusher;Roar Hop;16.000;1.17,3v;1.18,2a
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;9;2120;3;Huseby Minni;Jan Erik Landaas;0;;
-Volestart;  Startliste    -  Bergen Travpark - 14.11.2019;9;2120;4;Ida V.A.;Ove Wassberg;202.000;1.27,9v;1.27,8a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;1;B.R.U.N.;Johan Herbjørn Undem;72.500;1.18,0v;1.15,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;2;Luckyblackmagic S.C.;Lars Anvar Kolle;73.500;1.19,8v;1.16,0a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;3;Thai Ohio;Frode Hamre;70.888;1.14,7v;1.15,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;4;Shameless I.M.;Kristian Malmin;75.990;1.17,0v;1.14,5a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;5;Fighter From Start;Dag-Sveinung Dalen;80.479;1.19,7v;1.14,0a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;6;Primary Tile;Eirik Høitomt;58.500;1.18,3v;1.16,4a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;7;Microchip;Gunnar Austevoll;62.500;1.17,8v;1.15,9a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;8;I.D. Ecailler;Magnus Teien Gundersen;81.500;1.18,7v;1.15,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;9;Muscle Love;Harry Tharaldsen;66.500;1.18,4v;1.16,0a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;10;Er Pupone;Vidar Hop;80.500;1.18,0v;1.15,2a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;11;Bold Little Drummer;Geir Nordbotten;63.000;1.18,2v;1.14,9a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;12;Khloe B.R.;Åsbjørn Tengsareid;61.000;1.17,6v;1.16,9a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;1;Nashville Yankee;Bjørn Steine;177.859;1.16,7v;1.13,5a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;2;Star Act;Vidar Hop;203.996;1.17,4v;1.14,4a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;3;Thai Daenerys;Magnus Teien Gundersen;192.717;1.17,0v;1.13,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;4;Herman;Gunnar Austevoll;228.500;1.16,2v;1.13,4a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;5;Hera B.R.;Kristian Malmin;226.382;1.21,5v;1.13,7a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;6;Global Association;Eirik Høitomt;197.265;1.15,4v;1.13,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;7;Viking Ivi;Joakim Hansen;216.063;1.16,8v;1.13,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;8;Roald A.Boko;Dag-Sveinung Dalen;146.000;1.16,9v;1.14,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;9;Holeinone Pepper;Lars Anvar Kolle;225.980;1.16,7v;1.14,1a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;10;Starlight Morning;Connie Engebråthen;214.000;1.19,0v;1.13,8a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;1;Trocadero;Sebastian Rishovd;117.500;1.19,1v;1.13,8a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;2;Pastor Royal;Guro Mogset;118.868;1.17,0v;1.15,6a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;3;Ultimate Love;Gunnar Austevoll;130.000;1.19,8v;1.15,0a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;4;Bellfire;Johan Herbjørn Undem;86.000;1.16,7v;1.14,8a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;5;Tib Roxanne;Magnus Teien Gundersen;128.000;1.17,3v;1.14,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;6;Klaas B.R.;Per Oleg Midtfjeld;124.652;1.17,2v;1.14,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;7;Formula Photo;Lars Anvar Kolle;96.000;1.18,5v;1.14,9a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;8;Mountain Valdimir;Connie Engebråthen;116.500;1.18,1v;1.14,6a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;9;South Valley May;Kristian Malmin;130.000;1.18,0v;1.14,0a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;10;Riverside Princess;Vidar Hop;116.000;1.18,0v;1.14,6a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;11;Shockadelica;Dag-Sveinung Dalen;121.500;1.17,1v;1.13,8a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;12;Zakira;Eirik Høitomt;126.500;1.16,3v;1.14,7a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;1;Dynamic Dancer;Kristian Malmin;350.430;1.16,3v;1.12,4a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;2;Gentletron;Eirik Høitomt;447.344;1.14,8v;1.12,6a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;3;Mr. Chocolate;Gunnar Austevoll;492.483;1.17,4v;1.12,2a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;4;Skylander Hill;Per Vetle Kals;517.500;1.14,2v;1.13,5a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;5;Photo Fighter;Lars Anvar Kolle;532.000;1.21,2v;1.12,1a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;6;Frick;Herman R. Tvedt;558.976;1.14,8v;1.12,8a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;7;Glazier's Vici;Åsbjørn Tengsareid;641.063;1.15,4v;1.12,5a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;8;Income;Connie Engebråthen;662.500;1.14,0v;1.12,7a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;9;Caruso;Frode Hamre;583.674;;1.09,1a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;10;Easy Kiss;Bjørn Steine;600.510;1.15,4v;1.13,1a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;1;Bellini Reviere;Eirik Høitomt;41.000;1.19,5v;1.15,6a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;2;Bravestile;Vidar Hop;44.000;;1.14,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;3;Quantum Tile;Kristian Malmin;35.000;;1.16,8a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;4;Oliver Touch;Åsbjørn Tengsareid;40.500;1.19,2v;1.16,8a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;5;Phantom Rex;Bjørn Steine;43.000;1.19,5v;1.14,3a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;6;Chapman;Dag-Sveinung Dalen;40.000;1.19,2v;1.16,2a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;7;Letsgo Soa;Herman R. Tvedt;24.000;1.16,9v;1.14,8a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;8;Golden Brunette;Per Oleg Midtfjeld;44.500;;1.17,1a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;9;Gunny Coktail M.E.;Lars Anvar Kolle;42.496;1.18,2v;1.16,9a
+Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;10;Helia Gendreenne;Gunnar Austevoll;42.500;1.18,1v;1.16,9a

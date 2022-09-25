@@ -1,664 +1,2000 @@
- Tirsdag, 1. jan 2019;
- Torsdag, 27. des 2018;
- Mandag, 17. des 2018;
- Mandag, 10. des 2018;
- Mandag, 3. des 2018;
- Lørdag, 24. nov 2018;
- Mandag, 12. nov 2018;
- Mandag, 5. nov 2018;
- Mandag, 29. okt 2018;
- Torsdag, 25. okt 2018;
- Lørdag, 20. okt 2018;
- Mandag, 15. okt 2018;
- Mandag, 8. okt 2018;
- Lørdag, 29. sept 2018;
- Mandag, 17. sept 2018;
- Mandag, 10. sept 2018;
- Mandag, 3. sept 2018;
- Søndag, 26. aug 2018;
- Mandag, 20. aug 2018;
- Mandag, 6. aug 2018;
- Mandag, 30. jul 2018;
- Mandag, 23. jul 2018;
- Lørdag, 14. jul 2018;
- Mandag, 9. jul 2018;
- Mandag, 2. jul 2018;
- Lørdag, 23. jun 2018;
- Fredag, 22. jun 2018;
- Mandag, 11. jun 2018;
- Mandag, 4. jun 2018;
- Mandag, 28. mai 2018;
- Mandag, 21. mai 2018;
- Mandag, 14. mai 2018;
- Mandag, 7. mai 2018;
- Søndag, 29. apr 2018;
- Mandag, 23. apr 2018;
- Mandag, 16. apr 2018;
- Lørdag, 7. apr 2018;
- Søndag, 1. apr 2018;
- Mandag, 26. mar 2018;
- Mandag, 19. mar 2018;
- Mandag, 12. mar 2018;
- Mandag, 5. mar 2018;
- Mandag, 26. feb 2018;
- Mandag, 19. feb 2018;
- Mandag, 12. feb 2018;
- Mandag, 5. feb 2018;
- Lørdag, 27. jan 2018;
- Mandag, 15. jan 2018;
- Mandag, 8. jan 2018;
- Mandag, 1. jan 2018;
- Torsdag, 28. des 2017;
- Mandag, 18. des 2017;
- Mandag, 11. des 2017;
- Lørdag, 2. des 2017;
- Søndag, 26. nov 2017;
- Mandag, 20. nov 2017;
- Mandag, 13. nov 2017;
- Mandag, 6. nov 2017;
- Torsdag, 2. nov 2017;
- Lørdag, 28. okt 2017;
- Lørdag, 21. okt 2017;
- Mandag, 16. okt 2017;
- Lørdag, 7. okt 2017;
- Mandag, 2. okt 2017;
- Mandag, 25. sept 2017;
- Mandag, 18. sept 2017;
- Mandag, 11. sept 2017;
- Mandag, 4. sept 2017;
- Torsdag, 31. aug 2017;
- Mandag, 14. aug 2017;
- Mandag, 7. aug 2017;
- Mandag, 24. jul 2017;
- Mandag, 17. jul 2017;
- Mandag, 10. jul 2017;
- Mandag, 3. jul 2017;
- Lørdag, 24. jun 2017;
- Fredag, 23. jun 2017;
- Mandag, 12. jun 2017;
- Mandag, 5. jun 2017;
- Mandag, 29. mai 2017;
- Mandag, 22. mai 2017;
- Mandag, 15. mai 2017;
- Mandag, 8. mai 2017;
- Mandag, 1. mai 2017;
- Mandag, 24. apr 2017;
- Mandag, 17. apr 2017;
- Lørdag, 8. apr 2017;
- Mandag, 27. mar 2017;
- Mandag, 20. mar 2017;
- Mandag, 13. mar 2017;
- Mandag, 6. mar 2017;
- Mandag, 27. feb 2017;
- Mandag, 20. feb 2017;
- Mandag, 13. feb 2017;
- Mandag, 6. feb 2017;
- Lørdag, 28. jan 2017;
- Mandag, 16. jan 2017;
- Mandag, 9. jan 2017;
- Mandag, 2. jan 2017;
- Mandag, 26. des 2016;
- Mandag, 19. des 2016;
- Mandag, 12. des 2016;
- Lørdag, 3. des 2016;
- Lørdag, 26. nov 2016;
- Søndag, 20. nov 2016;
- Søndag, 13. nov 2016;
- Mandag, 7. nov 2016;
- Lørdag, 29. okt 2016;
- Søndag, 23. okt 2016;
- Mandag, 17. okt 2016;
- Mandag, 10. okt 2016;
- Mandag, 3. okt 2016;
- Mandag, 26. sept 2016;
- Mandag, 12. sept 2016;
- Tirsdag, 6. sept 2016;
- Mandag, 29. aug 2016;
- Mandag, 22. aug 2016;
- Mandag, 15. aug 2016;
- Mandag, 1. aug 2016;
- Mandag, 25. jul 2016;
- Mandag, 18. jul 2016;
- Mandag, 11. jul 2016;
- Mandag, 4. jul 2016;
- Lørdag, 25. jun 2016;
- Fredag, 24. jun 2016;
- Torsdag, 16. jun 2016;
- Mandag, 13. jun 2016;
- Mandag, 6. jun 2016;
- Mandag, 30. mai 2016;
- Mandag, 23. mai 2016;
- Mandag, 16. mai 2016;
- Mandag, 9. mai 2016;
- Lørdag, 30. apr 2016;
- Mandag, 25. apr 2016;
- Mandag, 18. apr 2016;
- Mandag, 11. apr 2016;
- Lørdag, 2. apr 2016;
- Mandag, 21. mar 2016;
- Mandag, 14. mar 2016;
- Mandag, 7. mar 2016;
- Mandag, 29. feb 2016;
- Mandag, 22. feb 2016;
- Mandag, 15. feb 2016;
- Mandag, 8. feb 2016;
- Tirsdag, 2. feb 2016;
- Lørdag, 30. jan 2016;
- Mandag, 18. jan 2016;
- Mandag, 11. jan 2016;
- Mandag, 4. jan 2016;
- Søndag, 27. des 2015;
- Mandag, 21. des 2015;
- Mandag, 14. des 2015;
- Lørdag, 5. des 2015;
- Søndag, 29. nov 2015;
- Mandag, 23. nov 2015;
- Mandag, 16. nov 2015;
- Mandag, 9. nov 2015;
- Mandag, 2. nov 2015;
- Mandag, 26. okt 2015;
- Lørdag, 17. okt 2015;
- Mandag, 12. okt 2015;
- Lørdag, 3. okt 2015;
- Lørdag, 26. sept 2015;
- Mandag, 21. sept 2015;
- Mandag, 14. sept 2015;
- Mandag, 7. sept 2015;
- Tirsdag, 1. sept 2015;
- Mandag, 24. aug 2015;
- Mandag, 17. aug 2015;
- Lørdag, 8. aug 2015;
- Tirsdag, 4. aug 2015;
- Mandag, 27. jul 2015;
- Mandag, 20. jul 2015;
- Mandag, 13. jul 2015;
- Tirsdag, 7. jul 2015;
- Søndag, 5. jul 2015;
- Søndag, 28. jun 2015;
- Lørdag, 27. jun 2015;
- Mandag, 15. jun 2015;
- Mandag, 8. jun 2015;
- Mandag, 1. jun 2015;
- Tirsdag, 26. mai 2015;
- Mandag, 25. mai 2015;
- Mandag, 18. mai 2015;
- Mandag, 11. mai 2015;
- Mandag, 4. mai 2015;
- Mandag, 27. apr 2015;
- Mandag, 20. apr 2015;
- Mandag, 13. apr 2015;
- Mandag, 6. apr 2015;
- Mandag, 30. mar 2015;
- Mandag, 23. mar 2015;
- Mandag, 16. mar 2015;
- Tirsdag, 10. mar 2015;
- Lørdag, 7. mar 2015;
- Mandag, 23. feb 2015;
- Mandag, 16. feb 2015;
- Mandag, 9. feb 2015;
- Mandag, 2. feb 2015;
- Lørdag, 24. jan 2015;
- Tirsdag, 20. jan 2015;
- Mandag, 12. jan 2015;
- Mandag, 5. jan 2015;
- Mandag, 29. des 2014;
- Mandag, 22. des 2014;
- Mandag, 15. des 2014;
- Mandag, 8. des 2014;
- Tirsdag, 2. des 2014;
- Lørdag, 29. nov 2014;
- Lørdag, 22. nov 2014;
- Mandag, 17. nov 2014;
- Mandag, 10. nov 2014;
- Lørdag, 1. nov 2014;
- Mandag, 27. okt 2014;
- Mandag, 20. okt 2014;
- Mandag, 13. okt 2014;
- Tirsdag, 7. okt 2014;
- Lørdag, 4. okt 2014;
- Mandag, 22. sept 2014;
- Mandag, 15. sept 2014;
- Mandag, 8. sept 2014;
- Lørdag, 30. aug 2014;
- Mandag, 18. aug 2014;
- Mandag, 11. aug 2014;
- Mandag, 4. aug 2014;
- Lørdag, 26. jul 2014;
- Torsdag, 17. jul 2014;
- Mandag, 14. jul 2014;
- Mandag, 7. jul 2014;
- Søndag, 22. jun 2014;
- Lørdag, 21. jun 2014;
- Mandag, 9. jun 2014;
- Mandag, 2. jun 2014;
- Mandag, 26. mai 2014;
- Tirsdag, 20. mai 2014;
- Mandag, 12. mai 2014;
- Mandag, 5. mai 2014;
- Mandag, 28. apr 2014;
- Søndag, 20. apr 2014;
- Tirsdag, 15. apr 2014;
- Mandag, 7. apr 2014;
- Mandag, 31. mar 2014;
- Mandag, 24. mar 2014;
- Tirsdag, 18. mar 2014;
- Lørdag, 15. mar 2014;
- Mandag, 3. mar 2014;
- Mandag, 24. feb 2014;
- Tirsdag, 18. feb 2014;
- Lørdag, 15. feb 2014;
- Mandag, 3. feb 2014;
- Mandag, 27. jan 2014;
- Mandag, 20. jan 2014;
- Mandag, 13. jan 2014;
- Mandag, 6. jan 2014;
- Mandag, 30. des 2013;
- Mandag, 23. des 2013;
- Mandag, 16. des 2013;
- Mandag, 9. des 2013;
- Lørdag, 30. nov 2013;
- Lørdag, 23. nov 2013;
- Mandag, 18. nov 2013;
- Mandag, 11. nov 2013;
- Mandag, 4. nov 2013;
- Lørdag, 26. okt 2013;
- Mandag, 21. okt 2013;
- Mandag, 14. okt 2013;
- Mandag, 7. okt 2013;
- Lørdag, 5. okt 2013;
- Lørdag, 28. sept 2013;
- Søndag, 22. sept 2013;
- Mandag, 16. sept 2013;
- Mandag, 9. sept 2013;
- Mandag, 2. sept 2013;
- Torsdag, 29. aug 2013;
- Mandag, 19. aug 2013;
- Mandag, 12. aug 2013;
- Mandag, 5. aug 2013;
- Mandag, 29. jul 2013;
- Mandag, 22. jul 2013;
- Mandag, 8. jul 2013;
- Søndag, 30. jun 2013;
- Mandag, 24. jun 2013;
- Søndag, 16. jun 2013;
- Lørdag, 15. jun 2013;
- Torsdag, 6. jun 2013;
- Mandag, 3. jun 2013;
- Mandag, 27. mai 2013;
- Mandag, 20. mai 2013;
- Mandag, 13. mai 2013;
- Mandag, 6. mai 2013;
- Mandag, 29. apr 2013;
- Mandag, 22. apr 2013;
- Mandag, 15. apr 2013;
- Lørdag, 6. apr 2013;
- Søndag, 31. mar 2013;
- Mandag, 25. mar 2013;
- Mandag, 18. mar 2013;
- Mandag, 11. mar 2013;
- Mandag, 4. mar 2013;
- Mandag, 25. feb 2013;
- Mandag, 18. feb 2013;
- Torsdag, 14. feb 2013;
- Lørdag, 9. feb 2013;
- Mandag, 28. jan 2013;
- Mandag, 21. jan 2013;
- Lørdag, 12. jan 2013;
- Mandag, 31. des 2012;
- Mandag, 17. des 2012;
- Mandag, 10. des 2012;
- Lørdag, 1. des 2012;
- Søndag, 25. nov 2012;
- Mandag, 19. nov 2012;
- Mandag, 12. nov 2012;
- Mandag, 5. nov 2012;
- Mandag, 29. okt 2012;
- Mandag, 22. okt 2012;
- Mandag, 15. okt 2012;
- Mandag, 8. okt 2012;
- Lørdag, 6. okt 2012;
- Søndag, 30. sept 2012;
- Tirsdag, 25. sept 2012;
- Mandag, 17. sept 2012;
- Mandag, 10. sept 2012;
- Mandag, 3. sept 2012;
- Mandag, 27. aug 2012;
- Mandag, 20. aug 2012;
- Mandag, 13. aug 2012;
- Mandag, 6. aug 2012;
- Mandag, 30. jul 2012;
- Mandag, 9. jul 2012;
- Mandag, 2. jul 2012;
- Mandag, 25. jun 2012;
- Lørdag, 16. jun 2012;
- Fredag, 15. jun 2012;
- Mandag, 4. jun 2012;
- Mandag, 28. mai 2012;
- Mandag, 21. mai 2012;
- Mandag, 14. mai 2012;
- Mandag, 7. mai 2012;
- Mandag, 30. apr 2012;
- Mandag, 23. apr 2012;
- Tirsdag, 17. apr 2012;
- Lørdag, 14. apr 2012;
- Søndag, 8. apr 2012;
- Mandag, 2. apr 2012;
- Mandag, 26. mar 2012;
- Mandag, 19. mar 2012;
- Mandag, 12. mar 2012;
- Mandag, 5. mar 2012;
- Mandag, 27. feb 2012;
- Mandag, 20. feb 2012;
- Tirsdag, 14. feb 2012;
- Lørdag, 11. feb 2012;
- Mandag, 30. jan 2012;
- Mandag, 23. jan 2012;
- Mandag, 16. jan 2012;
- Lørdag, 7. jan 2012;
- Søndag, 1. jan 2012;
- Mandag, 26. des 2011;
- Mandag, 19. des 2011;
- Mandag, 12. des 2011;
- Lørdag, 3. des 2011;
- Søndag, 27. nov 2011;
- Mandag, 21. nov 2011;
- Mandag, 14. nov 2011;
- Mandag, 7. nov 2011;
- Mandag, 31. okt 2011;
- Mandag, 24. okt 2011;
- Lørdag, 15. okt 2011;
- Søndag, 9. okt 2011;
- Søndag, 2. okt 2011;
- Mandag, 26. sept 2011;
- Mandag, 19. sept 2011;
- Mandag, 12. sept 2011;
- Tirsdag, 6. sept 2011;
- Mandag, 29. aug 2011;
- Mandag, 22. aug 2011;
- Mandag, 15. aug 2011;
- Mandag, 8. aug 2011;
- Mandag, 1. aug 2011;
- Mandag, 11. jul 2011;
- Mandag, 4. jul 2011;
- Lørdag, 25. jun 2011;
- Fredag, 24. jun 2011;
- Mandag, 13. jun 2011;
- Mandag, 6. jun 2011;
- Mandag, 30. mai 2011;
- Mandag, 23. mai 2011;
- Mandag, 16. mai 2011;
- Mandag, 9. mai 2011;
- Mandag, 2. mai 2011;
- Mandag, 25. apr 2011;
- Mandag, 18. apr 2011;
- Tirsdag, 12. apr 2011;
- Lørdag, 9. apr 2011;
- Søndag, 3. apr 2011;
- Mandag, 28. mar 2011;
- Mandag, 21. mar 2011;
- Mandag, 14. mar 2011;
- Mandag, 7. mar 2011;
- Mandag, 28. feb 2011;
- Tirsdag, 22. feb 2011;
- Lørdag, 19. feb 2011;
- Mandag, 7. feb 2011;
- Mandag, 31. jan 2011;
- Mandag, 24. jan 2011;
- Mandag, 17. jan 2011;
- Tirsdag, 11. jan 2011;
- Lørdag, 8. jan 2011;
- Søndag, 2. jan 2011;
- Søndag, 26. des 2010;
- Mandag, 20. des 2010;
- Mandag, 13. des 2010;
- Tirsdag, 7. des 2010;
- Lørdag, 4. des 2010;
- Søndag, 28. nov 2010;
- Mandag, 22. nov 2010;
- Mandag, 15. nov 2010;
- Mandag, 8. nov 2010;
- Mandag, 1. nov 2010;
- Mandag, 25. okt 2010;
- Mandag, 18. okt 2010;
- Lørdag, 9. okt 2010;
- Søndag, 3. okt 2010;
- Mandag, 27. sept 2010;
- Mandag, 20. sept 2010;
- Mandag, 13. sept 2010;
- Fredag, 10. sept 2010;
- Mandag, 6. sept 2010;
- Mandag, 30. aug 2010;
- Mandag, 23. aug 2010;
- Mandag, 16. aug 2010;
- Fredag, 13. aug 2010;
- Mandag, 9. aug 2010;
- Mandag, 2. aug 2010;
- Mandag, 12. jul 2010;
- Mandag, 5. jul 2010;
- Søndag, 27. jun 2010;
- Lørdag, 26. jun 2010;
- Fredag, 18. jun 2010;
- Mandag, 14. jun 2010;
- Mandag, 7. jun 2010;
- Mandag, 31. mai 2010;
- Mandag, 24. mai 2010;
- Tirsdag, 18. mai 2010;
- Mandag, 10. mai 2010;
- Mandag, 3. mai 2010;
- Mandag, 26. apr 2010;
- Mandag, 19. apr 2010;
- Tirsdag, 13. apr 2010;
- Lørdag, 10. apr 2010;
- Søndag, 4. apr 2010;
- Mandag, 29. mar 2010;
- Mandag, 22. mar 2010;
- Tirsdag, 16. mar 2010;
- Mandag, 8. mar 2010;
- Mandag, 1. mar 2010;
- Tirsdag, 23. feb 2010;
- Lørdag, 20. feb 2010;
- Mandag, 8. feb 2010;
- Mandag, 1. feb 2010;
- Mandag, 25. jan 2010;
- Mandag, 18. jan 2010;
- Tirsdag, 12. jan 2010;
- Lørdag, 9. jan 2010;
- Søndag, 3. jan 2010;
- Søndag, 27. des 2009;
- Mandag, 21. des 2009;
- Mandag, 14. des 2009;
- Tirsdag, 8. des 2009;
- Lørdag, 5. des 2009;
- Søndag, 29. nov 2009;
- Mandag, 23. nov 2009;
- Tirsdag, 17. nov 2009;
- Mandag, 9. nov 2009;
- Mandag, 2. nov 2009;
- Mandag, 26. okt 2009;
- Mandag, 19. okt 2009;
- Tirsdag, 13. okt 2009;
- Lørdag, 10. okt 2009;
- Mandag, 28. sept 2009;
- Mandag, 21. sept 2009;
- Mandag, 14. sept 2009;
- Mandag, 7. sept 2009;
- Mandag, 31. aug 2009;
- Tirsdag, 25. aug 2009;
- Mandag, 17. aug 2009;
- Tirsdag, 11. aug 2009;
- Mandag, 3. aug 2009;
- Mandag, 6. jul 2009;
- Mandag, 29. jun 2009;
- Søndag, 21. jun 2009;
- Lørdag, 20. jun 2009;
- Mandag, 8. jun 2009;
- Mandag, 1. jun 2009;
- Mandag, 25. mai 2009;
- Mandag, 18. mai 2009;
- Mandag, 11. mai 2009;
- Mandag, 4. mai 2009;
- Mandag, 27. apr 2009;
- Mandag, 20. apr 2009;
- Mandag, 13. apr 2009;
- Mandag, 6. apr 2009;
- Mandag, 30. mar 2009;
- Mandag, 23. mar 2009;
- Mandag, 16. mar 2009;
- Tirsdag, 10. mar 2009;
- Lørdag, 7. mar 2009;
- Søndag, 1. mar 2009;
- Mandag, 23. feb 2009;
- Mandag, 16. feb 2009;
- Mandag, 9. feb 2009;
- Mandag, 2. feb 2009;
- Mandag, 26. jan 2009;
- Lørdag, 17. jan 2009;
- Søndag, 11. jan 2009;
- Mandag, 5. jan 2009;
- Mandag, 29. des 2008;
- Mandag, 22. des 2008;
- Mandag, 15. des 2008;
- Mandag, 8. des 2008;
- Mandag, 1. des 2008;
- Mandag, 24. nov 2008;
- Mandag, 17. nov 2008;
- Mandag, 10. nov 2008;
- Tirsdag, 4. nov 2008;
- Lørdag, 1. nov 2008;
- Søndag, 26. okt 2008;
- Mandag, 20. okt 2008;
- Mandag, 13. okt 2008;
- Tirsdag, 7. okt 2008;
- Mandag, 29. sept 2008;
- Mandag, 22. sept 2008;
- Mandag, 15. sept 2008;
- Lørdag, 13. sept 2008;
- Mandag, 1. sept 2008;
- Mandag, 25. aug 2008;
- Mandag, 18. aug 2008;
- Tirsdag, 12. aug 2008;
- Mandag, 4. aug 2008;
- Mandag, 28. jul 2008;
- Mandag, 7. jul 2008;
- Mandag, 30. jun 2008;
- Søndag, 22. jun 2008;
- Lørdag, 21. jun 2008;
- Mandag, 9. jun 2008;
- Mandag, 2. jun 2008;
- Tirsdag, 27. mai 2008;
- Mandag, 19. mai 2008;
- Mandag, 12. mai 2008;
- Mandag, 5. mai 2008;
- Mandag, 28. apr 2008;
- Mandag, 21. apr 2008;
- Mandag, 14. apr 2008;
- Lørdag, 5. apr 2008;
- Søndag, 30. mar 2008;
- Mandag, 24. mar 2008;
- Mandag, 17. mar 2008;
- Mandag, 10. mar 2008;
- Tirsdag, 4. mar 2008;
- Mandag, 25. feb 2008;
- Mandag, 18. feb 2008;
- Mandag, 11. feb 2008;
- Mandag, 4. feb 2008;
- Mandag, 28. jan 2008;
- Mandag, 21. jan 2008;
- Lørdag, 12. jan 2008;
- Søndag, 6. jan 2008;
- Mandag, 31. des 2007;
- Mandag, 17. des 2007;
- Lørdag, 8. des 2007;
- Søndag, 2. des 2007;
- Mandag, 26. nov 2007;
- Mandag, 19. nov 2007;
- Mandag, 12. nov 2007;
- Mandag, 5. nov 2007;
- Lørdag, 27. okt 2007;
- Søndag, 21. okt 2007;
- Mandag, 15. okt 2007;
- Mandag, 8. okt 2007;
- Mandag, 1. okt 2007;
- Mandag, 24. sept 2007;
- Mandag, 17. sept 2007;
- Mandag, 10. sept 2007;
- Mandag, 3. sept 2007;
- Mandag, 27. aug 2007;
- Mandag, 20. aug 2007;
- Mandag, 13. aug 2007;
- Mandag, 6. aug 2007;
- Mandag, 30. jul 2007;
- Mandag, 23. jul 2007;
- Mandag, 2. jul 2007;
- Søndag, 24. jun 2007;
- Lørdag, 23. jun 2007;
- Mandag, 11. jun 2007;
- Mandag, 4. jun 2007;
- Mandag, 28. mai 2007;
- Mandag, 21. mai 2007;
- Mandag, 14. mai 2007;
- Mandag, 7. mai 2007;
- Mandag, 30. apr 2007;
- Mandag, 23. apr 2007;
- Lørdag, 14. apr 2007;
- Mandag, 9. apr 2007;
- Mandag, 2. apr 2007;
- Mandag, 26. mar 2007;
- Lørdag, 17. mar 2007;
- Søndag, 11. mar 2007;
- Mandag, 5. mar 2007;
- Mandag, 26. feb 2007;
- Mandag, 19. feb 2007;
- Mandag, 12. feb 2007;
- Mandag, 5. feb 2007;
- Mandag, 29. jan 2007;
- Mandag, 22. jan 2007;
- Lørdag, 13. jan 2007;
- Søndag, 7. jan 2007;
- Mandag, 1. jan 2007;
- Tirsdag, 26. des 2006;
- Mandag, 18. des 2006;
- Lørdag, 9. des 2006;
- Mandag, 4. des 2006;
- Mandag, 27. nov 2006;
- Mandag, 20. nov 2006;
- Mandag, 13. nov 2006;
- Mandag, 6. nov 2006;
- Mandag, 30. okt 2006;
- Mandag, 23. okt 2006;
- Mandag, 16. okt 2006;
- Lørdag, 7. okt 2006;
- Mandag, 2. okt 2006;
- Mandag, 25. sept 2006;
- Torsdag, 14. sept 2006;
- Mandag, 11. sept 2006;
- Mandag, 4. sept 2006;
- Mandag, 28. aug 2006;
- Mandag, 21. aug 2006;
- Mandag, 14. aug 2006;
- Mandag, 7. aug 2006;
- Mandag, 31. jul 2006;
- Mandag, 3. jul 2006;
- Søndag, 25. jun 2006;
- Lørdag, 24. jun 2006;
- Mandag, 12. jun 2006;
- Mandag, 5. jun 2006;
- Mandag, 29. mai 2006;
- Mandag, 22. mai 2006;
- Mandag, 15. mai 2006;
- Mandag, 8. mai 2006;
- Mandag, 1. mai 2006;
- Mandag, 24. apr 2006;
- Mandag, 17. apr 2006;
- Mandag, 10. apr 2006;
- Mandag, 3. apr 2006;
- Lørdag, 25. mar 2006;
- Mandag, 20. mar 2006;
- Mandag, 13. mar 2006;
- Mandag, 6. mar 2006;
- Mandag, 27. feb 2006;
- Mandag, 20. feb 2006;
- Mandag, 13. feb 2006;
- Mandag, 6. feb 2006;
- Mandag, 30. jan 2006;
- Mandag, 23. jan 2006;
+ Bjerke-Travbane;Torsdag, 25. aug 2022
+ Bjerke-Travbane; Onsdag, 24. aug 2022
+ Bjerke-Travbane;Tirsdag, 16. aug 2022
+ Bjerke-Travbane;Tirsdag, 9. aug 2022
+ Bjerke-Travbane;Tirsdag, 2. aug 2022
+ Bjerke-Travbane; Onsdag, 13. jul 2022
+ Bjerke-Travbane;Tirsdag, 12. jul 2022
+ Bjerke-Travbane;Torsdag, 7. jul 2022
+ Bjerke-Travbane;Tirsdag, 5. jul 2022
+ Bjerke-Travbane; Tirsdag, 28. jun 2022
+ Bjerke-Travbane;Mandag, 27. jun 2022
+ Bjerke-Travbane;Tirsdag, 21. jun 2022
+ Bjerke-Travbane;Søndag, 12. jun 2022
+ Bjerke-Travbane; Lørdag, 11. jun 2022
+ Bjerke-Travbane;Tirsdag, 7. jun 2022
+ Bjerke-Travbane;Onsdag, 1. jun 2022
+ Bjerke-Travbane;Tirsdag, 24. mai 2022
+ Bjerke-Travbane; Mandag, 16. mai 2022
+ Bjerke-Travbane;Søndag, 15. mai 2022
+ Bjerke-Travbane;Tirsdag, 10. mai 2022
+ Bjerke-Travbane;Tirsdag, 3. mai 2022
+ Bjerke-Travbane; Tirsdag, 26. apr 2022
+ Bjerke-Travbane;Mandag, 25. apr 2022
+ Bjerke-Travbane;Tirsdag, 19. apr 2022
+ Bjerke-Travbane;Tirsdag, 12. apr 2022
+ Bjerke-Travbane; Onsdag, 6. apr 2022
+ Bjerke-Travbane;Lørdag, 2. apr 2022
+ Bjerke-Travbane;Tirsdag, 29. mar 2022
+ Bjerke-Travbane;Onsdag, 23. mar 2022
+ Bjerke-Travbane; Tirsdag, 22. mar 2022
+ Bjerke-Travbane;Tirsdag, 15. mar 2022
+ Bjerke-Travbane;Mandag, 14. mar 2022
+ Bjerke-Travbane;Onsdag, 9. mar 2022
+ Bjerke-Travbane; Lørdag, 5. mar 2022
+ Bjerke-Travbane;Onsdag, 2. mar 2022
+ Bjerke-Travbane;Tirsdag, 1. mar 2022
+ Bjerke-Travbane;Tirsdag, 22. feb 2022
+ Bjerke-Travbane; Lørdag, 19. feb 2022
+ Bjerke-Travbane;Onsdag, 16. feb 2022
+ Bjerke-Travbane;Tirsdag, 8. feb 2022
+ Bjerke-Travbane;Søndag, 6. feb 2022
+ Bjerke-Travbane; Tirsdag, 1. feb 2022
+ Bjerke-Travbane;Onsdag, 26. jan 2022
+ Bjerke-Travbane;Tirsdag, 25. jan 2022
+ Bjerke-Travbane;Onsdag, 19. jan 2022
+ Bjerke-Travbane; Tirsdag, 18. jan 2022
+ Bjerke-Travbane;Lørdag, 15. jan 2022
+ Bjerke-Travbane;Tirsdag, 11. jan 2022
+ Bjerke-Travbane;Søndag, 9. jan 2022
+ Bjerke-Travbane; Tirsdag, 4. jan 2022
+ Bjerke-Travbane;Lørdag, 1. jan 2022
+ Bjerke-Travbane;Torsdag, 30. des 2021
+ Bjerke-Travbane;Søndag, 26. des 2021
+ Bjerke-Travbane; Tirsdag, 21. des 2021
+ Bjerke-Travbane;Lørdag, 18. des 2021
+ Bjerke-Travbane;Tirsdag, 14. des 2021
+ Bjerke-Travbane;Tirsdag, 7. des 2021
+ Bjerke-Travbane; Tirsdag, 30. nov 2021
+ Bjerke-Travbane;Onsdag, 24. nov 2021
+ Bjerke-Travbane;Tirsdag, 23. nov 2021
+ Bjerke-Travbane;Tirsdag, 16. nov 2021
+ Bjerke-Travbane; Lørdag, 13. nov 2021
+ Bjerke-Travbane;Tirsdag, 9. nov 2021
+ Bjerke-Travbane;Tirsdag, 2. nov 2021
+ Bjerke-Travbane;Tirsdag, 26. okt 2021
+ Bjerke-Travbane; Tirsdag, 19. okt 2021
+ Bjerke-Travbane;Onsdag, 13. okt 2021
+ Bjerke-Travbane;Tirsdag, 12. okt 2021
+ Bjerke-Travbane;Tirsdag, 5. okt 2021
+ Bjerke-Travbane; Lørdag, 2. okt 2021
+ Bjerke-Travbane;Tirsdag, 28. sept 2021
+ Bjerke-Travbane;Tirsdag, 21. sept 2021
+ Bjerke-Travbane;Søndag, 12. sept 2021
+ Bjerke-Travbane; Lørdag, 11. sept 2021
+ Bjerke-Travbane;Fredag, 10. sept 2021
+ Bjerke-Travbane;Tirsdag, 7. sept 2021
+ Bjerke-Travbane;Tirsdag, 31. aug 2021
+ Bjerke-Travbane; Fredag, 27. aug 2021
+ Bjerke-Travbane;Torsdag, 26. aug 2021
+ Bjerke-Travbane;Onsdag, 25. aug 2021
+ Bjerke-Travbane;Tirsdag, 17. aug 2021
+ Bjerke-Travbane; Tirsdag, 10. aug 2021
+ Bjerke-Travbane;Tirsdag, 3. aug 2021
+ Bjerke-Travbane;Torsdag, 29. jul 2021
+ Bjerke-Travbane;Mandag, 26. jul 2021
+ Bjerke-Travbane; Tirsdag, 20. jul 2021
+ Bjerke-Travbane;Mandag, 19. jul 2021
+ Bjerke-Travbane;Tirsdag, 13. jul 2021
+ Bjerke-Travbane;Mandag, 12. jul 2021
+ Bjerke-Travbane; Onsdag, 23. jun 2021
+ Bjerke-Travbane;Mandag, 21. jun 2021
+ Bjerke-Travbane;Søndag, 13. jun 2021
+ Bjerke-Travbane;Lørdag, 12. jun 2021
+ Bjerke-Travbane; Tirsdag, 8. jun 2021
+ Bjerke-Travbane;Tirsdag, 1. jun 2021
+ Bjerke-Travbane;Tirsdag, 25. mai 2021
+ Bjerke-Travbane;Tirsdag, 18. mai 2021
+ Bjerke-Travbane; Onsdag, 12. mai 2021
+ Bjerke-Travbane;Tirsdag, 11. mai 2021
+ Bjerke-Travbane;Tirsdag, 2. mar 2021
+ Bjerke-Travbane;Lørdag, 27. feb 2021
+ Bjerke-Travbane; Tirsdag, 23. feb 2021
+ Bjerke-Travbane;Søndag, 21. feb 2021
+ Bjerke-Travbane;Lørdag, 20. feb 2021
+ Bjerke-Travbane;Onsdag, 17. feb 2021
+ Bjerke-Travbane; Tirsdag, 16. feb 2021
+ Bjerke-Travbane;Onsdag, 10. feb 2021
+ Bjerke-Travbane;Tirsdag, 9. feb 2021
+ Bjerke-Travbane;Onsdag, 27. jan 2021
+ Bjerke-Travbane; Tirsdag, 26. jan 2021
+ Bjerke-Travbane;Lørdag, 23. jan 2021
+ Bjerke-Travbane;Onsdag, 20. jan 2021
+ Bjerke-Travbane;Tirsdag, 19. jan 2021
+ Bjerke-Travbane; Onsdag, 13. jan 2021
+ Bjerke-Travbane;Tirsdag, 12. jan 2021
+ Bjerke-Travbane;Onsdag, 6. jan 2021
+ Bjerke-Travbane;Tirsdag, 5. jan 2021
+ Bjerke-Travbane; Torsdag, 31. des 2020
+ Bjerke-Travbane;Onsdag, 30. des 2020
+ Bjerke-Travbane;Tirsdag, 22. des 2020
+ Bjerke-Travbane;Lørdag, 19. des 2020
+ Bjerke-Travbane; Tirsdag, 15. des 2020
+ Bjerke-Travbane;Torsdag, 10. des 2020
+ Bjerke-Travbane;Tirsdag, 8. des 2020
+ Bjerke-Travbane;Tirsdag, 1. des 2020
+ Bjerke-Travbane; Tirsdag, 24. nov 2020
+ Bjerke-Travbane;Tirsdag, 17. nov 2020
+ Bjerke-Travbane;Lørdag, 14. nov 2020
+ Bjerke-Travbane;Onsdag, 11. nov 2020
+ Bjerke-Travbane; Onsdag, 4. nov 2020
+ Bjerke-Travbane;Onsdag, 28. okt 2020
+ Bjerke-Travbane;Onsdag, 21. okt 2020
+ Bjerke-Travbane;Onsdag, 14. okt 2020
+ Bjerke-Travbane; Onsdag, 7. okt 2020
+ Bjerke-Travbane;Onsdag, 30. sept 2020
+ Bjerke-Travbane;Onsdag, 23. sept 2020
+ Bjerke-Travbane;Onsdag, 16. sept 2020
+ Bjerke-Travbane; Søndag, 13. sept 2020
+ Bjerke-Travbane;Lørdag, 12. sept 2020
+ Bjerke-Travbane;Fredag, 11. sept 2020
+ Bjerke-Travbane;Onsdag, 9. sept 2020
+ Bjerke-Travbane; Onsdag, 2. sept 2020
+ Bjerke-Travbane;Fredag, 28. aug 2020
+ Bjerke-Travbane;Torsdag, 27. aug 2020
+ Bjerke-Travbane;Onsdag, 26. aug 2020
+ Bjerke-Travbane; Lørdag, 22. aug 2020
+ Bjerke-Travbane;Tirsdag, 18. aug 2020
+ Bjerke-Travbane;Onsdag, 12. aug 2020
+ Bjerke-Travbane;Tirsdag, 11. aug 2020
+ Bjerke-Travbane; Mandag, 10. aug 2020
+ Bjerke-Travbane;Onsdag, 5. aug 2020
+ Bjerke-Travbane;Mandag, 3. aug 2020
+ Bjerke-Travbane;Onsdag, 29. jul 2020
+ Bjerke-Travbane; Mandag, 27. jul 2020
+ Bjerke-Travbane;Onsdag, 22. jul 2020
+ Bjerke-Travbane;Mandag, 20. jul 2020
+ Bjerke-Travbane;Onsdag, 15. jul 2020
+ Bjerke-Travbane; Onsdag, 8. jul 2020
+ Bjerke-Travbane;Mandag, 6. jul 2020
+ Bjerke-Travbane;Søndag, 14. jun 2020
+ Bjerke-Travbane;Lørdag, 13. jun 2020
+ Bjerke-Travbane; Onsdag, 10. jun 2020
+ Bjerke-Travbane;Mandag, 8. jun 2020
+ Bjerke-Travbane;Onsdag, 3. jun 2020
+ Bjerke-Travbane;Lørdag, 30. mai 2020
+ Bjerke-Travbane; Onsdag, 27. mai 2020
+ Bjerke-Travbane;Lørdag, 23. mai 2020
+ Bjerke-Travbane;Onsdag, 20. mai 2020
+ Bjerke-Travbane;Onsdag, 13. mai 2020
+ Bjerke-Travbane; Mandag, 11. mai 2020
+ Bjerke-Travbane;Onsdag, 6. mai 2020
+ Bjerke-Travbane;Onsdag, 22. apr 2020
+ Bjerke-Travbane;Torsdag, 19. mar 2020
+ Bjerke-Travbane; Onsdag, 18. mar 2020
+ Bjerke-Travbane;Onsdag, 11. mar 2020
+ Bjerke-Travbane;Torsdag, 5. mar 2020
+ Bjerke-Travbane;Onsdag, 4. mar 2020
+ Bjerke-Travbane; Onsdag, 26. feb 2020
+ Bjerke-Travbane;Lørdag, 22. feb 2020
+ Bjerke-Travbane;Onsdag, 19. feb 2020
+ Bjerke-Travbane;Søndag, 16. feb 2020
+ Bjerke-Travbane; Torsdag, 13. feb 2020
+ Bjerke-Travbane;Onsdag, 12. feb 2020
+ Bjerke-Travbane;Søndag, 9. feb 2020
+ Bjerke-Travbane;Torsdag, 6. feb 2020
+ Bjerke-Travbane; Onsdag, 5. feb 2020
+ Bjerke-Travbane;Onsdag, 29. jan 2020
+ Bjerke-Travbane;Torsdag, 23. jan 2020
+ Bjerke-Travbane;Onsdag, 22. jan 2020
+ Bjerke-Travbane; Lørdag, 18. jan 2020
+ Bjerke-Travbane;Onsdag, 15. jan 2020
+ Bjerke-Travbane;Onsdag, 8. jan 2020
+ Bjerke-Travbane;Torsdag, 2. jan 2020
+ Bjerke-Travbane; Onsdag, 1. jan 2020
+ Bjerke-Travbane;Mandag, 30. des 2019
+ Bjerke-Travbane;Torsdag, 26. des 2019
+ Bjerke-Travbane;Torsdag, 19. des 2019
+ Bjerke-Travbane; Onsdag, 18. des 2019
+ Bjerke-Travbane;Lørdag, 14. des 2019
+ Bjerke-Travbane;Onsdag, 11. des 2019
+ Bjerke-Travbane;Onsdag, 4. des 2019
+ Bjerke-Travbane; Onsdag, 27. nov 2019
+ Bjerke-Travbane;Onsdag, 20. nov 2019
+ Bjerke-Travbane;Lørdag, 16. nov 2019
+ Bjerke-Travbane;Onsdag, 13. nov 2019
+ Bjerke-Travbane; Onsdag, 6. nov 2019
+ Bjerke-Travbane;Onsdag, 30. okt 2019
+ Bjerke-Travbane;Onsdag, 23. okt 2019
+ Bjerke-Travbane;Onsdag, 16. okt 2019
+ Bjerke-Travbane; Onsdag, 9. okt 2019
+ Bjerke-Travbane;Onsdag, 2. okt 2019
+ Bjerke-Travbane;Onsdag, 25. sept 2019
+ Bjerke-Travbane;Torsdag, 19. sept 2019
+ Bjerke-Travbane; Onsdag, 18. sept 2019
+ Bjerke-Travbane;Onsdag, 11. sept 2019
+ Bjerke-Travbane;Søndag, 8. sept 2019
+ Bjerke-Travbane;Lørdag, 7. sept 2019
+ Bjerke-Travbane; Fredag, 6. sept 2019
+ Bjerke-Travbane;Onsdag, 4. sept 2019
+ Bjerke-Travbane;Onsdag, 28. aug 2019
+ Bjerke-Travbane;Tirsdag, 27. aug 2019
+ Bjerke-Travbane; Mandag, 26. aug 2019
+ Bjerke-Travbane;Torsdag, 22. aug 2019
+ Bjerke-Travbane;Tirsdag, 13. aug 2019
+ Bjerke-Travbane;Onsdag, 7. aug 2019
+ Bjerke-Travbane; Mandag, 5. aug 2019
+ Bjerke-Travbane;Onsdag, 31. jul 2019
+ Bjerke-Travbane;Mandag, 29. jul 2019
+ Bjerke-Travbane;Onsdag, 24. jul 2019
+ Bjerke-Travbane; Mandag, 22. jul 2019
+ Bjerke-Travbane;Onsdag, 17. jul 2019
+ Bjerke-Travbane;Mandag, 15. jul 2019
+ Bjerke-Travbane;Onsdag, 10. jul 2019
+ Bjerke-Travbane; Mandag, 8. jul 2019
+ Bjerke-Travbane;Onsdag, 26. jun 2019
+ Bjerke-Travbane;Mandag, 24. jun 2019
+ Bjerke-Travbane;Onsdag, 19. jun 2019
+ Bjerke-Travbane; Mandag, 17. jun 2019
+ Bjerke-Travbane;Søndag, 9. jun 2019
+ Bjerke-Travbane;Lørdag, 8. jun 2019
+ Bjerke-Travbane;Onsdag, 5. jun 2019
+ Bjerke-Travbane; Mandag, 3. jun 2019
+ Bjerke-Travbane;Onsdag, 29. mai 2019
+ Bjerke-Travbane;Mandag, 27. mai 2019
+ Bjerke-Travbane;Torsdag, 23. mai 2019
+ Bjerke-Travbane; Onsdag, 22. mai 2019
+ Bjerke-Travbane;Mandag, 20. mai 2019
+ Bjerke-Travbane;Onsdag, 15. mai 2019
+ Bjerke-Travbane;Lørdag, 11. mai 2019
+ Bjerke-Travbane; Onsdag, 8. mai 2019
+ Bjerke-Travbane;Mandag, 6. mai 2019
+ Bjerke-Travbane;Tirsdag, 30. apr 2019
+ Bjerke-Travbane;Mandag, 29. apr 2019
+ Bjerke-Travbane; Torsdag, 25. apr 2019
+ Bjerke-Travbane;Onsdag, 24. apr 2019
+ Bjerke-Travbane;Onsdag, 17. apr 2019
+ Bjerke-Travbane;Mandag, 15. apr 2019
+ Bjerke-Travbane; Onsdag, 10. apr 2019
+ Bjerke-Travbane;Lørdag, 6. apr 2019
+ Bjerke-Travbane;Onsdag, 3. apr 2019
+ Bjerke-Travbane;Mandag, 1. apr 2019
+ Bjerke-Travbane; Onsdag, 27. mar 2019
+ Bjerke-Travbane;Torsdag, 21. mar 2019
+ Bjerke-Travbane;Onsdag, 20. mar 2019
+ Bjerke-Travbane;Torsdag, 14. mar 2019
+ Bjerke-Travbane; Onsdag, 13. mar 2019
+ Bjerke-Travbane;Torsdag, 7. mar 2019
+ Bjerke-Travbane;Onsdag, 6. mar 2019
+ Bjerke-Travbane;Torsdag, 28. feb 2019
+ Bjerke-Travbane; Onsdag, 27. feb 2019
+ Bjerke-Travbane;Lørdag, 23. feb 2019
+ Bjerke-Travbane;Onsdag, 20. feb 2019
+ Bjerke-Travbane;Torsdag, 14. feb 2019
+ Bjerke-Travbane; Onsdag, 13. feb 2019
+ Bjerke-Travbane;Fredag, 8. feb 2019
+ Bjerke-Travbane;Torsdag, 7. feb 2019
+ Bjerke-Travbane;Onsdag, 6. feb 2019
+ Bjerke-Travbane; Torsdag, 31. jan 2019
+ Bjerke-Travbane;Onsdag, 30. jan 2019
+ Bjerke-Travbane;Torsdag, 24. jan 2019
+ Bjerke-Travbane;Onsdag, 23. jan 2019
+ Bjerke-Travbane; Lørdag, 19. jan 2019
+ Bjerke-Travbane;Onsdag, 16. jan 2019
+ Bjerke-Travbane;Torsdag, 10. jan 2019
+ Bjerke-Travbane;Onsdag, 9. jan 2019
+ Bjerke-Travbane; Torsdag, 3. jan 2019
+ Bjerke-Travbane;Onsdag, 2. jan 2019
+ Bjerke-Travbane;Mandag, 31. des 2018
+ Bjerke-Travbane;Søndag, 30. des 2018
+ Bjerke-Travbane; Onsdag, 26. des 2018
+ Bjerke-Travbane;Onsdag, 19. des 2018
+ Bjerke-Travbane;Lørdag, 15. des 2018
+ Bjerke-Travbane;Onsdag, 12. des 2018
+ Bjerke-Travbane; Torsdag, 6. des 2018
+ Bjerke-Travbane;Onsdag, 5. des 2018
+ Bjerke-Travbane;Onsdag, 28. nov 2018
+ Bjerke-Travbane;Tirsdag, 27. nov 2018
+ Bjerke-Travbane; Torsdag, 22. nov 2018
+ Bjerke-Travbane;Onsdag, 21. nov 2018
+ Bjerke-Travbane;Tirsdag, 20. nov 2018
+ Bjerke-Travbane;Lørdag, 17. nov 2018
+ Bjerke-Travbane; Onsdag, 14. nov 2018
+ Bjerke-Travbane;Tirsdag, 13. nov 2018
+ Bjerke-Travbane;Onsdag, 7. nov 2018
+ Bjerke-Travbane;Tirsdag, 6. nov 2018
+ Bjerke-Travbane; Onsdag, 31. okt 2018
+ Bjerke-Travbane;Onsdag, 24. okt 2018
+ Bjerke-Travbane;Tirsdag, 23. okt 2018
+ Bjerke-Travbane;Onsdag, 17. okt 2018
+ Bjerke-Travbane; Mandag, 15. okt 2018
+ Bjerke-Travbane;Onsdag, 10. okt 2018
+ Bjerke-Travbane;Tirsdag, 9. okt 2018
+ Bjerke-Travbane;Onsdag, 3. okt 2018
+ Bjerke-Travbane; Tirsdag, 2. okt 2018
+ Bjerke-Travbane;Onsdag, 26. sept 2018
+ Bjerke-Travbane;Tirsdag, 25. sept 2018
+ Bjerke-Travbane;Torsdag, 20. sept 2018
+ Bjerke-Travbane; Onsdag, 19. sept 2018
+ Bjerke-Travbane;Tirsdag, 18. sept 2018
+ Bjerke-Travbane;Onsdag, 12. sept 2018
+ Bjerke-Travbane;Søndag, 9. sept 2018
+ Bjerke-Travbane; Lørdag, 8. sept 2018
+ Bjerke-Travbane;Fredag, 7. sept 2018
+ Bjerke-Travbane;Onsdag, 5. sept 2018
+ Bjerke-Travbane;Mandag, 3. sept 2018
+ Bjerke-Travbane; Onsdag, 29. aug 2018
+ Bjerke-Travbane;Tirsdag, 28. aug 2018
+ Bjerke-Travbane;Mandag, 27. aug 2018
+ Bjerke-Travbane;Torsdag, 23. aug 2018
+ Bjerke-Travbane; Mandag, 20. aug 2018
+ Bjerke-Travbane;Onsdag, 15. aug 2018
+ Bjerke-Travbane;Mandag, 13. aug 2018
+ Bjerke-Travbane;Torsdag, 9. aug 2018
+ Bjerke-Travbane; Onsdag, 8. aug 2018
+ Bjerke-Travbane;Mandag, 6. aug 2018
+ Bjerke-Travbane;Lørdag, 4. aug 2018
+ Bjerke-Travbane;Onsdag, 1. aug 2018
+ Bjerke-Travbane; Mandag, 30. jul 2018
+ Bjerke-Travbane;Onsdag, 25. jul 2018
+ Bjerke-Travbane;Mandag, 23. jul 2018
+ Bjerke-Travbane;Onsdag, 18. jul 2018
+ Bjerke-Travbane; Mandag, 16. jul 2018
+ Bjerke-Travbane;Mandag, 2. jul 2018
+ Bjerke-Travbane;Onsdag, 27. jun 2018
+ Bjerke-Travbane;Mandag, 25. jun 2018
+ Bjerke-Travbane; Onsdag, 20. jun 2018
+ Bjerke-Travbane;Mandag, 18. jun 2018
+ Bjerke-Travbane;Søndag, 10. jun 2018
+ Bjerke-Travbane;Lørdag, 9. jun 2018
+ Bjerke-Travbane; Onsdag, 6. jun 2018
+ Bjerke-Travbane;Mandag, 4. jun 2018
+ Bjerke-Travbane;Onsdag, 30. mai 2018
+ Bjerke-Travbane;Mandag, 28. mai 2018
+ Bjerke-Travbane; Onsdag, 23. mai 2018
+ Bjerke-Travbane;Onsdag, 16. mai 2018
+ Bjerke-Travbane;Mandag, 14. mai 2018
+ Bjerke-Travbane;Lørdag, 12. mai 2018
+ Bjerke-Travbane; Onsdag, 9. mai 2018
+ Bjerke-Travbane;Mandag, 7. mai 2018
+ Bjerke-Travbane;Torsdag, 3. mai 2018
+ Bjerke-Travbane;Onsdag, 2. mai 2018
+ Bjerke-Travbane; Torsdag, 26. apr 2018
+ Bjerke-Travbane;Onsdag, 25. apr 2018
+ Bjerke-Travbane;Onsdag, 18. apr 2018
+ Bjerke-Travbane;Lørdag, 14. apr 2018
+ Bjerke-Travbane; Onsdag, 11. apr 2018
+ Bjerke-Travbane;Onsdag, 4. apr 2018
+ Bjerke-Travbane;Onsdag, 28. mar 2018
+ Bjerke-Travbane;Torsdag, 22. mar 2018
+ Bjerke-Travbane; Onsdag, 21. mar 2018
+ Bjerke-Travbane;Torsdag, 15. mar 2018
+ Bjerke-Travbane;Onsdag, 14. mar 2018
+ Bjerke-Travbane;Torsdag, 8. mar 2018
+ Bjerke-Travbane; Onsdag, 7. mar 2018
+ Bjerke-Travbane;Torsdag, 1. mar 2018
+ Bjerke-Travbane;Onsdag, 28. feb 2018
+ Bjerke-Travbane;Lørdag, 24. feb 2018
+ Bjerke-Travbane; Onsdag, 21. feb 2018
+ Bjerke-Travbane;Torsdag, 15. feb 2018
+ Bjerke-Travbane;Onsdag, 14. feb 2018
+ Bjerke-Travbane;Fredag, 9. feb 2018
+ Bjerke-Travbane; Torsdag, 8. feb 2018
+ Bjerke-Travbane;Onsdag, 7. feb 2018
+ Bjerke-Travbane;Torsdag, 1. feb 2018
+ Bjerke-Travbane;Onsdag, 31. jan 2018
+ Bjerke-Travbane; Torsdag, 25. jan 2018
+ Bjerke-Travbane;Onsdag, 24. jan 2018
+ Bjerke-Travbane;Lørdag, 20. jan 2018
+ Bjerke-Travbane;Onsdag, 17. jan 2018
+ Bjerke-Travbane; Torsdag, 11. jan 2018
+ Bjerke-Travbane;Onsdag, 10. jan 2018
+ Bjerke-Travbane;Torsdag, 4. jan 2018
+ Bjerke-Travbane;Onsdag, 3. jan 2018
+ Bjerke-Travbane; Søndag, 31. des 2017
+ Bjerke-Travbane;Torsdag, 28. des 2017
+ Bjerke-Travbane;Onsdag, 27. des 2017
+ Bjerke-Travbane;Torsdag, 21. des 2017
+ Bjerke-Travbane; Onsdag, 20. des 2017
+ Bjerke-Travbane;Lørdag, 16. des 2017
+ Bjerke-Travbane;Torsdag, 14. des 2017
+ Bjerke-Travbane;Onsdag, 13. des 2017
+ Bjerke-Travbane; Torsdag, 7. des 2017
+ Bjerke-Travbane;Onsdag, 6. des 2017
+ Bjerke-Travbane;Torsdag, 30. nov 2017
+ Bjerke-Travbane;Onsdag, 29. nov 2017
+ Bjerke-Travbane; Torsdag, 23. nov 2017
+ Bjerke-Travbane;Onsdag, 22. nov 2017
+ Bjerke-Travbane;Mandag, 20. nov 2017
+ Bjerke-Travbane;Lørdag, 18. nov 2017
+ Bjerke-Travbane; Torsdag, 16. nov 2017
+ Bjerke-Travbane;Onsdag, 15. nov 2017
+ Bjerke-Travbane;Mandag, 13. nov 2017
+ Bjerke-Travbane;Onsdag, 8. nov 2017
+ Bjerke-Travbane; Mandag, 6. nov 2017
+ Bjerke-Travbane;Onsdag, 1. nov 2017
+ Bjerke-Travbane;Mandag, 30. okt 2017
+ Bjerke-Travbane;Onsdag, 25. okt 2017
+ Bjerke-Travbane; Mandag, 23. okt 2017
+ Bjerke-Travbane;Onsdag, 18. okt 2017
+ Bjerke-Travbane;Mandag, 16. okt 2017
+ Bjerke-Travbane;Onsdag, 11. okt 2017
+ Bjerke-Travbane; Mandag, 9. okt 2017
+ Bjerke-Travbane;Lørdag, 7. okt 2017
+ Bjerke-Travbane;Onsdag, 4. okt 2017
+ Bjerke-Travbane;Mandag, 2. okt 2017
+ Bjerke-Travbane; Onsdag, 27. sept 2017
+ Bjerke-Travbane;Mandag, 25. sept 2017
+ Bjerke-Travbane;Onsdag, 20. sept 2017
+ Bjerke-Travbane;Mandag, 18. sept 2017
+ Bjerke-Travbane; Onsdag, 13. sept 2017
+ Bjerke-Travbane;Mandag, 11. sept 2017
+ Bjerke-Travbane;Søndag, 10. sept 2017
+ Bjerke-Travbane;Lørdag, 9. sept 2017
+ Bjerke-Travbane; Fredag, 8. sept 2017
+ Bjerke-Travbane;Onsdag, 6. sept 2017
+ Bjerke-Travbane;Mandag, 4. sept 2017
+ Bjerke-Travbane;Onsdag, 30. aug 2017
+ Bjerke-Travbane; Tirsdag, 29. aug 2017
+ Bjerke-Travbane;Mandag, 28. aug 2017
+ Bjerke-Travbane;Onsdag, 23. aug 2017
+ Bjerke-Travbane;Mandag, 21. aug 2017
+ Bjerke-Travbane; Onsdag, 16. aug 2017
+ Bjerke-Travbane;Mandag, 14. aug 2017
+ Bjerke-Travbane;Torsdag, 10. aug 2017
+ Bjerke-Travbane;Onsdag, 9. aug 2017
+ Bjerke-Travbane; Mandag, 7. aug 2017
+ Bjerke-Travbane;Onsdag, 2. aug 2017
+ Bjerke-Travbane;Mandag, 31. jul 2017
+ Bjerke-Travbane;Onsdag, 26. jul 2017
+ Bjerke-Travbane; Mandag, 24. jul 2017
+ Bjerke-Travbane;Torsdag, 20. jul 2017
+ Bjerke-Travbane;Onsdag, 19. jul 2017
+ Bjerke-Travbane;Mandag, 17. jul 2017
+ Bjerke-Travbane; Onsdag, 12. jul 2017
+ Bjerke-Travbane;Mandag, 10. jul 2017
+ Bjerke-Travbane;Mandag, 3. jul 2017
+ Bjerke-Travbane;Torsdag, 29. jun 2017
+ Bjerke-Travbane; Onsdag, 28. jun 2017
+ Bjerke-Travbane;Mandag, 26. jun 2017
+ Bjerke-Travbane;Onsdag, 21. jun 2017
+ Bjerke-Travbane;Søndag, 11. jun 2017
+ Bjerke-Travbane; Lørdag, 10. jun 2017
+ Bjerke-Travbane;Onsdag, 7. jun 2017
+ Bjerke-Travbane;Tirsdag, 6. jun 2017
+ Bjerke-Travbane;Onsdag, 31. mai 2017
+ Bjerke-Travbane; Mandag, 29. mai 2017
+ Bjerke-Travbane;Onsdag, 24. mai 2017
+ Bjerke-Travbane;Mandag, 22. mai 2017
+ Bjerke-Travbane;Tirsdag, 16. mai 2017
+ Bjerke-Travbane; Mandag, 15. mai 2017
+ Bjerke-Travbane;Onsdag, 10. mai 2017
+ Bjerke-Travbane;Mandag, 8. mai 2017
+ Bjerke-Travbane;Onsdag, 3. mai 2017
+ Bjerke-Travbane; Onsdag, 26. apr 2017
+ Bjerke-Travbane;Mandag, 24. apr 2017
+ Bjerke-Travbane;Lørdag, 22. apr 2017
+ Bjerke-Travbane;Onsdag, 19. apr 2017
+ Bjerke-Travbane; Onsdag, 12. apr 2017
+ Bjerke-Travbane;Tirsdag, 11. apr 2017
+ Bjerke-Travbane;Onsdag, 5. apr 2017
+ Bjerke-Travbane;Mandag, 3. apr 2017
+ Bjerke-Travbane; Lørdag, 1. apr 2017
+ Bjerke-Travbane;Onsdag, 29. mar 2017
+ Bjerke-Travbane;Mandag, 27. mar 2017
+ Bjerke-Travbane;Torsdag, 23. mar 2017
+ Bjerke-Travbane; Onsdag, 22. mar 2017
+ Bjerke-Travbane;Torsdag, 16. mar 2017
+ Bjerke-Travbane;Onsdag, 15. mar 2017
+ Bjerke-Travbane;Torsdag, 9. mar 2017
+ Bjerke-Travbane; Onsdag, 8. mar 2017
+ Bjerke-Travbane;Onsdag, 1. mar 2017
+ Bjerke-Travbane;Lørdag, 25. feb 2017
+ Bjerke-Travbane;Torsdag, 23. feb 2017
+ Bjerke-Travbane; Onsdag, 22. feb 2017
+ Bjerke-Travbane;Torsdag, 16. feb 2017
+ Bjerke-Travbane;Onsdag, 15. feb 2017
+ Bjerke-Travbane;Torsdag, 9. feb 2017
+ Bjerke-Travbane; Onsdag, 8. feb 2017
+ Bjerke-Travbane;Torsdag, 2. feb 2017
+ Bjerke-Travbane;Onsdag, 1. feb 2017
+ Bjerke-Travbane;Onsdag, 25. jan 2017
+ Bjerke-Travbane; Lørdag, 21. jan 2017
+ Bjerke-Travbane;Onsdag, 18. jan 2017
+ Bjerke-Travbane;Torsdag, 12. jan 2017
+ Bjerke-Travbane;Onsdag, 11. jan 2017
+ Bjerke-Travbane; Onsdag, 4. jan 2017
+ Bjerke-Travbane;Lørdag, 31. des 2016
+ Bjerke-Travbane;Fredag, 30. des 2016
+ Bjerke-Travbane;Onsdag, 28. des 2016
+ Bjerke-Travbane; Torsdag, 22. des 2016
+ Bjerke-Travbane;Onsdag, 21. des 2016
+ Bjerke-Travbane;Lørdag, 17. des 2016
+ Bjerke-Travbane;Torsdag, 15. des 2016
+ Bjerke-Travbane; Onsdag, 14. des 2016
+ Bjerke-Travbane;Torsdag, 8. des 2016
+ Bjerke-Travbane;Onsdag, 7. des 2016
+ Bjerke-Travbane;Tirsdag, 6. des 2016
+ Bjerke-Travbane; Torsdag, 1. des 2016
+ Bjerke-Travbane;Onsdag, 30. nov 2016
+ Bjerke-Travbane;Torsdag, 24. nov 2016
+ Bjerke-Travbane;Onsdag, 23. nov 2016
+ Bjerke-Travbane; Lørdag, 19. nov 2016
+ Bjerke-Travbane;Torsdag, 17. nov 2016
+ Bjerke-Travbane;Onsdag, 16. nov 2016
+ Bjerke-Travbane;Torsdag, 10. nov 2016
+ Bjerke-Travbane; Onsdag, 9. nov 2016
+ Bjerke-Travbane;Torsdag, 3. nov 2016
+ Bjerke-Travbane;Onsdag, 2. nov 2016
+ Bjerke-Travbane;Onsdag, 26. okt 2016
+ Bjerke-Travbane; Mandag, 24. okt 2016
+ Bjerke-Travbane;Lørdag, 22. okt 2016
+ Bjerke-Travbane;Onsdag, 19. okt 2016
+ Bjerke-Travbane;Mandag, 17. okt 2016
+ Bjerke-Travbane; Torsdag, 13. okt 2016
+ Bjerke-Travbane;Onsdag, 12. okt 2016
+ Bjerke-Travbane;Torsdag, 6. okt 2016
+ Bjerke-Travbane;Onsdag, 5. okt 2016
+ Bjerke-Travbane; Torsdag, 29. sept 2016
+ Bjerke-Travbane;Onsdag, 28. sept 2016
+ Bjerke-Travbane;Onsdag, 21. sept 2016
+ Bjerke-Travbane;Tirsdag, 20. sept 2016
+ Bjerke-Travbane; Søndag, 18. sept 2016
+ Bjerke-Travbane;Lørdag, 17. sept 2016
+ Bjerke-Travbane;Fredag, 16. sept 2016
+ Bjerke-Travbane;Onsdag, 14. sept 2016
+ Bjerke-Travbane; Mandag, 12. sept 2016
+ Bjerke-Travbane;Torsdag, 8. sept 2016
+ Bjerke-Travbane;Onsdag, 7. sept 2016
+ Bjerke-Travbane;Tirsdag, 6. sept 2016
+ Bjerke-Travbane; Mandag, 5. sept 2016
+ Bjerke-Travbane;Torsdag, 1. sept 2016
+ Bjerke-Travbane;Onsdag, 31. aug 2016
+ Bjerke-Travbane;Torsdag, 25. aug 2016
+ Bjerke-Travbane; Onsdag, 24. aug 2016
+ Bjerke-Travbane;Torsdag, 18. aug 2016
+ Bjerke-Travbane;Onsdag, 17. aug 2016
+ Bjerke-Travbane;Torsdag, 11. aug 2016
+ Bjerke-Travbane; Onsdag, 10. aug 2016
+ Bjerke-Travbane;Torsdag, 4. aug 2016
+ Bjerke-Travbane;Onsdag, 3. aug 2016
+ Bjerke-Travbane;Torsdag, 28. jul 2016
+ Bjerke-Travbane; Onsdag, 27. jul 2016
+ Bjerke-Travbane;Torsdag, 21. jul 2016
+ Bjerke-Travbane;Onsdag, 20. jul 2016
+ Bjerke-Travbane;Torsdag, 14. jul 2016
+ Bjerke-Travbane; Onsdag, 13. jul 2016
+ Bjerke-Travbane;Torsdag, 30. jun 2016
+ Bjerke-Travbane;Onsdag, 29. jun 2016
+ Bjerke-Travbane;Torsdag, 23. jun 2016
+ Bjerke-Travbane; Onsdag, 22. jun 2016
+ Bjerke-Travbane;Søndag, 12. jun 2016
+ Bjerke-Travbane;Lørdag, 11. jun 2016
+ Bjerke-Travbane;Torsdag, 9. jun 2016
+ Bjerke-Travbane; Onsdag, 8. jun 2016
+ Bjerke-Travbane;Torsdag, 2. jun 2016
+ Bjerke-Travbane;Onsdag, 1. jun 2016
+ Bjerke-Travbane;Torsdag, 26. mai 2016
+ Bjerke-Travbane; Onsdag, 25. mai 2016
+ Bjerke-Travbane;Torsdag, 19. mai 2016
+ Bjerke-Travbane;Onsdag, 18. mai 2016
+ Bjerke-Travbane;Torsdag, 12. mai 2016
+ Bjerke-Travbane; Onsdag, 11. mai 2016
+ Bjerke-Travbane;Onsdag, 4. mai 2016
+ Bjerke-Travbane;Tirsdag, 3. mai 2016
+ Bjerke-Travbane;Torsdag, 28. apr 2016
+ Bjerke-Travbane; Onsdag, 27. apr 2016
+ Bjerke-Travbane;Torsdag, 21. apr 2016
+ Bjerke-Travbane;Onsdag, 20. apr 2016
+ Bjerke-Travbane;Lørdag, 16. apr 2016
+ Bjerke-Travbane; Torsdag, 14. apr 2016
+ Bjerke-Travbane;Onsdag, 13. apr 2016
+ Bjerke-Travbane;Torsdag, 7. apr 2016
+ Bjerke-Travbane;Onsdag, 6. apr 2016
+ Bjerke-Travbane; Torsdag, 31. mar 2016
+ Bjerke-Travbane;Onsdag, 30. mar 2016
+ Bjerke-Travbane;Onsdag, 23. mar 2016
+ Bjerke-Travbane;Torsdag, 17. mar 2016
+ Bjerke-Travbane; Onsdag, 16. mar 2016
+ Bjerke-Travbane;Søndag, 13. mar 2016
+ Bjerke-Travbane;Torsdag, 10. mar 2016
+ Bjerke-Travbane;Onsdag, 9. mar 2016
+ Bjerke-Travbane; Torsdag, 3. mar 2016
+ Bjerke-Travbane;Onsdag, 2. mar 2016
+ Bjerke-Travbane;Torsdag, 25. feb 2016
+ Bjerke-Travbane;Onsdag, 24. feb 2016
+ Bjerke-Travbane; Lørdag, 20. feb 2016
+ Bjerke-Travbane;Fredag, 19. feb 2016
+ Bjerke-Travbane;Torsdag, 18. feb 2016
+ Bjerke-Travbane;Onsdag, 17. feb 2016
+ Bjerke-Travbane; Torsdag, 11. feb 2016
+ Bjerke-Travbane;Onsdag, 10. feb 2016
+ Bjerke-Travbane;Torsdag, 4. feb 2016
+ Bjerke-Travbane;Onsdag, 3. feb 2016
+ Bjerke-Travbane; Torsdag, 28. jan 2016
+ Bjerke-Travbane;Onsdag, 27. jan 2016
+ Bjerke-Travbane;Lørdag, 23. jan 2016
+ Bjerke-Travbane;Torsdag, 21. jan 2016
+ Bjerke-Travbane; Onsdag, 20. jan 2016
+ Bjerke-Travbane;Torsdag, 14. jan 2016
+ Bjerke-Travbane;Onsdag, 13. jan 2016
+ Bjerke-Travbane;Torsdag, 7. jan 2016
+ Bjerke-Travbane; Onsdag, 6. jan 2016
+ Bjerke-Travbane;Onsdag, 30. des 2015
+ Bjerke-Travbane;Tirsdag, 29. des 2015
+ Bjerke-Travbane;Lørdag, 26. des 2015
+ Bjerke-Travbane; Onsdag, 23. des 2015
+ Bjerke-Travbane;Tirsdag, 22. des 2015
+ Bjerke-Travbane;Lørdag, 19. des 2015
+ Bjerke-Travbane;Torsdag, 17. des 2015
+ Bjerke-Travbane; Onsdag, 16. des 2015
+ Bjerke-Travbane;Torsdag, 10. des 2015
+ Bjerke-Travbane;Onsdag, 9. des 2015
+ Bjerke-Travbane;Torsdag, 3. des 2015
+ Bjerke-Travbane; Onsdag, 2. des 2015
+ Bjerke-Travbane;Torsdag, 26. nov 2015
+ Bjerke-Travbane;Onsdag, 25. nov 2015
+ Bjerke-Travbane;Tirsdag, 24. nov 2015
+ Bjerke-Travbane; Lørdag, 21. nov 2015
+ Bjerke-Travbane;Torsdag, 19. nov 2015
+ Bjerke-Travbane;Onsdag, 18. nov 2015
+ Bjerke-Travbane;Tirsdag, 17. nov 2015
+ Bjerke-Travbane; Torsdag, 12. nov 2015
+ Bjerke-Travbane;Onsdag, 11. nov 2015
+ Bjerke-Travbane;Torsdag, 5. nov 2015
+ Bjerke-Travbane;Onsdag, 4. nov 2015
+ Bjerke-Travbane; Torsdag, 29. okt 2015
+ Bjerke-Travbane;Onsdag, 28. okt 2015
+ Bjerke-Travbane;Torsdag, 22. okt 2015
+ Bjerke-Travbane;Onsdag, 21. okt 2015
+ Bjerke-Travbane; Torsdag, 15. okt 2015
+ Bjerke-Travbane;Onsdag, 14. okt 2015
+ Bjerke-Travbane;Torsdag, 8. okt 2015
+ Bjerke-Travbane;Onsdag, 7. okt 2015
+ Bjerke-Travbane; Torsdag, 1. okt 2015
+ Bjerke-Travbane;Onsdag, 30. sept 2015
+ Bjerke-Travbane;Torsdag, 24. sept 2015
+ Bjerke-Travbane;Onsdag, 23. sept 2015
+ Bjerke-Travbane; Torsdag, 17. sept 2015
+ Bjerke-Travbane;Onsdag, 16. sept 2015
+ Bjerke-Travbane;Søndag, 13. sept 2015
+ Bjerke-Travbane;Lørdag, 12. sept 2015
+ Bjerke-Travbane; Fredag, 11. sept 2015
+ Bjerke-Travbane;Torsdag, 10. sept 2015
+ Bjerke-Travbane;Onsdag, 9. sept 2015
+ Bjerke-Travbane;Torsdag, 3. sept 2015
+ Bjerke-Travbane; Onsdag, 2. sept 2015
+ Bjerke-Travbane;Tirsdag, 1. sept 2015
+ Bjerke-Travbane;Mandag, 31. aug 2015
+ Bjerke-Travbane;Torsdag, 27. aug 2015
+ Bjerke-Travbane; Onsdag, 26. aug 2015
+ Bjerke-Travbane;Torsdag, 20. aug 2015
+ Bjerke-Travbane;Onsdag, 19. aug 2015
+ Bjerke-Travbane;Torsdag, 13. aug 2015
+ Bjerke-Travbane; Onsdag, 12. aug 2015
+ Bjerke-Travbane;Torsdag, 6. aug 2015
+ Bjerke-Travbane;Onsdag, 5. aug 2015
+ Bjerke-Travbane;Torsdag, 30. jul 2015
+ Bjerke-Travbane; Onsdag, 29. jul 2015
+ Bjerke-Travbane;Torsdag, 23. jul 2015
+ Bjerke-Travbane;Onsdag, 22. jul 2015
+ Bjerke-Travbane;Torsdag, 16. jul 2015
+ Bjerke-Travbane; Onsdag, 15. jul 2015
+ Bjerke-Travbane;Torsdag, 9. jul 2015
+ Bjerke-Travbane;Onsdag, 8. jul 2015
+ Bjerke-Travbane;Torsdag, 25. jun 2015
+ Bjerke-Travbane; Onsdag, 24. jun 2015
+ Bjerke-Travbane;Tirsdag, 23. jun 2015
+ Bjerke-Travbane;Søndag, 14. jun 2015
+ Bjerke-Travbane;Lørdag, 13. jun 2015
+ Bjerke-Travbane; Torsdag, 11. jun 2015
+ Bjerke-Travbane;Onsdag, 10. jun 2015
+ Bjerke-Travbane;Torsdag, 4. jun 2015
+ Bjerke-Travbane;Onsdag, 3. jun 2015
+ Bjerke-Travbane; Torsdag, 28. mai 2015
+ Bjerke-Travbane;Onsdag, 27. mai 2015
+ Bjerke-Travbane;Torsdag, 21. mai 2015
+ Bjerke-Travbane;Onsdag, 20. mai 2015
+ Bjerke-Travbane; Onsdag, 13. mai 2015
+ Bjerke-Travbane;Torsdag, 7. mai 2015
+ Bjerke-Travbane;Onsdag, 6. mai 2015
+ Bjerke-Travbane;Torsdag, 30. apr 2015
+ Bjerke-Travbane; Onsdag, 29. apr 2015
+ Bjerke-Travbane;Torsdag, 23. apr 2015
+ Bjerke-Travbane;Onsdag, 22. apr 2015
+ Bjerke-Travbane;Lørdag, 18. apr 2015
+ Bjerke-Travbane; Torsdag, 16. apr 2015
+ Bjerke-Travbane;Onsdag, 15. apr 2015
+ Bjerke-Travbane;Torsdag, 9. apr 2015
+ Bjerke-Travbane;Onsdag, 8. apr 2015
+ Bjerke-Travbane; Onsdag, 1. apr 2015
+ Bjerke-Travbane;Torsdag, 26. mar 2015
+ Bjerke-Travbane;Onsdag, 25. mar 2015
+ Bjerke-Travbane;Torsdag, 19. mar 2015
+ Bjerke-Travbane; Onsdag, 18. mar 2015
+ Bjerke-Travbane;Torsdag, 12. mar 2015
+ Bjerke-Travbane;Onsdag, 11. mar 2015
+ Bjerke-Travbane;Torsdag, 5. mar 2015
+ Bjerke-Travbane; Onsdag, 4. mar 2015
+ Bjerke-Travbane;Lørdag, 28. feb 2015
+ Bjerke-Travbane;Torsdag, 26. feb 2015
+ Bjerke-Travbane;Onsdag, 25. feb 2015
+ Bjerke-Travbane; Torsdag, 19. feb 2015
+ Bjerke-Travbane;Onsdag, 18. feb 2015
+ Bjerke-Travbane;Torsdag, 12. feb 2015
+ Bjerke-Travbane;Onsdag, 11. feb 2015
+ Bjerke-Travbane; Torsdag, 5. feb 2015
+ Bjerke-Travbane;Onsdag, 4. feb 2015
+ Bjerke-Travbane;Lørdag, 31. jan 2015
+ Bjerke-Travbane;Torsdag, 22. jan 2015
+ Bjerke-Travbane; Onsdag, 21. jan 2015
+ Bjerke-Travbane;Torsdag, 15. jan 2015
+ Bjerke-Travbane;Onsdag, 14. jan 2015
+ Bjerke-Travbane;Torsdag, 8. jan 2015
+ Bjerke-Travbane; Onsdag, 7. jan 2015
+ Bjerke-Travbane;Onsdag, 31. des 2014
+ Bjerke-Travbane;Tirsdag, 30. des 2014
+ Bjerke-Travbane;Tirsdag, 23. des 2014
+ Bjerke-Travbane; Lørdag, 20. des 2014
+ Bjerke-Travbane;Torsdag, 18. des 2014
+ Bjerke-Travbane;Onsdag, 17. des 2014
+ Bjerke-Travbane;Torsdag, 11. des 2014
+ Bjerke-Travbane; Onsdag, 10. des 2014
+ Bjerke-Travbane;Torsdag, 4. des 2014
+ Bjerke-Travbane;Onsdag, 3. des 2014
+ Bjerke-Travbane;Torsdag, 27. nov 2014
+ Bjerke-Travbane; Onsdag, 26. nov 2014
+ Bjerke-Travbane;Lørdag, 22. nov 2014
+ Bjerke-Travbane;Fredag, 21. nov 2014
+ Bjerke-Travbane;Torsdag, 20. nov 2014
+ Bjerke-Travbane; Onsdag, 19. nov 2014
+ Bjerke-Travbane;Torsdag, 13. nov 2014
+ Bjerke-Travbane;Onsdag, 12. nov 2014
+ Bjerke-Travbane;Torsdag, 6. nov 2014
+ Bjerke-Travbane; Onsdag, 5. nov 2014
+ Bjerke-Travbane;Torsdag, 30. okt 2014
+ Bjerke-Travbane;Onsdag, 29. okt 2014
+ Bjerke-Travbane;Torsdag, 23. okt 2014
+ Bjerke-Travbane; Onsdag, 22. okt 2014
+ Bjerke-Travbane;Torsdag, 16. okt 2014
+ Bjerke-Travbane;Onsdag, 15. okt 2014
+ Bjerke-Travbane;Torsdag, 9. okt 2014
+ Bjerke-Travbane; Onsdag, 8. okt 2014
+ Bjerke-Travbane;Torsdag, 2. okt 2014
+ Bjerke-Travbane;Onsdag, 1. okt 2014
+ Bjerke-Travbane;Torsdag, 25. sept 2014
+ Bjerke-Travbane; Onsdag, 24. sept 2014
+ Bjerke-Travbane;Torsdag, 18. sept 2014
+ Bjerke-Travbane;Onsdag, 17. sept 2014
+ Bjerke-Travbane;Torsdag, 11. sept 2014
+ Bjerke-Travbane; Onsdag, 10. sept 2014
+ Bjerke-Travbane;Søndag, 7. sept 2014
+ Bjerke-Travbane;Lørdag, 6. sept 2014
+ Bjerke-Travbane;Fredag, 5. sept 2014
+ Bjerke-Travbane; Torsdag, 4. sept 2014
+ Bjerke-Travbane;Onsdag, 3. sept 2014
+ Bjerke-Travbane;Torsdag, 28. aug 2014
+ Bjerke-Travbane;Onsdag, 27. aug 2014
+ Bjerke-Travbane; Tirsdag, 26. aug 2014
+ Bjerke-Travbane;Mandag, 25. aug 2014
+ Bjerke-Travbane;Torsdag, 21. aug 2014
+ Bjerke-Travbane;Onsdag, 20. aug 2014
+ Bjerke-Travbane; Torsdag, 14. aug 2014
+ Bjerke-Travbane;Onsdag, 13. aug 2014
+ Bjerke-Travbane;Torsdag, 7. aug 2014
+ Bjerke-Travbane;Onsdag, 6. aug 2014
+ Bjerke-Travbane; Torsdag, 31. jul 2014
+ Bjerke-Travbane;Onsdag, 30. jul 2014
+ Bjerke-Travbane;Tirsdag, 29. jul 2014
+ Bjerke-Travbane;Torsdag, 24. jul 2014
+ Bjerke-Travbane; Onsdag, 23. jul 2014
+ Bjerke-Travbane;Tirsdag, 22. jul 2014
+ Bjerke-Travbane;Torsdag, 26. jun 2014
+ Bjerke-Travbane;Onsdag, 25. jun 2014
+ Bjerke-Travbane; Torsdag, 19. jun 2014
+ Bjerke-Travbane;Onsdag, 18. jun 2014
+ Bjerke-Travbane;Søndag, 8. jun 2014
+ Bjerke-Travbane;Lørdag, 7. jun 2014
+ Bjerke-Travbane; Fredag, 6. jun 2014
+ Bjerke-Travbane;Torsdag, 5. jun 2014
+ Bjerke-Travbane;Onsdag, 4. jun 2014
+ Bjerke-Travbane;Onsdag, 28. mai 2014
+ Bjerke-Travbane; Tirsdag, 27. mai 2014
+ Bjerke-Travbane;Torsdag, 22. mai 2014
+ Bjerke-Travbane;Onsdag, 21. mai 2014
+ Bjerke-Travbane;Torsdag, 15. mai 2014
+ Bjerke-Travbane; Onsdag, 14. mai 2014
+ Bjerke-Travbane;Torsdag, 8. mai 2014
+ Bjerke-Travbane;Onsdag, 7. mai 2014
+ Bjerke-Travbane;Onsdag, 30. apr 2014
+ Bjerke-Travbane; Tirsdag, 29. apr 2014
+ Bjerke-Travbane;Torsdag, 24. apr 2014
+ Bjerke-Travbane;Onsdag, 23. apr 2014
+ Bjerke-Travbane;Onsdag, 16. apr 2014
+ Bjerke-Travbane; Torsdag, 10. apr 2014
+ Bjerke-Travbane;Onsdag, 9. apr 2014
+ Bjerke-Travbane;Lørdag, 5. apr 2014
+ Bjerke-Travbane;Torsdag, 3. apr 2014
+ Bjerke-Travbane; Onsdag, 2. apr 2014
+ Bjerke-Travbane;Torsdag, 27. mar 2014
+ Bjerke-Travbane;Onsdag, 26. mar 2014
+ Bjerke-Travbane;Torsdag, 20. mar 2014
+ Bjerke-Travbane; Onsdag, 19. mar 2014
+ Bjerke-Travbane;Torsdag, 13. mar 2014
+ Bjerke-Travbane;Onsdag, 12. mar 2014
+ Bjerke-Travbane;Lørdag, 8. mar 2014
+ Bjerke-Travbane; Fredag, 7. mar 2014
+ Bjerke-Travbane;Torsdag, 6. mar 2014
+ Bjerke-Travbane;Onsdag, 5. mar 2014
+ Bjerke-Travbane;Torsdag, 27. feb 2014
+ Bjerke-Travbane; Onsdag, 26. feb 2014
+ Bjerke-Travbane;Torsdag, 20. feb 2014
+ Bjerke-Travbane;Onsdag, 19. feb 2014
+ Bjerke-Travbane;Torsdag, 13. feb 2014
+ Bjerke-Travbane; Onsdag, 12. feb 2014
+ Bjerke-Travbane;Torsdag, 6. feb 2014
+ Bjerke-Travbane;Onsdag, 5. feb 2014
+ Bjerke-Travbane;Torsdag, 30. jan 2014
+ Bjerke-Travbane; Onsdag, 29. jan 2014
+ Bjerke-Travbane;Lørdag, 25. jan 2014
+ Bjerke-Travbane;Torsdag, 23. jan 2014
+ Bjerke-Travbane;Onsdag, 22. jan 2014
+ Bjerke-Travbane; Torsdag, 16. jan 2014
+ Bjerke-Travbane;Onsdag, 15. jan 2014
+ Bjerke-Travbane;Torsdag, 9. jan 2014
+ Bjerke-Travbane;Onsdag, 8. jan 2014
+ Bjerke-Travbane; Tirsdag, 7. jan 2014
+ Bjerke-Travbane;Fredag, 3. jan 2014
+ Bjerke-Travbane;Torsdag, 2. jan 2014
+ Bjerke-Travbane;Onsdag, 1. jan 2014
+ Bjerke-Travbane; Søndag, 29. des 2013
+ Bjerke-Travbane;Torsdag, 26. des 2013
+ Bjerke-Travbane;Lørdag, 21. des 2013
+ Bjerke-Travbane;Onsdag, 18. des 2013
+ Bjerke-Travbane; Tirsdag, 17. des 2013
+ Bjerke-Travbane;Onsdag, 11. des 2013
+ Bjerke-Travbane;Tirsdag, 10. des 2013
+ Bjerke-Travbane;Onsdag, 4. des 2013
+ Bjerke-Travbane; Tirsdag, 3. des 2013
+ Bjerke-Travbane;Onsdag, 27. nov 2013
+ Bjerke-Travbane;Tirsdag, 26. nov 2013
+ Bjerke-Travbane;Onsdag, 20. nov 2013
+ Bjerke-Travbane; Tirsdag, 19. nov 2013
+ Bjerke-Travbane;Torsdag, 14. nov 2013
+ Bjerke-Travbane;Onsdag, 13. nov 2013
+ Bjerke-Travbane;Tirsdag, 12. nov 2013
+ Bjerke-Travbane; Onsdag, 6. nov 2013
+ Bjerke-Travbane;Tirsdag, 5. nov 2013
+ Bjerke-Travbane;Fredag, 1. nov 2013
+ Bjerke-Travbane;Onsdag, 30. okt 2013
+ Bjerke-Travbane; Tirsdag, 29. okt 2013
+ Bjerke-Travbane;Onsdag, 23. okt 2013
+ Bjerke-Travbane;Tirsdag, 22. okt 2013
+ Bjerke-Travbane;Onsdag, 16. okt 2013
+ Bjerke-Travbane; Tirsdag, 15. okt 2013
+ Bjerke-Travbane;Mandag, 14. okt 2013
+ Bjerke-Travbane;Onsdag, 9. okt 2013
+ Bjerke-Travbane;Tirsdag, 8. okt 2013
+ Bjerke-Travbane; Onsdag, 2. okt 2013
+ Bjerke-Travbane;Mandag, 30. sept 2013
+ Bjerke-Travbane;Onsdag, 25. sept 2013
+ Bjerke-Travbane;Tirsdag, 24. sept 2013
+ Bjerke-Travbane; Onsdag, 18. sept 2013
+ Bjerke-Travbane;Tirsdag, 17. sept 2013
+ Bjerke-Travbane;Onsdag, 11. sept 2013
+ Bjerke-Travbane;Tirsdag, 10. sept 2013
+ Bjerke-Travbane; Søndag, 8. sept 2013
+ Bjerke-Travbane;Lørdag, 7. sept 2013
+ Bjerke-Travbane;Fredag, 6. sept 2013
+ Bjerke-Travbane;Onsdag, 4. sept 2013
+ Bjerke-Travbane; Tirsdag, 3. sept 2013
+ Bjerke-Travbane;Onsdag, 28. aug 2013
+ Bjerke-Travbane;Tirsdag, 27. aug 2013
+ Bjerke-Travbane;Mandag, 26. aug 2013
+ Bjerke-Travbane; Onsdag, 21. aug 2013
+ Bjerke-Travbane;Tirsdag, 20. aug 2013
+ Bjerke-Travbane;Onsdag, 14. aug 2013
+ Bjerke-Travbane;Tirsdag, 13. aug 2013
+ Bjerke-Travbane; Torsdag, 8. aug 2013
+ Bjerke-Travbane;Onsdag, 7. aug 2013
+ Bjerke-Travbane;Tirsdag, 6. aug 2013
+ Bjerke-Travbane;Onsdag, 31. jul 2013
+ Bjerke-Travbane; Tirsdag, 30. jul 2013
+ Bjerke-Travbane;Onsdag, 24. jul 2013
+ Bjerke-Travbane;Tirsdag, 23. jul 2013
+ Bjerke-Travbane;Mandag, 22. jul 2013
+ Bjerke-Travbane; Onsdag, 26. jun 2013
+ Bjerke-Travbane;Tirsdag, 25. jun 2013
+ Bjerke-Travbane;Onsdag, 19. jun 2013
+ Bjerke-Travbane;Tirsdag, 18. jun 2013
+ Bjerke-Travbane; Onsdag, 12. jun 2013
+ Bjerke-Travbane;Tirsdag, 11. jun 2013
+ Bjerke-Travbane;Onsdag, 5. jun 2013
+ Bjerke-Travbane;Tirsdag, 4. jun 2013
+ Bjerke-Travbane; Onsdag, 29. mai 2013
+ Bjerke-Travbane;Tirsdag, 28. mai 2013
+ Bjerke-Travbane;Onsdag, 22. mai 2013
+ Bjerke-Travbane;Tirsdag, 21. mai 2013
+ Bjerke-Travbane; Søndag, 12. mai 2013
+ Bjerke-Travbane;Lørdag, 11. mai 2013
+ Bjerke-Travbane;Fredag, 10. mai 2013
+ Bjerke-Travbane;Onsdag, 8. mai 2013
+ Bjerke-Travbane; Tirsdag, 7. mai 2013
+ Bjerke-Travbane;Onsdag, 1. mai 2013
+ Bjerke-Travbane;Tirsdag, 30. apr 2013
+ Bjerke-Travbane;Onsdag, 24. apr 2013
+ Bjerke-Travbane; Tirsdag, 23. apr 2013
+ Bjerke-Travbane;Mandag, 22. apr 2013
+ Bjerke-Travbane;Onsdag, 17. apr 2013
+ Bjerke-Travbane;Tirsdag, 16. apr 2013
+ Bjerke-Travbane; Onsdag, 10. apr 2013
+ Bjerke-Travbane;Tirsdag, 9. apr 2013
+ Bjerke-Travbane;Onsdag, 3. apr 2013
+ Bjerke-Travbane;Tirsdag, 2. apr 2013
+ Bjerke-Travbane; Onsdag, 27. mar 2013
+ Bjerke-Travbane;Tirsdag, 26. mar 2013
+ Bjerke-Travbane;Lørdag, 23. mar 2013
+ Bjerke-Travbane;Onsdag, 20. mar 2013
+ Bjerke-Travbane; Tirsdag, 19. mar 2013
+ Bjerke-Travbane;Torsdag, 14. mar 2013
+ Bjerke-Travbane;Onsdag, 13. mar 2013
+ Bjerke-Travbane;Tirsdag, 12. mar 2013
+ Bjerke-Travbane; Onsdag, 6. mar 2013
+ Bjerke-Travbane;Tirsdag, 5. mar 2013
+ Bjerke-Travbane;Onsdag, 27. feb 2013
+ Bjerke-Travbane;Tirsdag, 26. feb 2013
+ Bjerke-Travbane; Lørdag, 23. feb 2013
+ Bjerke-Travbane;Fredag, 22. feb 2013
+ Bjerke-Travbane;Onsdag, 20. feb 2013
+ Bjerke-Travbane;Onsdag, 13. feb 2013
+ Bjerke-Travbane; Tirsdag, 12. feb 2013
+ Bjerke-Travbane;Onsdag, 6. feb 2013
+ Bjerke-Travbane;Tirsdag, 5. feb 2013
+ Bjerke-Travbane;Onsdag, 30. jan 2013
+ Bjerke-Travbane; Tirsdag, 29. jan 2013
+ Bjerke-Travbane;Onsdag, 23. jan 2013
+ Bjerke-Travbane;Tirsdag, 22. jan 2013
+ Bjerke-Travbane;Lørdag, 19. jan 2013
+ Bjerke-Travbane; Onsdag, 16. jan 2013
+ Bjerke-Travbane;Tirsdag, 15. jan 2013
+ Bjerke-Travbane;Onsdag, 9. jan 2013
+ Bjerke-Travbane;Tirsdag, 8. jan 2013
+ Bjerke-Travbane; Onsdag, 2. jan 2013
+ Bjerke-Travbane;Torsdag, 27. des 2012
+ Bjerke-Travbane;Onsdag, 26. des 2012
+ Bjerke-Travbane;Lørdag, 22. des 2012
+ Bjerke-Travbane; Torsdag, 20. des 2012
+ Bjerke-Travbane;Onsdag, 19. des 2012
+ Bjerke-Travbane;Torsdag, 13. des 2012
+ Bjerke-Travbane;Onsdag, 12. des 2012
+ Bjerke-Travbane; Torsdag, 6. des 2012
+ Bjerke-Travbane;Onsdag, 5. des 2012
+ Bjerke-Travbane;Torsdag, 29. nov 2012
+ Bjerke-Travbane;Onsdag, 28. nov 2012
+ Bjerke-Travbane; Tirsdag, 27. nov 2012
+ Bjerke-Travbane;Torsdag, 22. nov 2012
+ Bjerke-Travbane;Onsdag, 21. nov 2012
+ Bjerke-Travbane;Torsdag, 15. nov 2012
+ Bjerke-Travbane; Onsdag, 14. nov 2012
+ Bjerke-Travbane;Torsdag, 8. nov 2012
+ Bjerke-Travbane;Onsdag, 7. nov 2012
+ Bjerke-Travbane;Torsdag, 1. nov 2012
+ Bjerke-Travbane; Onsdag, 31. okt 2012
+ Bjerke-Travbane;Torsdag, 25. okt 2012
+ Bjerke-Travbane;Onsdag, 24. okt 2012
+ Bjerke-Travbane;Torsdag, 18. okt 2012
+ Bjerke-Travbane; Onsdag, 17. okt 2012
+ Bjerke-Travbane;Torsdag, 11. okt 2012
+ Bjerke-Travbane;Onsdag, 10. okt 2012
+ Bjerke-Travbane;Torsdag, 4. okt 2012
+ Bjerke-Travbane; Onsdag, 3. okt 2012
+ Bjerke-Travbane;Torsdag, 27. sept 2012
+ Bjerke-Travbane;Onsdag, 26. sept 2012
+ Bjerke-Travbane;Torsdag, 20. sept 2012
+ Bjerke-Travbane; Onsdag, 19. sept 2012
+ Bjerke-Travbane;Torsdag, 13. sept 2012
+ Bjerke-Travbane;Onsdag, 12. sept 2012
+ Bjerke-Travbane;Søndag, 9. sept 2012
+ Bjerke-Travbane; Lørdag, 8. sept 2012
+ Bjerke-Travbane;Fredag, 7. sept 2012
+ Bjerke-Travbane;Torsdag, 6. sept 2012
+ Bjerke-Travbane;Torsdag, 25. aug 2022
+ Bjerke-Travbane; Onsdag, 24. aug 2022
+ Bjerke-Travbane;Tirsdag, 16. aug 2022
+ Bjerke-Travbane;Tirsdag, 9. aug 2022
+ Bjerke-Travbane;Tirsdag, 2. aug 2022
+ Bjerke-Travbane; Onsdag, 13. jul 2022
+ Bjerke-Travbane;Tirsdag, 12. jul 2022
+ Bjerke-Travbane;Torsdag, 7. jul 2022
+ Bjerke-Travbane;Tirsdag, 5. jul 2022
+ Bjerke-Travbane; Tirsdag, 28. jun 2022
+ Bjerke-Travbane;Mandag, 27. jun 2022
+ Bjerke-Travbane;Tirsdag, 21. jun 2022
+ Bjerke-Travbane;Søndag, 12. jun 2022
+ Bjerke-Travbane; Lørdag, 11. jun 2022
+ Bjerke-Travbane;Tirsdag, 7. jun 2022
+ Bjerke-Travbane;Onsdag, 1. jun 2022
+ Bjerke-Travbane;Tirsdag, 24. mai 2022
+ Bjerke-Travbane; Mandag, 16. mai 2022
+ Bjerke-Travbane;Søndag, 15. mai 2022
+ Bjerke-Travbane;Tirsdag, 10. mai 2022
+ Bjerke-Travbane;Tirsdag, 3. mai 2022
+ Bjerke-Travbane; Tirsdag, 26. apr 2022
+ Bjerke-Travbane;Mandag, 25. apr 2022
+ Bjerke-Travbane;Tirsdag, 19. apr 2022
+ Bjerke-Travbane;Tirsdag, 12. apr 2022
+ Bjerke-Travbane; Onsdag, 6. apr 2022
+ Bjerke-Travbane;Lørdag, 2. apr 2022
+ Bjerke-Travbane;Tirsdag, 29. mar 2022
+ Bjerke-Travbane;Onsdag, 23. mar 2022
+ Bjerke-Travbane; Tirsdag, 22. mar 2022
+ Bjerke-Travbane;Tirsdag, 15. mar 2022
+ Bjerke-Travbane;Mandag, 14. mar 2022
+ Bjerke-Travbane;Onsdag, 9. mar 2022
+ Bjerke-Travbane; Lørdag, 5. mar 2022
+ Bjerke-Travbane;Onsdag, 2. mar 2022
+ Bjerke-Travbane;Tirsdag, 1. mar 2022
+ Bjerke-Travbane;Tirsdag, 22. feb 2022
+ Bjerke-Travbane; Lørdag, 19. feb 2022
+ Bjerke-Travbane;Onsdag, 16. feb 2022
+ Bjerke-Travbane;Tirsdag, 8. feb 2022
+ Bjerke-Travbane;Søndag, 6. feb 2022
+ Bjerke-Travbane; Tirsdag, 1. feb 2022
+ Bjerke-Travbane;Onsdag, 26. jan 2022
+ Bjerke-Travbane;Tirsdag, 25. jan 2022
+ Bjerke-Travbane;Onsdag, 19. jan 2022
+ Bjerke-Travbane; Tirsdag, 18. jan 2022
+ Bjerke-Travbane;Lørdag, 15. jan 2022
+ Bjerke-Travbane;Tirsdag, 11. jan 2022
+ Bjerke-Travbane;Søndag, 9. jan 2022
+ Bjerke-Travbane; Tirsdag, 4. jan 2022
+ Bjerke-Travbane;Lørdag, 1. jan 2022
+ Bjerke-Travbane;Torsdag, 30. des 2021
+ Bjerke-Travbane;Søndag, 26. des 2021
+ Bjerke-Travbane; Tirsdag, 21. des 2021
+ Bjerke-Travbane;Lørdag, 18. des 2021
+ Bjerke-Travbane;Tirsdag, 14. des 2021
+ Bjerke-Travbane;Tirsdag, 7. des 2021
+ Bjerke-Travbane; Tirsdag, 30. nov 2021
+ Bjerke-Travbane;Onsdag, 24. nov 2021
+ Bjerke-Travbane;Tirsdag, 23. nov 2021
+ Bjerke-Travbane;Tirsdag, 16. nov 2021
+ Bjerke-Travbane; Lørdag, 13. nov 2021
+ Bjerke-Travbane;Tirsdag, 9. nov 2021
+ Bjerke-Travbane;Tirsdag, 2. nov 2021
+ Bjerke-Travbane;Tirsdag, 26. okt 2021
+ Bjerke-Travbane; Tirsdag, 19. okt 2021
+ Bjerke-Travbane;Onsdag, 13. okt 2021
+ Bjerke-Travbane;Tirsdag, 12. okt 2021
+ Bjerke-Travbane;Tirsdag, 5. okt 2021
+ Bjerke-Travbane; Lørdag, 2. okt 2021
+ Bjerke-Travbane;Tirsdag, 28. sept 2021
+ Bjerke-Travbane;Tirsdag, 21. sept 2021
+ Bjerke-Travbane;Søndag, 12. sept 2021
+ Bjerke-Travbane; Lørdag, 11. sept 2021
+ Bjerke-Travbane;Fredag, 10. sept 2021
+ Bjerke-Travbane;Tirsdag, 7. sept 2021
+ Bjerke-Travbane;Tirsdag, 31. aug 2021
+ Bjerke-Travbane; Fredag, 27. aug 2021
+ Bjerke-Travbane;Torsdag, 26. aug 2021
+ Bjerke-Travbane;Onsdag, 25. aug 2021
+ Bjerke-Travbane;Tirsdag, 17. aug 2021
+ Bjerke-Travbane; Tirsdag, 10. aug 2021
+ Bjerke-Travbane;Tirsdag, 3. aug 2021
+ Bjerke-Travbane;Torsdag, 29. jul 2021
+ Bjerke-Travbane;Mandag, 26. jul 2021
+ Bjerke-Travbane; Tirsdag, 20. jul 2021
+ Bjerke-Travbane;Mandag, 19. jul 2021
+ Bjerke-Travbane;Tirsdag, 13. jul 2021
+ Bjerke-Travbane;Mandag, 12. jul 2021
+ Bjerke-Travbane; Onsdag, 23. jun 2021
+ Bjerke-Travbane;Mandag, 21. jun 2021
+ Bjerke-Travbane;Søndag, 13. jun 2021
+ Bjerke-Travbane;Lørdag, 12. jun 2021
+ Bjerke-Travbane; Tirsdag, 8. jun 2021
+ Bjerke-Travbane;Tirsdag, 1. jun 2021
+ Bjerke-Travbane;Tirsdag, 25. mai 2021
+ Bjerke-Travbane;Tirsdag, 18. mai 2021
+ Bjerke-Travbane; Onsdag, 12. mai 2021
+ Bjerke-Travbane;Tirsdag, 11. mai 2021
+ Bjerke-Travbane;Tirsdag, 2. mar 2021
+ Bjerke-Travbane;Lørdag, 27. feb 2021
+ Bjerke-Travbane; Tirsdag, 23. feb 2021
+ Bjerke-Travbane;Søndag, 21. feb 2021
+ Bjerke-Travbane;Lørdag, 20. feb 2021
+ Bjerke-Travbane;Onsdag, 17. feb 2021
+ Bjerke-Travbane; Tirsdag, 16. feb 2021
+ Bjerke-Travbane;Onsdag, 10. feb 2021
+ Bjerke-Travbane;Tirsdag, 9. feb 2021
+ Bjerke-Travbane;Onsdag, 27. jan 2021
+ Bjerke-Travbane; Tirsdag, 26. jan 2021
+ Bjerke-Travbane;Lørdag, 23. jan 2021
+ Bjerke-Travbane;Onsdag, 20. jan 2021
+ Bjerke-Travbane;Tirsdag, 19. jan 2021
+ Bjerke-Travbane; Onsdag, 13. jan 2021
+ Bjerke-Travbane;Tirsdag, 12. jan 2021
+ Bjerke-Travbane;Onsdag, 6. jan 2021
+ Bjerke-Travbane;Tirsdag, 5. jan 2021
+ Bjerke-Travbane; Torsdag, 31. des 2020
+ Bjerke-Travbane;Onsdag, 30. des 2020
+ Bjerke-Travbane;Tirsdag, 22. des 2020
+ Bjerke-Travbane;Lørdag, 19. des 2020
+ Bjerke-Travbane; Tirsdag, 15. des 2020
+ Bjerke-Travbane;Torsdag, 10. des 2020
+ Bjerke-Travbane;Tirsdag, 8. des 2020
+ Bjerke-Travbane;Tirsdag, 1. des 2020
+ Bjerke-Travbane; Tirsdag, 24. nov 2020
+ Bjerke-Travbane;Tirsdag, 17. nov 2020
+ Bjerke-Travbane;Lørdag, 14. nov 2020
+ Bjerke-Travbane;Onsdag, 11. nov 2020
+ Bjerke-Travbane; Onsdag, 4. nov 2020
+ Bjerke-Travbane;Onsdag, 28. okt 2020
+ Bjerke-Travbane;Onsdag, 21. okt 2020
+ Bjerke-Travbane;Onsdag, 14. okt 2020
+ Bjerke-Travbane; Onsdag, 7. okt 2020
+ Bjerke-Travbane;Onsdag, 30. sept 2020
+ Bjerke-Travbane;Onsdag, 23. sept 2020
+ Bjerke-Travbane;Onsdag, 16. sept 2020
+ Bjerke-Travbane; Søndag, 13. sept 2020
+ Bjerke-Travbane;Lørdag, 12. sept 2020
+ Bjerke-Travbane;Fredag, 11. sept 2020
+ Bjerke-Travbane;Onsdag, 9. sept 2020
+ Bjerke-Travbane; Onsdag, 2. sept 2020
+ Bjerke-Travbane;Fredag, 28. aug 2020
+ Bjerke-Travbane;Torsdag, 27. aug 2020
+ Bjerke-Travbane;Onsdag, 26. aug 2020
+ Bjerke-Travbane; Lørdag, 22. aug 2020
+ Bjerke-Travbane;Tirsdag, 18. aug 2020
+ Bjerke-Travbane;Onsdag, 12. aug 2020
+ Bjerke-Travbane;Tirsdag, 11. aug 2020
+ Bjerke-Travbane; Mandag, 10. aug 2020
+ Bjerke-Travbane;Onsdag, 5. aug 2020
+ Bjerke-Travbane;Mandag, 3. aug 2020
+ Bjerke-Travbane;Onsdag, 29. jul 2020
+ Bjerke-Travbane; Mandag, 27. jul 2020
+ Bjerke-Travbane;Onsdag, 22. jul 2020
+ Bjerke-Travbane;Mandag, 20. jul 2020
+ Bjerke-Travbane;Onsdag, 15. jul 2020
+ Bjerke-Travbane; Onsdag, 8. jul 2020
+ Bjerke-Travbane;Mandag, 6. jul 2020
+ Bjerke-Travbane;Søndag, 14. jun 2020
+ Bjerke-Travbane;Lørdag, 13. jun 2020
+ Bjerke-Travbane; Onsdag, 10. jun 2020
+ Bjerke-Travbane;Mandag, 8. jun 2020
+ Bjerke-Travbane;Onsdag, 3. jun 2020
+ Bjerke-Travbane;Lørdag, 30. mai 2020
+ Bjerke-Travbane; Onsdag, 27. mai 2020
+ Bjerke-Travbane;Lørdag, 23. mai 2020
+ Bjerke-Travbane;Onsdag, 20. mai 2020
+ Bjerke-Travbane;Onsdag, 13. mai 2020
+ Bjerke-Travbane; Mandag, 11. mai 2020
+ Bjerke-Travbane;Onsdag, 6. mai 2020
+ Bjerke-Travbane;Onsdag, 22. apr 2020
+ Bjerke-Travbane;Torsdag, 19. mar 2020
+ Bjerke-Travbane; Onsdag, 18. mar 2020
+ Bjerke-Travbane;Onsdag, 11. mar 2020
+ Bjerke-Travbane;Torsdag, 5. mar 2020
+ Bjerke-Travbane;Onsdag, 4. mar 2020
+ Bjerke-Travbane; Onsdag, 26. feb 2020
+ Bjerke-Travbane;Lørdag, 22. feb 2020
+ Bjerke-Travbane;Onsdag, 19. feb 2020
+ Bjerke-Travbane;Søndag, 16. feb 2020
+ Bjerke-Travbane; Torsdag, 13. feb 2020
+ Bjerke-Travbane;Onsdag, 12. feb 2020
+ Bjerke-Travbane;Søndag, 9. feb 2020
+ Bjerke-Travbane;Torsdag, 6. feb 2020
+ Bjerke-Travbane; Onsdag, 5. feb 2020
+ Bjerke-Travbane;Onsdag, 29. jan 2020
+ Bjerke-Travbane;Torsdag, 23. jan 2020
+ Bjerke-Travbane;Onsdag, 22. jan 2020
+ Bjerke-Travbane; Lørdag, 18. jan 2020
+ Bjerke-Travbane;Onsdag, 15. jan 2020
+ Bjerke-Travbane;Onsdag, 8. jan 2020
+ Bjerke-Travbane;Torsdag, 2. jan 2020
+ Bjerke-Travbane; Onsdag, 1. jan 2020
+ Bjerke-Travbane;Mandag, 30. des 2019
+ Bjerke-Travbane;Torsdag, 26. des 2019
+ Bjerke-Travbane;Torsdag, 19. des 2019
+ Bjerke-Travbane; Onsdag, 18. des 2019
+ Bjerke-Travbane;Lørdag, 14. des 2019
+ Bjerke-Travbane;Onsdag, 11. des 2019
+ Bjerke-Travbane;Onsdag, 4. des 2019
+ Bjerke-Travbane; Onsdag, 27. nov 2019
+ Bjerke-Travbane;Onsdag, 20. nov 2019
+ Bjerke-Travbane;Lørdag, 16. nov 2019
+ Bjerke-Travbane;Onsdag, 13. nov 2019
+ Bjerke-Travbane; Onsdag, 6. nov 2019
+ Bjerke-Travbane;Onsdag, 30. okt 2019
+ Bjerke-Travbane;Onsdag, 23. okt 2019
+ Bjerke-Travbane;Onsdag, 16. okt 2019
+ Bjerke-Travbane; Onsdag, 9. okt 2019
+ Bjerke-Travbane;Onsdag, 2. okt 2019
+ Bjerke-Travbane;Onsdag, 25. sept 2019
+ Bjerke-Travbane;Torsdag, 19. sept 2019
+ Bjerke-Travbane; Onsdag, 18. sept 2019
+ Bjerke-Travbane;Onsdag, 11. sept 2019
+ Bjerke-Travbane;Søndag, 8. sept 2019
+ Bjerke-Travbane;Lørdag, 7. sept 2019
+ Bjerke-Travbane; Fredag, 6. sept 2019
+ Bjerke-Travbane;Onsdag, 4. sept 2019
+ Bjerke-Travbane;Onsdag, 28. aug 2019
+ Bjerke-Travbane;Tirsdag, 27. aug 2019
+ Bjerke-Travbane; Mandag, 26. aug 2019
+ Bjerke-Travbane;Torsdag, 22. aug 2019
+ Bjerke-Travbane;Tirsdag, 13. aug 2019
+ Bjerke-Travbane;Onsdag, 7. aug 2019
+ Bjerke-Travbane; Mandag, 5. aug 2019
+ Bjerke-Travbane;Onsdag, 31. jul 2019
+ Bjerke-Travbane;Mandag, 29. jul 2019
+ Bjerke-Travbane;Onsdag, 24. jul 2019
+ Bjerke-Travbane; Mandag, 22. jul 2019
+ Bjerke-Travbane;Onsdag, 17. jul 2019
+ Bjerke-Travbane;Mandag, 15. jul 2019
+ Bjerke-Travbane;Onsdag, 10. jul 2019
+ Bjerke-Travbane; Mandag, 8. jul 2019
+ Bjerke-Travbane;Onsdag, 26. jun 2019
+ Bjerke-Travbane;Mandag, 24. jun 2019
+ Bjerke-Travbane;Onsdag, 19. jun 2019
+ Bjerke-Travbane; Mandag, 17. jun 2019
+ Bjerke-Travbane;Søndag, 9. jun 2019
+ Bjerke-Travbane;Lørdag, 8. jun 2019
+ Bjerke-Travbane;Onsdag, 5. jun 2019
+ Bjerke-Travbane; Mandag, 3. jun 2019
+ Bjerke-Travbane;Onsdag, 29. mai 2019
+ Bjerke-Travbane;Mandag, 27. mai 2019
+ Bjerke-Travbane;Torsdag, 23. mai 2019
+ Bjerke-Travbane; Onsdag, 22. mai 2019
+ Bjerke-Travbane;Mandag, 20. mai 2019
+ Bjerke-Travbane;Onsdag, 15. mai 2019
+ Bjerke-Travbane;Lørdag, 11. mai 2019
+ Bjerke-Travbane; Onsdag, 8. mai 2019
+ Bjerke-Travbane;Mandag, 6. mai 2019
+ Bjerke-Travbane;Tirsdag, 30. apr 2019
+ Bjerke-Travbane;Mandag, 29. apr 2019
+ Bjerke-Travbane; Torsdag, 25. apr 2019
+ Bjerke-Travbane;Onsdag, 24. apr 2019
+ Bjerke-Travbane;Onsdag, 17. apr 2019
+ Bjerke-Travbane;Mandag, 15. apr 2019
+ Bjerke-Travbane; Onsdag, 10. apr 2019
+ Bjerke-Travbane;Lørdag, 6. apr 2019
+ Bjerke-Travbane;Onsdag, 3. apr 2019
+ Bjerke-Travbane;Mandag, 1. apr 2019
+ Bjerke-Travbane; Onsdag, 27. mar 2019
+ Bjerke-Travbane;Torsdag, 21. mar 2019
+ Bjerke-Travbane;Onsdag, 20. mar 2019
+ Bjerke-Travbane;Torsdag, 14. mar 2019
+ Bjerke-Travbane; Onsdag, 13. mar 2019
+ Bjerke-Travbane;Torsdag, 7. mar 2019
+ Bjerke-Travbane;Onsdag, 6. mar 2019
+ Bjerke-Travbane;Torsdag, 28. feb 2019
+ Bjerke-Travbane; Onsdag, 27. feb 2019
+ Bjerke-Travbane;Lørdag, 23. feb 2019
+ Bjerke-Travbane;Onsdag, 20. feb 2019
+ Bjerke-Travbane;Torsdag, 14. feb 2019
+ Bjerke-Travbane; Onsdag, 13. feb 2019
+ Bjerke-Travbane;Fredag, 8. feb 2019
+ Bjerke-Travbane;Torsdag, 7. feb 2019
+ Bjerke-Travbane;Onsdag, 6. feb 2019
+ Bjerke-Travbane; Torsdag, 31. jan 2019
+ Bjerke-Travbane;Onsdag, 30. jan 2019
+ Bjerke-Travbane;Torsdag, 24. jan 2019
+ Bjerke-Travbane;Onsdag, 23. jan 2019
+ Bjerke-Travbane; Lørdag, 19. jan 2019
+ Bjerke-Travbane;Onsdag, 16. jan 2019
+ Bjerke-Travbane;Torsdag, 10. jan 2019
+ Bjerke-Travbane;Onsdag, 9. jan 2019
+ Bjerke-Travbane; Torsdag, 3. jan 2019
+ Bjerke-Travbane;Onsdag, 2. jan 2019
+ Bjerke-Travbane;Mandag, 31. des 2018
+ Bjerke-Travbane;Søndag, 30. des 2018
+ Bjerke-Travbane; Onsdag, 26. des 2018
+ Bjerke-Travbane;Onsdag, 19. des 2018
+ Bjerke-Travbane;Lørdag, 15. des 2018
+ Bjerke-Travbane;Onsdag, 12. des 2018
+ Bjerke-Travbane; Torsdag, 6. des 2018
+ Bjerke-Travbane;Onsdag, 5. des 2018
+ Bjerke-Travbane;Onsdag, 28. nov 2018
+ Bjerke-Travbane;Tirsdag, 27. nov 2018
+ Bjerke-Travbane; Torsdag, 22. nov 2018
+ Bjerke-Travbane;Onsdag, 21. nov 2018
+ Bjerke-Travbane;Tirsdag, 20. nov 2018
+ Bjerke-Travbane;Lørdag, 17. nov 2018
+ Bjerke-Travbane; Onsdag, 14. nov 2018
+ Bjerke-Travbane;Tirsdag, 13. nov 2018
+ Bjerke-Travbane;Onsdag, 7. nov 2018
+ Bjerke-Travbane;Tirsdag, 6. nov 2018
+ Bjerke-Travbane; Onsdag, 31. okt 2018
+ Bjerke-Travbane;Onsdag, 24. okt 2018
+ Bjerke-Travbane;Tirsdag, 23. okt 2018
+ Bjerke-Travbane;Onsdag, 17. okt 2018
+ Bjerke-Travbane; Mandag, 15. okt 2018
+ Bjerke-Travbane;Onsdag, 10. okt 2018
+ Bjerke-Travbane;Tirsdag, 9. okt 2018
+ Bjerke-Travbane;Onsdag, 3. okt 2018
+ Bjerke-Travbane; Tirsdag, 2. okt 2018
+ Bjerke-Travbane;Onsdag, 26. sept 2018
+ Bjerke-Travbane;Tirsdag, 25. sept 2018
+ Bjerke-Travbane;Torsdag, 20. sept 2018
+ Bjerke-Travbane; Onsdag, 19. sept 2018
+ Bjerke-Travbane;Tirsdag, 18. sept 2018
+ Bjerke-Travbane;Onsdag, 12. sept 2018
+ Bjerke-Travbane;Søndag, 9. sept 2018
+ Bjerke-Travbane; Lørdag, 8. sept 2018
+ Bjerke-Travbane;Fredag, 7. sept 2018
+ Bjerke-Travbane;Onsdag, 5. sept 2018
+ Bjerke-Travbane;Mandag, 3. sept 2018
+ Bjerke-Travbane; Onsdag, 29. aug 2018
+ Bjerke-Travbane;Tirsdag, 28. aug 2018
+ Bjerke-Travbane;Mandag, 27. aug 2018
+ Bjerke-Travbane;Torsdag, 23. aug 2018
+ Bjerke-Travbane; Mandag, 20. aug 2018
+ Bjerke-Travbane;Onsdag, 15. aug 2018
+ Bjerke-Travbane;Mandag, 13. aug 2018
+ Bjerke-Travbane;Torsdag, 9. aug 2018
+ Bjerke-Travbane; Onsdag, 8. aug 2018
+ Bjerke-Travbane;Mandag, 6. aug 2018
+ Bjerke-Travbane;Lørdag, 4. aug 2018
+ Bjerke-Travbane;Onsdag, 1. aug 2018
+ Bjerke-Travbane; Mandag, 30. jul 2018
+ Bjerke-Travbane;Onsdag, 25. jul 2018
+ Bjerke-Travbane;Mandag, 23. jul 2018
+ Bjerke-Travbane;Onsdag, 18. jul 2018
+ Bjerke-Travbane; Mandag, 16. jul 2018
+ Bjerke-Travbane;Mandag, 2. jul 2018
+ Bjerke-Travbane;Onsdag, 27. jun 2018
+ Bjerke-Travbane;Mandag, 25. jun 2018
+ Bjerke-Travbane; Onsdag, 20. jun 2018
+ Bjerke-Travbane;Mandag, 18. jun 2018
+ Bjerke-Travbane;Søndag, 10. jun 2018
+ Bjerke-Travbane;Lørdag, 9. jun 2018
+ Bjerke-Travbane; Onsdag, 6. jun 2018
+ Bjerke-Travbane;Mandag, 4. jun 2018
+ Bjerke-Travbane;Onsdag, 30. mai 2018
+ Bjerke-Travbane;Mandag, 28. mai 2018
+ Bjerke-Travbane; Onsdag, 23. mai 2018
+ Bjerke-Travbane;Onsdag, 16. mai 2018
+ Bjerke-Travbane;Mandag, 14. mai 2018
+ Bjerke-Travbane;Lørdag, 12. mai 2018
+ Bjerke-Travbane; Onsdag, 9. mai 2018
+ Bjerke-Travbane;Mandag, 7. mai 2018
+ Bjerke-Travbane;Torsdag, 3. mai 2018
+ Bjerke-Travbane;Onsdag, 2. mai 2018
+ Bjerke-Travbane; Torsdag, 26. apr 2018
+ Bjerke-Travbane;Onsdag, 25. apr 2018
+ Bjerke-Travbane;Onsdag, 18. apr 2018
+ Bjerke-Travbane;Lørdag, 14. apr 2018
+ Bjerke-Travbane; Onsdag, 11. apr 2018
+ Bjerke-Travbane;Onsdag, 4. apr 2018
+ Bjerke-Travbane;Onsdag, 28. mar 2018
+ Bjerke-Travbane;Torsdag, 22. mar 2018
+ Bjerke-Travbane; Onsdag, 21. mar 2018
+ Bjerke-Travbane;Torsdag, 15. mar 2018
+ Bjerke-Travbane;Onsdag, 14. mar 2018
+ Bjerke-Travbane;Torsdag, 8. mar 2018
+ Bjerke-Travbane; Onsdag, 7. mar 2018
+ Bjerke-Travbane;Torsdag, 1. mar 2018
+ Bjerke-Travbane;Onsdag, 28. feb 2018
+ Bjerke-Travbane;Lørdag, 24. feb 2018
+ Bjerke-Travbane; Onsdag, 21. feb 2018
+ Bjerke-Travbane;Torsdag, 15. feb 2018
+ Bjerke-Travbane;Onsdag, 14. feb 2018
+ Bjerke-Travbane;Fredag, 9. feb 2018
+ Bjerke-Travbane; Torsdag, 8. feb 2018
+ Bjerke-Travbane;Onsdag, 7. feb 2018
+ Bjerke-Travbane;Torsdag, 1. feb 2018
+ Bjerke-Travbane;Onsdag, 31. jan 2018
+ Bjerke-Travbane; Torsdag, 25. jan 2018
+ Bjerke-Travbane;Onsdag, 24. jan 2018
+ Bjerke-Travbane;Lørdag, 20. jan 2018
+ Bjerke-Travbane;Onsdag, 17. jan 2018
+ Bjerke-Travbane; Torsdag, 11. jan 2018
+ Bjerke-Travbane;Onsdag, 10. jan 2018
+ Bjerke-Travbane;Torsdag, 4. jan 2018
+ Bjerke-Travbane;Onsdag, 3. jan 2018
+ Bjerke-Travbane; Søndag, 31. des 2017
+ Bjerke-Travbane;Torsdag, 28. des 2017
+ Bjerke-Travbane;Onsdag, 27. des 2017
+ Bjerke-Travbane;Torsdag, 21. des 2017
+ Bjerke-Travbane; Onsdag, 20. des 2017
+ Bjerke-Travbane;Lørdag, 16. des 2017
+ Bjerke-Travbane;Torsdag, 14. des 2017
+ Bjerke-Travbane;Onsdag, 13. des 2017
+ Bjerke-Travbane; Torsdag, 7. des 2017
+ Bjerke-Travbane;Onsdag, 6. des 2017
+ Bjerke-Travbane;Torsdag, 30. nov 2017
+ Bjerke-Travbane;Onsdag, 29. nov 2017
+ Bjerke-Travbane; Torsdag, 23. nov 2017
+ Bjerke-Travbane;Onsdag, 22. nov 2017
+ Bjerke-Travbane;Mandag, 20. nov 2017
+ Bjerke-Travbane;Lørdag, 18. nov 2017
+ Bjerke-Travbane; Torsdag, 16. nov 2017
+ Bjerke-Travbane;Onsdag, 15. nov 2017
+ Bjerke-Travbane;Mandag, 13. nov 2017
+ Bjerke-Travbane;Onsdag, 8. nov 2017
+ Bjerke-Travbane; Mandag, 6. nov 2017
+ Bjerke-Travbane;Onsdag, 1. nov 2017
+ Bjerke-Travbane;Mandag, 30. okt 2017
+ Bjerke-Travbane;Onsdag, 25. okt 2017
+ Bjerke-Travbane; Mandag, 23. okt 2017
+ Bjerke-Travbane;Onsdag, 18. okt 2017
+ Bjerke-Travbane;Mandag, 16. okt 2017
+ Bjerke-Travbane;Onsdag, 11. okt 2017
+ Bjerke-Travbane; Mandag, 9. okt 2017
+ Bjerke-Travbane;Lørdag, 7. okt 2017
+ Bjerke-Travbane;Onsdag, 4. okt 2017
+ Bjerke-Travbane;Mandag, 2. okt 2017
+ Bjerke-Travbane; Onsdag, 27. sept 2017
+ Bjerke-Travbane;Mandag, 25. sept 2017
+ Bjerke-Travbane;Onsdag, 20. sept 2017
+ Bjerke-Travbane;Mandag, 18. sept 2017
+ Bjerke-Travbane; Onsdag, 13. sept 2017
+ Bjerke-Travbane;Mandag, 11. sept 2017
+ Bjerke-Travbane;Søndag, 10. sept 2017
+ Bjerke-Travbane;Lørdag, 9. sept 2017
+ Bjerke-Travbane; Fredag, 8. sept 2017
+ Bjerke-Travbane;Onsdag, 6. sept 2017
+ Bjerke-Travbane;Mandag, 4. sept 2017
+ Bjerke-Travbane;Onsdag, 30. aug 2017
+ Bjerke-Travbane; Tirsdag, 29. aug 2017
+ Bjerke-Travbane;Mandag, 28. aug 2017
+ Bjerke-Travbane;Onsdag, 23. aug 2017
+ Bjerke-Travbane;Mandag, 21. aug 2017
+ Bjerke-Travbane; Onsdag, 16. aug 2017
+ Bjerke-Travbane;Mandag, 14. aug 2017
+ Bjerke-Travbane;Torsdag, 10. aug 2017
+ Bjerke-Travbane;Onsdag, 9. aug 2017
+ Bjerke-Travbane; Mandag, 7. aug 2017
+ Bjerke-Travbane;Onsdag, 2. aug 2017
+ Bjerke-Travbane;Mandag, 31. jul 2017
+ Bjerke-Travbane;Onsdag, 26. jul 2017
+ Bjerke-Travbane; Mandag, 24. jul 2017
+ Bjerke-Travbane;Torsdag, 20. jul 2017
+ Bjerke-Travbane;Onsdag, 19. jul 2017
+ Bjerke-Travbane;Mandag, 17. jul 2017
+ Bjerke-Travbane; Onsdag, 12. jul 2017
+ Bjerke-Travbane;Mandag, 10. jul 2017
+ Bjerke-Travbane;Mandag, 3. jul 2017
+ Bjerke-Travbane;Torsdag, 29. jun 2017
+ Bjerke-Travbane; Onsdag, 28. jun 2017
+ Bjerke-Travbane;Mandag, 26. jun 2017
+ Bjerke-Travbane;Onsdag, 21. jun 2017
+ Bjerke-Travbane;Søndag, 11. jun 2017
+ Bjerke-Travbane; Lørdag, 10. jun 2017
+ Bjerke-Travbane;Onsdag, 7. jun 2017
+ Bjerke-Travbane;Tirsdag, 6. jun 2017
+ Bjerke-Travbane;Onsdag, 31. mai 2017
+ Bjerke-Travbane; Mandag, 29. mai 2017
+ Bjerke-Travbane;Onsdag, 24. mai 2017
+ Bjerke-Travbane;Mandag, 22. mai 2017
+ Bjerke-Travbane;Tirsdag, 16. mai 2017
+ Bjerke-Travbane; Mandag, 15. mai 2017
+ Bjerke-Travbane;Onsdag, 10. mai 2017
+ Bjerke-Travbane;Mandag, 8. mai 2017
+ Bjerke-Travbane;Onsdag, 3. mai 2017
+ Bjerke-Travbane; Onsdag, 26. apr 2017
+ Bjerke-Travbane;Mandag, 24. apr 2017
+ Bjerke-Travbane;Lørdag, 22. apr 2017
+ Bjerke-Travbane;Onsdag, 19. apr 2017
+ Bjerke-Travbane; Onsdag, 12. apr 2017
+ Bjerke-Travbane;Tirsdag, 11. apr 2017
+ Bjerke-Travbane;Onsdag, 5. apr 2017
+ Bjerke-Travbane;Mandag, 3. apr 2017
+ Bjerke-Travbane; Lørdag, 1. apr 2017
+ Bjerke-Travbane;Onsdag, 29. mar 2017
+ Bjerke-Travbane;Mandag, 27. mar 2017
+ Bjerke-Travbane;Torsdag, 23. mar 2017
+ Bjerke-Travbane; Onsdag, 22. mar 2017
+ Bjerke-Travbane;Torsdag, 16. mar 2017
+ Bjerke-Travbane;Onsdag, 15. mar 2017
+ Bjerke-Travbane;Torsdag, 9. mar 2017
+ Bjerke-Travbane; Onsdag, 8. mar 2017
+ Bjerke-Travbane;Onsdag, 1. mar 2017
+ Bjerke-Travbane;Lørdag, 25. feb 2017
+ Bjerke-Travbane;Torsdag, 23. feb 2017
+ Bjerke-Travbane; Onsdag, 22. feb 2017
+ Bjerke-Travbane;Torsdag, 16. feb 2017
+ Bjerke-Travbane;Onsdag, 15. feb 2017
+ Bjerke-Travbane;Torsdag, 9. feb 2017
+ Bjerke-Travbane; Onsdag, 8. feb 2017
+ Bjerke-Travbane;Torsdag, 2. feb 2017
+ Bjerke-Travbane;Onsdag, 1. feb 2017
+ Bjerke-Travbane;Onsdag, 25. jan 2017
+ Bjerke-Travbane; Lørdag, 21. jan 2017
+ Bjerke-Travbane;Onsdag, 18. jan 2017
+ Bjerke-Travbane;Torsdag, 12. jan 2017
+ Bjerke-Travbane;Onsdag, 11. jan 2017
+ Bjerke-Travbane; Onsdag, 4. jan 2017
+ Bjerke-Travbane;Lørdag, 31. des 2016
+ Bjerke-Travbane;Fredag, 30. des 2016
+ Bjerke-Travbane;Onsdag, 28. des 2016
+ Bjerke-Travbane; Torsdag, 22. des 2016
+ Bjerke-Travbane;Onsdag, 21. des 2016
+ Bjerke-Travbane;Lørdag, 17. des 2016
+ Bjerke-Travbane;Torsdag, 15. des 2016
+ Bjerke-Travbane; Onsdag, 14. des 2016
+ Bjerke-Travbane;Torsdag, 8. des 2016
+ Bjerke-Travbane;Onsdag, 7. des 2016
+ Bjerke-Travbane;Tirsdag, 6. des 2016
+ Bjerke-Travbane; Torsdag, 1. des 2016
+ Bjerke-Travbane;Onsdag, 30. nov 2016
+ Bjerke-Travbane;Torsdag, 24. nov 2016
+ Bjerke-Travbane;Onsdag, 23. nov 2016
+ Bjerke-Travbane; Lørdag, 19. nov 2016
+ Bjerke-Travbane;Torsdag, 17. nov 2016
+ Bjerke-Travbane;Onsdag, 16. nov 2016
+ Bjerke-Travbane;Torsdag, 10. nov 2016
+ Bjerke-Travbane; Onsdag, 9. nov 2016
+ Bjerke-Travbane;Torsdag, 3. nov 2016
+ Bjerke-Travbane;Onsdag, 2. nov 2016
+ Bjerke-Travbane;Onsdag, 26. okt 2016
+ Bjerke-Travbane; Mandag, 24. okt 2016
+ Bjerke-Travbane;Lørdag, 22. okt 2016
+ Bjerke-Travbane;Onsdag, 19. okt 2016
+ Bjerke-Travbane;Mandag, 17. okt 2016
+ Bjerke-Travbane; Torsdag, 13. okt 2016
+ Bjerke-Travbane;Onsdag, 12. okt 2016
+ Bjerke-Travbane;Torsdag, 6. okt 2016
+ Bjerke-Travbane;Onsdag, 5. okt 2016
+ Bjerke-Travbane; Torsdag, 29. sept 2016
+ Bjerke-Travbane;Onsdag, 28. sept 2016
+ Bjerke-Travbane;Onsdag, 21. sept 2016
+ Bjerke-Travbane;Tirsdag, 20. sept 2016
+ Bjerke-Travbane; Søndag, 18. sept 2016
+ Bjerke-Travbane;Lørdag, 17. sept 2016
+ Bjerke-Travbane;Fredag, 16. sept 2016
+ Bjerke-Travbane;Onsdag, 14. sept 2016
+ Bjerke-Travbane; Mandag, 12. sept 2016
+ Bjerke-Travbane;Torsdag, 8. sept 2016
+ Bjerke-Travbane;Onsdag, 7. sept 2016
+ Bjerke-Travbane;Tirsdag, 6. sept 2016
+ Bjerke-Travbane; Mandag, 5. sept 2016
+ Bjerke-Travbane;Torsdag, 1. sept 2016
+ Bjerke-Travbane;Onsdag, 31. aug 2016
+ Bjerke-Travbane;Torsdag, 25. aug 2016
+ Bjerke-Travbane; Onsdag, 24. aug 2016
+ Bjerke-Travbane;Torsdag, 18. aug 2016
+ Bjerke-Travbane;Onsdag, 17. aug 2016
+ Bjerke-Travbane;Torsdag, 11. aug 2016
+ Bjerke-Travbane; Onsdag, 10. aug 2016
+ Bjerke-Travbane;Torsdag, 4. aug 2016
+ Bjerke-Travbane;Onsdag, 3. aug 2016
+ Bjerke-Travbane;Torsdag, 28. jul 2016
+ Bjerke-Travbane; Onsdag, 27. jul 2016
+ Bjerke-Travbane;Torsdag, 21. jul 2016
+ Bjerke-Travbane;Onsdag, 20. jul 2016
+ Bjerke-Travbane;Torsdag, 14. jul 2016
+ Bjerke-Travbane; Onsdag, 13. jul 2016
+ Bjerke-Travbane;Torsdag, 30. jun 2016
+ Bjerke-Travbane;Onsdag, 29. jun 2016
+ Bjerke-Travbane;Torsdag, 23. jun 2016
+ Bjerke-Travbane; Onsdag, 22. jun 2016
+ Bjerke-Travbane;Søndag, 12. jun 2016
+ Bjerke-Travbane;Lørdag, 11. jun 2016
+ Bjerke-Travbane;Torsdag, 9. jun 2016
+ Bjerke-Travbane; Onsdag, 8. jun 2016
+ Bjerke-Travbane;Torsdag, 2. jun 2016
+ Bjerke-Travbane;Onsdag, 1. jun 2016
+ Bjerke-Travbane;Torsdag, 26. mai 2016
+ Bjerke-Travbane; Onsdag, 25. mai 2016
+ Bjerke-Travbane;Torsdag, 19. mai 2016
+ Bjerke-Travbane;Onsdag, 18. mai 2016
+ Bjerke-Travbane;Torsdag, 12. mai 2016
+ Bjerke-Travbane; Onsdag, 11. mai 2016
+ Bjerke-Travbane;Onsdag, 4. mai 2016
+ Bjerke-Travbane;Tirsdag, 3. mai 2016
+ Bjerke-Travbane;Torsdag, 28. apr 2016
+ Bjerke-Travbane; Onsdag, 27. apr 2016
+ Bjerke-Travbane;Torsdag, 21. apr 2016
+ Bjerke-Travbane;Onsdag, 20. apr 2016
+ Bjerke-Travbane;Lørdag, 16. apr 2016
+ Bjerke-Travbane; Torsdag, 14. apr 2016
+ Bjerke-Travbane;Onsdag, 13. apr 2016
+ Bjerke-Travbane;Torsdag, 7. apr 2016
+ Bjerke-Travbane;Onsdag, 6. apr 2016
+ Bjerke-Travbane; Torsdag, 31. mar 2016
+ Bjerke-Travbane;Onsdag, 30. mar 2016
+ Bjerke-Travbane;Onsdag, 23. mar 2016
+ Bjerke-Travbane;Torsdag, 17. mar 2016
+ Bjerke-Travbane; Onsdag, 16. mar 2016
+ Bjerke-Travbane;Søndag, 13. mar 2016
+ Bjerke-Travbane;Torsdag, 10. mar 2016
+ Bjerke-Travbane;Onsdag, 9. mar 2016
+ Bjerke-Travbane; Torsdag, 3. mar 2016
+ Bjerke-Travbane;Onsdag, 2. mar 2016
+ Bjerke-Travbane;Torsdag, 25. feb 2016
+ Bjerke-Travbane;Onsdag, 24. feb 2016
+ Bjerke-Travbane; Lørdag, 20. feb 2016
+ Bjerke-Travbane;Fredag, 19. feb 2016
+ Bjerke-Travbane;Torsdag, 18. feb 2016
+ Bjerke-Travbane;Onsdag, 17. feb 2016
+ Bjerke-Travbane; Torsdag, 11. feb 2016
+ Bjerke-Travbane;Onsdag, 10. feb 2016
+ Bjerke-Travbane;Torsdag, 4. feb 2016
+ Bjerke-Travbane;Onsdag, 3. feb 2016
+ Bjerke-Travbane; Torsdag, 28. jan 2016
+ Bjerke-Travbane;Onsdag, 27. jan 2016
+ Bjerke-Travbane;Lørdag, 23. jan 2016
+ Bjerke-Travbane;Torsdag, 21. jan 2016
+ Bjerke-Travbane; Onsdag, 20. jan 2016
+ Bjerke-Travbane;Torsdag, 14. jan 2016
+ Bjerke-Travbane;Onsdag, 13. jan 2016
+ Bjerke-Travbane;Torsdag, 7. jan 2016
+ Bjerke-Travbane; Onsdag, 6. jan 2016
+ Bjerke-Travbane;Onsdag, 30. des 2015
+ Bjerke-Travbane;Tirsdag, 29. des 2015
+ Bjerke-Travbane;Lørdag, 26. des 2015
+ Bjerke-Travbane; Onsdag, 23. des 2015
+ Bjerke-Travbane;Tirsdag, 22. des 2015
+ Bjerke-Travbane;Lørdag, 19. des 2015
+ Bjerke-Travbane;Torsdag, 17. des 2015
+ Bjerke-Travbane; Onsdag, 16. des 2015
+ Bjerke-Travbane;Torsdag, 10. des 2015
+ Bjerke-Travbane;Onsdag, 9. des 2015
+ Bjerke-Travbane;Torsdag, 3. des 2015
+ Bjerke-Travbane; Onsdag, 2. des 2015
+ Bjerke-Travbane;Torsdag, 26. nov 2015
+ Bjerke-Travbane;Onsdag, 25. nov 2015
+ Bjerke-Travbane;Tirsdag, 24. nov 2015
+ Bjerke-Travbane; Lørdag, 21. nov 2015
+ Bjerke-Travbane;Torsdag, 19. nov 2015
+ Bjerke-Travbane;Onsdag, 18. nov 2015
+ Bjerke-Travbane;Tirsdag, 17. nov 2015
+ Bjerke-Travbane; Torsdag, 12. nov 2015
+ Bjerke-Travbane;Onsdag, 11. nov 2015
+ Bjerke-Travbane;Torsdag, 5. nov 2015
+ Bjerke-Travbane;Onsdag, 4. nov 2015
+ Bjerke-Travbane; Torsdag, 29. okt 2015
+ Bjerke-Travbane;Onsdag, 28. okt 2015
+ Bjerke-Travbane;Torsdag, 22. okt 2015
+ Bjerke-Travbane;Onsdag, 21. okt 2015
+ Bjerke-Travbane; Torsdag, 15. okt 2015
+ Bjerke-Travbane;Onsdag, 14. okt 2015
+ Bjerke-Travbane;Torsdag, 8. okt 2015
+ Bjerke-Travbane;Onsdag, 7. okt 2015
+ Bjerke-Travbane; Torsdag, 1. okt 2015
+ Bjerke-Travbane;Onsdag, 30. sept 2015
+ Bjerke-Travbane;Torsdag, 24. sept 2015
+ Bjerke-Travbane;Onsdag, 23. sept 2015
+ Bjerke-Travbane; Torsdag, 17. sept 2015
+ Bjerke-Travbane;Onsdag, 16. sept 2015
+ Bjerke-Travbane;Søndag, 13. sept 2015
+ Bjerke-Travbane;Lørdag, 12. sept 2015
+ Bjerke-Travbane; Fredag, 11. sept 2015
+ Bjerke-Travbane;Torsdag, 10. sept 2015
+ Bjerke-Travbane;Onsdag, 9. sept 2015
+ Bjerke-Travbane;Torsdag, 3. sept 2015
+ Bjerke-Travbane; Onsdag, 2. sept 2015
+ Bjerke-Travbane;Tirsdag, 1. sept 2015
+ Bjerke-Travbane;Mandag, 31. aug 2015
+ Bjerke-Travbane;Torsdag, 27. aug 2015
+ Bjerke-Travbane; Onsdag, 26. aug 2015
+ Bjerke-Travbane;Torsdag, 20. aug 2015
+ Bjerke-Travbane;Onsdag, 19. aug 2015
+ Bjerke-Travbane;Torsdag, 13. aug 2015
+ Bjerke-Travbane; Onsdag, 12. aug 2015
+ Bjerke-Travbane;Torsdag, 6. aug 2015
+ Bjerke-Travbane;Onsdag, 5. aug 2015
+ Bjerke-Travbane;Torsdag, 30. jul 2015
+ Bjerke-Travbane; Onsdag, 29. jul 2015
+ Bjerke-Travbane;Torsdag, 23. jul 2015
+ Bjerke-Travbane;Onsdag, 22. jul 2015
+ Bjerke-Travbane;Torsdag, 16. jul 2015
+ Bjerke-Travbane; Onsdag, 15. jul 2015
+ Bjerke-Travbane;Torsdag, 9. jul 2015
+ Bjerke-Travbane;Onsdag, 8. jul 2015
+ Bjerke-Travbane;Torsdag, 25. jun 2015
+ Bjerke-Travbane; Onsdag, 24. jun 2015
+ Bjerke-Travbane;Tirsdag, 23. jun 2015
+ Bjerke-Travbane;Søndag, 14. jun 2015
+ Bjerke-Travbane;Lørdag, 13. jun 2015
+ Bjerke-Travbane; Torsdag, 11. jun 2015
+ Bjerke-Travbane;Onsdag, 10. jun 2015
+ Bjerke-Travbane;Torsdag, 4. jun 2015
+ Bjerke-Travbane;Onsdag, 3. jun 2015
+ Bjerke-Travbane; Torsdag, 28. mai 2015
+ Bjerke-Travbane;Onsdag, 27. mai 2015
+ Bjerke-Travbane;Torsdag, 21. mai 2015
+ Bjerke-Travbane;Onsdag, 20. mai 2015
+ Bjerke-Travbane; Onsdag, 13. mai 2015
+ Bjerke-Travbane;Torsdag, 7. mai 2015
+ Bjerke-Travbane;Onsdag, 6. mai 2015
+ Bjerke-Travbane;Torsdag, 30. apr 2015
+ Bjerke-Travbane; Onsdag, 29. apr 2015
+ Bjerke-Travbane;Torsdag, 23. apr 2015
+ Bjerke-Travbane;Onsdag, 22. apr 2015
+ Bjerke-Travbane;Lørdag, 18. apr 2015
+ Bjerke-Travbane; Torsdag, 16. apr 2015
+ Bjerke-Travbane;Onsdag, 15. apr 2015
+ Bjerke-Travbane;Torsdag, 9. apr 2015
+ Bjerke-Travbane;Onsdag, 8. apr 2015
+ Bjerke-Travbane; Onsdag, 1. apr 2015
+ Bjerke-Travbane;Torsdag, 26. mar 2015
+ Bjerke-Travbane;Onsdag, 25. mar 2015
+ Bjerke-Travbane;Torsdag, 19. mar 2015
+ Bjerke-Travbane; Onsdag, 18. mar 2015
+ Bjerke-Travbane;Torsdag, 12. mar 2015
+ Bjerke-Travbane;Onsdag, 11. mar 2015
+ Bjerke-Travbane;Torsdag, 5. mar 2015
+ Bjerke-Travbane; Onsdag, 4. mar 2015
+ Bjerke-Travbane;Lørdag, 28. feb 2015
+ Bjerke-Travbane;Torsdag, 26. feb 2015
+ Bjerke-Travbane;Onsdag, 25. feb 2015
+ Bjerke-Travbane; Torsdag, 19. feb 2015
+ Bjerke-Travbane;Onsdag, 18. feb 2015
+ Bjerke-Travbane;Torsdag, 12. feb 2015
+ Bjerke-Travbane;Onsdag, 11. feb 2015
+ Bjerke-Travbane; Torsdag, 5. feb 2015
+ Bjerke-Travbane;Onsdag, 4. feb 2015
+ Bjerke-Travbane;Lørdag, 31. jan 2015
+ Bjerke-Travbane;Torsdag, 22. jan 2015
+ Bjerke-Travbane; Onsdag, 21. jan 2015
+ Bjerke-Travbane;Torsdag, 15. jan 2015
+ Bjerke-Travbane;Onsdag, 14. jan 2015
+ Bjerke-Travbane;Torsdag, 8. jan 2015
+ Bjerke-Travbane; Onsdag, 7. jan 2015
+ Bjerke-Travbane;Onsdag, 31. des 2014
+ Bjerke-Travbane;Tirsdag, 30. des 2014
+ Bjerke-Travbane;Tirsdag, 23. des 2014
+ Bjerke-Travbane; Lørdag, 20. des 2014
+ Bjerke-Travbane;Torsdag, 18. des 2014
+ Bjerke-Travbane;Onsdag, 17. des 2014
+ Bjerke-Travbane;Torsdag, 11. des 2014
+ Bjerke-Travbane; Onsdag, 10. des 2014
+ Bjerke-Travbane;Torsdag, 4. des 2014
+ Bjerke-Travbane;Onsdag, 3. des 2014
+ Bjerke-Travbane;Torsdag, 27. nov 2014
+ Bjerke-Travbane; Onsdag, 26. nov 2014
+ Bjerke-Travbane;Lørdag, 22. nov 2014
+ Bjerke-Travbane;Fredag, 21. nov 2014
+ Bjerke-Travbane;Torsdag, 20. nov 2014
+ Bjerke-Travbane; Onsdag, 19. nov 2014
+ Bjerke-Travbane;Torsdag, 13. nov 2014
+ Bjerke-Travbane;Onsdag, 12. nov 2014
+ Bjerke-Travbane;Torsdag, 6. nov 2014
+ Bjerke-Travbane; Onsdag, 5. nov 2014
+ Bjerke-Travbane;Torsdag, 30. okt 2014
+ Bjerke-Travbane;Onsdag, 29. okt 2014
+ Bjerke-Travbane;Torsdag, 23. okt 2014
+ Bjerke-Travbane; Onsdag, 22. okt 2014
+ Bjerke-Travbane;Torsdag, 16. okt 2014
+ Bjerke-Travbane;Onsdag, 15. okt 2014
+ Bjerke-Travbane;Torsdag, 9. okt 2014
+ Bjerke-Travbane; Onsdag, 8. okt 2014
+ Bjerke-Travbane;Torsdag, 2. okt 2014
+ Bjerke-Travbane;Onsdag, 1. okt 2014
+ Bjerke-Travbane;Torsdag, 25. sept 2014
+ Bjerke-Travbane; Onsdag, 24. sept 2014
+ Bjerke-Travbane;Torsdag, 18. sept 2014
+ Bjerke-Travbane;Onsdag, 17. sept 2014
+ Bjerke-Travbane;Torsdag, 11. sept 2014
+ Bjerke-Travbane; Onsdag, 10. sept 2014
+ Bjerke-Travbane;Søndag, 7. sept 2014
+ Bjerke-Travbane;Lørdag, 6. sept 2014
+ Bjerke-Travbane;Fredag, 5. sept 2014
+ Bjerke-Travbane; Torsdag, 4. sept 2014
+ Bjerke-Travbane;Onsdag, 3. sept 2014
+ Bjerke-Travbane;Torsdag, 28. aug 2014
+ Bjerke-Travbane;Onsdag, 27. aug 2014
+ Bjerke-Travbane; Tirsdag, 26. aug 2014
+ Bjerke-Travbane;Mandag, 25. aug 2014
+ Bjerke-Travbane;Torsdag, 21. aug 2014
+ Bjerke-Travbane;Onsdag, 20. aug 2014
+ Bjerke-Travbane; Torsdag, 14. aug 2014
+ Bjerke-Travbane;Onsdag, 13. aug 2014
+ Bjerke-Travbane;Torsdag, 7. aug 2014
+ Bjerke-Travbane;Onsdag, 6. aug 2014
+ Bjerke-Travbane; Torsdag, 31. jul 2014
+ Bjerke-Travbane;Onsdag, 30. jul 2014
+ Bjerke-Travbane;Tirsdag, 29. jul 2014
+ Bjerke-Travbane;Torsdag, 24. jul 2014
+ Bjerke-Travbane; Onsdag, 23. jul 2014
+ Bjerke-Travbane;Tirsdag, 22. jul 2014
+ Bjerke-Travbane;Torsdag, 26. jun 2014
+ Bjerke-Travbane;Onsdag, 25. jun 2014
+ Bjerke-Travbane; Torsdag, 19. jun 2014
+ Bjerke-Travbane;Onsdag, 18. jun 2014
+ Bjerke-Travbane;Søndag, 8. jun 2014
+ Bjerke-Travbane;Lørdag, 7. jun 2014
+ Bjerke-Travbane; Fredag, 6. jun 2014
+ Bjerke-Travbane;Torsdag, 5. jun 2014
+ Bjerke-Travbane;Onsdag, 4. jun 2014
+ Bjerke-Travbane;Onsdag, 28. mai 2014
+ Bjerke-Travbane; Tirsdag, 27. mai 2014
+ Bjerke-Travbane;Torsdag, 22. mai 2014
+ Bjerke-Travbane;Onsdag, 21. mai 2014
+ Bjerke-Travbane;Torsdag, 15. mai 2014
+ Bjerke-Travbane; Onsdag, 14. mai 2014
+ Bjerke-Travbane;Torsdag, 8. mai 2014
+ Bjerke-Travbane;Onsdag, 7. mai 2014
+ Bjerke-Travbane;Onsdag, 30. apr 2014
+ Bjerke-Travbane; Tirsdag, 29. apr 2014
+ Bjerke-Travbane;Torsdag, 24. apr 2014
+ Bjerke-Travbane;Onsdag, 23. apr 2014
+ Bjerke-Travbane;Onsdag, 16. apr 2014
+ Bjerke-Travbane; Torsdag, 10. apr 2014
+ Bjerke-Travbane;Onsdag, 9. apr 2014
+ Bjerke-Travbane;Lørdag, 5. apr 2014
+ Bjerke-Travbane;Torsdag, 3. apr 2014
+ Bjerke-Travbane; Onsdag, 2. apr 2014
+ Bjerke-Travbane;Torsdag, 27. mar 2014
+ Bjerke-Travbane;Onsdag, 26. mar 2014
+ Bjerke-Travbane;Torsdag, 20. mar 2014
+ Bjerke-Travbane; Onsdag, 19. mar 2014
+ Bjerke-Travbane;Torsdag, 13. mar 2014
+ Bjerke-Travbane;Onsdag, 12. mar 2014
+ Bjerke-Travbane;Lørdag, 8. mar 2014
+ Bjerke-Travbane; Fredag, 7. mar 2014
+ Bjerke-Travbane;Torsdag, 6. mar 2014
+ Bjerke-Travbane;Onsdag, 5. mar 2014
+ Bjerke-Travbane;Torsdag, 27. feb 2014
+ Bjerke-Travbane; Onsdag, 26. feb 2014
+ Bjerke-Travbane;Torsdag, 20. feb 2014
+ Bjerke-Travbane;Onsdag, 19. feb 2014
+ Bjerke-Travbane;Torsdag, 13. feb 2014
+ Bjerke-Travbane; Onsdag, 12. feb 2014
+ Bjerke-Travbane;Torsdag, 6. feb 2014
+ Bjerke-Travbane;Onsdag, 5. feb 2014
+ Bjerke-Travbane;Torsdag, 30. jan 2014
+ Bjerke-Travbane; Onsdag, 29. jan 2014
+ Bjerke-Travbane;Lørdag, 25. jan 2014
+ Bjerke-Travbane;Torsdag, 23. jan 2014
+ Bjerke-Travbane;Onsdag, 22. jan 2014
+ Bjerke-Travbane; Torsdag, 16. jan 2014
+ Bjerke-Travbane;Onsdag, 15. jan 2014
+ Bjerke-Travbane;Torsdag, 9. jan 2014
+ Bjerke-Travbane;Onsdag, 8. jan 2014
+ Bjerke-Travbane; Tirsdag, 7. jan 2014
+ Bjerke-Travbane;Fredag, 3. jan 2014
+ Bjerke-Travbane;Torsdag, 2. jan 2014
+ Bjerke-Travbane;Onsdag, 1. jan 2014
+ Bjerke-Travbane; Søndag, 29. des 2013
+ Bjerke-Travbane;Torsdag, 26. des 2013
+ Bjerke-Travbane;Lørdag, 21. des 2013
+ Bjerke-Travbane;Onsdag, 18. des 2013
+ Bjerke-Travbane; Tirsdag, 17. des 2013
+ Bjerke-Travbane;Onsdag, 11. des 2013
+ Bjerke-Travbane;Tirsdag, 10. des 2013
+ Bjerke-Travbane;Onsdag, 4. des 2013
+ Bjerke-Travbane; Tirsdag, 3. des 2013
+ Bjerke-Travbane;Onsdag, 27. nov 2013
+ Bjerke-Travbane;Tirsdag, 26. nov 2013
+ Bjerke-Travbane;Onsdag, 20. nov 2013
+ Bjerke-Travbane; Tirsdag, 19. nov 2013
+ Bjerke-Travbane;Torsdag, 14. nov 2013
+ Bjerke-Travbane;Onsdag, 13. nov 2013
+ Bjerke-Travbane;Tirsdag, 12. nov 2013
+ Bjerke-Travbane; Onsdag, 6. nov 2013
+ Bjerke-Travbane;Tirsdag, 5. nov 2013
+ Bjerke-Travbane;Fredag, 1. nov 2013
+ Bjerke-Travbane;Onsdag, 30. okt 2013
+ Bjerke-Travbane; Tirsdag, 29. okt 2013
+ Bjerke-Travbane;Onsdag, 23. okt 2013
+ Bjerke-Travbane;Tirsdag, 22. okt 2013
+ Bjerke-Travbane;Onsdag, 16. okt 2013
+ Bjerke-Travbane; Tirsdag, 15. okt 2013
+ Bjerke-Travbane;Mandag, 14. okt 2013
+ Bjerke-Travbane;Onsdag, 9. okt 2013
+ Bjerke-Travbane;Tirsdag, 8. okt 2013
+ Bjerke-Travbane; Onsdag, 2. okt 2013
+ Bjerke-Travbane;Mandag, 30. sept 2013
+ Bjerke-Travbane;Onsdag, 25. sept 2013
+ Bjerke-Travbane;Tirsdag, 24. sept 2013
+ Bjerke-Travbane; Onsdag, 18. sept 2013
+ Bjerke-Travbane;Tirsdag, 17. sept 2013
+ Bjerke-Travbane;Onsdag, 11. sept 2013
+ Bjerke-Travbane;Tirsdag, 10. sept 2013
+ Bjerke-Travbane; Søndag, 8. sept 2013
+ Bjerke-Travbane;Lørdag, 7. sept 2013
+ Bjerke-Travbane;Fredag, 6. sept 2013
+ Bjerke-Travbane;Onsdag, 4. sept 2013
+ Bjerke-Travbane; Tirsdag, 3. sept 2013
+ Bjerke-Travbane;Onsdag, 28. aug 2013
+ Bjerke-Travbane;Tirsdag, 27. aug 2013
+ Bjerke-Travbane;Mandag, 26. aug 2013
+ Bjerke-Travbane; Onsdag, 21. aug 2013
+ Bjerke-Travbane;Tirsdag, 20. aug 2013
+ Bjerke-Travbane;Onsdag, 14. aug 2013
+ Bjerke-Travbane;Tirsdag, 13. aug 2013
+ Bjerke-Travbane; Torsdag, 8. aug 2013
+ Bjerke-Travbane;Onsdag, 7. aug 2013
+ Bjerke-Travbane;Tirsdag, 6. aug 2013
+ Bjerke-Travbane;Onsdag, 31. jul 2013
+ Bjerke-Travbane; Tirsdag, 30. jul 2013
+ Bjerke-Travbane;Onsdag, 24. jul 2013
+ Bjerke-Travbane;Tirsdag, 23. jul 2013
+ Bjerke-Travbane;Mandag, 22. jul 2013
+ Bjerke-Travbane; Onsdag, 26. jun 2013
+ Bjerke-Travbane;Tirsdag, 25. jun 2013
+ Bjerke-Travbane;Onsdag, 19. jun 2013
+ Bjerke-Travbane;Tirsdag, 18. jun 2013
+ Bjerke-Travbane; Onsdag, 12. jun 2013
+ Bjerke-Travbane;Tirsdag, 11. jun 2013
+ Bjerke-Travbane;Onsdag, 5. jun 2013
+ Bjerke-Travbane;Tirsdag, 4. jun 2013
+ Bjerke-Travbane; Onsdag, 29. mai 2013
+ Bjerke-Travbane;Tirsdag, 28. mai 2013
+ Bjerke-Travbane;Onsdag, 22. mai 2013
+ Bjerke-Travbane;Tirsdag, 21. mai 2013
+ Bjerke-Travbane; Søndag, 12. mai 2013
+ Bjerke-Travbane;Lørdag, 11. mai 2013
+ Bjerke-Travbane;Fredag, 10. mai 2013
+ Bjerke-Travbane;Onsdag, 8. mai 2013
+ Bjerke-Travbane; Tirsdag, 7. mai 2013
+ Bjerke-Travbane;Onsdag, 1. mai 2013
+ Bjerke-Travbane;Tirsdag, 30. apr 2013
+ Bjerke-Travbane;Onsdag, 24. apr 2013
+ Bjerke-Travbane; Tirsdag, 23. apr 2013
+ Bjerke-Travbane;Mandag, 22. apr 2013
+ Bjerke-Travbane;Onsdag, 17. apr 2013
+ Bjerke-Travbane;Tirsdag, 16. apr 2013
+ Bjerke-Travbane; Onsdag, 10. apr 2013
+ Bjerke-Travbane;Tirsdag, 9. apr 2013
+ Bjerke-Travbane;Onsdag, 3. apr 2013
+ Bjerke-Travbane;Tirsdag, 2. apr 2013
+ Bjerke-Travbane; Onsdag, 27. mar 2013
+ Bjerke-Travbane;Tirsdag, 26. mar 2013
+ Bjerke-Travbane;Lørdag, 23. mar 2013
+ Bjerke-Travbane;Onsdag, 20. mar 2013
+ Bjerke-Travbane; Tirsdag, 19. mar 2013
+ Bjerke-Travbane;Torsdag, 14. mar 2013
+ Bjerke-Travbane;Onsdag, 13. mar 2013
+ Bjerke-Travbane;Tirsdag, 12. mar 2013
+ Bjerke-Travbane; Onsdag, 6. mar 2013
+ Bjerke-Travbane;Tirsdag, 5. mar 2013
+ Bjerke-Travbane;Onsdag, 27. feb 2013
+ Bjerke-Travbane;Tirsdag, 26. feb 2013
+ Bjerke-Travbane; Lørdag, 23. feb 2013
+ Bjerke-Travbane;Fredag, 22. feb 2013
+ Bjerke-Travbane;Onsdag, 20. feb 2013
+ Bjerke-Travbane;Onsdag, 13. feb 2013
+ Bjerke-Travbane; Tirsdag, 12. feb 2013
+ Bjerke-Travbane;Onsdag, 6. feb 2013
+ Bjerke-Travbane;Tirsdag, 5. feb 2013
+ Bjerke-Travbane;Onsdag, 30. jan 2013
+ Bjerke-Travbane; Tirsdag, 29. jan 2013
+ Bjerke-Travbane;Onsdag, 23. jan 2013
+ Bjerke-Travbane;Tirsdag, 22. jan 2013
+ Bjerke-Travbane;Lørdag, 19. jan 2013
+ Bjerke-Travbane; Onsdag, 16. jan 2013
+ Bjerke-Travbane;Tirsdag, 15. jan 2013
+ Bjerke-Travbane;Onsdag, 9. jan 2013
+ Bjerke-Travbane;Tirsdag, 8. jan 2013
+ Bjerke-Travbane; Onsdag, 2. jan 2013
+ Bjerke-Travbane;Torsdag, 27. des 2012
+ Bjerke-Travbane;Onsdag, 26. des 2012
+ Bjerke-Travbane;Lørdag, 22. des 2012
+ Bjerke-Travbane; Torsdag, 20. des 2012
+ Bjerke-Travbane;Onsdag, 19. des 2012
+ Bjerke-Travbane;Torsdag, 13. des 2012
+ Bjerke-Travbane;Onsdag, 12. des 2012
+ Bjerke-Travbane; Torsdag, 6. des 2012
+ Bjerke-Travbane;Onsdag, 5. des 2012
+ Bjerke-Travbane;Torsdag, 29. nov 2012
+ Bjerke-Travbane;Onsdag, 28. nov 2012
+ Bjerke-Travbane; Tirsdag, 27. nov 2012
+ Bjerke-Travbane;Torsdag, 22. nov 2012
+ Bjerke-Travbane;Onsdag, 21. nov 2012
+ Bjerke-Travbane;Torsdag, 15. nov 2012
+ Bjerke-Travbane; Onsdag, 14. nov 2012
+ Bjerke-Travbane;Torsdag, 8. nov 2012
+ Bjerke-Travbane;Onsdag, 7. nov 2012
+ Bjerke-Travbane;Torsdag, 1. nov 2012
+ Bjerke-Travbane; Onsdag, 31. okt 2012
+ Bjerke-Travbane;Torsdag, 25. okt 2012
+ Bjerke-Travbane;Onsdag, 24. okt 2012
+ Bjerke-Travbane;Torsdag, 18. okt 2012
+ Bjerke-Travbane; Onsdag, 17. okt 2012
+ Bjerke-Travbane;Torsdag, 11. okt 2012
+ Bjerke-Travbane;Onsdag, 10. okt 2012
+ Bjerke-Travbane;Torsdag, 4. okt 2012
+ Bjerke-Travbane; Onsdag, 3. okt 2012
+ Bjerke-Travbane;Torsdag, 27. sept 2012
+ Bjerke-Travbane;Onsdag, 26. sept 2012
+ Bjerke-Travbane;Torsdag, 20. sept 2012
+ Bjerke-Travbane; Onsdag, 19. sept 2012
+ Bjerke-Travbane;Torsdag, 13. sept 2012
+ Bjerke-Travbane;Onsdag, 12. sept 2012
+ Bjerke-Travbane;Søndag, 9. sept 2012
+ Bjerke-Travbane; Lørdag, 8. sept 2012
+ Bjerke-Travbane;Fredag, 7. sept 2012
+ Bjerke-Travbane;Torsdag, 6. sept 2012

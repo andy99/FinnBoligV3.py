@@ -1,0 +1,206 @@
+30139753,Klibbermais Lilja     (Dølahest)
+30139754,Sweat O.K. (IT)     (Varmblods traver)
+30139755,Calypso Degli Dei (IT)     (Varmblods traver)
+30139756,Ironica Spin (IT)     (Varmblods traver)
+30139757,Zeudi AMG (IT)     (Varmblods traver)
+30139758,Sarsegna Jet (IT)     (Varmblods traver)
+30139759,Colibri Jet (IT)     (Varmblods traver)
+30139760,Stella Sisu (SE)     (Varmblods traver)
+30139761,Spinal Tap A.T. (RS)     (Varmblods traver)
+30139762,Ismael F.Boko (DE)     (Varmblods traver)
+30139763,Hagenes Herre     (Nordlandshest/Lyngshest)
+30139764,G.G. Gracia     (Varmblods traver)
+30139765,G.G. Golden Power     (Varmblods traver)
+30139766,Maratron     (Varmblods traver)
+30139767,Udøpt     (Varmblods traver)
+30139768,Noss Boss     (Varmblods traver)
+30139769,Never Too Late     (Varmblods traver)
+30139770,Sund Odin     (Kaldblods traver)
+30139771,Edelina     (Fjordhest)
+30139772,Lunde Illu     (Nordlandshest/Lyngshest)
+30139773,Udøpt     (Kaldblods traver)
+30139774,Udøpt     (Kaldblods traver)
+30139775,Linde Tyra     (Kaldblods traver)
+30139776,Voulez Vous Bonanza     (Varmblods traver)
+30139777,Nonstop Bonanza     (Varmblods traver)
+30139778,Harley Googoo     (Varmblods traver)
+30139779,Bornintherain     (Varmblods traver)
+30139780,Lady     (Varmblods traver)
+30139781,NN     (Engelsk fullblod)
+30139782,Sharaarah (IRE)     (Engelsk fullblod) <<>>
+30139783,Fromage (SE)     (Varmblods traver)
+30139784,No Nay Naughty (IRE)     (Engelsk fullblod) <<>>
+30139785,Mirabelle Van Linnes     (Uten rase)
+30139786,Puddingen (SE)     (Varmblods traver)
+30139787,NN     (Engelsk fullblod)
+30139788,Blitz fra Skjei Søndre     (Uten rase)
+30139789,Carcary’s Mandy     (Gypsy Cob)
+30139790,Udøpt     (Pinto)
+30139791,Carcary’s Jack Sparrow     (Gypsy Cob)
+30139792,Carcary’s Ms Moneypenny     (Gypsy Cob)
+30139793,NN     (Engelsk fullblod)
+30139794,Rudlands Steinung     (Dølahest)
+30139795,
+30139796,
+30139797,
+30139798,
+30139799,
+30139800,
+30139801,
+30139802,
+30139803,
+30139804,
+30139805,
+30139806,
+30139807,
+30139808,
+30139809,
+30139810,
+30139811,
+30139812,
+30139813,
+30139814,Stumne Magi     (Kaldblods traver)
+30139815,Dronning Tamara     (Kaldblods traver)
+30139816,Quite Superior     (Varmblods traver)
+30139817,Brazze Best     (Kaldblods traver)
+30139818,Alm Kvint     (Kaldblods traver)
+30139819,Two J.Z.     (Varmblods traver)
+30139820,Udøpt     (Varmblods traver)
+30139821,Borno Line     (Varmblods traver)
+30139822,Evelina (NL)     (Fjordhest)
+30139823,Jenni     (Fjordhest)
+30139824,Detty (BE)     (Fjordhest)
+30139825,Iris (NL)     (Fjordhest)
+30139826,Nikita (NL)     (Fjordhest)
+30139827,Philia     (Fjordhest)
+30139828,Annemiek (AT)     (Fjordhest)
+30139829,Flora     (Fjordhest)
+30139830,Harald     (Fjordhest)
+30139831,Lars     (Fjordhest)
+30139832,Jars (NL)     (Fjordhest)
+30139833,Udøpt     (Fjordhest)
+30139834,Botna Peggy     (Nordlandshest/Lyngshest)
+30139835,Global Attitude (FR)     (Varmblods traver)
+30139836,Global Billboard (FR)     (Varmblods traver)
+30139837,Reine Galante (IRE)     (Engelsk fullblod) <<>>
+30139838,Reine Liberte (GER)     (Engelsk fullblod) <<>>
+30139839,Reine Des Mers (GER)     (Engelsk fullblod) <<>>
+30139840,Will Rappen     (Kaldblods traver)
+30139841,Stripesof Stars (IRE)     (Engelsk fullblod) <<>>
+30139842,Explositj (SE)     (Varmblods traver)
+30139843,Eikeli Råfin     (Fjordhest)
+30139844,NN     (Engelsk fullblod)
+30139845,Honggards Kasper     (Fjordhest)
+30139846,Smedsrud Mia     (Kaldblods traver)
+30139847,Sweet Melody     (Varmblods traver)
+30139848,Kora Pile (FR)     (Varmblods traver)
+30139849,Belina R.S.     (Kaldblods traver)
+30139850,D'mare Pepper Potts     (Varmblods traver)
+30139851,Johnsrud Snuppa     (Kaldblods traver)
+30139852,Udøpt     (Kaldblods traver)
+30139853,Indy de Young     (Varmblods traver)
+30139854,Kalle Kalvart     (Kaldblods traver)
+30139855,Udøpt     (Kaldblods traver)
+30139856,Utopile (FR)     (Varmblods traver)
+30139857,Ending One Please     (Varmblods traver)
+30139858,Tyll Arik     (Kaldblods traver)
+30139859,Olga de Riviere (FR)     (Varmblods traver)
+30139860,Silkesvarta     (Kaldblods traver)
+30139861,Staro Etoile (SE)     (Varmblods traver)
+30139862,Celine P. (SE)     (Varmblods traver)
+30139863,G.R.Emira (SE)     (Varmblods traver)
+30139864,Emirate (SE)     (Varmblods traver)
+30139865,Ringens Leo     (Dølahest)
+30139866,
+30139867,
+30139868,
+30139869,Tombo Anna (SE)     (Kaldblods traver)
+30139870,Maias Mika     (Dølahest)
+30139871,
+30139872,Eventyrøyas Sofian     (Nordlandshest/Lyngshest)
+30139873,Quiz Lady     (Varmblods traver)
+30139874,Kommers     (Kaldblods traver)
+30139875,Tindra S.T. (SE)     (Kaldblods traver)
+30139876,
+30139877,
+30139878,
+30139879,
+30139880,
+30139881,
+30139882,
+30139883,
+30139884,
+30139885,
+30139886,
+30139887,
+30139888,
+30139889,
+30139890,
+30139891,
+30139892,
+30139893,
+30139894,Udøpt     (Varmblods traver)
+30139895,G.G. Gentil     (Varmblods traver)
+30139896,G.G. Grand Cru     (Varmblods traver)
+30139897,Hornnes Pia     (Kaldblods traver)
+30139898,T.S. Virvelvind     (Kaldblods traver)
+30139899,Udøpt     (Varmblods traver)
+30139900,Ina's Most Wanted     (Varmblods traver)
+30139901,Quickstep Wiking     (Varmblods traver)
+30139902,Gompen Tutta     (Kaldblods traver)
+30139903,Udøpt     (Varmblods traver)
+30139904,Udøpt     (Varmblods traver)
+30139905,G.G. Garzon     (Varmblods traver)
+30139906,Granlien     (Kaldblods traver)
+30139907,Pandoras Rokket (GB)     (Esel)
+30139908,Questabella (GER)     (Engelsk fullblod) <<>>
+30139909,Quentino (GER)     (Engelsk fullblod) <<>>
+30139910,Mr Premier (SE)     (Varmblods traver)
+30139911,Lobmille (GB)     (Engelsk fullblod) <<>>
+30139912,Paris Winds (IRE)     (Engelsk fullblod) <<>>
+30139913,Calima Breeze (GB)     (Engelsk fullblod) <<>>
+30139914,Exemplify (GB)     (Engelsk fullblod) <<>>
+30139915,Expert Eye (GB)     (Engelsk fullblod) <<>>
+30139916,Chadwick (GB)     (Engelsk fullblod) <<>>
+30139917,SD Merida (GB)     (Gypsy Cob)
+30139918,Karmiska (FR)     (Engelsk fullblod) <<>>
+30139919,Karmifira (FR)     (Engelsk fullblod) <<>>
+30139920,Kylemore (IRE)     (Engelsk fullblod) <<>>
+30139921,Annabelle's Charm (IRE)     (Engelsk fullblod) <<>>
+30139922,Ange Bleu (USA)     (Engelsk fullblod) <<>>
+30139923,Arlesienne (IRE)     (Engelsk fullblod) <<>>
+30139924,Andromeda Galaxy (FR)     (Engelsk fullblod) <<>>
+30139925,Thorner Lane (GB)     (Engelsk fullblod) <<>>
+30139926,Kangra valley (GB)     (Engelsk fullblod) <<>>
+30139927,Cloud's End (GB)     (Engelsk fullblod) <<>>
+30139928,Onega (ARG)     (Engelsk fullblod) <<>>
+30139929,Dart Board (GB)     (Engelsk fullblod) <<>>
+30139930,Baltica (ARG)     (Engelsk fullblod) <<>>
+30139931,Smart Deb (USA)     (Engelsk fullblod) <<>>
+30139932,Logical (USA)     (Engelsk fullblod) <<>>
+30139933,Balromana (ARG)     (Engelsk fullblod) <<>>
+30139934,Sahm (USA)     (Engelsk fullblod) <<>>
+30139935,Adaala (USA)     (Engelsk fullblod) <<>>
+30139936,Asheerah (GB)     (Engelsk fullblod) <<>>
+30139937,Skaars Viking     (Fjordhest)
+30139938,Bjørnemyr Tora     (Kaldblods traver)
+30139939,Easier To Walk Away     (Varmblods traver)
+30139940,Octavia B.R.     (Varmblods traver)
+30139941,C.C. Go Ga     (Varmblods traver)
+30139942,Udøpt     (Kaldblods traver)
+30139943,Udøpt     (Kaldblods traver)
+30139944,Strong Comfort     (Varmblods traver)
+30139945,L.I. Anton     (Kaldblods traver)
+30139946,Ozzy B.R.     (Varmblods traver)
+30139947,C.C. Frontside     (Varmblods traver)
+30139948,Bigsetbakkens Odel     (Nordlandshest/Lyngshest)
+30139949,Strandbergs Veslemøy     (Dølahest)
+30139950,Briskeby Edel     (Kaldblods traver)
+30139951,Mon Chouchou Scot     (Varmblods traver)
+30139952,Sinou’s Last Boy     (Varmblods traver)
+30139953,Solsikken     (Kaldblods traver)
+30139954,Vossatassen     (Fjordhest)
+30139955,Lid Elinore     (Fjordhest)
+30139956,Garmos Tornado     (Dølahest)
+30139957,Hagenes Live     (Nordlandshest/Lyngshest)
+30139958,Hagenes Sølva     (Nordlandshest/Lyngshest)

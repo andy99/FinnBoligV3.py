@@ -1,0 +1,15 @@
+Tante Ulrikkes vei 14B, Oslo, Stovner;58;2350000;4313112;1963112
+Ravnåsveien 31F, Oslo, Søndre Nordstrand;81;3500000;6023484;2523484
+Trondheimsveien 158 A, Oslo, Helsfyr - Sinsen;71;4200000;5279844;1079844
+BIRGER OLIVERS VEI 14 A, Oslo, Nordstrand;50;2950000;3718200;768200
+Filerveien 3, Oslo, Østensjø;68;3600000;5056752;1456752
+Martin Skatvedts vei 2, Oslo, Grorud;50;2990000;3718200;728200
+Skøyenåsveien 21, Oslo, Østensjø;55;3400000;4090020;690020
+Jordstjerneveien 52 J, Oslo, Søndre Nordstrand;82;3700000;6097848;2397848
+Ensjøveien 24A, Oslo, Helsfyr - Sinsen;67;3800000;4982388;1182388
+Etterstadsletta 120, Oslo, Helsfyr - Sinsen;55;3400000;4090020;690020
+Sverre Iversens vei 15, Oslo, Romsås;86;2130000;6395304;4265304
+Stallerudveien 89, 6.etg., Oslo, Bøler;56;2500000;4164384;1664384
+Ammerudveien 29B, Oslo, Grorud;39;2450000;2900196;450196
+Grenseveien 30B, Oslo, Helsfyr - Sinsen;57;3850000;4238748;388748
+Edvard Griegs allé 5, Oslo, Sagene - Torshov;69;5000000;5131116;131116

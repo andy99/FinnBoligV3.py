@@ -1,0 +1,11 @@
+﻿bane;baneid
+Momarken Travbane;2
+Klosterskogen Travbane;5
+Forus Travbane;7
+Bjerke Travbane;1
+Biri Travbane;9
+Sørlandets Travpark;6
+Jarlsberg Travbane;4
+Drammen Travbane;3
+Bergen Travpark;8
+Leangen Travbane;6

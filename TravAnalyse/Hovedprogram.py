@@ -25,7 +25,8 @@ SQL = '''\
 Select Heste_navn, Kusk, id_nr
 
   FROM [Trav].[dbo].[StartLister]
-  
+     where Dato = (SELECT CONVERT (date, SYSDATETIME()))
+   -- Where Dato = '2018-09-28'    
 '''     
 cursor = con.cursor()
 cursor.execute(SQL)

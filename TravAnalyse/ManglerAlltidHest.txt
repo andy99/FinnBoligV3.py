@@ -1,0 +1,578 @@
+30089471,Lady Revenue,,6,Hoppe,M.Brun,NORGE
+30080454,Land Maria,,8,Hoppe,Brun,NORGE
+30109647,Langlands Gnisten,,2,Hingst,Svart,NORGE
+30109649,Langlands Høvding,,2,Hingst,Mørkbr,NORGE
+30033639,Lara Croft D.K. (DK),,7,Hoppe,Brun,DANMARK
+30097804,Lastsundayinmay,,4,Hoppe,Brun,NORGE
+30116598,Le Vicomte (S),,5,Vallak,Brun,SVERIGE
+30023737,Leon West,,5,Vallak,Brun,NORGE
+119172,Lex Cille,,12,Hoppe,Brun,NORGE
+30094586,Lightfoot West,,2,Vallak,Brun,NORGE
+30056977,Lilje Faks,,6,Hingst,Brun,NORGE
+30067043,Lille Senumsprinsen,,9,Vallak,Brun,NORGE
+30008237,Linderjet G.T.,,8,Hoppe,Brun,NORGE
+30013980,Lipping Hart,,5,Hingst,Brun,NORGE
+30121873,Listas Snövit* (S),,4,Hoppe,Svartbrun,SVERIGE
+30109663,Liv Synnøve,,2,Hoppe,Svart,NORGE
+30008150,Live Tibur,,4,Hoppe,Mørkbr,NORGE
+30121191,Livi Nubi* (S),,4,Hingst,Brun,DANMARK
+30038406,Lobster's Sam,,10,Vallak,Brun,NORGE
+30118826,Lollipop Laday (S),,3,Hoppe,Brun,SVERIGE
+30069402,Lome Gant,,9,Vallak,Brun,NORGE
+30069051,Lonely Vacation,,8,Vallak,Brun,NORGE
+30025051,Los Svint,,5,Vallak,Mørkbr,NORGE
+30077503,Lovely Abroad* (S),,7,Hoppe,Svartbrun,SVERIGE
+30121421,Lovers Hall (DE),,5,Hingst,Brun,TYSKLAND
+30109443,Loving Lily,,2,Hoppe,Mørkbr,NORGE
+30093806,Luckpenny Classic,,4,Hoppe,Brun,NORGE
+30100572,Luckycharm Hanover* (US),,7,Hingst,Brun,U S A
+124257,Lundprins,,9,Hingst,Lysbrun,NORGE
+30035819,Lykke Mollyn,,7,Hoppe,Brun,NORGE
+30103145,Lykkje Silje,,3,Hoppe,Mørkbr,NORGE
+30053052,Lykkje Snert*,,9,Vallak,Mørkbr,NORGE
+30107141,Mjølner Faksine,,3,Hoppe,Svart,NORGE
+30104133,Mjølner Loke,,3,Hingst,Rød,NORGE
+30061740,Mjølner Lotta,,5,Hoppe,Brun,NORGE
+30045709,Moberg Sjura,,2,Hoppe,Brun,NORGE
+30108460,Mofaksan* (S),,11,Hoppe,M.Brun,SVERIGE
+30028149,Money Honey S.E. (S),,8,Hoppe,Brun,SVERIGE
+119278,Montoya,,13,Vallak,Brun,NORGE
+30077375,Mos Lomen,,8,Hingst,Mørkbr,NORGE
+30081897,Mr Jojje* (S),,7,Vallak,Brun,SVERIGE
+30039869,Mr. Knoxville,,6,Vallak,Brun,NORGE
+30045777,Multilomen* (S),,3,Hingst,Borket,SVERIGE
+30052300,My Golden Point,,9,Vallak,Mørkbr,NORGE
+30013518,Myklejenta,,7,Hoppe,Mørkbr,NORGE
+30091098,Mystical Light (US),,3,Hoppe,Svart,U S A
+30103803,N.Y. Envole Moi,,2,Hingst,Brun,NORGE
+30104307,N.Y. Rosslyn,,3,Hoppe,Brun,NORGE
+123673,Nancy Morning,,9,Hoppe,Brun,NORGE
+30090831,Nattbris*,,6,Hoppe,Mørkbr,NORGE
+126618,Natural Exposure,,10,Vallak,Brun,NORGE
+30082281,Nelle Pride* (S),,4,Vallak,Brun,SVERIGE
+122443,Neslands Balder,,9,Vallak,Svart,NORGE
+30085107,Nettare Sas (IT),,7,Hingst,Brun,ITALIA
+30103882,New York Broline* (S),,6,Hoppe,M.Brun,SVERIGE
+30023061,Nice Pastice,,6,Hoppe,Mørkbr,NORGE
+30109777,Niky Flax* (S),,4,Vallak,Brun,SVERIGE
+30087842,No Fear I.T.* (IT),,7,Vallak,Brun,ITALIA
+30084250,Nohardfeelings,,4,Vallak,Mørkbr,NORGE
+30048122,Photo Bear (US),,9,Hingst,Brun,U S A
+30122061,Piglet Pil* (S),,6,Vallak,Brun,SVERIGE
+30068417,Pinocchio Lake* (FI),,9,Vallak,Brun,FINLAND
+30080262,Playful S.E.* (S),,4,Hoppe,Brun,SVERIGE
+30121728,Pocket Rocket* (S),,7,Hoppe,Brun,SVERIGE
+30079346,Polar Rocky,,8,Vallak,Brun,NORGE
+30100364,Poseidon C.L.O.* (S),,7,Vallak,Brun,SVERIGE
+30087629,Premier Kronos* (IT),,9,Hingst,Brun,ITALIA
+30094588,Primero Greentown,,5,Vallak,Brun,NORGE
+133160,Princess Of The Dawn,,6,Hoppe,Brun,NORGE
+30036346,Prinse Uno,,4,Hingst,Brun,NORGE
+30093252,Prodigious Hangover,,5,Hingst,Brun,NORGE
+30115158,Puisseguin* (S),,10,Hoppe,Lysbrun,SVERIGE
+30010142,Paals Pia,,10,Hoppe,Brungrå,NORGE
+30083392,Quantum Tango* (S),,8,Vallak,Brun,SVERIGE
+30027699,Queen Of Surprice M.,,3,Hoppe,Brun,NORGE
+30094205,Quinzy Joe,,5,Hingst,Brun,NORGE
+30110584,R.M.G. Red Red Wine,,2,Hingst,Rød,NORGE
+30062180,Racing Mercedes (S),,10,Vallak,Brun,SVERIGE
+30116624,Raleigh (DK),,11,Vallak,M.Brun,DANMARK
+133679,Ramtamtaramtata,,9,Hoppe,Brun,NORGE
+109936,Rappsokken,,13,Vallak,Brun,NORGE
+30113149,Re Faritrail* (S),,4,Hingst,Brun,SVERIGE
+30121689,Rebellion D.E. (DE),,4,Vallak,Brun,TYSKLAND
+30055184,Red Adair Superb*,,8,Hingst,Rød,NORGE
+30092967,Regiment*,,4,Hingst,Brun,NORGE
+30103743,Reiremo Tomas,,3,Hingst,Svart,NORGE
+118855,Remoly,,12,Hoppe,Svart,NORGE
+30003236,She's Gonna Blow (US),,7,Hoppe,Brun,U S A
+30089140,Shootthesun,,6,Vallak,Brun,NORGE
+30070279,Sigma Vang (DK),,6,Hoppe,Brun,DANMARK
+30110091,Silke Diamant,,2,Hoppe,Brun,NORGE
+123983,Silverandgold,,9,Hingst,Brun,NORGE
+30053030,Sindy Løper,,8,Hoppe,Svart,NORGE
+30115494,Sirrah* (S),,2,Hoppe,Svartbrun,SVERIGE
+30087897,Sitje Rapp,,6,Vallak,Mørkbr,NORGE
+30109584,Sitje Victor,,2,Hingst,Brun,NORGE
+30055007,Skaffer Adrian*,,5,Vallak,Mørkbr,NORGE
+30088213,Skiberose,,5,Hoppe,Svart,NORGE
+30036331,Skognes Il,,5,Vallak,Mørkbr,NORGE
+119542,Slettvoll Rambo,,13,Hingst,Svart,NORGE
+30083141,Smedheim Maia,,5,Hoppe,Rød,NORGE
+30097657,Smørlifaks,,4,Vallak,Svart,NORGE
+30088997,Snodin,,3,Hingst,Svartbrun,NORGE
+30099614,Snotra A.K.*,,4,Hoppe,Svart,NORGE
+30080778,Sol Kongen* (S),,4,Hingst,Svartbrun,SVERIGE
+30068663,Solli Jerkila,,2,Hoppe,Lysbrun,NORGE
+30007607,Soløy Kårkall,,5,Hingst,Mellombr.,NORGE
+30109856,Song Of Eline,,2,Hoppe,Brun,NORGE
+30109294,Song Of Rat Pack,,2,Vallak,Svart,NORGE
+30118242,Sono di Pa* (IT),,7,Vallak,Brun,ITALIA
+30070938,Southern Rocketop* (US),,7,Vallak,Brun,U S A
+30092489,Spang Linsi,,5,Hoppe,Brun,NORGE
+30109331,Spang Turbo,,2,Klapphingst,Brun,NORGE
+30094370,Speak Alone* (S),,5,Vallak,Brun,SVERIGE
+128995,Speedy Ride,,6,Vallak,Svart,NORGE
+30040777,Spik Rasken,,8,Vallak,Mørkbr,NORGE
+30008803,Spirit Of Forests,,7,Hoppe,Brun,NORGE
+30087652,Stamping* (S),,13,Vallak,M.Brun,SVERIGE
+30083095,Thai Cashflow,,4,Vallak,Brun,NORGE
+128699,Thai Party,,8,Hoppe,Brun,NORGE
+30091013,The Best Knight,,6,Hingst,Brun,NORGE
+30121712,The True F.* (S),,8,Vallak,Lysbrun,SVERIGE
+30090887,The Winner (DE),,7,Vallak,Brun,TYSKLAND
+129762,Thuli Stjernen,,6,Vallak,Svart,NORGE
+30005042,Tiger News,,8,Vallak,Brun,NORGE
+127430,Timseld Tex,,12,Vallak,Mellombr.,NORGE
+30077609,Tioga,,7,Hoppe,Svart,NORGE
+30104102,Tobby* (DK),,6,Vallak,M.Brun,DANMARK
+30080780,Tomtegubben* (S),,5,Vallak,Brun,SVERIGE
+30094080,Tordnerose,,5,Hoppe,Brun,NORGE
+30077058,Torpa Nor,,5,Vallak,Svartbrun,NORGE
+30083607,Gyri Gutten,,6,Vallak,Svart,NORGE
+30111228,H.B. Lykkelita,,2,Hoppe,Svart,NORGE
+30066289,Hadland Prinsesså,,4,Hoppe,Gråbrun,NORGE
+30027879,Halling Riga,,9,Hoppe,Mørkbr,NORGE
+30087728,Hanse Lita,,2,Hoppe,Svart,NORGE
+127935,Harmony Colour,,7,Vallak,Brun,NORGE
+30109147,Hassel Frøkna,,2,Hoppe,Svart,NORGE
+30093204,Hauan Balder,,5,Vallak,Brun,NORGE
+30098713,Heinz B.R.*,,4,Hingst,Mørkbr,NORGE
+30010467,Heivang Stjerne,,8,Hoppe,Svart,NORGE
+30098108,Helmin Støva,,4,Hoppe,Svart,NORGE
+30094184,Hemli Frøkna,,4,Hoppe,Mørkbr,NORGE
+30098301,Hicko Robaat Racer,,3,Hingst,Svartbrun,NORGE
+30121409,High Into the Sky* (US),,3,Hingst,Brun,U S A
+30104016,Hillustrious* (US),,5,Hingst,Brun,U S A
+30088244,Hilton Gullet,,6,Hoppe,Svart,NORGE
+30093646,Hilton Stjernen,,5,Vallak,Svart,NORGE
+30089358,Hjelle Rapide,,6,Hoppe,Mørkbr,NORGE
+30109184,Hjertlig,,2,Hoppe,Mørkbr,NORGE
+30071992,Hof Luring,,2,Hingst,Brun,NORGE
+30119208,Hold Me Quick (NL),,5,Vallak,Brun,NEDERLAND
+30109308,Holden's Evita,,2,Hoppe,Mørkbr,NORGE
+30038519,Holterjerven,,11,Hingst,Svart,NORGE
+30067540,Hopeful Win,,3,Hoppe,Fuks,NORGE
+132581,Horgen Vera,,10,Hoppe,Brun,NORGE
+30040439,Hot Pepper,,2,Hingst,Brun,NORGE
+30100407,Hugo Bäck* (S),,5,Vallak,Brun,SVERIGE
+30098919,Huseby Sirius,,4,Hingst,Svart,NORGE
+36964,Hyggenkongen,,33,Vallak,Rød,NORGE
+30009187,Høiby Mix,,7,Vallak,Huskbrun,NORGE
+30107767,Høwings Unbeatable (DE),,7,Vallak,Brun,TYSKLAND
+30101017,I.D. Entity,,3,Hoppe,Svart,NORGE
+30102653,I.D. Undeniable,,3,Hingst,Brun,NORGE
+124026,Ideal Man,,11,Hingst,Brun,NORGE
+30104648,Iggy B.R.,,3,Hingst,Mørkbr,NORGE
+30116587,King on the Hill* (US),,4,Hingst,Brun,U S A
+30103331,King Tanic,,3,Hingst,Brun,NORGE
+30086861,Kiss Pride* (S),,3,Vallak,Brun,SVERIGE
+30094290,Kjølstad Trollvilja,,5,Hoppe,Brun,NORGE
+30081599,Knifetown Lady* (S),,5,Hoppe,M.Brun,SVERIGE
+30093537,Kolbu Kaizer,,5,Vallak,Svart,NORGE
+30088015,Kolnes Beth,,5,Hoppe,Svart,NORGE
+30077518,Komnes Fossen,,4,Vallak,Mørkbr,NORGE
+30093606,Kor Blæsen,,2,Hingst,Brun,NORGE
+30088638,Krem Sodina,,5,Hoppe,Brun,NORGE
+30073302,Krusse* (S),,9,Hingst,Svartbrun,SVERIGE
+30037165,Kvern Lyn,,2,Hingst,Svart,NORGE
+30109085,Kvikk Blesen,,2,Hingst,Lysbrun,NORGE
+30068171,L.J.'s Dreamcatcher,,9,Vallak,Brun,NORGE
+30098132,Laddy Laday* (S),,3,Vallak,Brun,SVERIGE
+30055317,Lython Pine Chip,,5,Vallak,Brun,NORGE
+30106934,Lættis,,3,Hingst,Svart,NORGE
+30077206,Løve Lomen,,8,Vallak,Brun,NORGE
+30099615,M.S. Star Trotter,,3,Vallak,Brun,NORGE
+30054770,Madam Hall,,2,Hoppe,Brun,NORGE
+30051498,Magic Me (S),,9,Vallak,Mørkbr,SVERIGE
+30065614,Maharajah* (S),,8,Hingst,Brun,SVERIGE
+133075,Majestical,,5,Hoppe,Mørkbr,NORGE
+30097780,Malibu Classic* (S),,4,Hoppe,Brun,SVERIGE
+30056549,Man's Desire* (US),,6,Vallak,Brun,U S A
+30051637,Marine Pila*,,5,Hoppe,Svart,NORGE
+131930,Martin Chip,,9,Vallak,Brun,NORGE
+30122093,Matadore* (S),,4,Vallak,M.Brun,SVERIGE
+118396,Matchcrown,,10,Vallak,Mørkbr,NORGE
+30116622,Maxi Cup* (DE),,4,Vallak,Brun,TYSKLAND
+30092477,Medd (S),,6,Vallak,Brun,SVERIGE
+30118573,Meilleure Experience,,2,Hoppe,Rød,NORGE
+30090834,Mellem Bruna,,4,Hoppe,Brun,NORGE
+30062238,Merci Avenue (DK),,11,Hoppe,Brun,DANMARK
+30094278,Mias Komet* (S),,10,Vallak,Brun,SVERIGE
+30095389,Milan Töll* (S),,9,Hingst,Svart,SVERIGE
+30010103,Millica,,11,Hoppe,Br.Skimmel,NORGE
+134135,Min Lilla Dajm* (S),,8,Hingst,Brun,SVERIGE
+30082410,Mio Vlad,,6,Vallak,Svart,NORGE
+30036070,Miss Independent,,6,Hoppe,Lysbrun,NORGE
+30109003,Miss Yarrah,,2,Hoppe,Brun,NORGE
+30019953,Missile Spin,,7,Hoppe,Svart,NORGE
+30097716,Nordby Eir,,4,Hoppe,Brun,NORGE
+30093193,Nordby Fyr,,5,Hingst,Brun,NORGE
+30082646,Nordsjø Viktor,,6,Vallak,Svart,NORGE
+30104304,Nordsjø Vinni,,3,Hoppe,Svart,NORGE
+30097284,Norspik,,3,Vallak,Brun,NORGE
+30121883,Notch* (S),,7,Vallak,M.Brun,SVERIGE
+30090069,Nothingelsematters* (S),,7,Hoppe,Svartbrun,SVERIGE
+30093310,Nume Sol,,2,Hoppe,Brun,NORGE
+30121697,Nytomthalva* (S),,5,Hoppe,Svart,SVERIGE
+30021849,Nøste Vilja,,9,Hoppe,Mørkbr,NORGE
+122633,Obi Van Kanobi,,12,Vallak,Rød,NORGE
+30104139,Ocean Tile,,3,Hoppe,Brun,NORGE
+30093641,Odas Eld,,5,Vallak,Svart,NORGE
+129135,Odda,,6,Hoppe,Mørkbr,NORGE
+30107226,Odd'sen,,3,Vallak,Brun,NORGE
+30109492,Odins Kaizer,,2,Hingst,Lysbrun,NORGE
+30020311,Odorox Sand,,8,Vallak,Mørkbr,NORGE
+30109041,Olav,,2,Hingst,Rød,NORGE
+30023525,Olga,,5,Hoppe,Brun,NORGE
+132534,Olympic Pine,,11,Hingst,Brun,NORGE
+30104420,Olympic Tile,,3,Hingst,Brun,NORGE
+30104451,One Night,,3,Hoppe,Mørkbr,NORGE
+30060541,One of the Best (DE),,9,Hingst,Brun,TYSKLAND
+30095337,Open House* (S),,7,Vallak,M.Brun,FRANKRIKE
+30082431,Orchetto Jet* (IT),,5,Hingst,Brun,ITALIA
+30120966,Orient Avenue* (S),,5,Hoppe,Brun,SVERIGE
+30114828,Orlando U.S.* (US),,11,Hingst,Brun,U S A
+116642,Our Domenick,,14,Vallak,Brun,NORGE
+122437,Ozeroz,,8,Vallak,Brun,NORGE
+30079869,Panik (DK),,7,Vallak,Brun,DANMARK
+30012162,Partner Ås* (S),,9,Vallak,Mørkbr,SVERIGE
+30080616,Pave Faks,,8,Hingst,Brun,NORGE
+30069605,Pearsall Yankee* (S),,12,Vallak,Mørkbr,SVERIGE
+30078675,Peppes Vera* (S),,10,Hoppe,Lysbrun,SVERIGE
+30092934,Pershing Bi* (IT),,5,Hingst,Brun,ITALIA
+30121879,Restless* (S),,5,Hoppe,M.Brun,FRANKRIKE
+30105131,Revenator,,3,Hingst,Mørkbr,NORGE
+30052178,Reventon,,10,Vallak,Brun,NORGE
+30085468,Ride Me Svimmel (DK),,5,Vallak,Mørkbr,DANMARK
+119231,Rim Stjernen,,13,Hingst,Brun,NORGE
+118828,Risendals Blesa,,9,Hoppe,Brun,NORGE
+30103966,Rivieri* (IT),,6,Hingst,Brun,ITALIA
+30077399,Rock The Party,,4,Vallak,Brun,NORGE
+30039336,Rokne Frigg,,3,Hingst,Brun,NORGE
+30103802,Ron Dennis,,2,Hingst,Brun,NORGE
+125882,Ross B.A.,,8,Vallak,Brun,NORGE
+30078444,Royal Sensation E.,,8,Hoppe,Brun,NORGE
+30077298,Run Brat Run* (S),,5,Vallak,Svartbrun,SVERIGE
+30118674,Rushlight Face (S),,6,Hingst,Brun,SVERIGE
+30089836,Russel Street,,6,Vallak,Brun,NORGE
+30001828,Røverkjøpet,,5,Vallak,Brun,NORGE
+30083861,S.K.'s Mystic Memory,,4,Hingst,Brun,NORGE
+125767,Sagi Skøiar,,7,Vallak,Lysbrun,NORGE
+30104619,Sambo Ø.K.,,3,Hingst,Svart,NORGE
+30014063,Sambro Crown,,5,Vallak,Brun,NORGE
+30047187,Sangviks Casper,,6,Vallak,Mørkbr,NORGE
+22427,Saroai Girl,,29,Hoppe,Brun,NORGE
+30011336,Scarlav (S),,6,Vallak,Brun,SVERIGE
+30037295,Scream,,5,Hoppe,Brun,NORGE
+30035458,Secret Power,,8,Hoppe,Svartbrun,NORGE
+30100980,Seemybackshoes,,4,Hoppe,Svart,NORGE
+30099129,Seneca T.P.* (DE),,7,Hoppe,Brun,TYSKLAND
+30087104,Shake It Up,,2,Hoppe,Brun,NORGE
+30094379,Starlight Morning,,5,Hoppe,Mørkbr,NORGE
+30034945,Stay Strong,,4,Hingst,Brun,NORGE
+30095193,Stensvik Teddy'n,,5,Hingst,Brunsvart,NORGE
+30036060,Stjerne Jerkla,,6,Hoppe,Brun,NORGE
+30103690,Stjerneskudd,,2,Hoppe,Svart,NORGE
+124820,Storler Stjerna,,9,Hoppe,Svart,NORGE
+112751,Strollin With Bones,,12,Hingst,Brun,NORGE
+30092444,Stuve Sky,,4,Hoppe,Lysbrun,NORGE
+30071737,Summer Love Over* (S),,5,Hoppe,Brun,SVERIGE
+30077323,Super Bandit,,6,Vallak,Mørkbr,NORGE
+113944,Super Million,,11,Vallak,Brun,NORGE
+121162,Superbabe,,10,Hoppe,Brun,NORGE
+30075987,Svana Line* (S),,5,Hoppe,M.Brun,SVERIGE
+30069362,Sweet Life,,6,Hoppe,Brun,NORGE
+30121778,Symphonie H.* (DE),,4,Hoppe,Fuks,TYSKLAND
+134350,Synjo Dancer,,7,Vallak,Mellombr.,NORGE
+30103222,Sølljerva,,3,Hoppe,Svart,NORGE
+126466,Sør Krem,,7,Hoppe,Mørkbr,NORGE
+30103788,Søta Ø.K.,,3,Hoppe,Br.borket,NORGE
+30099824,T.H. Moonlight,,3,Hoppe,Brun,NORGE
+30072408,Take Me To The Top* (DE),,8,Hingst,Brun,TYSKLAND
+132554,Tammy Tutterø,,5,Hoppe,Rød,NORGE
+30083108,Tangen Sofi,,2,Hoppe,Brun,NORGE
+127252,Tapio*,,13,Vallak,Mørkbr,NORGE
+30041438,Tayno Queen,,5,Hoppe,Brun,NORGE
+30088896,Tekno Teddy,,6,Vallak,Svart,NORGE
+30032585,Tenor Hornline* (S),,8,Vallak,Brun,SVERIGE
+30110397,Admirals Club,,2,Hingst,Brun,NORGE
+30095163,Agneta* (S),,7,Hoppe,M.Brun,SVERIGE
+30104741,Aksel Pedro,,3,Hingst,Brun,NORGE
+30021957,Alabama,,5,Vallak,Brun,NORGE
+30102092,Alfa Star S.* (S),,6,Hingst,Brun,SVERIGE
+30096486,Allineedislove* (DK),,3,Hoppe,Brun,DANMARK
+30067411,Alm Soling,,6,Vallak,Rød,NORGE
+130808,Alpha Polaris,,10,Hoppe,Brun,NORGE
+30032729,Alvena Marlena (S),,9,Hoppe,Lysbrun,SVERIGE
+30069184,Amazing Sea,,4,Vallak,Mørkbr,NORGE
+30091003,Amor Ina,,2,Hoppe,Svart,NORGE
+30085149,Aner Ikke,,6,Vallak,Mørkbr,NORGE
+30057322,Annie's,,7,Hoppe,Brun,NORGE
+30104333,April Esterel (DK),,5,Hoppe,M.Brun,DANMARK
+30070010,Arctic Lane* (FI),,6,Vallak,Brun,FINLAND
+129210,Arjo Snella,,10,Hoppe,Mellombr.,NORGE
+30103264,Arkan,,3,Hingst,Svart,NORGE
+30023666,Art Kjarvald,,11,Hingst,Mørkbr,NORGE
+30076338,Aske Stjerna,,4,Hoppe,Brunsvart,NORGE
+30101135,Athena D. (DK),,7,Hoppe,Brun,DANMARK
+132056,Aure Svarta,,5,Hoppe,Svart,NORGE
+30018818,B.B. Odin,,10,Vallak,Svart,NORGE
+30052291,Bache Maria,,5,Hoppe,Brun,NORGE
+30086537,Balanced Budget (US),,7,Vallak,M.Brun,U S A
+30081963,Budals Jerkine,,2,Hoppe,Svart,NORGE
+30105662,Burning Love E.P.,,3,Hingst,Mørkbr,NORGE
+30068318,Butch Cassidy (DE),,6,Vallak,Brun,TYSKLAND
+30099114,Børke Billie,,4,Hoppe,Brun,NORGE
+30120636,C Nu Gilbak (DK),,5,Vallak,Mørkbr,DANMARK
+127544,C.C. Paradise Image,,9,Hingst,Brun,NORGE
+30021332,Cadeaux,,9,Hoppe,Mørkbr,NORGE
+30078806,Calvin Classic,,8,Vallak,Mørkbr,NORGE
+30062862,Cankus Matador* (FI),,8,Hingst,Mørkbr,FINLAND
+30067037,Caramello P.P.,,9,Vallak,Rødbrun,NORGE
+30066403,Carretta,,2,Hoppe,Brun,NORGE
+30109585,Casper the Viking,,2,Hingst,Mørkbr,NORGE
+30088318,Cassidy,,3,Hoppe,Brun,NORGE
+30095050,Cecilie Halbak,,5,Hoppe,Rød,NORGE
+30122113,Celine Rush* (DK),,5,Hoppe,Svartbrun,DANMARK
+30092568,Channing,,2,Vallak,Brun,NORGE
+30121651,Charlie Skovsende (DK),,5,Vallak,Mørkbr,DANMARK
+30015160,Cheela Bi (DE),,7,Hoppe,Brun,TYSKLAND
+30023230,Chili Bee,,3,Hingst,Brun,NORGE
+30115020,Chris K. (DK),,5,Vallak,Brun,DANMARK
+30121308,Cici Moseby (DK),,5,Hoppe,Svartbrun,DANMARK
+30090758,Civil Modelle* (S),,5,Hoppe,Svartbrun,SVERIGE
+30110119,Classic Sun,,2,Hingst,Brun,NORGE
+30089096,Clint W. Boko* (NL),,5,Hingst,Brun,NEDERLAND
+30121228,Clumses Vivel (DK),,5,Hoppe,Svartbrun,DANMARK
+30111853,Cold Seashell* (FI),,8,Vallak,Svart,FINLAND
+30053509,Confidence Brandi,,8,Hoppe,Brun,NORGE
+30078324,Cool Counter M.E.,,8,Vallak,Brun,NORGE
+30121951,Copiko* (S),,4,Hoppe,Brun,SVERIGE
+30102061,Cosmo Winner* (S),,9,Vallak,Brun,SVERIGE
+30119621,Counterstrike* (DK),,5,Vallak,Brun,DANMARK
+30085804,Creanette,,4,Hoppe,Svart,NORGE
+30083041,Crom Lady,,5,Hoppe,Svart,NORGE
+30107142,Elsa,,3,Hoppe,Rød,NORGE
+30084069,Elsås Lisa,,5,Hoppe,Brun,NORGE
+30010262,Emiljan,,8,Vallak,Mørkbr,NORGE
+132189,Eng Frøkna,,8,Hoppe,Svart,NORGE
+30092457,Enjoyable,,5,Vallak,Brun,NORGE
+30005475,Erga Borken,,8,Vallak,Borket,NORGE
+30021871,Espe Jerva,,3,Hoppe,Brun,NORGE
+30092448,Europa,,5,Hoppe,Brun,NORGE
+30113615,Evita Skovsende (DK),,3,Hoppe,Svartbrun,DANMARK
+30109952,Exceptional Boko* (NL),,6,Hingst,Mellombr.,NEDERLAND
+30115146,Extra Fudge* (US),,7,Vallak,M.Brun,U S A
+30038309,Banak,,6,Vallak,Brun,NORGE
+132932,Baron Chance,,7,Hingst,Brun,NORGE
+128445,Be My Banker,,7,Vallak,Brun,NORGE
+30103135,Bear a Title* (S),,7,Vallak,Mørkbr,SVERIGE
+30004906,Becky's Joy,,8,Vallak,Brun,NORGE
+30113983,Bee Mine (US),,3,Hoppe,Mørkbr,U S A
+30091937,Bella Toscana* (NL),,7,Hoppe,Svart,NEDERLAND
+30099175,Ben Dover,,4,Vallak,Rød,NORGE
+30077260,Bera Design,,6,Hoppe,Svart,NORGE
+132340,Best Bruna,,5,Hoppe,Brun,NORGE
+30077324,Biffen Ø.K.,,4,Hingst,Mørkbr,NORGE
+30067285,Bippe Native,,6,Vallak,Svart,NORGE
+30053414,Bjønnum Mai,,5,Hoppe,Svart,NORGE
+30110512,Bjørlilill,,2,Hoppe,Svart,NORGE
+30087987,Bjørnemyr Dennis,,6,Hingst,Brun,NORGE
+30083460,Black River Victory,,4,Hoppe,Brun,NORGE
+30094067,Blazing Volo,,5,Vallak,Mørkbr,NORGE
+30077348,Bliss,,4,Hoppe,Brun,NORGE
+30037156,Bo Brady,,6,Vallak,Brun,NORGE
+123242,Bokli Oda,,8,Hoppe,Svart,NORGE
+30110664,Bolt Challenger,,2,Hingst,Brun,NORGE
+30121227,Bombastica (DK),,6,Hoppe,Brun,DANMARK
+30093524,Bona Fide,,5,Vallak,Brun,NORGE
+30112848,Bonjour d'Estino,,2,Hingst,Brun,NORGE
+30116586,Boris* (DK),,6,Vallak,Brun,DANMARK
+30103655,Bork Viking,,3,Klapphingst,Mørkbr,NORGE
+131694,Bottolf,,12,Vallak,Rød,NORGE
+30007422,Brave Heart Fønix,,6,Vallak,Brun,NORGE
+30082953,Brenne Major,,7,Hingst,Svart,NORGE
+30072507,Briso Dominic* (FI),,11,Vallak,Brun,FINLAND
+30096280,Bro Viking* (S),,10,Hingst,Brun,SVERIGE
+30078935,Brownlittledevil,,2,Vallak,Mørkbr,NORGE
+132675,Cunningham,,6,Hingst,Brun,NORGE
+30096875,Dag Frøya,,4,Hoppe,Brun,NORGE
+30020665,Dalby Vesla,,4,Hoppe,Brun,NORGE
+30065189,Daniel Melun* (S),,5,Hingst,Brun,SVERIGE
+30078809,Darksideofthemoon,,5,Hoppe,Svart,NORGE
+30092120,Decir Coger* (S),,5,Hoppe,Brun,SVERIGE
+30105571,Delago,,3,Hoppe,Brun,NORGE
+30028927,Delice D. (DE),,9,Hoppe,Brun,TYSKLAND
+30121474,Derby Simoni* (DK),,4,Vallak,Brun,DANMARK
+30036321,Diana,,11,Hoppe,Mørkbr,NORGE
+30078136,Dior Zon* (S),,4,Hoppe,Mørkbr,SVERIGE
+30082497,Doc's Vixen* (US),,8,Hoppe,Brun,U S A
+30066316,Donato Tabac* (S),,4,Vallak,Svartbrun,SVERIGE
+30121878,DontbreakthebankÅs* (S),,5,Vallak,M.Brun,U S A
+30020836,Dotterud Teddy,,7,Hingst,Svart,NORGE
+30099503,Dream Briljant,,4,Hingst,Brun,NORGE
+30103592,Dream Creation,,3,Hingst,Svartbrun,NORGE
+30084903,Dream On Plush,,7,Hoppe,Brun,NORGE
+30036977,Droseld,,11,Vallak,Brun,NORGE
+30058505,Dæhli Pelline,,3,Hoppe,Brun,NORGE
+30095814,Easy To Win,,5,Vallak,Brun,NORGE
+113209,Edelmin,,12,Vallak,Svartbrun,NORGE
+30090975,Egge Piril*,,6,Vallak,Mørkbr,NORGE
+30067121,Eie Svarten,,6,Vallak,Svart,NORGE
+30009814,Ekfax,,8,Vallak,Rød,NORGE
+30114091,Eld Riga* (S),,5,Hoppe,Brun,SVERIGE
+30111347,Eld Tyra,,2,Hoppe,Mørkbr,NORGE
+30092779,Eldteksa*,,4,Hoppe,Mørkbr,NORGE
+30053472,Elken Juliano,,5,Vallak,Rød,NORGE
+30073219,Frenchwoman (S),,7,Hoppe,Brun,SVERIGE
+30013181,Frk. Juventus*,,11,Hoppe,Svart,NORGE
+30088955,Frk. Solid,,6,Hoppe,Grå,NORGE
+30070043,Frøken Eowyn S.R.,,8,Hoppe,Brun,NORGE
+30102208,Frøyu Fanten,,3,Vallak,Mørkbr,NORGE
+30104830,Furderud Faksa,,2,Hoppe,Svart,NORGE
+30121906,Fylking* (S),,9,Hingst,M.Brun,SVERIGE
+30061591,G.H. Trotter (S),,11,Vallak,Brun,SVERIGE
+30121647,Galaxy W. (NL),,6,Hoppe,Rød,NEDERLAND
+130343,Gann Chief,,6,Vallak,Brun,NORGE
+30082974,Gassner Hanover (US),,6,Hingst,Brun,U S A
+30083184,Gentle Design,,7,Hoppe,Brun,NORGE
+30121932,Gertorps Viljaleva* (S),,8,Hoppe,Fuks,SVERIGE
+30121650,Getreadyfortakeoff (DE),,6,Vallak,Mørkbr,TYSKLAND
+30033574,Giant Hope,,7,Vallak,Brun,NORGE
+124105,Gil Rau Jo,,12,Vallak,Rød,NORGE
+30009843,Gjerde Porta,,6,Hoppe,Svart,NORGE
+30006894,Gladdys (DE),,11,Hoppe,Brun,TYSKLAND
+30101074,Glazier's Victoria,,4,Hoppe,Brun,NORGE
+30018309,Global Glide* (US),,12,Hingst,M.Brun,U S A
+30084935,Global Perfection* (S),,4,Vallak,Brun,SVERIGE
+30082648,Go Gentle,,4,Hoppe,Brunsvart,NORGE
+30103359,Go Without I.D.,,3,Hingst,Brun,NORGE
+30010055,Golden Brown,,6,Vallak,Mellombr.,NORGE
+30092539,Goldstile,,5,Vallak,Brun,NORGE
+30089535,Good Smile,,6,Hoppe,Mørkbr,NORGE
+30017496,Grand Du Ling (S),,8,Hingst,Brun,SVERIGE
+30066263,Grasmyr Mina,,6,Hoppe,Mørkbr,NORGE
+122389,Grid,,13,Hoppe,Mørkbr,NORGE
+30109134,Grislesvarten G.L.,,2,Hingst,Svart,NORGE
+30107284,Grude Bambi,,3,Hoppe,Svart,NORGE
+30109769,Grude Elling,,2,Hingst,Svart,NORGE
+30087914,Gryphon,,4,Hoppe,Brun,NORGE
+116672,Gulldin,,10,Vallak,Brun,NORGE
+30118148,Gulomgoarre (NL),,6,Hoppe,Brun,NEDERLAND
+30009320,Il Trolla,,6,Hoppe,Svart,NORGE
+30091663,Imperial Valle* (S),,7,Vallak,Brun,SVERIGE
+30104659,Indira Bo* (DE),,4,Hoppe,Fuks,TYSKLAND
+30048506,Interruption Vint* (S),,9,Vallak,Svartbrun,SVERIGE
+30104184,Isabel B.R.,,3,Hoppe,Mørkbr,NORGE
+116496,Island Way,,14,Vallak,Rød,NORGE
+30104185,Ivan B.R.,,3,Hingst,Brun,NORGE
+30104646,Ivana B.R.,,3,Hoppe,Brun,NORGE
+30023059,J.J. Funkies,,9,Vallak,Brun,NORGE
+30104484,J.T.'s Kiwi,,3,Hoppe,Brun,NORGE
+30072829,Jag Va Bene,,7,Hoppe,M.Brun,NORGE
+30066895,Jarli Svarten,,5,Vallak,Svartbrun,NORGE
+30021641,Jera Stjerna,,9,Hoppe,Brun,NORGE
+30066164,Jet's Memory,,5,Hoppe,Brun,NORGE
+30085260,Joensuu* (S),,5,Vallak,Svartbrun,SVERIGE
+115469,Jonas Sirius,,10,Vallak,Brun,NORGE
+30037294,Ju S. Aiden,,3,Hingst,Mørkbr,NORGE
+30111159,Julius Leejs* (S),,4,Vallak,Svartbrun,SVERIGE
+30085418,Just Me* (S),,7,Hingst,Svart,SVERIGE
+30080757,Järvsö Lilo* (S),,3,Hoppe,M.Brun,SVERIGE
+30080009,K.B.'s Rubina,,8,Hoppe,Brun,NORGE
+30083246,K.N. Speedy Chris,,6,Hoppe,Mørkbr,NORGE
+30067406,Kalland Scofield,,7,Vallak,Brun,NORGE
+30083376,Kaptein,,7,Vallak,Brun,NORGE
+30066963,Karoline,,4,Hoppe,Svartbrun,NORGE
+30066536,Keep The Power,,3,Hingst,Brun,NORGE
+30067276,Kevin L.,,6,Vallak,Brun,NORGE
+30120868,Keystone Cash* (US),,3,Hingst,Brun,U S A
+30093250,Kilestjerna,,5,Hoppe,Mørkbr,NORGE
+59993,Totlas,,30,Vallak,Mellombr.,NORGE
+30007838,Tranmælsgutt,,9,Hingst,Svart,NORGE
+30121886,Transcendence* (S),,5,Vallak,Brun,SVERIGE
+30005729,Trippel X.,,5,Hoppe,Mørkbr,NORGE
+30092573,Troll Sterk Viking,,5,Vallak,Brun,NORGE
+127316,Tronvar,,8,Vallak,Svart,NORGE
+30078014,Trø Eir,,8,Hoppe,Svart,NORGE
+30022694,Tun Tora,,9,Hoppe,Mørkbr,NORGE
+128297,Tures Gustav* (S),,10,Vallak,Brun,SVERIGE
+30109578,Tverdals Odin,,2,Klapphingst,Svart,NORGE
+30109577,Tverdals Trippel,,2,Hingst,Svart,NORGE
+30045921,Twigs Faks* (S),,6,Vallak,Svart,SVERIGE
+30099872,Tyra Banks* (S),,7,Hoppe,M.Brun,SVERIGE
+30037851,Tysvær Sindy,,8,Hoppe,Svart,NORGE
+30103789,Tøffå Ø.K.,,3,Hoppe,Brun,NORGE
+30113375,Udessa Degli Dei* (IT),,4,Hoppe,M.Brun,ITALIA
+30020671,Ulsrud Tor,,7,Vallak,M.Brun,NORGE
+30083801,Una Is A Joker,,5,Hoppe,Brun,NORGE
+30034258,Uno d'Man,,5,Vallak,Brun,NORGE
+30113231,Uppers Unbeatable* (S),,3,Hoppe,Brun,SVERIGE
+30091306,Utini Boy* (S),,11,Vallak,Brun,SVERIGE
+30022820,Valle Ann,,9,Hoppe,Brun,NORGE
+30088588,Valle Storm,,6,Hingst,Svart,NORGE
+30121888,Valter L.P.C.* (S),,6,Vallak,Brun,SVERIGE
+30012801,Vanda Palema,,5,Hoppe,Rød,NORGE
+30109461,Varg Blæsen,,2,Hingst,Brun,NORGE
+30079852,Vasadu (US),,8,Hingst,Brun,U S A
+30066787,Veels Pålle,,9,Vallak,Svart,NORGE
+30102679,Verdals Lilli,,2,Hoppe,Brun,NORGE
+30110396,Vertigo Juvel,,2,Hingst,Svart,NORGE
+30109252,Vertigo Rubin,,2,Hoppe,Rød,NORGE
+30064822,Vertigo Vintra,,4,Hoppe,Svart,NORGE
+30077235,Vestpol Gyda,,5,Hoppe,Brun,NORGE
+30065429,Victor Big* (S),,11,Hingst,Lysbrun,SVERIGE
+30063760,Victory Sund* (S),,7,Vallak,Svartbrun,SVERIGE
+30121880,Vikens Dome* (S),,5,Vallak,Brun,SVERIGE
+30047591,Viking Neyenrode (DE),,10,Vallak,Brun,TYSKLAND
+30007489,Viljar Kongen,,8,Vallak,Svart,NORGE
+30093388,Vimse Ronny,,4,Vallak,Brun,NORGE
+30121885,Vincent Zaz* (S),,7,Vallak,Brun,SVERIGE
+30023921,Vinning Alfa,,7,Hoppe,Lysbrun,NORGE
+30099352,Vita Rauen,,3,Hingst,Rød,NORGE
+30111464,Viva Las Vegas E.P.*,,2,Hingst,M.Brun,NORGE
+30097474,Voje Maren,,4,Hoppe,Svart,NORGE
+30065166,Værdalsjokern,,6,Vallak,Brun,NORGE
+30083992,Våler Eld,,6,Vallak,Lysbrun,NORGE
+30091624,Wall Stone* (S),,7,Vallak,Brun,SVERIGE
+30054533,Wayward,,10,Vallak,Svartbrun,NORGE
+30110669,Wessel Odina,,2,Hoppe,Borket,NORGE
+30090168,Whatawinner S.S.,,5,Vallak,Mørkbr,NORGE
+130601,Wictoria Laylock,,8,Hoppe,Mørkbr,NORGE
+30106743,William Tinghöj* (DK),,7,Vallak,Brun,DANMARK
+30077289,Winner Ivi,,6,Hoppe,Mørkbr,NORGE
+30089455,Working Genius,,2,Hoppe,Brun,NORGE
+30067562,Xavi,,3,Hingst,Mørkbr,NORGE
+30034453,Yankee's Photo,,9,Hingst,Mørkbr,NORGE
+30107322,Yarrah,,3,Vallak,Brun,NORGE
+30080558,Yngwe Hornline* (S),,5,Vallak,Brun,SVERIGE
+30121718,Ypäjä Lamborghini* (FI),,5,Vallak,Svart,FINLAND
+30058782,Fairy* (S),,8,Hoppe,Fuks,SVERIGE
+30113714,Fakstrolla* (S),,4,Hoppe,Brun,SVERIGE
+30090138,Famolas,,3,Hingst,Brun,NORGE
+30105091,Farmens Løvgull,,8,Hoppe,Svart,NORGE
+30105893,Farrah Diba,,3,Hoppe,Brun,NORGE
+30099045,Faxen Af Sola,,4,Hingst,Svart,NORGE
+30013951,Faxstella (S),,7,Hoppe,Svart,SVERIGE
+30110186,Feelslikeamillion,,2,Hingst,Brun,NORGE
+30088513,Ferrari B.R.,,5,Hingst,Mørkbr,NORGE
+30083361,Fighting Odiwa,,6,Hoppe,Mellombr.,NORGE
+30035320,Financier,,6,Vallak,Mørkbr,NORGE
+125414,Finseth Frost,,8,Hoppe,Lysbrun,NORGE
+30104338,Fit For Fortissimo,,3,Hoppe,Brun,NORGE
+30072216,Fjørin,,3,Hoppe,Brun,NORGE
+30121882,Florens V.J.* (S),,5,Hoppe,Brun,SVERIGE
+30082771,Florida Pershing,,2,Hoppe,Brun,NORGE
+30014915,Flyveren,,13,Vallak,Mørkbr,NORGE
+30088798,Fortuna B.R.,,4,Hoppe,Brun,NORGE
+30059921,Freaky Friday,,10,Vallak,Lysbrun,NORGE
+30043660,Yunin Boko (NL),,7,Vallak,Svart,NEDERLAND
+30065428,Zeb Hegero* (S),,8,Vallak,M.Brun,SVERIGE
+30072182,Zippe Chip* (S),,7,Vallak,Svartbrun,SVERIGE
+30094075,Zorbas Rose,,5,Vallak,Mellombr.,NORGE
+30092740,Zulu Mai,,5,Hoppe,Brun,NORGE
+30087265,Ängens Indra* (S),,3,Hoppe,Mørkbr,SVERIGE
+132519,Øylill,,11,Hoppe,Brun,NORGE
+30083497,Årdals Blesa,,7,Hoppe,Svartbrun,NORGE
+30039735,Åser Frøy,,5,Vallak,Brun,NORGE

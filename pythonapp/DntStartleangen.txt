@@ -1,0 +1,96 @@
+  Startliste    -  Leangen Travbane - 17.05.2021;1;2140;1;Vikan Knekten;Inge Melby
+  Startliste    -  Leangen Travbane - 17.05.2021;1;2140;2;S.K.'s Bukefalos;Andre H. Stensen
+  Startliste    -  Leangen Travbane - 17.05.2021;1;2160;3;Pave Nora;Per Einar Sørmo
+  Startliste    -  Leangen Travbane - 17.05.2021;1;2160;4;Greis Jorun;Stine Holm
+  Startliste    -  Leangen Travbane - 17.05.2021;1;2160;5;Terne Pil;Odd Arne Kjøsnes
+  Startliste    -  Leangen Travbane - 17.05.2021;1;2160;6;Storm Fax;Edvard Kristiansen
+  Startliste    -  Leangen Travbane - 17.05.2021;1;2160;7;Solør Jo;Jomar Blekkan
+  Startliste    -  Leangen Travbane - 17.05.2021;1;2160;8;Grytting Ida;Atle Solhus
+  Startliste    -  Leangen Travbane - 17.05.2021;2;2140;1;Alma Prins;Jomar Blekkan
+  Startliste    -  Leangen Travbane - 17.05.2021;2;2140;2;Helle Spik;Boye Ølstøren
+  Startliste    -  Leangen Travbane - 17.05.2021;2;2140;3;Moe Tjalve;Lars Raaum
+  Startliste    -  Leangen Travbane - 17.05.2021;2;2140;4;Jardar;Edvard Kristiansen
+  Startliste    -  Leangen Travbane - 17.05.2021;2;2140;5;Bokli Teddy;Arve Sjoner
+  Startliste    -  Leangen Travbane - 17.05.2021;2;2140;6;Pave Faks;Dag-Sveinung Dalen
+  Startliste    -  Leangen Travbane - 17.05.2021;2;2140;7;Kleppe Fanden;Åsbjørn Tengsareid
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;1;Barbarian Division;Andre H. Stensen
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;2;Looking Sharp;Dag-Sveinung Dalen
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;3;Mr. Unicum;Marit Valstad
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;4;Dancer Halbak;Inge Melby
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;5;Yesyesyes;Atle Solhus
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;6;Efes Trotter;Jan Roar Trøan
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;7;Locamotion;Jomar Blekkan
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;8;Xpress Bar;Kristian Lamøy
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;9;Panama Rags;Noralf P. Brækken
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;10;Leonardo Di'Vici;Morten Valstad
+  Startliste    -  Leangen Travbane - 17.05.2021;3;2640;11;Take It Easy;Arve Sjoner
+  Startliste    -  Leangen Travbane - 17.05.2021;4;2140;1;Brilliant Star;Raymon Stranden
+  Startliste    -  Leangen Travbane - 17.05.2021;4;2140;2;Moonrise;Jan Roar Trøan
+  Startliste    -  Leangen Travbane - 17.05.2021;4;2140;3;Fightforfreedom Ås;Dag-Sveinung Dalen
+  Startliste    -  Leangen Travbane - 17.05.2021;4;2140;4;Moni Rajah;Jan Lyng
+  Startliste    -  Leangen Travbane - 17.05.2021;4;2140;5;Seaborn Santana;Andre H. Stensen
+  Startliste    -  Leangen Travbane - 17.05.2021;4;2140;6;Evita Va Bene;Thomas Mjøen
+  Startliste    -  Leangen Travbane - 17.05.2021;4;2140;7;Bijou;Jomar Blekkan
+  Startliste    -  Leangen Travbane - 17.05.2021;4;2140;8;R.M.G. Dancing Queen;Atle Solhus
+  Startliste    -  Leangen Travbane - 17.05.2021;4;2140;9;Gentletron;Åsbjørn Tengsareid
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1640;1;Hovsten Express;Thomas Mjøen
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1640;2;Hafell Bris;Atle Solhus
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1640;3;Skeie Knerten;Odd Arne Kjøsnes
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1640;4;Stensvik Lars;Inge Melby
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1660;5;Ramstad Kristian;Dag-Sveinung Dalen
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1660;6;Il Oda;Ragnhild Bjørnbeth
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1660;7;Il Jerven;Arve Sjoner
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1660;8;Lille Vilma;Frank Westberg
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1660;9;Z.M.'s Jerven;Andre H. Stensen
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1660;10;Komnes Omer;Jomar Blekkan
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1660;11;Lauvås Emma;Atle Eggan
+  Startliste    -  Leangen Travbane - 17.05.2021;5;1660;12;Spang Ole;Åsbjørn Tengsareid
+  Startliste    -  Leangen Travbane - 17.05.2021;6;2140;1;Kristinstjerna;Inge Melby
+  Startliste    -  Leangen Travbane - 17.05.2021;6;2140;2;Pave Sola;Andre H. Stensen
+  Startliste    -  Leangen Travbane - 17.05.2021;6;2160;3;Alonso Sol;Jomar Blekkan
+  Startliste    -  Leangen Travbane - 17.05.2021;6;2160;4;S.K.'s Nordstjerne;Atle Solhus
+  Startliste    -  Leangen Travbane - 17.05.2021;6;2160;5;Eva Maria;Åsbjørn Tengsareid
+  Startliste    -  Leangen Travbane - 17.05.2021;6;2160;6;Stjerneiris;Boye Ølstøren
+  Startliste    -  Leangen Travbane - 17.05.2021;6;2160;7;Oria;Dag-Sveinung Dalen
+  Startliste    -  Leangen Travbane - 17.05.2021;6;2160;8;Vassli Tuppa;Arve Sjoner
+  Startliste    -  Leangen Travbane - 17.05.2021;6;2180;9;Borkmira;Thomas Mjøen
+  Startliste    -  Leangen Travbane - 17.05.2021;6;2200;10;Villmira;Ragnhild Bjørnbeth
+  Startliste    -  Leangen Travbane - 17.05.2021;7;2140;1;Tearsofthesun;Dag-Sveinung Dalen
+  Startliste    -  Leangen Travbane - 17.05.2021;7;2140;2;Ira B.R.;Inge Melby
+  Startliste    -  Leangen Travbane - 17.05.2021;7;2140;3;Natacha Line;Marit Valstad
+  Startliste    -  Leangen Travbane - 17.05.2021;7;2140;4;Kiss Me;Thomas Mjøen
+  Startliste    -  Leangen Travbane - 17.05.2021;7;2140;5;Welldone Wilma;Thea Indrebø
+  Startliste    -  Leangen Travbane - 17.05.2021;7;2140;6;Fidji Rags;Erik Brækken
+  Startliste    -  Leangen Travbane - 17.05.2021;7;2140;7;R.M.G. Lady In Red;Jomar Blekkan
+  Startliste    -  Leangen Travbane - 17.05.2021;7;2140;8;F.X. Fragola;Ragnhild Bjørnbeth
+  Startliste    -  Leangen Travbane - 17.05.2021;7;2140;9;Acers Fantasy;Andre H. Stensen
+  Startliste    -  Leangen Travbane - 17.05.2021;7;2140;10;Juliana Rags;Noralf P. Brækken
+  Startliste    -  Leangen Travbane - 17.05.2021;8;2140;1;Marino D.V.;Jomar Blekkan
+  Startliste    -  Leangen Travbane - 17.05.2021;8;2140;2;Thai Broadway;Johan Kringeland Eriksen
+  Startliste    -  Leangen Travbane - 17.05.2021;8;2140;3;Fux Pride;Thomas Mjøen
+  Startliste    -  Leangen Travbane - 17.05.2021;8;2140;4;Down And Dirty;Andre H. Stensen
+  Startliste    -  Leangen Travbane - 17.05.2021;8;2140;5;Derby d'Estino;Magne Olsen
+  Startliste    -  Leangen Travbane - 17.05.2021;8;2140;6;The Last Ticket;Inge Melby
+  Startliste    -  Leangen Travbane - 17.05.2021;8;2140;7;Patent Leather;Åsbjørn Tengsareid
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2140;1;Svartemaja;Per Einar Sørmo
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2140;2;Berg Oda;Andre H. Stensen
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2140;3;Sørdals Ruska;Noralf P. Brækken
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2140;4;Liv Synnøve;Arve Sjoner
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2160;5;Pave Sokken;Thomas Mjøen
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2160;6;Tyholt Frøkna;Odd Arne Kjøsnes
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2160;7;Faks Trym;Monika Fremstad
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2160;8;Svidd Gummi;Magne Olsen
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2160;9;V.H. Sjarmis;Inge Melby
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2160;10;Vill Modin;Edvard Kristiansen
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2160;11;Varg Ulf;Atle Solhus
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2160;12;Spang Anna;Karl Ove Nordtømme
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2160;13;Hellinrappa;Frank Westberg
+  Startliste    -  Leangen Travbane - 17.05.2021;9;2160;14;Lauvås Tulla;Dag-Sveinung Dalen
+  Startliste    -  Leangen Travbane - 17.05.2021;10;1640;1;Just Too Fast M.E.;Tor Arne Eggen
+  Startliste    -  Leangen Travbane - 17.05.2021;11;2140;1;Dyess;Boye Ølstøren
+  Startliste    -  Leangen Travbane - 17.05.2021;11;2160;2;Gjerv Prinsen;Marit Valstad
+  Startliste    -  Leangen Travbane - 17.05.2021;11;2160;3;Vill Basse;Edvard Kristiansen
+  Startliste    -  Leangen Travbane - 17.05.2021;11;2160;4;Brunte Martin;Jomar Blekkan
+  Startliste    -  Leangen Travbane - 17.05.2021;11;2160;5;Åsaedin;Magne Olsen
+  Startliste    -  Leangen Travbane - 17.05.2021;11;2160;6;Nelson Heidi;Thomas Mjøen
+  Startliste    -  Leangen Travbane - 17.05.2021;11;2160;7;Haugs Fiona;Ragnhild Bjørnbeth

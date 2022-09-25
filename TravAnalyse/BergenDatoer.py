@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests 
 import os
 from funkformatdato import funkformatdato
-#import LeserDNTdatofradatabase
+#import LeserDNTdato
 # from token import NEWLINE
 coding='utf8'
 if os.path.isfile("D:\workplace_python\TravAnalyse\Bergenresultatdatoer.txt"):
@@ -12,7 +12,7 @@ num = 415
 while num < 416:
 #     num = 9
 #    Lastedato.Dato
-    #print(LeserDNTdatofradatabase.Lastedato)
+    #print(LeserDNTdato.Lastedato)
     #r = requests.get("http://www.alltidhest.org/Horses/Page/{}".format(num) )
 #     r = requests.get("http://www.travsport.no/Sport/Resultater/Bergen-Travpark/")
     r = requests.get("http://www.travsport.no/Sport/Resultater/Bergen-Travpark/")

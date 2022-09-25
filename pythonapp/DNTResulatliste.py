@@ -3,7 +3,7 @@ import requests
 from FunksjonleserWeb import FunksjonleserWeb
 #!/usr/bin/python
 coding='utf-8'
-Lastedato = '20060202'
+Lastedato = '20191124'
 #coding='utf8'
 FunksjonleserWeb(Lastedato)
 num = 415
@@ -11,7 +11,7 @@ while num < 416:
 #     num = 9
     print(num)
     #r = requests.get("http://www.alltidhest.org/Horses/Page/{}".format(num) )
-    r = requests.get("http://www.travsport.no/Sport/Resultater/Bergen-Travpark/?date=" + Lastedato)
+    r = requests.get("http://www.travsport.no/Sport/Resultater/Jarlsberg-Travbane/?date=" + Lastedato)
     num = num + 1
     r.content
     soup = BeautifulSoup(r.content,"html.parser")
@@ -29,7 +29,7 @@ while num < 416:
         
     #print(antalltabeller,"Antall tabeller")
     wkol = 0
-    with open('DNTResulatListe.txt', 'a') as f:
+    with open('D:\workplace_python\pythonapp\DNTResulatListe.txt', 'a') as f:
 #         for tr in enumerate(Hesttabell[1]):
         teller = 0 
         for tr in soup.find_all('tr')[2:]:

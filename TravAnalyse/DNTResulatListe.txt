@@ -1,0 +1,718 @@
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;1;5;Expensive Hangover;1609;1:58,4;13,6a;14000;Josefine    Eilertsen;35
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;2;1;Daily News;1609;2:00,4;14,8a;7000;Johan Kringeland    Eriksen;140
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;3;9;Black Voice;1609;2:00,9;15,1a;5000;Vidar    Tjomsland;53
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;4;2;Florry's Princess;1609;2:01,1;15,3a;3500;Eirik    Høitomt;77
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;5;4;Onassis M.R.;1609;2:01,2;15,3a;3000;Martine O.    Sørvik;362
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;6;10;Exploitmyday;1609;2:01,3;15,4a;3000;Frode    Hamre;*29
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;0;12;Ero'kamano;1609;2:01,7;15,6a;;Øystein    Tjomsland;250
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;0;7;Whistleblower (S);1609;2:01,8;15,7a;;Geir    Mikkelsen;607
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;0;6;Egon Lobell (NL);1609;2:02,3;16,0a;;Åsbjørn    Tengsareid;130
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;0;8;Grace Yoga (S);1609;2:02,4;16,1a;;Helene G.    Forberg;315
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;Ingen galopp ;0;11;Lily's White Sun;1609;2:03,5;16,8a;;Dag-Sveinung    Dalen;349
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 1609;1;Auto;galopp;0;3;Julia Early;1609;2:04,4;17,3ag;;Katrine Olsen    Wågenes;450
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;2;Volte;Ingen galopp ;1;1;Øygard Jakson;2140;3:14,6;30,9;9000;Lars Anvar    Kolle;*32
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;3;Volte;Ingen galopp ;1;9;Etne Spretten;2200;3:14,6;28,5;9000;Øystein    Tjomsland;69
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;3;Volte;Ingen galopp ;3;2;Ty;2160;3:14,8;30,2;4000;Eirik    Høitomt;100
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;3;Volte;Ingen galopp ;4;7;Eiklands Faks;2180;3:15,3;29,6;3000;Johan Herbjørn    Undem;355
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;3;Volte;Ingen galopp ;5;8;Gompens Hønk;2180;3:15,9;29,9;2000;Johan Kringeland    Eriksen;36
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;3;Volte;Ingen galopp ;6;4;Alm Jakken;2160;3:16,5;31,0;2000;Dag-Sveinung    Dalen;123
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;3;Volte;Ingen galopp ;0;10;B.B. Juventus;2200;3:17,5;29,8;;Jan Rune    Gaustad;567
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;3;Volte;galopp;Brutt løp;3;Refs Elita;2160;;br g;;Anette    Frønes;387
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;3;Volte;Ingen galopp ;Disk. galopp;5;Rise Kongen;2160;DG;dg;;Ann May    Sveinungsen;39
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;3;Volte;Ingen galopp ;Disk. galopp;6;Direktør Ribe;2160;DG;dg;;Arild    Berås;483
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 32500; 2140;4;Volte;Ingen galopp ;1;10;Langlands Odin;2200;3:09,3;26,0;14000;Stine    Birkeland;*13
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 32500; 2140;4;Volte;Ingen galopp ;2;7;Torden Prinsen;2160;3:10,5;28,2;7000;Martine    Finsand;836
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 32500; 2140;4;Volte;Ingen galopp ;3;9;Solhøy Gunn;2160;3:10,7;28,3;5000;Morten    Erga;193
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 32500; 2140;4;Volte;Ingen galopp ;4;4;Tintin;2160;3:10,9;28,4;3500;Synne    Høitomt;111
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 32500; 2140;4;Volte;Ingen galopp ;5;3;Irma H.R.;2160;3:11,1;28,5;3000;Sondre    Heimdal;321
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 32500; 2140;4;Volte;Ingen galopp ;0;5;Moi Edel;2160;3:11,2;28,5;;Benedicte    Bjørnstad;59
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 32500; 2140;4;Volte;Ingen galopp ;0;8;Kile Balder;2160;3:11,2;28,5;;Amalie    Ødegård;700
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 32500; 2140;4;Volte;Ingen galopp ;0;1;Lome Perla;2160;3:11,3;28,6;;Jenny    Thygesen;94
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 32500; 2140;4;Volte;Ingen galopp ;0;6;Sjarmørviktor;2160;3:11,3;28,6;;Filip    Lindholm;392
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 32500; 2140;4;Volte;Ingen galopp ;Strøket;2;Anka;2160;;;;Karin    Hauge;
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;1;6;Speedy Jetstar;2140;2:44,7;17,0a;12000;Per Vetle    Kals;35
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;2;9;Royal Unibrew (S);2140;2:44,9;17,1a;6000;Martine O.    Sørvik;79
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;3;8;Jocose Boy;2140;2:44,9;17,1a;4000;Geir    Mikkelsen;244
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;4;1;Wind Of Change T.J.;2140;2:45,2;17,2a;3000;Vidar    Tjomsland;268
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;5;7;Reborn;2140;2:45,6;17,4a;2000;Lars Anvar    Kolle;339
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;6;5;Star Act;2140;2:45,6;17,4a;2000;Dag-Sveinung    Dalen;196
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;0;11;Fanny va Bene;2140;2:45,8;17,5a;;Johan Herbjørn    Undem;681
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;0;10;Gambler;2140;2:45,9;17,5a;;Eirik    Høitomt;94
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;0;4;Golden Daiquiri;2140;2:45,9;17,5a;;Johan Kringeland    Eriksen;323
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;0;3;Order By Post;2140;2:46,6;17,9a;;Øystein    Tjomsland;436
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;0;12;Reveline Chip;2140;2:47,3;18,2a;;Åsbjørn    Tengsareid;204
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 29000; 2140;5;Auto;Ingen galopp ;Disk. galopp;2;Stand by Me Ås* (S);2140;DG;dg a;;Frode    Hamre;*21
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;6;Auto;Ingen galopp ;1;7;Syoss (DE);2140;2:40,4;15,0a;16000;Geir    Mikkelsen;*24
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;6;Auto;Ingen galopp ;2;3;Anthony Downs (DK);2140;2:40,8;15,1a;8000;Ole Johan    Østre;64
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;6;Auto;Ingen galopp ;3;9;Harley D.E. (DE);2140;2:40,9;15,2a;5000;Frode    Hamre;42
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;6;Auto;Ingen galopp ;4;4;I See U. One;2140;2:41,1;15,3a;4000;Dag-Sveinung    Dalen;164
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;6;Auto;Ingen galopp ;5;6;Rebella Mystic L.;2140;2:41,3;15,4a;3000;Johan Herbjørn    Undem;133
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;6;Auto;Ingen galopp ;0;8;Wayne Brogård (DK);2140;2:41,6;15,5a;;Eirik    Høitomt;110
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;6;Auto;Ingen galopp ;0;5;Banker Go's;2140;2:41,8;15,6a;;Martine O.    Sørvik;429
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;6;Auto;Ingen galopp ;0;1;Camillo Neo (S);2140;2:44,2;16,7a;;Stine Hansen    Juklerød;286
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;6;Auto;Ingen galopp ;Disk. galopp;2;Skylander Hill;2140;DG;dg a;;Per Vetle    Kals;59
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;Ingen galopp ;1;3;Ohio Royal;2140;2:42,8;16,1;14000;Lars Anvar    Kolle;145
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;galopp;2;9;Iasi (DE);2160;2:43,3;15,6 g;7000;Geir    Mikkelsen;88
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;Ingen galopp ;3;11;Ithinkiama Genius;2160;2:44,1;16,0;5000;Dag-Sveinung    Dalen;58
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;Ingen galopp ;4;12;Cromwells Shadow;2160;2:44,4;16,1;3500;Åsbjørn    Tengsareid;415
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;Ingen galopp ;5;7;Dante Kievitshof (DE);2160;2:44,5;16,2;3000;Vidar    Tjomsland;290
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;Ingen galopp ;6;10;Gringo Boko (NL);2160;2:44,6;16,2;3000;Øystein    Tjomsland;339
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;galopp;0;1;Libeccio Sun;2140;2:47,3;18,2 g;;Bernt    Øksnevad;630
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;galopp;0;6;N.Y. Lovemelikeyoudo;2140;2:51,1;20,0 g;;Frode    Hamre;58
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;galopp;0;8;Rock'n Rolling;2160;2:51,5;19,4 g;;Eirik    Høitomt;92
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;galopp;Brutt løp;4;Red Love Vici;2140;;br g;;Lars Fredrik    Kolle;41
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;galopp;Brutt løp;5;Texas Bonheur (FR);2140;;br g;;Anette    Frønes;826
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 35500; 2140;7;Volte;Ingen galopp ;Disk. galopp;2;Orlandostile;2140;DG;dg;;Ole Johan    Østre;*38
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 87000; 2140;8;Volte;Ingen galopp ;1;7;Grisleprinsen G.L.;2180;3:17,2;30,5;30000;Øystein    Tjomsland;*12
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 87000; 2140;8;Volte;Ingen galopp ;2;6;Prins Isak;2160;3:17,8;31,6;17000;Lars Anvar    Kolle;117
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 87000; 2140;8;Volte;galopp;3;3;Vestpol Loke;2140;3:19,7;33,3 g;11000;Åsbjørn    Tengsareid;68
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 87000; 2140;8;Volte;galopp;4;8;Homme Alcor;2180;3:24,0;33,6 g;8000;Eirik    Høitomt;132
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 87000; 2140;8;Volte;Ingen galopp ;5;2;Tøffå Ø.K.;2140;3:24,6;35,6;6000;Bernt    Øksnevad;275
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 87000; 2140;8;Volte;galopp;6;9;Frøyu Fanten;2180;3:25,0;34,0 g;5000;Geir    Flåten;205
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 87000; 2140;8;Volte;galopp;7;5;Willmin;2140;3:27,5;37,0 g;5000;Rudolf    Roland;508
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 87000; 2140;8;Volte;galopp;8;4;Tusse Odin;2140;3:28,3;37,3 g;5000;Harry    Tharaldsen;431
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 87000; 2140;8;Volte;galopp;0;1;Sommerstjerna;2140;3:28,6;37,5 g;;Per Vetle    Kals;569
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;9;Volte;Ingen galopp ;1;7;Magnums Othello;2180;3:04,9;24,8;16000;Øystein    Tjomsland;*13
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;9;Volte;Ingen galopp ;2;6;Ask Eld;2180;3:05,1;24,9;8000;Åsbjørn    Tengsareid;131
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;9;Volte;galopp;3;4;Tomeld Ø.K.;2180;3:05,3;25,0 g;5000;Bernt    Øksnevad;71
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;9;Volte;Ingen galopp ;4;2;Vesle Sjur (S);2180;3:05,7;25,2;4000;Dag-Sveinung    Dalen;153
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;9;Volte;Ingen galopp ;5;3;Myhreng Brage;2180;3:06,4;25,5;3000;Lars Anvar    Kolle;215
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;9;Volte;galopp;0;5;Tallas;2180;3:14,5;29,2 g;;Jan Rune    Gaustad;435
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 36000; 2140;9;Volte;Ingen galopp ;Disk. galopp;1;Arnspik;2160;DG;dg;;Eirik    Høitomt;60
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 0; 2140;9;Volte;Ingen galopp ;;1;Ethiopia;2140;3:06,8;27,3;;Per Vetle    Kals;B
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 0; 2140;9;Volte;Ingen galopp ;;3;Sølvskars Faksen;2160;4:11,1;56,3;;Rudolf    Roland;B
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 0; 2140;9;Volte;Ingen galopp ;Disk. galopp;2;Kleppson;2160;DG;dg;;Natalie    Pedersen;N
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 0; 2140;9;Volte;Ingen galopp ;P;2;M.S. Star Trotter;2140;2:49,2;19,1;;Vidar    Tjomsland;P
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 0; 2140;9;Volte;Ingen galopp ;N;3;Norabel;2140;2:53,9;21,3 r;;Johan Kringeland    Eriksen;N
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 0; 2140;9;Volte;Ingen galopp ;Strøket;1;Apieceofcake;2140;;;;Therese    Nyhaven;
+Resultater    -  Sørlandets Travpark  -  20.10.2019; 0; 2140;9;Volte;Ingen galopp ;Strøket;4;Moi Diva;2160;;;;Rune    Røyrås;
+Resultater    -  Leangen Travbane  -  21.10.2019; 77000; 2140;1;Volte;Ingen galopp ;1;5;Møre Lilja;2160;3:24,1;34,5;30000;Thomas    Mjøen;*17
+Resultater    -  Leangen Travbane  -  21.10.2019; 77000; 2140;1;Volte;galopp;2;1;Odins Alma;2140;3:26,3;36,4 g;17000;Jomar    Blekkan;20
+Resultater    -  Leangen Travbane  -  21.10.2019; 77000; 2140;1;Volte;Ingen galopp ;3;4;Rampungen;2140;3:31,1;38,6;11000;Veronika    Bugge;150
+Resultater    -  Leangen Travbane  -  21.10.2019; 77000; 2140;1;Volte;Ingen galopp ;4;2;Hauk Viktoria;2140;3:32,3;39,2 r;8000;Dag-Sveinung    Dalen;171
+Resultater    -  Leangen Travbane  -  21.10.2019; 77000; 2140;1;Volte;galopp;5;3;Eva Maria;2140;3:39,2;42,4 g;6000;Inge    Melby;894
+Resultater    -  Leangen Travbane  -  21.10.2019; 77000; 2140;1;Volte;galopp;6;6;Viktor G.;2160;3:39,3;41,5 g;5000;Bjørn    Garberg;162
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;Ingen galopp ;1;2;New Yankee;2140;2:48,3;18,6;40000;Anders Lundstrøm    Wolden;183
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;Ingen galopp ;2;11;Gaia Barsk;2160;2:49,4;18,4;20000;Jomar    Blekkan;53
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;Ingen galopp ;3;6;Ghost Rider M.E.;2160;2:50,1;18,8;14000;Øyvind    Ruttenborg;36
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;Ingen galopp ;4;3;Federico;2140;2:51,6;20,2;10000;Tor Arne    Eggen;760
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;galopp;5;9;Frances Lifestar;2160;2:52,2;19,7 g;6000;Veronika    Bugge;111
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;galopp;6;1;El Hermano;2140;2:53,0;20,8 g;5000;Amanda    Robertsen;373
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;galopp;7;8;Synjo Danseur;2160;3:04,9;25,6 g;5000;Roar    Walsøe;639
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;Ingen galopp ;Disk. galopp;4;Bolero;2160;DG;dg;;Dag-Sveinung    Dalen;*20
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;Ingen galopp ;Disk. galopp;7;Man Of Steel;2160;DG;dg;;Magne    Olsen;177
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;Ingen galopp ;Disk. galopp;10;Moni Rajah;2160;DG;dg;;Jan    Lyng;252
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;Ingen galopp ;Strøket;5;Dewey;2160;;;;Thomas    Mjøen;0
+Resultater    -  Leangen Travbane  -  21.10.2019; 100000; 2140;2;Volte;Ingen galopp ;Strøket;12;Gliding Sun;2180;;;;Thomas    Mjøen;0
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;1;2;Jacko Line;2140;2:44,7;17,0a;16000;Inge    Melby;33
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;2;5;Leonardo Di'Vici;2140;2:44,8;17,0a;8000;Jomar    Blekkan;*19
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;3;11;Efes Trotter;2140;2:44,9;17,1a;5000;Ragnhild    Bjørnbeth;98
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;4;1;Take It Easy;2140;2:45,3;17,2a;4000;Veronika    Bugge;125
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;5;3;Golden Loom;2140;2:45,7;17,4a;3000;Monika    Fremstad;1280
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;6;4;Constitution;2140;2:46,1;17,6a;3000;Arild    Eggen;208
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;galopp;7;9;Electron;2140;2:46,3;17,7ag;2000;Bjørn    Garberg;89
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;0;7;Natacha Line;2140;2:46,5;17,8a;;Marit    Valstad;735
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;0;12;Giggs B.R.;2140;2:47,1;18,1a;;Arve    Sjoner;379
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;0;6;Flying On Line;2140;2:47,2;18,1a;;Dag-Sveinung    Dalen;247
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;0;8;Texas Rancher;2140;2:49,0;19,0a;;Thomas    Mjøen;523
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 2140;3;Auto;Ingen galopp ;Strøket;10;Seaside Fashion;2140;;;;Per Arne    Eggan;0
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;Ingen galopp ;1;10;Helle Spik;1700;2:27,7;26,9;16000;Amanda    Robertsen;*18
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;Ingen galopp ;2;7;Hr. Ford;1680;2:29,1;28,8;8000;Trude    Kleveland;56
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;Ingen galopp ;3;11;Krokstad Juvita;1700;2:29,4;27,9;5000;Inga    Lamvik;100
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;Ingen galopp ;4;8;Rebekka;1680;2:30,0;29,3;4000;Victoria    Amundsen;228
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;Ingen galopp ;5;3;Liheim Prins;1640;2:30,6;31,8;3000;Olea Villa    Furre;629
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;Ingen galopp ;6;5;Alsaker Viking;1660;2:31,2;31,1;3000;Anne Lene    Aursand;423
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;Ingen galopp ;7;2;Wilkas;1640;2:33,3;33,5;2000;Guro    Mogset;46
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;Ingen galopp ;0;9;Sophus K.G.;1680;2:34,7;32,1;;Vera Lamvik    Solhjell;619
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;Ingen galopp ;0;4;Kaptein Morgan;1640;2:36,2;35,2;;Marit    Valstad;119
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;galopp;0;6;Seter Birk;1680;2:40,2;35,4 g;;Dawid    Lisowski;349
+Resultater    -  Leangen Travbane  -  21.10.2019; 41000; 1640;4;Volte;Ingen galopp ;Disk. galopp;1;Nypansvarten;1640;DG;dg;;Guro    Berg;595
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;Ingen galopp ;1;6;Vill Jerven;2180;3:11,8;28,0;14000;Bjørn    Garberg;*18
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;Ingen galopp ;2;9;Minfaks;2180;3:12,1;28,1;7000;Arne    Nilsen;52
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;Ingen galopp ;3;5;Il Jerven;2180;3:12,4;28,3;5000;Magne    Olsen;80
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;Ingen galopp ;4;7;Hovsten Express;2180;3:13,0;28,5;3500;Atle    Solhus;168
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;Ingen galopp ;5;4;Grytting Blesen;2160;3:13,0;29,4;3000;Jomar    Blekkan;70
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;galopp;6;8;Helle Tone;2180;3:14,4;29,2 g;3000;Karl Ove    Nordtømme;284
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;Ingen galopp ;7;3;Buvoll Kos;2160;3:15,5;30,5;2000;Atle    Eggan;397
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;galopp;0;2;Potetgull;2160;3:19,0;32,1 g;;Linn Therese    Sinnes;548
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;galopp;0;10;Olve;2180;3:24,5;33,8 g;;Arve    Sjoner;160
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;galopp;0;11;Spang Trym;2180;3:24,7;33,9 rg;;Monika    Fremstad;850
+Resultater    -  Leangen Travbane  -  21.10.2019; 37500; 2140;5;Volte;Ingen galopp ;Disk. galopp;1;Dag Åsa;2140;DG;dg;;Veronika    Bugge;269
+Resultater    -  Leangen Travbane  -  21.10.2019; 39000; 2140;6;Auto;Ingen galopp ;1;4;Lovers Hall (DE);2140;2:43,0;16,2a;16000;Thomas    Mjøen;156
+Resultater    -  Leangen Travbane  -  21.10.2019; 39000; 2140;6;Auto;Ingen galopp ;2;6;Creek's Superline;2140;2:43,0;16,2a;8000;Veronika    Bugge;*19
+Resultater    -  Leangen Travbane  -  21.10.2019; 39000; 2140;6;Auto;Ingen galopp ;3;8;Chef Superb;2140;2:43,9;16,6a;5000;Jomar    Blekkan;37
+Resultater    -  Leangen Travbane  -  21.10.2019; 39000; 2140;6;Auto;Ingen galopp ;4;5;Disco Queen;2140;2:44,0;16,6a;4000;Atle    Eggan;149
+Resultater    -  Leangen Travbane  -  21.10.2019; 39000; 2140;6;Auto;Ingen galopp ;5;7;Xpress Bar;2140;2:45,3;17,2a;3000;Inge    Melby;367
+Resultater    -  Leangen Travbane  -  21.10.2019; 39000; 2140;6;Auto;galopp;6;9;Oro Boy;2140;2:45,6;17,4ag;3000;Arne    Nilsen;157
+Resultater    -  Leangen Travbane  -  21.10.2019; 39000; 2140;6;Auto;Ingen galopp ;0;3;Five Stars Genius;2140;2:45,7;17,4a;;Torkil    Steinshaug;71
+Resultater    -  Leangen Travbane  -  21.10.2019; 39000; 2140;6;Auto;Ingen galopp ;0;10;Balder Halbak;2140;2:45,9;17,5a;;Tor Arne    Eggen;198
+Resultater    -  Leangen Travbane  -  21.10.2019; 39000; 2140;6;Auto;Ingen galopp ;0;1;Gjølmes Lindy;2140;2:46,4;17,8a;;Bjørn    Garberg;416
+Resultater    -  Leangen Travbane  -  21.10.2019; 39000; 2140;6;Auto;galopp;0;2;Danny Delight;2140;2:53,3;21,0ag;;Per Einar    Sørmo;492
+Resultater    -  Leangen Travbane  -  21.10.2019; 36000; 2140;7;Auto;Ingen galopp ;1;6;Crackajack;2140;2:40,0;14,8a;16000;Dag-Sveinung    Dalen;*12
+Resultater    -  Leangen Travbane  -  21.10.2019; 36000; 2140;7;Auto;Ingen galopp ;2;2;Federal Crown;2140;2:40,5;15,0a;8000;Ragnhild    Bjørnbeth;74
+Resultater    -  Leangen Travbane  -  21.10.2019; 36000; 2140;7;Auto;Ingen galopp ;3;3;Synjo Star;2140;2:40,7;15,1a;5000;Roar    Walsøe;565
+Resultater    -  Leangen Travbane  -  21.10.2019; 36000; 2140;7;Auto;Ingen galopp ;4;1;Hambler's Amigo;2140;2:41,7;15,6a;4000;Atle    Solhus;195
+Resultater    -  Leangen Travbane  -  21.10.2019; 36000; 2140;7;Auto;Ingen galopp ;5;4;Black Butan;2140;2:42,8;16,1a;3000;Boye    Ølstøren;432
+Resultater    -  Leangen Travbane  -  21.10.2019; 36000; 2140;7;Auto;Ingen galopp ;0;7;Crimson Pirate (S);2140;2:43,8;16,5a;;Thomas    Mjøen;184
+Resultater    -  Leangen Travbane  -  21.10.2019; 36000; 2140;7;Auto;Ingen galopp ;0;8;Pilgrims Power (US);2140;2:44,0;16,6a;;Karl Ove    Nordtømme;782
+Resultater    -  Leangen Travbane  -  21.10.2019; 36000; 2140;7;Auto;Ingen galopp ;Disk. galopp;5;Sangria Knight (S);2140;DG;dg a;;Jomar    Blekkan;65
+Resultater    -  Leangen Travbane  -  21.10.2019; 29000; 2140;8;Auto;Ingen galopp ;1;3;Hafell Bris;2140;3:14,2;30,7a;12000;Bjørn    Garberg;*25
+Resultater    -  Leangen Travbane  -  21.10.2019; 29000; 2140;8;Auto;Ingen galopp ;2;6;S.K.'s Nordstjerne;2140;3:15,8;31,5a;6000;Karl Einar    Stubsjøen;58
+Resultater    -  Leangen Travbane  -  21.10.2019; 29000; 2140;8;Auto;Ingen galopp ;3;9;Dag Minn;2140;3:16,4;31,8a;4000;Karl Ove    Nordtømme;62
+Resultater    -  Leangen Travbane  -  21.10.2019; 29000; 2140;8;Auto;Ingen galopp ;4;1;Il Jenta;2140;3:16,5;31,8a;3000;Magne    Olsen;189
+Resultater    -  Leangen Travbane  -  21.10.2019; 29000; 2140;8;Auto;Ingen galopp ;5;10;Norjerven;2140;3:16,5;31,8a;2000;Boye    Ølstøren;76
+Resultater    -  Leangen Travbane  -  21.10.2019; 29000; 2140;8;Auto;Ingen galopp ;6;4;Holene Stjernen;2140;3:17,0;32,1a;2000;Odd Arne    Kjøsnes;234
+Resultater    -  Leangen Travbane  -  21.10.2019; 29000; 2140;8;Auto;Ingen galopp ;0;2;Høibygjerven;2140;3:19,3;33,1a;;Arve    Sjoner;259
+Resultater    -  Leangen Travbane  -  21.10.2019; 29000; 2140;8;Auto;Ingen galopp ;0;8;Gjølmes Mai Schuva;2140;3:25,6;36,1ar;;Atle    Solhus;144
+Resultater    -  Leangen Travbane  -  21.10.2019; 29000; 2140;8;Auto;galopp;0;7;Hage Modin;2140;3:26,0;36,3ag;;Dag-Sveinung    Dalen;50
+Resultater    -  Leangen Travbane  -  21.10.2019; 29000; 2140;8;Auto;Ingen galopp ;Strøket;5;Vestpol Lodin;2140;;;;Thomas    Mjøen;0
+Resultater    -  Leangen Travbane  -  21.10.2019; 32500; 2140;9;Volte;Ingen galopp ;1;3;Pirlo;2140;2:48,9;18,9;14000;Jomar    Blekkan;41
+Resultater    -  Leangen Travbane  -  21.10.2019; 32500; 2140;9;Volte;Ingen galopp ;2;2;Baltic On Line;2140;2:49,3;19,1;7000;Dag-Sveinung    Dalen;*25
+Resultater    -  Leangen Travbane  -  21.10.2019; 32500; 2140;9;Volte;Ingen galopp ;3;1;Kairos Forte;2140;2:49,4;19,2;5000;Guro    Berg;136
+Resultater    -  Leangen Travbane  -  21.10.2019; 32500; 2140;9;Volte;Ingen galopp ;4;4;Feed My Soul;2160;2:49,6;18,5;3500;Per Einar    Sørmo;100
+Resultater    -  Leangen Travbane  -  21.10.2019; 32500; 2140;9;Volte;Ingen galopp ;5;5;Montecristo Royal;2160;2:49,6;18,5;3000;Magne    Olsen;167
+Resultater    -  Leangen Travbane  -  21.10.2019; 32500; 2140;9;Volte;Ingen galopp ;0;7;S.K.'s Iron Lady;2160;2:49,8;18,6;;Karl Ove    Nordtømme;56
+Resultater    -  Leangen Travbane  -  21.10.2019; 32500; 2140;9;Volte;Ingen galopp ;0;8;No Rules Genius;2160;2:51,3;19,3;;Odd Arne    Kjøsnes;277
+Resultater    -  Leangen Travbane  -  21.10.2019; 32500; 2140;9;Volte;galopp;Brutt løp;6;Alcatraz;2160;;br g;;Ragnhild    Bjørnbeth;60
+Resultater    -  Leangen Travbane  -  21.10.2019; 0; 2140;9;Volte;Ingen galopp ;;1;Red Business;2140;3:04,8;26,4;;Boye    Ølstøren;B
+Resultater    -  Leangen Travbane  -  21.10.2019; 0; 2140;9;Volte;Ingen galopp ;Disk. galopp prøveløp;2;H.P. Roadrunner;2140;DGPP;dgpp;;Arild    Eggen;N
+Resultater    -  Leangen Travbane  -  21.10.2019; 0; 2140;9;Volte;Ingen galopp ;Strøket;3;Moni Bank;2140;;;;Jan    Lyng;
+Resultater    -  Leangen Travbane  -  21.10.2019; 0; 2140;9;Volte;Ingen galopp ;P;3;Dancer;2140;2:56,2;22,3;;Dag-Sveinung    Dalen;P
+Resultater    -  Leangen Travbane  -  21.10.2019; 0; 2140;9;Volte;Ingen galopp ;P;1;Casper the Viking;2140;2:58,3;23,3;;Torkil    Steinshaug;P
+Resultater    -  Leangen Travbane  -  21.10.2019; 0; 2140;9;Volte;galopp;P;2;Hush;2140;3:00,2;24,2 g;;Jomar    Blekkan;P
+Resultater    -  Leangen Travbane  -  21.10.2019; 0; 2140;9;Volte;Ingen galopp ;Strøket;4;Miss Fandango;2140;;;;Veronika    Bugge;
+Resultater    -  Leangen Travbane  -  21.10.2019; 0; 2140;9;Volte;Ingen galopp ;Strøket;5;Jona Viking;2160;;;;Vigdis Therese    Haltvik;
+Resultater    -  Forus Travbane  -  22.10.2019; 44000; 2040;1;Auto;Ingen galopp ;1;9;Come Vacation;2040;2:31,2;14,1a;18000;Dag-Sveinung    Dalen;44
+Resultater    -  Forus Travbane  -  22.10.2019; 44000; 2040;1;Auto;Ingen galopp ;2;4;Silas Hovmand (DK);2040;2:31,6;14,3a;9000;Svein Ove    Wassberg;237
+Resultater    -  Forus Travbane  -  22.10.2019; 44000; 2040;1;Auto;Ingen galopp ;3;5;Lucky Vegas;2040;2:32,6;14,8a;6000;Pål    Buer;*16
+Resultater    -  Forus Travbane  -  22.10.2019; 44000; 2040;1;Auto;Ingen galopp ;4;7;Explosiveday (US);2040;2:32,6;14,8a;4500;Øyvind    Hegdal;235
+Resultater    -  Forus Travbane  -  22.10.2019; 44000; 2040;1;Auto;Ingen galopp ;5;2;Delec Hanover (US);2040;2:33,0;15,0a;3500;Bjørn    Steine;539
+Resultater    -  Forus Travbane  -  22.10.2019; 44000; 2040;1;Auto;Ingen galopp ;6;8;Conquestador B.R.;2040;2:34,4;15,7a;3000;Geir    Gudmestad;72
+Resultater    -  Forus Travbane  -  22.10.2019; 44000; 2040;1;Auto;Ingen galopp ;0;1;Expo B.R.;2040;2:34,9;15,9a;;Mette H.    Mæland;263
+Resultater    -  Forus Travbane  -  22.10.2019; 44000; 2040;1;Auto;Ingen galopp ;Disk. galopp;6;Explosive Lane (NL);2040;DG;dg ar;;Rune    Wiig;76
+Resultater    -  Forus Travbane  -  22.10.2019; 44000; 2040;1;Auto;Ingen galopp ;Disk. galopp;3;The Special One U.S. (US);2040;DG;dg a;;Jørn    Bjaanes;1104
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;Ingen galopp ;1;5;Tradewind;2040;2:38,2;17,5a;16000;Dag-Sveinung    Dalen;38
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;Ingen galopp ;2;6;Somebodylikesyou;2040;2:38,4;17,6a;8000;Øyvind    Hegdal;1237
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;Ingen galopp ;3;9;Fixing The Shadow;2040;2:38,5;17,7a;5000;Bjørn    Steine;57
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;Ingen galopp ;4;3;Dream Endurance;2040;2:38,7;17,8a;4000;Per Arvid    Erga;267
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;Ingen galopp ;5;10;Kissmymuscles;2040;2:38,8;17,8a;3000;Svein Ove    Wassberg;302
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;Ingen galopp ;6;11;Thai Selfie;2040;2:38,8;17,8a;3000;Tom    Erga;1350
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;Ingen galopp ;7;12;Danica Patrick (DK);2040;2:39,1;18,0a;2000;Pål    Buer;57
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;Ingen galopp ;0;8;Catwalkens Dream;2040;2:39,1;18,0a;;Thomas Sverre    Karlsen;108
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;Ingen galopp ;0;7;Victorius;2040;2:39,8;18,3a;;Geir    Gudmestad;232
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;galopp;0;4;Duke Esterel (DK);2040;2:40,8;18,8ag;;Geir    Mikkelsen;63
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;galopp;Brutt løp;2;Quickstep O.;2040;;br ag;;Rune    Wiig;*37
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;2;Auto;Ingen galopp ;Strøket;1;Ellys Jet;2040;;;;Jørn    Bjaanes;0
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;3;Auto;Ingen galopp ;1;3;Neslands Faksen;2040;2:52,4;24,5a;18000;Geir    Mikkelsen;*22
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;3;Auto;Ingen galopp ;2;7;Tangen Piril;2040;2:52,6;24,6a;9000;Øyvind    Hegdal;26
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;3;Auto;Ingen galopp ;3;9;Solberg Jela;2040;2:54,3;25,4a;6000;Tormod    Gudmestad;522
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;3;Auto;Ingen galopp ;4;2;Møller Viktoria;2040;2:54,5;25,5a;4500;Geir    Gudmestad;73
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;3;Auto;Ingen galopp ;5;5;Åspe Mix;2040;2:55,0;25,8a;3500;Åsbjørn    Skjæveland;69
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;3;Auto;Ingen galopp ;0;6;Kringeland Enok;2040;2:55,5;26,0a;;Johan Kringeland    Eriksen;127
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;3;Auto;Ingen galopp ;0;4;Spik Lotta;2040;2:55,5;26,0a;;Svein Ove    Wassberg;389
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;3;Auto;Ingen galopp ;0;8;Tøffe Toft;2040;2:57,8;27,2a;;Arild    Berås;324
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;3;Auto;Ingen galopp ;Strøket;1;Modin;2040;;;;Tom    Erga;0
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;Ingen galopp ;1;1;Iron Transs R. (DE);2040;2:38,9;17,9;16000;Rune    Wiig;*13
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;galopp;2;7;Bongo;2060;2:39,4;17,4 g;8000;Pål    Buer;58
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;Ingen galopp ;3;3;Maksi Muscles;2040;2:39,5;18,2;5000;Svein Ove    Wassberg;152
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;Ingen galopp ;4;9;Neverending L.;2060;2:39,6;17,5;4000;Thomas Sverre    Karlsen;423
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;Ingen galopp ;5;6;Happy Dragon (DE);2060;2:39,7;17,5;3000;Bjørn    Steine;110
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;Ingen galopp ;6;11;Imperium Bo (DE);2060;2:39,8;17,6;3000;Øyvind    Hegdal;131
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;Ingen galopp ;0;10;Summerside (IT);2060;2:40,3;17,8;;Atle    Erga;1503
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;Ingen galopp ;0;8;Joe Frazier (S);2060;2:40,5;17,9;;Maylen    Lode;501
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;Ingen galopp ;0;4;Walkabout Classic;2040;2:41,8;19,3;;Geir    Mikkelsen;292
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;Ingen galopp ;Strøket;2;Look De Diamond;2040;;;;Jørn    Bjaanes;0
+Resultater    -  Forus Travbane  -  22.10.2019; 39000; 2040;4;Volte;Ingen galopp ;Strøket;5;Muito Obrigada;2040;;;;Dag-Sveinung    Dalen;0
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;Ingen galopp ;1;11;Høvåg Ask;2040;2:58,0;27,3a;16000;Øyvind    Hegdal;52
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;Ingen galopp ;2;7;Tysvær Odin;2040;2:58,1;27,3a;8000;Pål    Buer;47
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;Ingen galopp ;3;4;Elvin;2040;3:00,4;28,4a;5000;Rune    Wiig;102
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;galopp;4;12;Misi Ø.K.;2040;3:00,7;28,6ag;4000;Bernt    Øksnevad;318
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;Ingen galopp ;5;2;Komnes Troll;2040;3:01,6;29,0a;3000;Bjørn    Steine;46
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;galopp;6;6;Kringelandester;2040;3:03,6;30,0ag;3000;Kurt Magne    Lauvsnes;941
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;galopp;7;8;Vestpol Il;2040;3:03,7;30,0ag;2000;Tom    Erga;245
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;Ingen galopp ;Disk. galopp;1;Nesvik Spik'n;2040;DG;dg a;;Dag-Sveinung    Dalen;313
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;Ingen galopp ;Disk. galopp;5;Soten;2040;DG;dg a;;Atle    Erga;100
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;Ingen galopp ;Disk. galopp;9;Verdals Torden;2040;DG;dg a;;Jørn    Bjaanes;*43
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;Ingen galopp ;Disk. galopp;10;Verdals Svarten;2040;DG;dg a;;Svein Ove    Wassberg;109
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;5;Auto;Ingen galopp ;Strøket;3;Hafell Storm;2040;;;;Geir    Gudmestad;0
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;1;4;Red Lane;2040;2:35,7;16,3a;16000;Atle    Erga;223
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;2;9;Charming Boom Bay (DK);2040;2:35,8;16,4a;8000;Pål    Buer;114
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;3;6;Maksi Lady;2040;2:35,8;16,4a;5000;Dag-Sveinung    Dalen;277
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;4;5;Ivo Baldwin (NL);2040;2:35,8;16,4a;4000;Svein Ove    Wassberg;*33
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;5;2;Sober Sam;2040;2:36,1;16,5a;3000;Rune    Wiig;44
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;6;8;Call the Judge (S);2040;2:36,1;16,5a;3000;Stine    Lode;145
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;7;10;Cliff Hydrup;2040;2:36,1;16,5a;2000;Tom    Erga;174
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;0;1;Super Talisman;2040;2:36,3;16,6a;;Thomas Sverre    Karlsen;442
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;0;11;Lucky;2040;2:37,4;17,2a;;Tor Leiv    Gudmestad;638
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;Disk. galopp;3;Golden Dooleys;2040;DG;dg a;;Geir    Mikkelsen;49
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;6;Auto;Ingen galopp ;Disk. galopp;7;van der Meulen;2040;DG;dg a;;Bjørn    Steine;52
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;Ingen galopp ;1;7;Erga Prinsen;2040;3:01,1;28,8a;16000;Per Arvid    Erga;102
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;Ingen galopp ;2;9;Nordli Lyn;2040;3:01,3;28,9a;8000;Gunleif    Tollefsen;114
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;Ingen galopp ;3;10;Vimse Sindre;2040;3:02,0;29,2a;5000;Thea    Vatne;158
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;galopp;4;3;Kolnes Borken;2040;3:02,2;29,3arg;4000;Rune    Wiig;*26
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;Ingen galopp ;5;11;Tåga Prinsen (S);2040;3:02,3;29,4a;3000;Geir    Gudmestad;49
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;Ingen galopp ;6;2;Åse Mai;2040;3:02,4;29,4a;3000;Johan Kringeland    Eriksen;114
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;galopp;7;5;Karmøy Frøya;2040;3:03,4;29,9ag;2000;Atle    Erga;222
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;Ingen galopp ;0;4;Verdals Annett;2040;3:03,6;30,0a;;Svein Ove    Wassberg;349
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;galopp;0;6;Årdals Kine;2040;3:06,4;31,4ag;;Tom    Erga;329
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;galopp;0;1;Verdals Tyren;2040;3:06,7;31,5ag;;Thomas Sverre    Karlsen;525
+Resultater    -  Forus Travbane  -  22.10.2019; 41000; 2040;7;Auto;Ingen galopp ;Disk. galopp;8;Vimse Stine;2040;DG;dg a;;Dag-Sveinung    Dalen;47
+Resultater    -  Forus Travbane  -  22.10.2019; 47500; 2040;8;Volte;Ingen galopp ;1;4;Flytman;2060;3:21,1;37,6;20000;Odd Kåre    Selliken;*31
+Resultater    -  Forus Travbane  -  22.10.2019; 47500; 2040;8;Volte;galopp;2;1;Honannas Trolljeger;2040;3:21,3;38,7 g;10000;Tom    Erga;*31
+Resultater    -  Forus Travbane  -  22.10.2019; 47500; 2040;8;Volte;Ingen galopp ;3;5;Verdals Susi;2060;3:21,9;38,0;7000;Thomas Sverre    Karlsen;148
+Resultater    -  Forus Travbane  -  22.10.2019; 47500; 2040;8;Volte;galopp;4;8;Sanna Ø.K.;2080;3:23,0;37,6 g;4000;Morten    Erga;104
+Resultater    -  Forus Travbane  -  22.10.2019; 47500; 2040;8;Volte;Ingen galopp ;5;9;Rymodin;2080;3:23,1;37,6;3500;Bjørn    Steine;52
+Resultater    -  Forus Travbane  -  22.10.2019; 47500; 2040;8;Volte;Ingen galopp ;6;7;Jær Prinsen;2080;3:23,3;37,7;3000;Jørn    Bjaanes;55
+Resultater    -  Forus Travbane  -  22.10.2019; 47500; 2040;8;Volte;Ingen galopp ;Disk. galopp;3;Stjernefaksi;2060;DG;dg;;Evy Anita    Nordbustad;124
+Resultater    -  Forus Travbane  -  22.10.2019; 47500; 2040;8;Volte;Ingen galopp ;Strøket;2;Vingårds Elvira;2060;;;;Rune    Wiig;
+Resultater    -  Forus Travbane  -  22.10.2019; 47500; 2040;8;Volte;Ingen galopp ;Strøket;6;Nesvik Balder;2080;;;;Torleif    Sør-Reime;
+Resultater    -  Forus Travbane  -  22.10.2019; 0; 2040;8;Volte;galopp;;1;Lucky For You;2040;3:06,1;31,2 g;;Tor Leiv    Gudmestad;B
+Resultater    -  Forus Travbane  -  22.10.2019; 0; 2040;8;Volte;Ingen galopp ;;2;Theon;2060;3:47,3;50,3;;Gunleif    Tollefsen;B
+Resultater    -  Forus Travbane  -  22.10.2019; 0; 2040;8;Volte;galopp;;3;Åsspik;2060;3:50,3;51,8 g;;Tormod    Gudmestad;B
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;1;1;Åsaoline;2100;3:04,2;27,7a;24000;Hans Wilhelm    Storås;521
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;2;12;Kolbu Kæsj;2100;3:04,2;27,7a;12000;Magnus Teien    Gundersen;66
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;3;5;Eilert;2100;3:04,3;27,8a;8000;Jan Rune    Gaustad;205
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;4;11;T.M. Stjerna;2100;3:04,5;27,9a;5000;Tom Erik    Solberg;123
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;5;6;Faste Jerva;2100;3:04,5;27,9a;3500;Cato    Antonsen;167
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;6;3;Huseby Snuppa;2100;3:04,7;28,0a;3000;Gunnar    Austevoll;119
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;0;10;Stjerne Åsa;2100;3:05,4;28,3a;;Ragnhild    Sveen;824
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;0;8;Rive Rodin;2100;3:05,4;28,3a;;Gøran    Antonsen;197
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;0;7;Reinfaks;2100;3:08,3;29,7a;;Josefine    Eilertsen;465
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;0;4;Hønn Spik;2100;3:08,9;30,0a;;Olav    Mikkelborg;52
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;0;2;Vetla Vinna;2100;3:12,7;31,8a;;Arnt-Sverre    Røren;698
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 2100;1;Auto;Ingen galopp ;Disk. galopp;9;Hilton Molander;2100;DG;dg a;;Espen A.    Schem;*19
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;Ingen galopp ;1;5;Icarus B.R.;2100;2:36,9;14,7a;40000;Hans Chr.    Holm;75
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;Ingen galopp ;2;4;Samantha Frecel;2100;2:37,0;14,8a;20000;Geir    Mikkelsen;223
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;Ingen galopp ;3;1;Call Me Fox;2100;2:37,4;15,0a;14000;Åsbjørn    Tengsareid;*25
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;Ingen galopp ;4;8;Ian B.R.;2100;2:37,7;15,1a;10000;Ole Johan    Østre;104
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;Ingen galopp ;5;7;J.T.'s Kiwi;2100;2:38,1;15,3a;6000;Herman R.    Tvedt;136
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;Ingen galopp ;6;9;High Hopes;2100;2:39,0;15,7a;5000;Eirik    Høitomt;62
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;Ingen galopp ;7;3;Proud Design;2100;2:39,4;15,9a;5000;Lars Anvar    Kolle;672
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;Ingen galopp ;8;11;R.M.G. Dancing Queen;2100;2:41,3;16,8a;5000;Per Oleg    Midtfjeld;522
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;galopp;0;2;Burning Love E.P.;2100;2:41,3;16,8ag;;Tom Erik    Solberg;35
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;Ingen galopp ;Disk. galopp;10;Gone Dancing;2100;DG;dg a;;Kai    Johansen;248
+Resultater    -  Bjerke Travbane  -  23.10.2019; 105000; 2100;2;Auto;Ingen galopp ;Strøket;6;Fidanza;2100;;;;Dag-Sveinung    Dalen;0
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;Ingen galopp ;1;1;Hauan Mina;2140;3:06,1;27,0;20000;Eirik    Høitomt;51
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;Ingen galopp ;2;11;Å.M. Luna;2160;3:09,2;27,6;10000;Dag-Sveinung    Dalen;46
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;Ingen galopp ;3;7;Haugestad Gabrielle;2160;3:11,4;28,6;7000;Geir    Flåten;*22
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;Ingen galopp ;4;4;Runi;2160;3:13,2;29,4;5000;Eivind    Gravdal;507
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;galopp;5;8;Nattbris*;2160;3:15,1;30,3 g;3500;Per Oleg    Midtfjeld;360
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;Ingen galopp ;6;6;Furderud Stjerna;2160;3:16,0;30,7;3000;Bjørn    Humborstad;962
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;galopp;0;10;Mo Oda;2160;3:16,7;31,1 g;;Gunnar    Austevoll;363
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;galopp;0;3;Hejmie* (S);2140;3:18,9;32,9 g;;Hans-Olof    Lundgren;506
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;Ingen galopp ;0;2;Sikvelands Odine;2140;3:22,4;34,6;;Magnus Teien    Gundersen;228
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;galopp;Brutt løp;5;Il Dina;2160;;br g;;Per    Arvesen;1271
+Resultater    -  Bjerke Travbane  -  23.10.2019; 48500; 2140;3;Volte;Ingen galopp ;Disk. galopp;9;Frk. Sjur;2160;DG;dg;;Adrian Solberg    Akselsen;43
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;1;13;Åsrud Vilja;1680;2:18,5;22,4;30000;Kristian    Malmin;*17
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;2;10;Finnskog Oda;1660;2:18,7;23,6;15000;Henrik    Kulblik;400
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;3;2;Sundby Søss;1640;2:19,0;24,8;9000;Gunnar    Austevoll;157
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;4;3;Lille Olga;1640;2:19,4;25,0;6000;Eirik    Høitomt;126
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;5;6;Osen Expressa;1640;2:19,5;25,1;5000;Jan Roar    Mjølnerød;131
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;6;11;Hvatt Ronja;1660;2:19,6;24,1;4000;Herman R.    Tvedt;232
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;7;14;Arvesølv;1680;2:20,2;23,5;4000;Tom Erik    Solberg;580
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;galopp;0;5;Lykkje Embla;1640;2:20,3;25,5 g;;Kai    Johansen;49
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;galopp;0;7;Kagge Lina;1660;2:20,5;24,6 g;;Magnus Teien    Gundersen;626
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;0;1;Jillborka;1640;2:20,5;25,7;;Vidar    Hop;150
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;0;9;Haugestad Alma;1660;2:20,8;24,8;;Lars Anvar    Kolle;380
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;0;4;Miramill;1640;2:21,6;26,3;;Åsbjørn    Tengsareid;401
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;0;8;Voje Diva;1660;2:23,0;26,1;;Josefine    Eilertsen;444
+Resultater    -  Bjerke Travbane  -  23.10.2019; 73000; 1640;4;Volte;Ingen galopp ;Strøket;12;Troll Ronja;1660;;;;Ole Johan    Østre;
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;1;1;Bravo Revansch* (S);2100;2:38,2;15,3a;16000;Hans Jørgen    Eggen;*14
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;2;2;Unblemished Record (S);2100;2:38,3;15,4a;8000;Benjamin Strand    Andreassen;90
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;3;6;Flying Garbo* (S);2100;2:38,8;15,6a;5000;Hans-Olof    Lundgren;217
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;4;3;Orlando Fortis;2100;2:39,2;15,8a;4000;Henrik    Kulblik;226
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;5;10;Briansfantasie A.H.;2100;2:39,7;16,0a;3000;Lars    Raaum;215
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;6;4;Kinky Boots;2100;2:39,7;16,0a;3000;Truls S.    Glittum;112
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;0;5;L.A.'s Miss Universe;2100;2:40,0;16,2a;;Anette    Frønes;76
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;0;12;Difficult To Catch;2100;2:40,5;16,4a;;Kjetil    Lunde;403
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;0;11;Classic Dream;2100;2:40,7;16,5a;;Arild    Salte;444
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;0;7;Tommycin;2100;2:41,6;17,0a;;Kim    Mathisen;197
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;Strøket;8;Dansken (DK);2100;;;;Thomas    Ellefsen;0
+Resultater    -  Bjerke Travbane  -  23.10.2019; 39000; 2100;5;Auto;Ingen galopp ;Strøket;9;Lastmanstanding;2100;;;;Amanda    Robertsen;0
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;1;5;Nad Al Sheba;1609;1:57,4;13,0a;24000;Tom Erik    Solberg;89
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;2;2;Katie Mae;1609;1:57,5;13,0a;12000;Gunnar    Austevoll;*33
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;3;12;Nora Noark;1609;1:57,6;13,1a;8000;Hans Chr.    Holm;280
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;4;10;Dreamy Queen;1609;1:57,9;13,3a;5000;Helene    Kolle;150
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;5;4;May Lane;1609;1:58,0;13,3a;3500;Herman R.    Tvedt;162
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;6;6;Towanda's Classic;1609;1:58,2;13,5a;3000;Kristian    Malmin;261
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;0;8;Graceland E.P.;1609;1:58,4;13,6a;;Lars Anvar    Kolle;166
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;0;3;Xita Lavec (S);1609;1:58,6;13,7a;;Olav    Mikkelborg;77
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;0;11;Glennis Attack (DE);1609;1:58,7;13,8a;;Ole Johan    Østre;303
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;0;1;Galaxy W. (NL);1609;1:58,9;13,9a;;Dag-Sveinung    Dalen;112
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;Disk. galopp;7;Aida Mae;1609;DG;dg a;;Eirik    Høitomt;39
+Resultater    -  Bjerke Travbane  -  23.10.2019; 55500; 1609;6;Auto;Ingen galopp ;Disk. galopp;9;Denali;1609;DG;dg a;;Åsbjørn    Tengsareid;149
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;1;3;Massive Speed;2100;2:33,1;12,9a;30000;Åsbjørn    Tengsareid;198
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;2;4;Delicious Dream;2100;2:33,1;12,9a;15000;Lars Anvar    Kolle;137
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;3;10;Make Me;2100;2:34,3;13,5a;9000;Tom Erik    Solberg;270
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;4;7;Mikkel H.R.;2100;2:34,9;13,8a;6000;Magnus Teien    Gundersen;80
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;5;5;Mira Prawo;2100;2:34,9;13,8a;5000;Dag-Sveinung    Dalen;73
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;6;11;Into The Sun;2100;2:34,9;13,8a;4000;Cato    Antonsen;516
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;0;2;Next Game;2100;2:35,1;13,9a;;Hans Chr.    Holm;448
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;0;8;Dream Builder;2100;2:36,6;14,6a;;Gunnar    Austevoll;292
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;0;1;Red Shankly R.S.;2100;2:36,7;14,6a;;Geir    Mikkelsen;*31
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;0;6;Lady Lara;2100;2:36,8;14,7a;;Vidar    Hop;34
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;0;12;Categorical*;2100;2:37,0;14,8a;;Jonas    Moberg;179
+Resultater    -  Bjerke Travbane  -  23.10.2019; 69000; 2100;7;Auto;Ingen galopp ;Disk. passgang;9;Miracle Tile;2100;DP;dp a;;Kristian    Malmin;105
+Resultater    -  Bjerke Travbane  -  23.10.2019; 52500; 2100;8;Auto;Ingen galopp ;1;5;B.S. Gold;2100;2:39,6;16,0a;24000;Herman R.    Tvedt;*20
+Resultater    -  Bjerke Travbane  -  23.10.2019; 52500; 2100;8;Auto;Ingen galopp ;2;6;Pastor Lucas;2100;2:39,9;16,1a;12000;Tom    Horpestad;105
+Resultater    -  Bjerke Travbane  -  23.10.2019; 52500; 2100;8;Auto;Ingen galopp ;3;2;Turbo Lins;2100;2:40,6;16,5a;8000;Eirik    Høitomt;58
+Resultater    -  Bjerke Travbane  -  23.10.2019; 52500; 2100;8;Auto;Ingen galopp ;4;4;Nonesuch Genius;2100;2:40,7;16,5a;5000;Lars Anvar    Kolle;109
+Resultater    -  Bjerke Travbane  -  23.10.2019; 52500; 2100;8;Auto;Ingen galopp ;5;3;L'ideal Lavec;2100;2:41,4;16,9a;3500;Gunnar    Austevoll;173
+Resultater    -  Bjerke Travbane  -  23.10.2019; 52500; 2100;8;Auto;Ingen galopp ;0;8;Blue Gift;2100;2:41,8;17,0a;;Vidar    Hop;309
+Resultater    -  Bjerke Travbane  -  23.10.2019; 52500; 2100;8;Auto;galopp;0;1;My Oh My;2100;2:44,8;18,5ag;;Ole Johan    Østre;108
+Resultater    -  Bjerke Travbane  -  23.10.2019; 52500; 2100;8;Auto;Ingen galopp ;Disk. galopp;7;Excellent Maltin;2100;DG;dg a;;Åsbjørn    Tengsareid;42
+Resultater    -  Bjerke Travbane  -  23.10.2019; 0; 1640;8;Volte;Ingen galopp ;;1;Jozefina B.R.;1640;2:20,4;25,6;;Ole Johan    Østre;B
+Resultater    -  Bjerke Travbane  -  23.10.2019; 0; 1640;8;Volte;Ingen galopp ;;2;Troll Kaxa;1660;2:55,7;45,8;;Espen A.    Schem;B
+Resultater    -  Bjerke Travbane  -  23.10.2019; 0; 2140;8;Volte;Ingen galopp ;N;1;G.G. Anna;2140;3:23,5;35,1 r;;Erik    Killingmo;N
+Resultater    -  Bjerke Travbane  -  23.10.2019; 0; 2140;8;Volte;Ingen galopp ;P;2;Monster Merete (S);2140;3:52,5;48,6;;Ole Johan    Østre;P
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;Ingen galopp ;1;1;Lykkje Svenn;2100;3:17,8;34,2;12000;Dag-Sveinung    Dalen;54
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;Ingen galopp ;2;6;Rinde Thorvald;2100;3:18,4;34,5;6000;Eirik    Høitomt;*15
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;Ingen galopp ;3;9;M.E. Oda*;2120;3:18,6;33,7;4000;Per Anders    Thuresson;677
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;galopp;4;10;Langlands Balder;2120;3:19,2;34,0 g;3000;Kristian    Malmin;195
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;Ingen galopp ;5;4;Egge Mo'n;2100;3:19,5;35,0;2000;Åsbjørn    Tengsareid;74
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;Ingen galopp ;6;8;Maisol;2120;3:21,1;34,9;2000;Øyvind    Ruttenborg;473
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;galopp;7;11;Alta Faksa;2120;3:21,3;35,0 g;2000;Per Oleg    Midtfjeld;370
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;galopp;8;2;Norax Teddy;2100;3:21,4;35,9 g;2000;Connie    Engebråthen;779
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;galopp;0;12;Skar Lukas;2120;3:21,5;35,0 g;;Gunnar    Austevoll;188
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;galopp;0;7;Sørdal Faksa;2120;3:21,9;35,2 rg;;Johan Herbjørn    Undem;704
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;Ingen galopp ;0;13;Sisseline;2120;3:22,2;35,4;;Christina    Kjenner;1410
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;Ingen galopp ;0;14;Tullefaksa H.M.;2120;3:22,4;35,5;;Jimmy    Karlsson;1180
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;galopp;0;5;Neslands Jerven;2100;3:28,5;39,3 g;;Herman R.    Tvedt;189
+Resultater    -  Drammen Travbane  -  24.10.2019; 33000; 2100;1;Volte;Ingen galopp ;Disk. galopp;3;Dag Per;2100;DG;dg;;Vidar    Hop;231
+Resultater    -  Drammen Travbane  -  24.10.2019; 27000; 2100;2;Auto;Ingen galopp ;1;5;Be My Love* (S);2100;2:45,1;18,6a;12000;Åsbjørn    Tengsareid;28
+Resultater    -  Drammen Travbane  -  24.10.2019; 27000; 2100;2;Auto;Ingen galopp ;2;6;Sassy May;2100;2:46,0;19,0a;6000;Trond    Gjervan;54
+Resultater    -  Drammen Travbane  -  24.10.2019; 27000; 2100;2;Auto;Ingen galopp ;3;3;Easy Best (DE);2100;2:46,6;19,3a;4000;Joakim    Hansen;*23
+Resultater    -  Drammen Travbane  -  24.10.2019; 27000; 2100;2;Auto;Ingen galopp ;4;4;Easy Credit;2100;2:49,2;20,6a;3000;Åge    Rønningen;202
+Resultater    -  Drammen Travbane  -  24.10.2019; 27000; 2100;2;Auto;Ingen galopp ;5;2;Miss Judy* (S);2100;2:49,5;20,7a;2000;Per Anders    Thuresson;273
+Resultater    -  Drammen Travbane  -  24.10.2019; 27000; 2100;2;Auto;Ingen galopp ;Disk. galopp;1;Beverlyhills Vicky;2100;DG;dg a;;Bengt    Solberg;49
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;Ingen galopp ;1;7;Primero Greentown;1700;2:09,2;16,0a;12000;Per Oleg    Midtfjeld;41
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;Ingen galopp ;2;5;Sidonette Sid;1700;2:10,2;16,6a;6000;Vidar    Hop;31
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;Ingen galopp ;3;3;Opal Sunshine;1700;2:10,9;17,0a;4000;Olav    Mikkelborg;490
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;Ingen galopp ;4;4;O.M. Ebony (S);1700;2:11,2;17,2a;3000;Knut Arne    Ødegaard;148
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;Ingen galopp ;5;8;Mr. Fantasy;1700;2:11,3;17,2a;2000;Dag-Sveinung    Dalen;164
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;Ingen galopp ;6;11;Effi's Wonder;1700;2:12,0;17,6a;2000;Gunnar    Austevoll;490
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;galopp;7;10;Cashless;1700;2:12,3;17,8ag;2000;Lars Fredrik    Kolle;*28
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;Ingen galopp ;0;2;Sandra's Boy Resa;1700;2:12,3;17,8a;;Eirik    Høitomt;166
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;Ingen galopp ;0;1;Inka Rolls;1700;2:16,5;20,3a;;Asbjørn    Wright;417
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;Ingen galopp ;0;9;Arya;1700;2:17,3;20,8ar;;Anne Grete    Rasmussen;562
+Resultater    -  Drammen Travbane  -  24.10.2019; 31000; 1700;3;Auto;galopp;0;6;State of Indiana (S);1700;2:17,8;21,1ag;;Mina    Amundsen;138
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;Ingen galopp ;1;2;Nume Bris;1700;2:35,4;31,4a;14000;Ernst-Petter    Knutsen;*22
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;Ingen galopp ;2;9;Vinn Erle;1700;2:36,7;32,2a;7000;Øyvind    Ruttenborg;796
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;galopp;3;8;Madde;1700;2:37,2;32,5ag;5000;Hans Chr.    Holm;160
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;Ingen galopp ;4;10;Maris Rappfot;1700;2:37,9;32,9a;3500;Jan Martin    Bjerring;340
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;Ingen galopp ;5;6;Party Løve;1700;2:38,3;33,1a;3000;Adrian Solberg    Akselsen;410
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;Ingen galopp ;6;4;Tangen Bjørg;1700;2:38,4;33,2a;3000;Eirik    Høitomt;33
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;galopp;7;12;Spang Lotta;1700;2:38,8;33,4ag;3000;Vidar    Hop;155
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;galopp;0;1;Nuvre Faks;1700;2:39,3;33,7ag;;Dag-Sveinung    Dalen;75
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;galopp;0;11;Odins Zamurai;1700;2:39,8;34,0ag;;Tanja    Johansen;471
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;galopp;0;5;Løvefaks;1700;2:41,5;35,0ag;;Knut Arne    Ødegaard;76
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;galopp;0;3;Holen Mai;1700;2:45,0;37,1arg;;Anita Valstad    Hagmann;425
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 1700;4;Auto;Ingen galopp ;Strøket;7;Voje Faksa;1700;;;;Lars Anvar    Kolle;
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;1;4;Millglow;2100;2:41,0;16,7a;14000;Kristine    Kvasnes;310
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;2;7;Carmen Division;2100;2:41,0;16,7a;7000;Lars Anvar    Kolle;241
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;3;1;J.T.'s Moneypenny;2100;2:41,2;16,8a;5000;Joakim    Hansen;94
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;4;3;Johnny Boy F. (US);2100;2:42,0;17,1a;3500;Dag-Sveinung    Dalen;387
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;5;8;Hazil Boko (S);2100;2:42,0;17,1a;3000;Eirik    Høitomt;*12
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;6;9;Andre Rev' Point;2100;2:42,4;17,3a;3000;Gunnar    Austevoll;604
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;7;6;Two To Tango;2100;2:42,6;17,4a;3000;Åsbjørn    Tengsareid;83
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;0;12;Tiria Jet (IT);2100;2:42,7;17,5a;;Maren    Øyo;501
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;0;10;Alcantara Beech* (S);2100;2:42,7;17,5a;;Vidar    Hop;290
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;0;2;Kind Of Magic;2100;2:43,0;17,6a;;Vemund Madsen    Drolsum;769
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;Ingen galopp ;0;5;Exit River (S);2100;2:43,2;17,7a;;Anita Valstad    Hagmann;829
+Resultater    -  Drammen Travbane  -  24.10.2019; 38500; 2100;5;Auto;galopp;0;11;Armani Flamingo (DK);2100;2:43,6;17,9ag;;Per Oleg    Midtfjeld;541
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;1;6;Boynton (S);2100;2:38,3;15,4a;14000;Vidar    Hop;462
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;2;12;Dan Mølgård (DK);2100;2:39,3;15,9a;7000;Eirik    Høitomt;*18
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;3;11;New Talisman;2100;2:39,4;15,9a;5000;Hans Chr.    Holm;142
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;4;5;N.Y. Maaemo;2100;2:39,4;15,9a;3500;Per Oleg    Midtfjeld;513
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;5;2;Maestro;2100;2:39,7;16,0a;3000;Åsbjørn    Tengsareid;69
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;6;3;Elvis Ruda (S);2100;2:39,7;16,0a;3000;Lars Anvar    Kolle;606
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;0;4;Rock The Boat;2100;2:41,9;17,1a;;Gunnar    Austevoll;113
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;0;10;Pegasus Dotcom;2100;2:42,0;17,1a;;Frode Karl    Hansen;1107
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;0;9;Rasken Q.C. (S);2100;2:42,9;17,6a;;Dag-Sveinung    Dalen;579
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;0;8;Rocky Rich;2100;2:43,4;17,8a;;Kristine    Kvasnes;30
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;Strøket;1;El Rey;2100;;;;Hans Wilhelm    Storås;0
+Resultater    -  Drammen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;Strøket;7;Legacy;2100;;;;Herman R.    Tvedt;0
+Resultater    -  Drammen Travbane  -  24.10.2019; 0; 2100;6;Volte;Ingen galopp ;P;1;Goeie Gozer (NL);2100;2:45,0;18,6;;Gunnar    Austevoll;P
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 29000; 2100;1;Volte;Ingen galopp ;1;3;Moi Diva;2100;3:19,6;35,0;10000;Vidar    Tjomsland;*20
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 29000; 2100;1;Volte;Ingen galopp ;2;6;Bertegull;2100;3:20,4;35,4;5000;Åsbjørn    Tengsareid;175
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 29000; 2100;1;Volte;Ingen galopp ;3;10;Sølv Faks;2100;3:24,0;37,1;3500;Johan Herbjørn    Undem;209
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 29000; 2100;1;Volte;galopp;4;9;Finseth Martinius;2100;3:25,7;38,0 g;2500;Dag-Sveinung    Dalen;78
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 29000; 2100;1;Volte;galopp;5;4;Engene May;2100;3:27,1;38,6 g;2000;Arild    Berås;328
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 29000; 2100;1;Volte;galopp;6;7;Dag Pernille;2100;3:27,6;38,9 g;2000;Eini S.    Linn;162
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 29000; 2100;1;Volte;Ingen galopp ;7;5;Slått Stjernen;2100;3:29,3;39,7;2000;Vidar    Hop;108
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 29000; 2100;1;Volte;galopp;8;8;Birk Philip;2100;3:38,9;44,2 g;2000;Asbjørn    Wright;289
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 29000; 2100;1;Volte;Ingen galopp ;Disk. galopp;1;Frivoll Faksa;2100;DG;dg;;Eirik    Høitomt;48
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 29000; 2100;1;Volte;Ingen galopp ;Disk. galopp;2;Tronmin;2100;DG;dg;;Knut Arne    Ødegaard;101
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 39000; 2100;2;Auto;Ingen galopp ;1;9;Haugestad Arne;2100;3:10,1;30,5a;16000;Louise Vebostad    Trudvang;*17
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 39000; 2100;2;Auto;Ingen galopp ;2;2;Turbofaksen;2100;3:10,9;30,9a;8000;Josefine    Eilertsen;84
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 39000; 2100;2;Auto;Ingen galopp ;3;1;Songe Mai;2100;3:12,7;31,8a;5000;Amanda    Robertsen;82
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 39000; 2100;2;Auto;Ingen galopp ;4;6;Åspe Prinsen;2100;3:14,9;32,8a;4000;Martine    Finsand;91
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 39000; 2100;2;Auto;Ingen galopp ;5;8;Vikson;2100;3:15,3;33,0a;3000;Malin    Berås;131
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 39000; 2100;2;Auto;Ingen galopp ;6;5;Faksen U.N.;2100;3:17,7;34,1a;3000;Inga    Lamvik;257
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 39000; 2100;2;Auto;Ingen galopp ;0;4;Fjeldbaus;2100;3:18,3;34,4ar;;Hanna    Herbjørnrød;386
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 39000; 2100;2;Auto;Ingen galopp ;Disk. galopp;3;Jerkeld Frøya;2100;DG;dg a;;Heidi    Bjørntvedt;322
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 39000; 2100;2;Auto;Ingen galopp ;Disk. galopp;7;Vik Jet;2100;DG;dg ar;;Helene    Kolle;64
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 36000; 2100;3;Volte;Ingen galopp ;1;5;S.K.'s Mystic Titan;2120;2:39,1;15,0;16000;Tom Erik    Solberg;*15
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 36000; 2100;3;Volte;Ingen galopp ;2;2;Sugar Road (S);2100;2:39,7;16,0;8000;Åsbjørn    Tengsareid;64
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 36000; 2100;3;Volte;Ingen galopp ;3;7;King Royal;2120;2:40,9;15,9;5000;Josefine    Eilertsen;572
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 36000; 2100;3;Volte;Ingen galopp ;4;6;Bernardo Halbak;2120;2:41,0;15,9;4000;Hans Chr.    Holm;453
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 36000; 2100;3;Volte;Ingen galopp ;5;9;Seabreeze Ås (US);2120;2:41,7;16,3;3000;Gunnar    Austevoll;397
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 36000; 2100;3;Volte;galopp;0;1;Gigolo N.L. (NL);2100;2:43,3;17,8 g;;Eirik    Høitomt;59
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 36000; 2100;3;Volte;Ingen galopp ;0;4;Bolt Action;2120;2:44,1;17,4;;Lars Anvar    Kolle;256
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 36000; 2100;3;Volte;Ingen galopp ;Disk. galopp;3;Whatsoflying S.S.;2120;DG;dg;;Vidar    Tjomsland;56
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 36000; 2100;3;Volte;Ingen galopp ;Strøket;8;Falcon Dragon (DE);2120;;;;Marius    Høitomt;0
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;Ingen galopp ;1;7;Letthegamebegin;2100;2:47,1;19,6a;12000;Eirik    Høitomt;43
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;Ingen galopp ;2;11;Tib Roxanne;2100;2:47,1;19,6a;6000;Vidar    Hop;63
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;Ingen galopp ;3;6;Miss Speedy Dillon;2100;2:47,2;19,6a;4000;Johan Herbjørn    Undem;164
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;Ingen galopp ;4;2;Sweet Nona;2100;2:48,3;20,1a;3000;Åsbjørn    Tengsareid;*30
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;Ingen galopp ;5;10;John;2100;2:48,5;20,2a;2000;Per Kr.    Klemmetsen;376
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;Ingen galopp ;6;5;Miss Degrassi;2100;2:49,0;20,5a;2000;Dag-Sveinung    Dalen;96
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;Ingen galopp ;7;4;Moen Thor;2100;2:49,2;20,6a;2000;Gunnar    Austevoll;110
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;Ingen galopp ;0;8;Amibuckaroonews O.S.;2100;2:49,4;20,7a;;Katarina    Østerholt;202
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;Ingen galopp ;0;9;Blazing Volo;2100;2:49,5;20,7a;;Hans Even    Andersen;499
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;galopp;0;1;Ultima Ecus (DE);2100;2:49,9;20,9ag;;Ove Bakkevold    Reime;82
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 31000; 2100;4;Auto;galopp;0;3;Queen M.;2100;2:50,1;21,0ag;;Marius    Høitomt;153
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;5;Volte;Ingen galopp ;1;5;Esperanza Trunoise (FR);2120;2:46,9;18,7;14000;Vidar    Hop;*19
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;5;Volte;Ingen galopp ;2;1;Donato Gilbak (DK);2100;2:47,0;19,5;7000;Gøran    Antonsen;27
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;5;Volte;Ingen galopp ;3;8;Like No Other;2120;2:47,7;19,1;5000;Dag-Sveinung    Dalen;148
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;5;Volte;Ingen galopp ;4;7;Nicky Me;2120;2:47,9;19,2;3500;Eirik    Høitomt;618
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;5;Volte;Ingen galopp ;5;3;Cayman Bee (DK);2120;2:48,0;19,2;3000;Lars Anvar    Kolle;55
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;5;Volte;Ingen galopp ;6;6;Sonador R.M.;2120;2:48,2;19,3;3000;Tom Erik    Solberg;316
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;5;Volte;Ingen galopp ;0;2;Linsybella;2100;2:48,3;20,1;;Adrian Solberg    Akselsen;204
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;5;Volte;Ingen galopp ;0;9;Mystic Lisa;2120;2:48,3;19,4;;Nils Olav    Holm;447
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;5;Volte;Ingen galopp ;Disk. galopp;4;Louis d'Estino;2120;DG;dg;;Anders    Andersen;671
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;1;8;Goodman B.R.;2100;2:40,2;16,3a;14000;Simen Bjørbæk    Jessen;78
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;2;6;Cici Moseby (DK);2100;2:40,8;16,6a;7000;Herman R.    Tvedt;*27
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;3;9;Lins Above;2100;2:41,4;16,9a;5000;Hans Chr.    Holm;77
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;4;1;Harley Quinn;2100;2:41,5;16,9a;3500;Åsbjørn    Tengsareid;63
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;5;10;S.J.'s All In All;2100;2:41,7;17,0a;3000;Tom Erik    Solberg;206
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;6;2;Olympic Ouzo;2100;2:43,1;17,7a;3000;Nils Olav    Holm;286
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;0;4;Concoler;2100;2:44,0;18,1a;;Lars Anvar    Kolle;279
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;0;5;Lost Genius;2100;2:49,2;20,6a;;Vidar    Hop;372
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;6;Auto;galopp;0;3;Wunder's Caviar (S);2100;2:49,6;20,8ag;;Dag-Sveinung    Dalen;66
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;6;Auto;Ingen galopp ;Disk. galopp;7;Hillarys Revenge;2100;;dg a;;Eirik    Høitomt;55
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;1;1;Kul Stilling;2100;3:07,9;29,5a;14000;Eivind    Gravdal;102
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;2;8;Sitje Rapp;2100;3:08,0;29,5a;7000;Johan Herbjørn    Undem;144
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;3;2;A.H. Svarten;2100;3:08,3;29,7a;5000;Lars Anvar    Kolle;566
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;4;10;Hof Blesen;2100;3:09,0;30,0a;3500;Gunnar    Austevoll;47
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;5;5;Bare Christina;2100;3:09,0;30,0a;3000;Vidar    Hop;205
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;6;7;Horgen Gaupa;2100;3:09,4;30,2a;3000;Jan Martin    Bjerring;112
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;0;3;Lykkje Idunn;2100;3:10,0;30,5a;;Ernst-Petter    Knutsen;113
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;0;6;Vesle Moi;2100;3:10,2;30,6a;;Dag-Sveinung    Dalen;186
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;0;11;Sager'n;2100;3:10,3;30,6a;;Eirik    Høitomt;66
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;Disk. galopp;9;Trons Vilje;2100;DG;dg a;;Knut Arne    Ødegaard;*23
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;Strøket;4;Aner Ikke;2100;;;;Åsbjørn    Tengsareid;0
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 35500; 2100;7;Auto;Ingen galopp ;Strøket;12;Salte Gleipen;2100;;;;Herman R.    Tvedt;0
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;Ingen galopp ;1;5;Tenk Nå Dina;2100;3:01,8;26,6a;14000;Simen Bjørbæk    Jessen;*21
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;Ingen galopp ;2;4;Åls Faksen;2100;3:02,5;26,9a;7000;Dag-Sveinung    Dalen;92
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;Ingen galopp ;3;8;Flammen Julie;2100;3:03,7;27,5a;5000;Johan Herbjørn    Undem;169
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;Ingen galopp ;4;2;Kleppe Elfina;2100;3:04,3;27,8a;3500;Åsbjørn    Tengsareid;50
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;Ingen galopp ;5;3;Brenne Major;2100;3:04,3;27,8a;3000;Eivind    Gravdal;274
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;Ingen galopp ;6;11;Førlands Odin;2100;3:04,6;27,9a;3000;Per-Eivind    Tjordal;50
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;galopp;7;10;Missingmyr Stjernen;2100;3:09,5;30,2ag;3000;Bjørn    Strømnes;487
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;galopp;0;6;Ådne Kommandør;2100;3:11,5;31,2ag;;Malene    Berdalen;659
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;Ingen galopp ;Brutt løp;12;Engas Odelsjente;2100;;br a;;Anette    Frønes;191
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;Ingen galopp ;Disk. galopp;1;Sølv Gutt;2100;DG;dg a;;Tom Erik    Solberg;189
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;Ingen galopp ;Disk. galopp;9;Løve Lomen;2100;DG;dg a;;Lars Anvar    Kolle;255
+Resultater    -  Klosterskogen Travbane  -  24.10.2019; 38500; 2100;8;Auto;Ingen galopp ;Strøket;7;Philip Rex;2100;;;;Eirik    Høitomt;0
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;Ingen galopp ;1;11;Given (US);1609;1:59,4;14,2a;16000;Magnus Teien    Gundersen;*15
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;Ingen galopp ;2;7;Pearl Street;1609;1:59,4;14,2a;8000;Vemund Madsen    Drolsum;131
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;Ingen galopp ;3;6;L.J.'s Sonador;1609;1:59,6;14,3a;5000;Adrian Solberg    Akselsen;240
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;Ingen galopp ;4;5;Welcome;1609;1:59,8;14,5a;4000;Erlend    Rennesvik;110
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;Ingen galopp ;5;2;Lady Revenue;1609;2:00,0;14,6a;3000;Johan Kringeland    Eriksen;296
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;Ingen galopp ;6;9;Logical Nora;1609;2:00,6;15,0a;3000;Mats-Andre    Rasmussen;700
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;Ingen galopp ;7;8;C.C. Siri;1609;2:01,0;15,2a;2000;Jørn Ivar    Eilertsen;629
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;galopp;8;10;Photoshoot O.S.;1609;2:05,5;18,0ag;2000;Josefine    Eilertsen;762
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;Ingen galopp ;Disk. galopp;1;Exploitmyday;1609;DG;dg a;;Lars Fredrik    Kolle;95
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;Ingen galopp ;Disk. galopp;3;Happy N.L. (NL);1609;DG;dg a;;Helene    Kolle;411
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 43000; 1609;1;Auto;Ingen galopp ;Disk. galopp;4;Hearthammer;1609;DG;dg a;;Joakim    Rasmussen;49
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;2;Auto;Ingen galopp ;1;9;Lættis;2100;3:07,2;29,1a;14000;Adrian Solberg    Akselsen;59
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;2;Auto;Ingen galopp ;2;10;Magnums Philiokus;2100;3:07,2;29,1a;7000;Knut Arne    Ødegaard;*27
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;2;Auto;Ingen galopp ;3;3;Kos Brage;2100;3:07,6;29,3a;5000;Simen Bjørbæk    Jessen;36
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;2;Auto;Ingen galopp ;4;7;Vår Oda;2100;3:11,1;31,0a;3500;Vidar    Hop;86
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;2;Auto;galopp;5;2;Skiberose;2100;3:14,4;32,6ag;3000;Lars Fredrik    Kolle;577
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;2;Auto;galopp;6;1;Arrogant;2100;3:14,5;32,6ag;3000;Eivind    Gravdal;95
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;2;Auto;galopp;0;8;Brage Jerven;2100;3:14,6;32,7ag;;Erlend    Rennesvik;125
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;2;Auto;Ingen galopp ;0;6;Goroso Lusianna;2100;3:15,5;33,1a;;Odd Arne    Sagholen;601
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;2;Auto;galopp;0;5;Brutal;2100;3:22,5;36,4ag;;Per Ivar    Bendiksen;113
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;2;Auto;Ingen galopp ;Disk. galopp;4;Direktør Ribe;2100;DG;dg a;;Ove Sigmund    Gjeruldsen;583
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;Ingen galopp ;1;4;N.O. Drøm;2120;3:19,4;34,1;12000;Nils Olav    Holm;206
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;Ingen galopp ;2;2;Gjøndvinn;2100;3:19,4;35,0;6000;Ingolf    Herbjørnrød;141
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;Ingen galopp ;3;3;Cuba Stormvinna;2120;3:19,9;34,3;4000;Annette    Stordal;764
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;Ingen galopp ;4;1;Ask Loke;2100;3:20,1;35,3;3000;Geir    Flåten;57
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;Ingen galopp ;5;11;Storm Sirius;2120;3:21,7;35,1;2000;Lars Anvar    Kolle;500
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;Ingen galopp ;6;8;Nygaards Odin;2120;3:21,9;35,2;2000;Knut Arne    Ødegaard;144
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;Ingen galopp ;7;10;Maifrøkna;2120;3:22,3;35,4;2000;Connie    Engebråthen;744
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;galopp;8;14;Sellanrå;2120;3:22,3;35,4 g;2000;Åsbjørn    Tengsareid;227
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;galopp;0;13;Veels Pålle;2120;3:23,2;35,8 g;;Erlend    Rennesvik;538
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;galopp;0;7;Min Klementin;2120;3:24,1;36,3 g;;Anette    Frønes;*22
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;Ingen galopp ;0;12;Hvalstad Tilla;2120;3:25,4;36,9;;Eirik    Høitomt;631
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;galopp;0;9;Lome Diva;2120;3:25,6;37,0 g;;Dag-Sveinung    Dalen;151
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;galopp;Brutt løp;6;Ylvjerven;2120;;br g;;Tommy    Fløysand;374
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;3;Volte;Ingen galopp ;Disk. galopp;5;Egge Stjerna;2120;DG;dg;;Per Oleg    Midtfjeld;43
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;Ingen galopp ;1;8;Diesolo de la Lune (FR);2100;2:37,8;15,1a;14000;Åsbjørn    Tengsareid;62
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;Ingen galopp ;2;2;Delicious Babe (DK);2100;2:38,4;15,4a;7000;Lars Anvar    Kolle;75
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;Ingen galopp ;3;9;Countrygirl;2100;2:39,4;15,9a;5000;Herman R.    Tvedt;421
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;Ingen galopp ;4;3;Bronzini;2100;2:39,6;16,0a;3500;Frode    Hamre;51
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;Ingen galopp ;5;10;One Shot Only (S);2100;2:39,7;16,0a;3000;Gunnar    Austevoll;173
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;Ingen galopp ;6;1;Select Step (S);2100;2:39,9;16,1a;3000;Knut Arne    Ødegaard;188
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;Ingen galopp ;0;5;Odd Special Girl;2100;2:40,0;16,2a;;Simen Bjørbæk    Jessen;188
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;Ingen galopp ;0;11;Maxwell P.S. (DE);2100;2:40,5;16,4a;;Eirik    Høitomt;293
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;Ingen galopp ;0;12;Classy Revelation;2100;2:40,7;16,5a;;Ole Johan    Østre;595
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;galopp;0;6;Folsom Cash;2100;2:40,8;16,6ag;;Helena    Meland;428
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;galopp;0;4;Glazier's Vici;2100;2:52,1;22,0ag;;Dag-Sveinung    Dalen;303
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 35500; 2100;4;Auto;Ingen galopp ;Disk. galopp;7;Montego Bay;2100;DG;dg a;;Vidar    Hop;*21
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;Ingen galopp ;1;2;Kos Frigga;2100;3:06,6;28,9;16000;Ole Johan    Østre;214
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;Ingen galopp ;2;11;Trø Yr;2140;3:07,4;27,6;8000;Åsbjørn    Tengsareid;79
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;Ingen galopp ;3;6;Rive Ruska;2120;3:07,8;28,6;5000;Dag-Sveinung    Dalen;*25
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;Ingen galopp ;4;10;Areta Mollyn;2140;3:08,2;27,9;4000;Adrian Solberg    Akselsen;196
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;galopp;5;1;Mo Lykke;2100;3:08,6;29,8 g;3000;Joakim    Rasmussen;99
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;Ingen galopp ;6;12;Torpa Oda;2140;3:08,7;28,2;3000;Gunnar    Austevoll;44
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;Ingen galopp ;0;5;Land Maria;2100;3:10,6;30,8;;Ove Sigmund    Gjeruldsen;464
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;Ingen galopp ;0;4;Gaupen Nina;2100;3:10,7;30,8;;Hans Even    Andersen;87
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;galopp;0;8;Jerkla O.K.;2140;3:11,4;29,4 g;;Tommy    Fløysand;348
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;Ingen galopp ;0;9;Langaard Siv;2140;3:12,1;29,8;;Anette    Frønes;217
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;Ingen galopp ;Disk. galopp;3;H.M. Urd;2100;DG;dg;;Geir    Nordbotten;406
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 2100;5;Volte;Ingen galopp ;Disk. galopp;7;Lome Perla;2120;DG;dg;;Lars Anvar    Kolle;126
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;1;8;S.M.K. Silvousplait;1609;1:56,2;12,2a;16000;Adrian Solberg    Akselsen;57
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;2;11;Amazing Dream;1609;1:56,7;12,5a;8000;Erlend    Rennesvik;270
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;3;6;Kamperhaugs Dina;1609;1:56,9;12,7a;5000;Per Oleg    Midtfjeld;50
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;4;4;Amazing Case;1609;1:56,9;12,7a;4000;Frode    Hamre;148
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;5;1;Handsome Hank;1609;1:57,0;12,7a;3000;Dag-Sveinung    Dalen;189
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;5;12;Hez So Perfect;1609;1:57,0;12,7a;3000;Lars Anvar    Kolle;972
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;0;2;Royaldoodle (S);1609;1:57,7;13,2a;;Gunnar    Austevoll;698
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;0;3;Ursula Horse (IT);1609;1:57,7;13,2a;;Åsbjørn    Tengsareid;*15
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;0;7;Trespasser (S);1609;1:57,9;13,3a;;Ole Johan    Østre;770
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;0;5;Zenit Sun;1609;1:58,7;13,8a;;Eirik    Høitomt;812
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;0;9;Lighthouse West;1609;1:59,6;14,3a;;Vidar    Hop;972
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 39000; 1609;6;Auto;Ingen galopp ;0;10;Marchetti;1609;2:00,1;14,6a;;Hans Wilhelm    Storås;393
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 36000; 2100;7;Volte;Ingen galopp ;1;2;Spang Ole;2120;3:04,4;27,0;16000;Vidar    Hop;*12
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 36000; 2100;7;Volte;Ingen galopp ;2;4;Vital Vinter;2120;3:04,5;27,0;8000;Eirik    Høitomt;184
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 36000; 2100;7;Volte;Ingen galopp ;3;5;Solva;2120;3:07,9;28,6;5000;Pål    Sem;150
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 36000; 2100;7;Volte;Ingen galopp ;4;6;Lome Frikk;2140;3:08,6;28,1;4000;Åsbjørn    Tengsareid;166
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 36000; 2100;7;Volte;Ingen galopp ;5;7;Jarand;2140;3:09,2;28,4;3000;Josefine    Eilertsen;108
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 36000; 2100;7;Volte;Ingen galopp ;0;3;Bork Oda;2120;3:09,8;29,5;;Erlend    Rennesvik;139
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 36000; 2100;7;Volte;Ingen galopp ;0;8;Eldmia;2140;3:19,1;33,0;;Ingolf    Herbjørnrød;308
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 36000; 2100;7;Volte;Ingen galopp ;Brutt løp;1;Eldvina;2120;;br;;Gunnar    Austevoll;156
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;Ingen galopp ;1;7;Eva Gardenia (DK);2100;2:45,4;18,8;12000;Lars Anvar    Kolle;30
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;Ingen galopp ;2;2;Lucky Man;2100;2:45,5;18,8;6000;Gunnar    Austevoll;141
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;galopp;3;4;Best of Brands (S);2100;2:47,6;19,8 g;4000;Eirik    Høitomt;*19
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;Ingen galopp ;4;9;Hoochie;2100;2:48,8;20,4;3000;Marius    Høitomt;528
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;Ingen galopp ;5;11;Toscana;2100;2:50,0;21,0;2000;Karin    Hauge;600
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;galopp;6;5;Fata Morgana;2100;2:50,4;21,1 g;2000;Johan Kringeland    Eriksen;265
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;galopp;7;8;Fearless Beauty;2100;2:50,6;21,2 g;2000;Vidar    Hop;508
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;galopp;8;10;Gabby's Coktail;2100;2:53,1;22,4 g;2000;Per Oleg    Midtfjeld;154
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;galopp;0;12;Messina;2100;2:53,3;22,5 g;;Geir    Flåten;614
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;Ingen galopp ;Disk. galopp;3;Hedda B.R.;2100;DG;dg;;Åsbjørn    Tengsareid;170
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;Ingen galopp ;Disk. galopp;6;Hard One;2100;DG;dg;;Magnus Teien    Gundersen;83
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 33000; 2100;8;Volte;Ingen galopp ;Strøket;1;Prodino Mykla;2100;;;;Simen Bjørbæk    Jessen;0
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 0; 2100;8;Volte;Ingen galopp ;;1;Pretty Devil;2100;3:12,2;31,5;;Geir    Flåten;B
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 0; 2100;8;Volte;Ingen galopp ;;2;Tyra Blesa (S);2120;4:10,8;58,3;;Vidar    Hop;N
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 0; 2100;8;Volte;galopp;P;1;Mountain Valdimir;2100;2:53,2;22,5 g;;Connie    Engebråthen;P
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 0; 2100;8;Volte;Ingen galopp ;Disk. galopp prøveløp;2;Foxy Salt;2100;DGPP;dgpp;;Åsbjørn    Tengsareid;N
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 0; 2100;8;Volte;Ingen galopp ;Strøket;3;Gurifax;2120;;;;Kristine Holt    Børresen;
+Resultater    -  Jarlsberg Travbane  -  25.10.2019; 0; 2100;8;Volte;Ingen galopp ;Strøket;4;Arverud Bonus;2120;;;;Knut Arne    Ødegaard;
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;Ingen galopp ;1;2;Hardhaus;2120;3:14,1;31,6;16000;Geir    Gudmestad;*26
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;Ingen galopp ;2;1;Smygens Lille Siss;2100;3:14,2;32,5;8000;Ove    Wassberg;194
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;Ingen galopp ;3;6;Bovis Maia;2120;3:14,3;31,7;5000;Bjørn    Steine;65
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;Ingen galopp ;4;7;Årdals Muså;2120;3:14,5;31,7;4000;Jan Erik    Landaas;186
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;Ingen galopp ;5;5;Lustra Spretten;2120;3:15,2;32,1;3000;Anne-Serine Moe    Reigstad;421
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;galopp;6;4;Gompen Gullet;2120;3:15,7;32,3 g;3000;Svein Ove    Wassberg;216
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;galopp;7;9;Mo Fakso;2140;3:16,0;31,6 g;2000;Åsbjørn    Tengsareid;29
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;Ingen galopp ;0;12;Sture Neon;2140;3:16,1;31,6;;Øyvind    Austevoll;221
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;galopp;0;10;Stjerne Jenta;2140;3:21,9;34,3 g;;Harald Inge    Hagen;604
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;Ingen galopp ;0;11;Rams Sindre;2140;3:22,6;34,7;;Lars Tore    Hauge;126
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;galopp;0;3;Bondhus Prinsen;2120;3:22,9;35,7 g;;Herman R.    Tvedt;714
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;1;Volte;Ingen galopp ;Disk. galopp;8;Åse Mai;2120;DG;dg;;Rolf    Tvedt;181
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;Ingen galopp ;1;12;Silversmith A.C. (S);2100;2:41,4;16,9a;16000;Svein Ove    Wassberg;33
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;Ingen galopp ;2;5;Bombastica (DK);2100;2:41,6;17,0a;8000;Håkon    Håvardstun;85
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;Ingen galopp ;3;8;Respect (S);2100;2:45,2;18,7a;5000;Daniel    Kvamsdal;223
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;Ingen galopp ;4;9;Miss Italiano T.Y.;2100;2:45,3;18,7a;4000;Lars Tore    Hauge;592
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;galopp;5;2;Getreadyfortakeoff (DE);2100;2:45,6;18,9ag;3000;Claus    Olsen;126
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;Ingen galopp ;6;1;Eternal Flame D.K. (DK);2100;2:45,7;18,9a;3000;Dag-Sveinung    Dalen;165
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;Ingen galopp ;7;6;Scot Ganymede (S);2100;2:46,0;19,0a;2000;Ove    Wassberg;45
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;Ingen galopp ;0;4;Mountain Yankee;2100;2:48,0;20,0a;;Bjørn    Steine;643
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;Ingen galopp ;0;10;Cecilie Halbak;2100;2:48,8;20,4a;;Øyvind    Austevoll;285
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;galopp;0;7;Vici Celavie;2100;2:57,7;24,6ag;;Åsbjørn    Tengsareid;*28
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;Ingen galopp ;Disk. galopp;3;Fighting Odiwa;2100;DG;dg a;;Øyvind    Hegdal;599
+Resultater    -  Bergen Travpark  -  26.10.2019; 41000; 2100;2;Auto;Ingen galopp ;Strøket;11;Biwa;2100;;;;Harald Inge    Hagen;0
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;1;1;Best Of All* (DE);2600;3:20,1;17,0;60000;Åsbjørn    Tengsareid;*28
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;2;12;Marvellous Tooma (S);2640;3:20,9;16,1;30000;Frode    Hamre;42
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;3;5;Rio Division;2600;3:21,1;17,3;20000;Vidar    Hop;76
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;4;7;Panama Rags;2600;3:21,3;17,4;12000;Noralf P.    Brækken;228
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;5;4;Mama's Real Deal;2600;3:21,3;17,4;8000;Joakim    Hansen;141
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;6;13;John's Boy;2640;3:24,8;17,6;5000;Geir    Gudmestad;712
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;7;15;Roberto D.K. (DK);2660;3:25,5;17,3;5000;Herman R.    Tvedt;606
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;0;11;Swinging Face (DK);2640;3:25,7;17,9;;Jan Erik    Landaas;450
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;galopp;0;14;American Cheque (US);2660;3:25,7;17,3 g;;Svein Ove    Wassberg;252
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;galopp;0;9;Millrain;2640;3:26,1;18,1 g;;Erik Hagseth    Hordvik;652
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;0;10;Maxundalex (DE);2640;3:26,7;18,3;;Øyvind    Austevoll;839
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;0;3;Harmke Schermer (NL);2600;3:27,0;19,6;;Magnus Teien    Gundersen;141
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;Disk. galopp;6;Highlander N.L. (NL);2600;DG;dg;;Ove    Wassberg;66
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;Disk. galopp;8;Broad Vision;2620;DG;dg;;Adrian Solberg    Akselsen;125
+Resultater    -  Bergen Travpark  -  26.10.2019; 140000; 2600;3;Volte;Ingen galopp ;Strøket;2;Watchdog (S);2600;;;;Dag-Sveinung    Dalen;0
+Resultater    -  Bergen Travpark  -  26.10.2019; 150000; 2100;4;Volte;Ingen galopp ;1;5;Sylv Odin;2120;3:06,8;28,1;70000;Åsbjørn    Tengsareid;67
+Resultater    -  Bergen Travpark  -  26.10.2019; 150000; 2100;4;Volte;galopp;2;10;Alfa Betty;2160;3:08,4;27,2 g;35000;Gunnar    Austevoll;193
+Resultater    -  Bergen Travpark  -  26.10.2019; 150000; 2100;4;Volte;Ingen galopp ;3;9;Storm Teddy;2160;3:08,6;27,3;20000;Arve    Sjoner;58
+Resultater    -  Bergen Travpark  -  26.10.2019; 150000; 2100;4;Volte;Ingen galopp ;4;8;Tom Odin;2140;3:10,2;28,9;12000;Ove    Wassberg;179
+Resultater    -  Bergen Travpark  -  26.10.2019; 150000; 2100;4;Volte;Ingen galopp ;5;4;Felix T.H.;2120;3:12,0;30,6;8000;Vidar    Hop;130
+Resultater    -  Bergen Travpark  -  26.10.2019; 150000; 2100;4;Volte;galopp;6;6;Bjørkevarg;2120;3:12,9;31,0 g;5000;Odd    Storetvedt;103
+Resultater    -  Bergen Travpark  -  26.10.2019; 150000; 2100;4;Volte;Ingen galopp ;0;3;Dag Frøya;2120;3:13,8;31,4;;Tore    Totland;726
+Resultater    -  Bergen Travpark  -  26.10.2019; 150000; 2100;4;Volte;Ingen galopp ;0;2;Ludvik;2120;3:19,5;34,1;;Herman R.    Tvedt;347
+Resultater    -  Bergen Travpark  -  26.10.2019; 150000; 2100;4;Volte;galopp;0;7;V.G. Prinsen;2140;3:23,5;35,1 g;;Svein Ove    Wassberg;47
+Resultater    -  Bergen Travpark  -  26.10.2019; 150000; 2100;4;Volte;Ingen galopp ;Disk. galopp;1;Fantomet;2100;DG;dg;;Tom Erik    Solberg;*25
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;Ingen galopp ;1;5;Orlando Classic;2100;2:39,0;15,7a;50000;Kristian    Malmin;*25
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;Ingen galopp ;2;9;Jailhouse Banker;2100;2:39,5;16,0a;25000;Roar    Hop;473
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;Ingen galopp ;3;11;Velvatter (US);2100;2:39,8;16,1a;15000;Frode    Hamre;49
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;Ingen galopp ;4;12;Exciting Chip (S);2100;2:40,2;16,3a;10000;Åsbjørn    Tengsareid;679
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;Ingen galopp ;5;10;Draco Braz Minto;2100;2:40,2;16,3a;6000;Vidar    Hop;519
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;Ingen galopp ;6;3;Matchplay S.S.;2100;2:40,4;16,4a;4000;Oddvar    Mæland;102
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;galopp;0;4;Global Undefeded (S);2100;2:40,9;16,6ag;;Svein Ove    Wassberg;134
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;Ingen galopp ;0;2;Tahiti Lady (S);2100;2:41,0;16,7a;;Tom Erik    Solberg;426
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;galopp;0;6;Lucky Kentucky;2100;2:42,4;17,3ag;;Dag-Sveinung    Dalen;135
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;Ingen galopp ;0;8;Babycat (DK);2100;2:52,9;22,3a;;Herman R.    Tvedt;245
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;Ingen galopp ;Disk. galopp;1;Brage Hindø (DK);2100;DG;dg a;;Magnus Teien    Gundersen;33
+Resultater    -  Bergen Travpark  -  26.10.2019; 110000; 2100;5;Auto;Ingen galopp ;Strøket;7;High Into the Sky (US);2100;;;;Adrian Solberg    Akselsen;0
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 2100;6;Auto;Ingen galopp ;1;1;Gigant Invalley;2100;2:33,9;13,3a;125000;Gunnar    Austevoll;*25
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 2100;6;Auto;Ingen galopp ;2;9;M.S. Triple J. (US);2100;2:34,0;13,3a;60000;Frode    Hamre;79
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 2100;6;Auto;Ingen galopp ;3;2;Always On Time;2100;2:34,3;13,5a;30000;Tom Erik    Solberg;94
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 2100;6;Auto;Ingen galopp ;4;10;Hickothepooh;2100;2:34,8;13,7a;20000;Vidar    Hop;28
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 2100;6;Auto;Ingen galopp ;5;3;Pebbe Simoni (DK);2100;2:35,1;13,9a;10000;Herman R.    Tvedt;183
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 2100;6;Auto;Ingen galopp ;0;4;Kick Off Classic;2100;2:35,4;14,0a;;Kristian    Malmin;161
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 2100;6;Auto;Ingen galopp ;0;8;Outstanding O.;2100;2:36,1;14,3a;;Øyvind    Hegdal;144
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 2100;6;Auto;galopp;0;6;I Am The Tiger;2100;2:37,9;15,2ag;;Dag-Sveinung    Dalen;180
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 2100;6;Auto;Ingen galopp ;0;7;Rafolo (DK);2100;2:41,3;16,8a;;Magnus Teien    Gundersen;414
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 2100;6;Auto;Ingen galopp ;Strøket;5;Cash Okay;2100;;;;Erlend    Rennesvik;0
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;1;2;Pøylefanten;2100;3:04,6;27,9;40000;Øyvind    Hegdal;53
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;2;5;S.G. Jerv Blesa;2120;3:05,9;27,7;20000;Svein Ove    Wassberg;343
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;3;11;Todin;2140;3:06,0;26,9;12000;Odd    Storetvedt;274
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;4;12;Valle Max;2140;3:06,5;27,1;8000;Herman R.    Tvedt;98
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;5;3;Alve Frøkna;2120;3:06,9;28,2;5000;Lars Tore    Hauge;134
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;6;14;Vertigo Dominant;2140;3:07,1;27,4 r;4000;Bjørn    Steine;*17
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;7;10;Dag Jo;2140;3:07,6;27,7;4000;Øyvind    Austevoll;256
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;0;13;Åspe Mix;2140;3:07,8;27,8;;Åsbjørn    Skjæveland;85
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;0;6;Mynte Rasmus;2120;3:08,3;28,8;;Tore    Totland;274
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;0;4;Dæmro Svarten;2120;3:08,8;29,1;;Geir    Gudmestad;632
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;0;8;Nebbenes Friggi;2120;3:09,3;29,3;;Jan Erik    Landaas;484
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;0;9;Mos Lomen;2120;3:11,5;30,3;;Håkon    Håvardstun;1695
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;Ingen galopp ;0;7;Pytt Elden;2120;3:11,9;30,5;;Ole Johan    Ingebrigtsen;1491
+Resultater    -  Bergen Travpark  -  26.10.2019; 93000; 2100;7;Volte;galopp;Brutt løp;1;Julie;2100;;br g;;Åsbjørn    Tengsareid;743
+Resultater    -  Bergen Travpark  -  26.10.2019; 295000; 2100;8;Auto;Ingen galopp ;1;1;Golden Dream M.E.;2100;2:35,3;14,0a;150000;Noralf P.    Brækken;*24
+Resultater    -  Bergen Travpark  -  26.10.2019; 295000; 2100;8;Auto;Ingen galopp ;2;4;Admiral Knick;2100;2:35,8;14,2a;75000;Frode    Hamre;81
+Resultater    -  Bergen Travpark  -  26.10.2019; 295000; 2100;8;Auto;Ingen galopp ;3;3;Photo Fighter;2100;2:36,2;14,4a;35000;Bjørn    Duestad;117
+Resultater    -  Bergen Travpark  -  26.10.2019; 295000; 2100;8;Auto;Ingen galopp ;4;8;Iggy B.R.;2100;2:36,2;14,4a;20000;Geir Vegard    Gundersen;39
+Resultater    -  Bergen Travpark  -  26.10.2019; 295000; 2100;8;Auto;Ingen galopp ;5;9;Ivan B.R.;2100;2:37,1;14,8a;15000;Magnus Teien    Gundersen;76
+Resultater    -  Bergen Travpark  -  26.10.2019; 295000; 2100;8;Auto;Ingen galopp ;0;5;Chinetti;2100;2:37,8;15,1a;;Dag-Sveinung    Dalen;152
+Resultater    -  Bergen Travpark  -  26.10.2019; 295000; 2100;8;Auto;Ingen galopp ;0;6;Alpha Scarlet R.R.;2100;2:38,6;15,5a;;Kristian    Malmin;196
+Resultater    -  Bergen Travpark  -  26.10.2019; 295000; 2100;8;Auto;galopp;0;2;Vittoria B.;2100;2:47,3;19,7ag;;Svein Ove    Wassberg;221
+Resultater    -  Bergen Travpark  -  26.10.2019; 295000; 2100;8;Auto;Ingen galopp ;Brutt løp;7;Te Amo Corazon;2100;;br a;;Tom Erik    Solberg;109
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 1600;9;Auto;Ingen galopp ;1;6;Odd Herakles;1600;2:08,6;20,4a;125000;Tom Erik    Solberg;*16
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 1600;9;Auto;Ingen galopp ;2;2;Ulsrud Tea;1600;2:09,0;20,6a;60000;Svein Ove    Wassberg;38
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 1600;9;Auto;Ingen galopp ;3;5;Ingbest;1600;2:09,4;20,9a;30000;Frode    Hamre;74
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 1600;9;Auto;Ingen galopp ;4;9;Kleppe Slauren;1600;2:10,1;21,3a;20000;Kjetil    Djøseland;132
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 1600;9;Auto;galopp;5;8;Troll Solen;1600;2:10,4;21,5ag;10000;Magnus Teien    Gundersen;110
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 1600;9;Auto;Ingen galopp ;0;10;Ådne Odin;1600;2:12,0;22,5a;;Vidar    Hop;523
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 1600;9;Auto;Ingen galopp ;0;4;Vertigo Bjørn;1600;2:12,4;22,8a;;Håkon B.    Steine;610
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 1600;9;Auto;Ingen galopp ;0;1;Kleppe Fanden;1600;2:12,9;23,1a;;Åsbjørn    Tengsareid;381
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 1600;9;Auto;Ingen galopp ;0;3;Super Gullet;1600;2:15,2;24,5a;;Ove    Wassberg;348
+Resultater    -  Bergen Travpark  -  26.10.2019; 245000; 1600;9;Auto;Ingen galopp ;Strøket;7;Hellin Faxen;1600;;;;Dag-Sveinung    Dalen;0

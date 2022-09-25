@@ -1,0 +1,536 @@
+30101116;A Fair Friend;A Fair Fighter;Bjerke Travbane ;2019-09-04
+30098270;Above Classic;Coktail Above;Bjerke Travbane ;2019-09-25
+115859;Alfa Lina;Min Alfa;Bjerke Travbane ;2019-09-08
+115859;Alfa Lina;Min Alfa;Momarken Travbane ;2019-10-01
+30099050;Alfi Crown R.R.;Alfi Fortuna R.R.;Leangen Travbane ;2019-09-02
+30099050;Alfi Crown R.R.;Alfi Fortuna R.R.;Leangen Travbane ;2019-09-09
+30033666;Alita Speed;Selica Speed;Jarlsberg Travbane ;2019-09-13
+30065176;Alltid Ø.K.;Allnatt Ø.K.;Leangen Travbane ;2019-09-22
+30051178;Alm Begna;Alm Bella;Bjerke Travbane ;2019-10-09
+30065326;Alm Blanka;Alm Borka;Drammen Travbane ;2019-09-01
+30007656;Alm Herakles;Herakles;Jarlsberg Travbane ;2019-09-13
+122663;Alm Toledo;Alm Tove;Drammen Travbane ;2019-09-01
+30019138;Alsaker Mindi;Vinner Mindi;Jarlsberg Travbane ;2019-09-20
+30019138;Alsaker Mindi;Vinner Mindi;Jarlsberg Travbane ;2019-09-27
+30019138;Alsaker Mindi;Vinner Mindi;Jarlsberg Travbane ;2019-10-11
+127247;Alsaker Tyra;Skaffer Tyra;Biri Travbane ;2019-09-15
+127247;Alsaker Tyra;Skaffer Tyra;Leangen Travbane ;2019-09-09
+127247;Alsaker Tyra;Skaffer Tyra;Leangen Travbane ;2019-10-07
+30078900;Amatrice;Amatøren;Leangen Travbane ;2019-09-02
+30078900;Amatrice;Amatøren;Leangen Travbane ;2019-09-22
+30080195;Amazing Street;Diamond Street;Bjerke Travbane ;2019-09-08
+30080195;Amazing Street;Diamond Street;Momarken Travbane ;2019-10-01
+30113071;Among Hastrup;Bailey Hastrup (DK);Bjerke Travbane ;2019-10-16
+30113071;Among Hastrup;Bailey Hastrup (DK);Drammen Travbane ;2019-09-21
+30036215;Andy Nibs;Andy B.R.;Sørlandets Travpark ;2019-09-05
+30036215;Andy Nibs;Andy B.R.;Sørlandets Travpark ;2019-09-14
+30014160;Apollo Creed;Apollo Håleryd (S);Bjerke Travbane ;2019-09-25
+30082995;Art Grøa;Art Ljøska;Forus Travbane ;2019-09-10
+30077528;Ask Major;S.K.'s Ursa Major;Biri Travbane ;2019-10-12
+121242;Attached;Mack Attack;Forus Travbane ;2019-09-17
+121242;Attached;Mack Attack;Forus Travbane ;2019-09-24
+30081403;Baker;Maker;Biri Travbane ;2019-08-30
+30081403;Baker;Maker;Biri Travbane ;2019-09-15
+30022428;Balder Stjernen;Balder Stjerna;Jarlsberg Travbane ;2019-09-13
+30036226;Baltic On Line;Blue On Line;Leangen Travbane ;2019-09-02
+30036226;Baltic On Line;Blue On Line;Leangen Travbane ;2019-10-14
+112383;Barka Loma;Barka Elden;Forus Travbane ;2019-09-10
+112383;Barka Loma;Barka Elden;Forus Travbane ;2019-10-15
+133981;Beak's Mr. Toby;Toby's Espresso;Bjerke Travbane ;2019-09-06
+133981;Beak's Mr. Toby;Toby's Espresso;Drammen Travbane ;2019-09-21
+30054413;Bekke Stjernen;Bekke Stjerna;Leangen Travbane ;2019-09-02
+30054413;Bekke Stjernen;Bekke Stjerna;Leangen Travbane ;2019-09-09
+30078417;Best of Brands;Best of Boszorg (NL);Jarlsberg Travbane ;2019-09-20
+30078417;Best of Brands;Best of Boszorg (NL);Jarlsberg Travbane ;2019-10-11
+30090014;Birk Flørt;Fløra;Momarken Travbane ;2019-09-03
+124250;Bjørnli Balto;Bjørnli Vilja;Biri Travbane ;2019-08-30
+124250;Bjørnli Balto;Bjørnli Vilja;Biri Travbane ;2019-09-15
+30026151;Black Beauty Line;Big Black Beauty;Leangen Travbane ;2019-09-09
+30051228;Borg Spik;Borg Frikk;Leangen Travbane ;2019-09-22
+30051228;Borg Spik;Borg Frikk;Leangen Travbane ;2019-09-28
+30051228;Borg Spik;Borg Frikk;Leangen Travbane ;2019-10-14
+30104575;Bragetulla;Øyertulla;Jarlsberg Travbane ;2019-06-12
+30067570;Breeders Superb;Dream Superb;Jarlsberg Travbane ;2019-09-13
+30098975;Brenne Bella;Brenne Blesa;Bjerke Travbane ;2019-09-25
+30098975;Brenne Berna;Brenne Blesa;Bjerke Travbane ;2019-09-08
+30098975;Brenne Berna;Brenne Blesa;Momarken Travbane ;2019-10-01
+128841;Brenne Brage;Brenne Bragd;Sørlandets Travpark ;2019-09-14
+30077794;Brenne Røn;Brenne Rødi;Bjerke Travbane ;2019-10-09
+30077794;Brenne Røn;Brenne Rødi;Momarken Travbane ;2019-10-01
+30021300;Braastad Gullet;Haugestad Gullet;Biri Travbane ;2019-08-30
+30021300;Braastad Gullet;Haugestad Gullet;Biri Travbane ;2019-09-15
+125828;Byske Philip;Briskeby Philip;Biri Travbane ;2019-10-12
+30012801;Bålsta Palema;Vanda Palema;Bjerke Travbane ;2019-09-08
+30012801;Bålsta Palema;Vanda Palema;Bjerke Travbane ;2019-09-25
+30079401;Båtsmann;Aasmann;Jarlsberg Travbane ;2019-09-13
+30078232;C.C. Best Lucky;C.C. Lucky;Bjerke Travbane ;2019-10-16
+131963;C.C. Eastside;C.C. Westside;Bjerke Travbane ;2019-09-25
+131963;C.C. Eastside;C.C. Westside;Bjerke Travbane ;2019-10-09
+131963;C.C. Eastside;C.C. Westside;Bjerke Travbane ;2019-10-16
+127379;Chelsea;Kelsea;Jarlsberg Travbane ;2019-09-13
+127379;Chelsea;Kelsea;Jarlsberg Travbane ;2019-09-27
+30070731;Clerken;Don Clerk;Leangen Travbane ;2019-09-22
+30048939;Coeur De Lion;Coeur Photo (DE);Biri Travbane ;2019-08-30
+30048939;Coeur De Lion;Coeur Photo (DE);Biri Travbane ;2019-09-15
+127935;Color Blind;Harmony Colour;Momarken Travbane ;2019-10-01
+30025921;Color Blind;Winning Colors (DE);Drammen Travbane ;2019-09-01
+30091693;Come Victory;Come Vacation;Forus Travbane ;2019-10-15
+30084029;Designed Genius;Genius Commander;Bjerke Travbane ;2019-10-16
+30084029;Designed Genius;Genius Commander;Jarlsberg Travbane ;2019-09-13
+30084029;Designed Genius;Genius Commander;Klosterskogen Travbane ;2019-09-30
+30036218;Despacito Bonanza;Stein Bonanza;Leangen Travbane ;2019-09-09
+30088970;Diola;Fiola;Biri Travbane ;2019-08-30
+30104476;Diva Classic;Lesja Diva;Bjerke Travbane ;2019-09-04
+30104476;Diva Classic;Lesja Diva;Bjerke Travbane ;2019-09-25
+30085916;Divine Destiny;Destiny Morning;Bjerke Travbane ;2019-09-18
+30070731;Don Cash;Don Clerk;Bjerke Travbane ;2019-09-08
+30022193;Don Julian;Don Julio;Momarken Travbane ;2019-09-03
+30103816;Dona Af Sola;Dronning Af Sola;Jarlsberg Travbane ;2019-09-20
+128774;Dorpa;Torpa;Bjerke Travbane ;2019-09-25
+30088863;Double Genius;Fourty Genius;Forus Travbane ;2019-09-17
+30085255;Double Trouble E.P.;Soldier Boy E.P.;Forus Travbane ;2019-08-31
+30085255;Double Trouble E.P.;Soldier Boy E.P.;Forus Travbane ;2019-09-24
+30085255;Double Trouble E.P.;Soldier Boy E.P.;Forus Travbane ;2019-10-15
+30077999;Duke Esterel;Duke;Forus Travbane ;2019-09-17
+30105013;Easy Best;Easy Credit;Klosterskogen Travbane ;2019-09-23
+30105013;Easy Best;Easy Credit;Klosterskogen Travbane ;2019-10-13
+30095331;Edson Boko (NL);Edson Boko;  Biri Travbane ;2019-06-14
+30095331;Edson Boko (NL);Edson Boko;  Jarlsberg Travbane ;2019-05-31
+30095331;Edson Boko (NL);Edson Boko;  Momarken Travbane ;2019-06-29
+30095331;Edson Boko (NL);Edson Boko;  Sørlandets Travpark ;2019-05-12
+30060456;Egge Loke;Egge Elden;Biri Travbane ;2019-09-15
+30060456;Egge Loke;Egge Elden;Drammen Travbane ;2019-09-01
+30081144;Egge Stjerna;Egge Terna;Biri Travbane ;2019-09-15
+30081144;Egge Stjerna;Egge Terna;Drammen Travbane ;2019-09-26
+30081144;Egge Stjerna;Egge Terna;Momarken Travbane ;2019-10-08
+30025140;Eik Samida;Eik Lina;Leangen Travbane ;2019-09-09
+30075069;Eikminn;Eikmann;Momarken Travbane ;2019-09-03
+132680;El Dorado;Dorado;Leangen Travbane ;2019-09-02
+132680;El Dorado;Dorado;Leangen Travbane ;2019-09-09
+132680;El Dorado;Dorado;Leangen Travbane ;2019-10-14
+30021073;El Hermano;El Gigant;Leangen Travbane ;2019-09-22
+30054817;Eldborken;Idborken;Bjerke Travbane ;2019-09-08
+30021862;Eldorado Gracieux;Eldorado Sund;Drammen Travbane ;2019-09-01
+30021862;Eldorado Gracieux;Eldorado Sund;Jarlsberg Travbane ;2019-09-20
+30021862;Eldorado Gracieux;Eldorado Sund;Klosterskogen Travbane ;2019-09-30
+30021862;Eldorado Gracieux;Eldorado Sund;Momarken Travbane ;2019-10-08
+30053499;Embakasi Sun;Embakasi (S);Jarlsberg Travbane ;2019-10-11
+30022960;Emma Frost;Frost;Forus Travbane ;2019-10-15
+30022960;Emma Frost;Frost;Sørlandets Travpark ;2019-09-14
+30010129;Engene May;Engene Svarten;Jarlsberg Travbane ;2019-10-11
+30010129;Engene May;Engene Svarten;Klosterskogen Travbane ;2019-09-23
+30037882;Enjoy's Top Gun;Hot Gun;Bjerke Travbane ;2019-09-19
+30055680;Eros M.L.;Romero M.L.;Momarken Travbane ;2019-09-16
+30055680;Eros M.L.;Romero M.L.;Momarken Travbane ;2019-10-01
+127660;Esperanza Trunoise;Espeset Julie;Klosterskogen Travbane ;2019-09-30
+127660;Esperanza Trunoise;Espeset Julie;Klosterskogen Travbane ;2019-10-13
+30108020;Ethiopia;Ethiopia River (NL);Sørlandets Travpark ;2019-09-05
+30108020;Ethiopia River (NL);Ethiopia River;;1899-12-30
+30108020;Ethiopia River (NL);Ethiopia River;  Jarlsberg Travbane ;2019-05-18
+30107261;Euro D.K.;Carol D.K. (DK);Jarlsberg Travbane ;2019-09-13
+30103570;Eva Gardenia;Eva Maria;Jarlsberg Travbane ;2019-10-11
+30101959;Exit River (S);Exit River;  Momarken Travbane ;2019-05-28
+30066262;Fagerås Kongen;Erga Kongen;Biri Travbane ;2019-09-15
+30066262;Fagerås Kongen;Erga Kongen;Bjerke Travbane ;2019-09-25
+30035922;Faksi Lyna;Maksi Lane;Leangen Travbane ;2019-09-09
+30107197;Farah Diba River (NL);Farah Diba River;  Biri Travbane ;2019-05-19
+30107197;Farah Diba River (NL);Farah Diba River;Bjerke Travbane ;2019-06-09
+30107197;Farah Diba River (NL);Farah Diba River;Jarlsberg Travbane ;2019-07-04
+30024920;Fast Cash;Fast Knight;Bjerke Travbane ;2019-09-08
+30067951;Father Boah;Christopher Boko (S);Drammen Travbane ;2019-09-01
+30013827;Federico;Federer (US);Leangen Travbane ;2019-10-07
+30103674;First Red Green;First Express (DE);Momarken Travbane ;2019-10-01
+30035476;Fjell Faksen;Fjell Balder;Forus Travbane ;2019-08-31
+30035476;Fjell Faksen;Fjell Balder;Forus Travbane ;2019-09-10
+30082771;Florida;Florida Pershing;Momarken Travbane ;2019-09-03
+30104168;Flying Coktail M.J.;Flying Peanut M.J.;Drammen Travbane ;2019-09-01
+30104168;Flying Coktail M.J.;Flying Peanut M.J.;Jarlsberg Travbane ;2019-09-13
+129246;Forza Rapida;Forza Bella;Bjerke Travbane ;2019-09-07
+129246;Forza Rapida;Forza Bella;Bjerke Travbane ;2019-09-18
+129246;Forza Rapida;Forza Bella;Bjerke Travbane ;2019-10-09
+30088568;Free Flow;Free Million;Drammen Travbane ;2019-10-03
+30088568;Free Flow;Free Million;Jarlsberg Travbane ;2019-10-11
+116905;Frisli Tor;Frisli To Jo;Biri Travbane ;2019-09-15
+30061122;Frivoll Faksa;Troll Faksen;Sørlandets Travpark ;2019-10-06
+30054681;Frøken Lovise;Lasken Lovise;Jarlsberg Travbane ;2019-09-13
+30093254;Gabby's Coktail;Coktail's Hangover;Bjerke Travbane ;2019-09-25
+30093254;Gabby's Coktail;Coktail's Hangover;Bjerke Travbane ;2019-10-09
+30008865;Gangster Brage;Horgen Brage;Momarken Travbane ;2019-09-03
+30008865;Gangster Brage;Horgen Brage;Momarken Travbane ;2019-09-16
+30005473;Gangster'n;Brutter'n;Leangen Travbane ;2019-09-09
+30064077;Ginger Peachy;Princess Peach (DK);Biri Travbane ;2019-08-30
+30064077;Ginger Peachy;Princess Peach (DK);Biri Travbane ;2019-09-15
+30092676;Glade Tider;Glans Tider;Biri Travbane ;2019-10-12
+30092676;Glade Tider;Glans Tider;Klosterskogen Travbane ;2019-09-23
+30010138;Glamour Tilly T.E.;Cindy Glamour;Drammen Travbane ;2019-09-01
+30010138;Glamour Tilly T.E.;Cindy Glamour;Jarlsberg Travbane ;2019-09-20
+30019152;Glitrende Tider;Gode Tider;Bjerke Travbane ;2019-10-09
+30019152;Glitrende Tider;Gode Tider;Klosterskogen Travbane ;2019-09-23
+30019152;Glitrende Tider;Gode Tider;Klosterskogen Travbane ;2019-10-13
+119387;Gnist Embla;Engli Gnist;Drammen Travbane ;2019-09-01
+30046204;Goes All Magic;All Eyes On Me (S);Momarken Travbane ;2019-09-03
+30040386;Graffer;Graffiti;Biri Travbane ;2019-09-29
+30060676;Guldtopp;Guldfaksa;Leangen Travbane ;2019-10-14
+30065326;Gull Borka;Alm Borka;Momarken Travbane ;2019-09-03
+30065326;Gull Borka;Alm Borka;Momarken Travbane ;2019-09-16
+132591;Gylden Tussi;Gylden Tina;Momarken Travbane ;2019-10-01
+30022966;H.M. Lovely Comers;H.M. Norne Rose;Bjerke Travbane ;2019-09-08
+30022966;H.M. Lovely Comers;H.M. Norne Rose;Momarken Travbane ;2019-10-01
+30022873;H.P. Roadrunner;Prince H.P.;Leangen Travbane ;2019-09-02
+30022873;H.P. Roadrunner;Prince H.P.;Leangen Travbane ;2019-10-07
+30087728;Hanse Knippa;Hanse Lita;Biri Travbane ;2019-09-15
+30100196;Hansen Halbak;Dancer Halbak;Bjerke Travbane ;2019-09-04
+126242;Happy Charming;Super Charming;Forus Travbane ;2019-10-15
+129173;Hassel Nora;Haukeli Nora;Jarlsberg Travbane ;2019-09-13
+30097394;Hauan Teddy;Hauan Odin;Biri Travbane ;2019-09-15
+108581;Haugestad Fjaler;Haugestad Svarten;Momarken Travbane ;2019-09-03
+108581;Haugestad Fjaler;Haugestad Svarten;Momarken Travbane ;2019-09-16
+108581;Haugestad Jannehelen;Haugestad Svarten;Momarken Travbane ;2019-09-03
+108581;Haugestad Jannehelen;Haugestad Svarten;Momarken Travbane ;2019-10-01
+30005179;Haugs Bella;Haugs Jenta;Drammen Travbane ;2019-10-10
+30005179;Haugs Bella;Haugs Jenta;Jarlsberg Travbane ;2019-09-27
+118432;Haugs Knekten;Haugs Gutten;Drammen Travbane ;2019-09-01
+127485;Heart Of Love;Melody Of Love;Bjerke Travbane ;2019-09-25
+130586;Helacs Theluji;Helacs Maya (S);Bjerke Travbane ;2019-09-19
+30098171;Hera B.R.;Heni B.R.;Leangen Travbane ;2019-09-22
+30098171;Hera B.R.;Heni B.R.;Leangen Travbane ;2019-10-07
+30104140;Hiawatha River;Amazona River;Bjerke Travbane ;2019-09-06
+30082484;Hodin;Modin;Forus Travbane ;2019-08-31
+30082484;Hodin;Modin;Forus Travbane ;2019-09-10
+30099170;Holter Oda;Sæter Oda;Bjerke Travbane ;2019-09-08
+30023113;Holy Talisman;Holy Mama O.;Forus Travbane ;2019-09-10
+30023113;Holy Talisman;Holy Mama O.;Forus Travbane ;2019-09-17
+30104621;Huseby Mikke;Huseby Minni;Bjerke Travbane ;2019-09-04
+30077368;Hvalstad Perla;Hvalstad Stjerna;Drammen Travbane ;2019-09-01
+30089133;Hvalstad Tilla;Hvalstad Tulla;Drammen Travbane ;2019-09-26
+30101017;I.D. Dancing;I.D. Entity;Jarlsberg Travbane ;2019-09-13
+30101017;I.D. Dancing;I.D. Entity;Klosterskogen Travbane ;2019-09-23
+132821;Imagine (DK);Imagine;Bjerke Travbane ;2019-05-29
+30101959;Indigo River;Exit River (S);Bjerke Travbane ;2019-09-04
+30104647;Iselin B.R.;Ian B.R.;Biri Travbane ;2019-09-15
+30112270;Ivo Baldwin;Floris Baldwin (NL);Forus Travbane ;2019-09-24
+30112270;Ivo Baldwin;Floris Baldwin (NL);Forus Travbane ;2019-10-15
+30098172;Jacson B.R.;Hilton B.R.;Leangen Travbane ;2019-10-07
+30099284;Jaipur B.R.;Hepburn B.R.;Momarken Travbane ;2019-10-08
+30006584;Janne Frecel;Janne;Bjerke Travbane ;2019-09-04
+30006584;Janne Frecel;Janne;Bjerke Travbane ;2019-09-18
+30104181;Jarreau B.R.;Icarus B.R.;Jarlsberg Travbane ;2019-09-13
+30097133;Je t'adore;Je T'aime Winner (S);Biri Travbane ;2019-08-30
+132085;Jens Elegance;Pine Elegance;Drammen Travbane ;2019-09-21
+132085;Jens Elegance;Pine Elegance;Klosterskogen Travbane ;2019-09-30
+30098172;Jocelyn B.R.;Hilton B.R.;Bjerke Travbane ;2019-10-16
+30098172;Jocelyn B.R.;Hilton B.R.;Momarken Travbane ;2019-09-03
+30069296;Joker Faks;Poker Faksa;Bjerke Travbane ;2019-10-02
+30099052;Jonathan Bank A.B.;Orphan Black;Bjerke Travbane ;2019-10-16
+30099052;Jonathan Bank A.B.;Orphan Black;Momarken Travbane ;2019-09-03
+30078610;Julita Express;Express Jetstar;Momarken Travbane ;2019-09-16
+30039443;Juni Jo;Juni Rosa;Biri Travbane ;2019-10-12
+30094867;Kamperhaugs Don;Kamperhaugs Dina;Momarken Travbane ;2019-09-03
+30094867;Kamperhaugs Don;Kamperhaugs Dina;Momarken Travbane ;2019-10-01
+129584;Karmøy Mars;Karmøy Mai;Forus Travbane ;2019-08-31
+129584;Karmøy Mars;Karmøy Mai;Forus Travbane ;2019-09-10
+30020012;Kattmar Faxa;Vår Faxa;Jarlsberg Travbane ;2019-09-13
+30049764;Kentucky Star;Global Kentucky (S);Bjerke Travbane ;2019-09-04
+30088410;Kiletora;Kiletor;Sørlandets Travpark ;2019-09-14
+30051711;Kinda Like'em;Like A Wind;Bjerke Travbane ;2019-09-19
+30051711;Kinda Like'em;Like A Wind;Momarken Travbane ;2019-10-08
+30077236;Kleppan Faks;Kleppan Tina;Momarken Travbane ;2019-09-03
+30069942;Kong Amok;Kong Valemon;Biri Travbane ;2019-09-15
+30088830;Kringlers Oda;Kringlers Odin;Bjerke Travbane ;2019-09-18
+30008414;Krokli Kongen;Flåli Kongen;Bjerke Travbane ;2019-10-09
+30008414;Krokli Kongen;Flåli Kongen;Drammen Travbane ;2019-09-26
+30008414;Krokli Kongen;Flåli Kongen;Klosterskogen Travbane ;2019-10-13
+130491;Lady Ann;Lady Ann Trotter;Bjerke Travbane ;2019-09-08
+30104898;Lady To Run;Run To You;Momarken Travbane ;2019-09-03
+123354;Laeskog Raija;Laeskog Ronja;Biri Travbane ;2019-08-30
+123354;Laeskog Raija;Laeskog Ronja;Bjerke Travbane ;2019-09-18
+123354;Laeskog Raija;Laeskog Ronja;Bjerke Travbane ;2019-10-02
+133346;L'agile;Fidel L.;Drammen Travbane ;2019-09-01
+133346;L'agile;Fidel L.;Jarlsberg Travbane ;2019-09-13
+133346;L'agile;Fidel L.;Jarlsberg Travbane ;2019-09-20
+30088612;Langlands Spika;Langlands Odin;Leangen Travbane ;2019-09-02
+30088612;Langlands Teddy;Langlands Odin;Bjerke Travbane ;2019-10-09
+30088612;Langlands Teddy;Langlands Odin;Klosterskogen Travbane ;2019-09-30
+30083515;Lannem Heidi;Lannem Henrik;Bjerke Travbane ;2019-10-09
+30083515;Lannem Heidi;Lannem Henrik;Drammen Travbane ;2019-09-26
+30083515;Lannem Heidi;Lannem Henrik;Momarken Travbane ;2019-09-03
+30037020;Lifestile;Lovestile;Bjerke Travbane ;2019-09-06
+30037020;Lifestile;Lovestile;Momarken Travbane ;2019-10-01
+110676;Lille Link;Euro Link;Klosterskogen Travbane ;2019-09-23
+30112329;Lucky For You;Stepping For You (S);Forus Travbane ;2019-09-10
+30103259;Lucky Queen Soa;Lucky Queen;Bjerke Travbane ;2019-09-08
+129767;Lykke Trolla;Gylden Trolla;Sørlandets Travpark ;2019-09-05
+30049078;Lykkje Tiril;Heikle Tiril;Forus Travbane ;2019-08-31
+30049078;Lykkje Tiril;Heikle Tiril;Forus Travbane ;2019-09-10
+128419;Lættis;B.B. Letti;Bjerke Travbane ;2019-09-06
+30083194;M.E. Oda;Dolly M.E.;Biri Travbane ;2019-08-30
+30083194;M.E. Oda;Dolly M.E.;Momarken Travbane ;2019-09-03
+30083194;M.E. Oda;Dolly M.E.;Momarken Travbane ;2019-09-16
+30078512;Magic Ken;Ken;Bjerke Travbane ;2019-09-04
+30054680;Magic Of Joy;Miracle Of Joy;Leangen Travbane ;2019-09-09
+30054680;Magic Of Joy;Miracle Of Joy;Leangen Travbane ;2019-09-28
+30053511;Mai Ella;Vertigo Ella;Forus Travbane ;2019-09-10
+30053511;Mai Ella;Vertigo Ella;Forus Travbane ;2019-09-17
+30053511;Mai Ella;Vertigo Ella;Forus Travbane ;2019-10-15
+132547;Maifrøkna;Kapfrøkna;Drammen Travbane ;2019-09-26
+132547;Maifrøkna;Kapfrøkna;Jarlsberg Travbane ;2019-09-13
+132547;Maifrøkna;Kapfrøkna;Jarlsberg Travbane ;2019-10-11
+123521;Maiglimra;Glimra;Leangen Travbane ;2019-10-07
+30011268;Makaroni;Makarov;Bjerke Travbane ;2019-09-04
+30088185;Malacrux;Malala;Sørlandets Travpark ;2019-09-05
+18031;Manihiki;Manita Girl;Biri Travbane ;2019-09-29
+18031;Manihiki;Manita Girl;Bjerke Travbane ;2019-10-16
+30066403;Marietta;Carretta;Bjerke Travbane ;2019-09-04
+30066403;Marietta;Carretta;Bjerke Travbane ;2019-09-25
+30066403;Marietta;Carretta;Drammen Travbane ;2019-10-10
+30091638;Marino D.V.;Vilja V.D. (S);Leangen Travbane ;2019-09-02
+30091638;Marino D.V.;Vilja V.D. (S);Leangen Travbane ;2019-09-22
+30091638;Marino D.V.;Vilja V.D. (S);Leangen Travbane ;2019-09-28
+30091638;Marino D.V.;Vilja V.D. (S);Leangen Travbane ;2019-10-07
+30091638;Marino D.V.;Vilja V.D. (S);Leangen Travbane ;2019-10-14
+133646;Matchplay S.S.;Global Interplay (S);Forus Travbane ;2019-09-17
+133646;Matchplay S.S.;Global Interplay (S);Sørlandets Travpark ;2019-09-14
+30008088;Mazarine;Tamarin;Jarlsberg Travbane ;2019-09-20
+30008088;Mazarine;Tamarin;Jarlsberg Travbane ;2019-10-11
+30079288;Mean Machine;Dean Martini R.S.;Leangen Travbane ;2019-09-09
+30117522;Merklin;Merkulov (S);Jarlsberg Travbane ;2019-09-13
+124192;Mia Mountain;Mountain Mohican;Leangen Travbane ;2019-09-09
+30055687;Mighty Star;Boggy Night Star;Klosterskogen Travbane ;2019-09-30
+30084301;Millmalou;Millmasai;Bjerke Travbane ;2019-09-18
+30084301;Millmalou;Millmasai;Drammen Travbane ;2019-09-01
+30088034;Min Klementin;Min Kuling;Jarlsberg Travbane ;2019-10-11
+30088034;Min Klementin;Min Kuling;Klosterskogen Travbane ;2019-09-23
+30008331;Mind The Gap;Snap The Gap;Momarken Travbane ;2019-09-03
+30008331;Mind The Gap;Snap The Gap;Momarken Travbane ;2019-09-16
+115469;Miss Sirius;Jonas Sirius;Momarken Travbane ;2019-09-16
+30068258;Mjølner Hera;Hera Jenta;Bjerke Travbane ;2019-09-04
+30035478;Mjølner Jærva;Hellin Jærva;Momarken Travbane ;2019-09-03
+120248;Mjølner Røder;Lund Røder;Momarken Travbane ;2019-09-03
+129228;Mjølner Vinnar;Portør Vinnar;Momarken Travbane ;2019-09-16
+30088905;Mocca Mirchi;Miss Mirchi;Jarlsberg Travbane ;2019-09-13
+30088905;Mocca Mirchi;Miss Mirchi;Jarlsberg Travbane ;2019-09-27
+30037443;Moi Diva;Moi Vilja;Sørlandets Travpark ;2019-09-05
+30098601;Mojo's Chablis V.P.;Mojo's Star;Leangen Travbane ;2019-09-02
+30098601;Mojo's Chablis V.P.;Mojo's Star;Leangen Travbane ;2019-09-09
+30089341;Monetary Canter;Santer;Biri Travbane ;2019-08-30
+30089341;Monetary Canter;Santer;Biri Travbane ;2019-09-15
+30089341;Monetary Canter;Santer;Biri Travbane ;2019-09-29
+123569;Moni Rajah;Moni Rock;Leangen Travbane ;2019-09-22
+123569;Moni Rajah;Moni Rock;Leangen Travbane ;2019-09-28
+132597;Motveit Snippen;Låhne Snippen;Forus Travbane ;2019-09-10
+30036635;Motveit Stjerna;Motveit Bruna;Forus Travbane ;2019-09-10
+30008762;Mount Everest;Everest;Momarken Travbane ;2019-09-03
+30008762;Mount Everest;Everest;Momarken Travbane ;2019-09-16
+30023824;Mr. Chocolate;Sihera Chocolate;Momarken Travbane ;2019-09-03
+30023824;Mr. Chocolate;Sihera Chocolate;Momarken Travbane ;2019-09-16
+131502;Mr. Taxman;Mr. Seaman;Biri Travbane ;2019-08-30
+131502;Mr. Taxman;Mr. Seaman;Biri Travbane ;2019-09-15
+30087563;Muscleface;Musclemania;Leangen Travbane ;2019-09-02
+30105187;Mykle Linn;Linnea Mykla;Biri Travbane ;2019-10-12
+30105187;Mykle Linn;Linnea Mykla;Bjerke Travbane ;2019-09-18
+30105187;Mykle Linn;Linnea Mykla;Bjerke Travbane ;2019-10-02
+115018;Måråk Gutten;Stranda Gutten;Leangen Travbane ;2019-09-02
+30097754;N.Y. On My Mind;N.Y. Rose Line;Momarken Travbane ;2019-09-03
+30097754;N.Y. On My Mind;N.Y. Rose Line;Momarken Travbane ;2019-10-08
+30097084;N.Y. Symphony;N.Y. Lovemelikeyoudo;Leangen Travbane ;2019-09-02
+30097084;N.Y. Symphony;N.Y. Lovemelikeyoudo;Leangen Travbane ;2019-09-22
+30085455;Nelson Anton;Nelson Angel;Leangen Travbane ;2019-09-09
+30008805;Ness Tjo Faksa;Ness Tjo Alma;Bjerke Travbane ;2019-10-02
+30008805;Ness Tjo Faksa;Ness Tjo Alma;Forus Travbane ;2019-08-31
+30008805;Ness Tjo Faksa;Ness Tjo Alma;Forus Travbane ;2019-09-10
+30053464;Nesvik Ask;Nesvik Kasper;Klosterskogen Travbane ;2019-09-30
+30095680;New Talisman;Super Talisman;Klosterskogen Travbane ;2019-09-23
+30095680;New Talisman;Super Talisman;Klosterskogen Travbane ;2019-10-13
+30082814;Norax Teddy;Erga Teddy;Drammen Travbane ;2019-09-26
+30082814;Norax Teddy;Erga Teddy;Drammen Travbane ;2019-10-10
+30082849;Nord Frøya;Nordby Frøya;Bjerke Travbane ;2019-09-25
+30067677;Nordli Tobben;Årdals Tobben;Leangen Travbane ;2019-09-09
+30093875;Norheim Borka;Norheim Vika;Momarken Travbane ;2019-10-01
+30079251;Norjuni;Spikjuni;Forus Travbane ;2019-08-31
+30079251;Norjuni;Spikjuni;Forus Travbane ;2019-09-10
+30077776;Norrøns Viktor;Gaardens Viktor;Leangen Travbane ;2019-09-02
+131645;Notation;Glad Potato X.T.;Bjerke Travbane ;2019-09-19
+30086093;Nume Bris;Lome Bris;Bjerke Travbane ;2019-09-04
+30086093;Nume Bris;Lome Bris;Drammen Travbane ;2019-09-21
+30086093;Nume Bris;Lome Bris;Drammen Travbane ;2019-09-26
+30103780;Nygaards Solan;Øygard Solan;Bjerke Travbane ;2019-09-06
+30103780;Nygaards Solan;Øygard Solan;Jarlsberg Travbane ;2019-09-13
+30103780;Nygaards Solan;Øygard Solan;Momarken Travbane ;2019-10-08
+30104139;Ocean Drive;Ocean Tile;Bjerke Travbane ;2019-09-04
+30019141;Odina;Todina;Bjerke Travbane ;2019-09-04
+30084415;Odins Alma;Odins Lilja;Leangen Travbane ;2019-09-09
+30068549;Odins Eld;Odins Ess;Drammen Travbane ;2019-09-01
+30055183;Oh U. Sexylady;Oh Superb;Bjerke Travbane ;2019-09-08
+30055183;Oh U. Sexylady;Oh Superb;Momarken Travbane ;2019-10-01
+30022184;Olaf Frost;Olaf;Jarlsberg Travbane ;2019-09-13
+30022184;Olaf Frost;Olaf;Momarken Travbane ;2019-10-01
+30023546;One Shot Only;Don Shot;Biri Travbane ;2019-09-29
+30023546;One Shot Only;Don Shot;Momarken Travbane ;2019-10-08
+30079382;Only One Winner;Only Mine;Bjerke Travbane ;2019-10-16
+30095056;Oracle Tile;Miracle Tile;Bjerke Travbane ;2019-10-16
+30090314;Overlord;Scarlora (S);Jarlsberg Travbane ;2019-10-11
+30052025;Paris Tile;Paris Turf;Bjerke Travbane ;2019-10-09
+30094983;Pathos Om;Sesamo Om (IT);Leangen Travbane ;2019-10-14
+30100470;Peaceful Tile;Peaceful Face (S);Bjerke Travbane ;2019-09-04
+30095680;Perfect Talisman;Super Talisman;Bjerke Travbane ;2019-10-02
+30024417;Phantom Tile;Fancy Tile;Bjerke Travbane ;2019-10-02
+132511;Poetic Dream;Baltic Dream;Bjerke Travbane ;2019-09-18
+132511;Poetic Dream;Baltic Dream;Momarken Travbane ;2019-10-01
+30083749;Polle Diva;Valle Dina;Forus Travbane ;2019-08-31
+30083749;Polle Diva;Valle Dina;Forus Travbane ;2019-09-10
+30070296;Prada One;Prada Vang (DK);Bjerke Travbane ;2019-09-04
+30070296;Prada One;Prada Vang (DK);Bjerke Travbane ;2019-09-25
+30026495;Preacher Man;Son Of A Preacherman;Biri Travbane ;2019-09-15
+30036234;President Tile;The President;Bjerke Travbane ;2019-10-02
+125485;Profit Tile;Tone Profitt;Bjerke Travbane ;2019-09-04
+30085024;Puskas Blue (DK);Puskas Blue;Bjerke Travbane ;2019-06-08
+30102479;Pålly Tulla;Pålly;Momarken Travbane ;2019-09-03
+30103482;Quality Princess;Quality Dancer;Forus Travbane ;2019-08-31
+30008893;Quickstep O.;Quickstep Girl;Forus Travbane ;2019-08-31
+30008893;Quickstep O.;Quickstep Girl;Forus Travbane ;2019-09-10
+30008893;Quickstep O.;Quickstep Girl;Forus Travbane ;2019-09-24
+30009752;Quintana O.;Gigant O.;Forus Travbane ;2019-08-31
+30009752;Quintana O.;Gigant O.;Forus Travbane ;2019-09-17
+30104358;R.M.G. Jolene;R.M.G. Dancing Queen;Jarlsberg Travbane ;2019-09-13
+30068964;Raja Ravina;Zahna Ravina;Bjerke Travbane ;2019-09-18
+30084861;Red Shankly R.S.;Shankly Lane;Bjerke Travbane ;2019-10-09
+30084861;Red Shankly R.S.;Shankly Lane;Forus Travbane ;2019-08-31
+30084861;Red Shankly R.S.;Shankly Lane;Forus Travbane ;2019-09-24
+30036233;Rikkola;Tangen Rikke;Bjerke Travbane ;2019-10-09
+122563;Rinde Thorvald;Rinde Turbo;Jarlsberg Travbane ;2019-09-13
+122563;Rinde Thorvald;Rinde Turbo;Jarlsberg Travbane ;2019-09-20
+122563;Rinde Thorvald;Rinde Turbo;Jarlsberg Travbane ;2019-10-11
+125908;Riverside Princess;Riverside News;Jarlsberg Travbane ;2019-09-13
+30089332;Rock Bottom;Rock Lobster;Bjerke Travbane ;2019-09-18
+30087311;Rofstad Teddy;Rofstad Odin;Leangen Travbane ;2019-09-02
+30087311;Rofstad Teddy;Rofstad Odin;Leangen Travbane ;2019-09-09
+30087311;Rofstad Teddy;Rofstad Odin;Leangen Travbane ;2019-09-22
+30100616;Royal Paris;Moni Paris;Forus Travbane ;2019-09-10
+30056674;Royal Vacation;Cool Vacation;Jarlsberg Travbane ;2019-09-13
+30082484;Rymodin;Modin;Forus Travbane ;2019-09-10
+30082484;Rymodin;Modin;Forus Travbane ;2019-09-24
+30094294;Røylands Aurora;Eurora;Forus Travbane ;2019-09-24
+30077087;Sabrina Frecel;Celina Frecel;Bjerke Travbane ;2019-09-04
+30077087;Sabrina Frecel;Celina Frecel;Bjerke Travbane ;2019-09-19
+30077087;Sabrina Frecel;Celina Frecel;Momarken Travbane ;2019-10-01
+30083253;Salte Frøya;Salte Faksa;Biri Travbane ;2019-08-30
+30083253;Salte Frøya;Salte Faksa;Biri Travbane ;2019-09-15
+30071657;Samo Different Day;Little Samo (DE);Sørlandets Travpark ;2019-09-14
+30009857;Sandegårds Prinsen;Indregaards Prinsen;Jarlsberg Travbane ;2019-09-13
+30037376;Saturday Dream;Saturday Speed;Biri Travbane ;2019-09-15
+30090551;Schufaks;Schuvard;Biri Travbane ;2019-09-15
+132735;Selma's Tanita;Tanita's Delegate;Biri Travbane ;2019-09-15
+30076980;Seven Karats;Seven Cru;Jarlsberg Travbane ;2019-09-27
+30076980;Seven Karats;Seven Cru;Momarken Travbane ;2019-10-08
+133190;Sir Otto;Otto;Momarken Travbane ;2019-09-16
+30104326;Sitje Lilly;Sitje Eld;Jarlsberg Travbane ;2019-09-20
+30104326;Sitje Lilly;Sitje Eld;Sørlandets Travpark ;2019-09-05
+30065219;Sjø Stjerna;Sjø Spira;Bjerke Travbane ;2019-09-18
+30065219;Sjø Stjerna;Sjø Spira;Momarken Travbane ;2019-10-01
+30065219;Sjø Stjerna;Sjø Spira;Sørlandets Travpark ;2019-09-05
+30088569;Sjø Vant;Sjø Vinn;Sørlandets Travpark ;2019-09-14
+30077890;Skjetnestjerna;Skjetnejerva;Leangen Travbane ;2019-09-09
+129330;Sliced n'diced;Gårder Spiker'n;Bjerke Travbane ;2019-09-18
+133961;Slåttdonna;Slåttodin;Jarlsberg Travbane ;2019-09-13
+30059149;Smedrappa;Lundrapp;Biri Travbane ;2019-09-29
+30104575;Smedtulla;Bragetulla;Bjerke Travbane ;2019-09-07
+30104575;Smedtulla;Bragetulla;Drammen Travbane ;2019-09-21
+30076473;Solhøy Atle;Solhøy Gunn;Jarlsberg Travbane ;2019-09-13
+30098676;Soma Sjefen;Soma Svarten;Forus Travbane ;2019-09-10
+30093055;Sotika;Birk Edel Erotika;Drammen Travbane ;2019-09-26
+30051061;Spang Wikblesa;Spang Virmar;Biri Travbane ;2019-08-30
+30097696;Squanto;Squalo O.M. (IT);Bjerke Travbane ;2019-09-04
+30104592;Stas Mai;Stas Eldi;Forus Travbane ;2019-08-31
+30104592;Stas Mai;Stas Eldi;Forus Travbane ;2019-09-10
+130882;Stjerne Leandra;Stjerne Line;Leangen Travbane ;2019-09-02
+130882;Stjerne Leandra;Stjerne Line;Leangen Travbane ;2019-09-22
+126308;Stjernefaksi;Stjerne Faks;Forus Travbane ;2019-10-15
+30020630;Stjernesjura;Steggsjura;Sørlandets Travpark ;2019-09-05
+30037586;Stormjerven;Haugestad Storm;Momarken Travbane ;2019-09-03
+30005708;Super Sweet Lady;Sweet Lady;Leangen Travbane ;2019-09-22
+131649;Særpekongen;Særpefanten;Momarken Travbane ;2019-09-03
+30071373;Sæther Teddy;Akers Teddy;Biri Travbane ;2019-09-15
+30071373;Sæther Teddy;Akers Teddy;Biri Travbane ;2019-09-29
+30007631;Sør Mari;Sør Mai;Momarken Travbane ;2019-09-03
+30095726;Tangen Elle;Grude Elle;Momarken Travbane ;2019-09-03
+30083661;Tangen Svenn;Troll Svenn;Sørlandets Travpark ;2019-09-05
+30009329;Tante Mari;Tangen Mari;Drammen Travbane ;2019-10-03
+30074223;Tayno Destrier;Tayno Star;Bjerke Travbane ;2019-09-25
+30074223;Tayno Destrier;Tayno Star;Bjerke Travbane ;2019-10-09
+30083286;Terne Pil;Terne Mia;Leangen Travbane ;2019-09-22
+30083286;Terne Pil;Terne Mia;Leangen Travbane ;2019-10-07
+30104126;Thai Daenerys;Thai Daphne;Bjerke Travbane ;2019-09-04
+30104126;Thai Daenerys;Thai Daphne;Bjerke Travbane ;2019-10-02
+30052764;Thai Pan;Thai Passion;Bjerke Travbane ;2019-10-16
+30035511;Thai Tyrell;Thai Torres;Bjerke Travbane ;2019-10-02
+132932;The Baron;Baron Chance;Bjerke Travbane ;2019-09-04
+30099239;The Red Explosion;Thai Explosive;Jarlsberg Travbane ;2019-09-20
+30020842;Timetobecool;Timetodream;Leangen Travbane ;2019-10-14
+30105015;Topp Stemning;Toppsjefen;Jarlsberg Travbane ;2019-09-13
+30083263;Tor;Tangen Tor;Bjerke Travbane ;2019-09-04
+30096909;Tor Ludvig;Ludvik;Forus Travbane ;2019-08-31
+30096909;Tor Ludvig;Ludvik;Forus Travbane ;2019-09-10
+30083369;Tora;Tangen Tora;Bjerke Travbane ;2019-09-25
+30100815;Trens;Trento (DK);Bjerke Travbane ;2019-09-04
+30067048;Troll Kaxa;Troll Kaija;Bjerke Travbane ;2019-09-04
+30052023;Trolltei;Trolltyra;Bjerke Travbane ;2019-09-18
+30083249;Trø Ole;Torpa Ole;Sørlandets Travpark ;2019-09-05
+30102403;Tulle Toulouse (DK);Tulle Toulouse;Drammen Travbane ;2019-06-27
+30021424;Ulsrud Tor;Ulsrud Tea;  Bjerke Travbane ;2019-04-06
+30021424;Ulsrud Tor;Ulsrud Tea;  Bjerke Travbane ;2019-06-09
+30021424;Ulsrud Tor;Ulsrud Tea;  Bjerke Travbane ;2019-08-22
+30021424;Ulsrud Tor;Ulsrud Tea;  Drammen Travbane ;2019-08-10
+30021424;Ulsrud Tor;Ulsrud Tea;  Forus Travbane ;2019-05-04
+30021424;Ulsrud Tor;Ulsrud Tea;  Klosterskogen Travbane ;2019-04-20
+30021424;Ulsrud Tor;Ulsrud Tea;  Sørlandets Travpark ;2019-07-20
+30021424;Ulsrud Tor;Ulsrud Tea;Bergen Travpark ;2018-10-04
+30021424;Ulsrud Tor;Ulsrud Tea;Bergen Travpark ;2018-10-27
+30021424;Ulsrud Tor;Ulsrud Tea;Biri Travbane ;2018-10-13
+30021424;Ulsrud Tor;Ulsrud Tea;Bjerke Travbane ;2018-08-23
+30021424;Ulsrud Tor;Ulsrud Tea;Bjerke Travbane ;2018-12-30
+30021424;Ulsrud Tor;Ulsrud Tea;Bjerke Travbane ;2019-01-19
+30021424;Ulsrud Tor;Ulsrud Tea;Drammen Travbane ;2018-08-11
+30021424;Ulsrud Tor;Ulsrud Tea;Forus Travbane ;2018-09-15
+30021424;Ulsrud Tor;Ulsrud Tea;Forus Travbane ;2018-11-13
+30021424;Ulsrud Tor;Ulsrud Tea;Forus Travbane ;2018-12-08
+30021424;Ulsrud Tor;Ulsrud Tea;Forus Travbane ;2019-02-09
+30021424;Ulsrud Tor;Ulsrud Tea;Jarlsberg Travbane ;2019-01-12
+30009997;Valle Kalla;Valle Kalle;Klosterskogen Travbane ;2019-09-23
+120137;Valle Oliver;Valle Driver;Momarken Travbane ;2019-09-03
+120137;Valle Oliver;Valle Driver;Momarken Travbane ;2019-10-01
+30086137;Valle Storm;Hafell Storm;Bjerke Travbane ;2019-10-09
+30086137;Valle Storm;Hafell Storm;Bjerke Travbane ;2019-10-16
+30072836;Vibra Thor;Thor Va Bene;Bjerke Travbane ;2019-09-19
+30072836;Vibra Thor;Thor Va Bene;Momarken Travbane ;2019-10-08
+124480;Vibras Star;Vibra Line;Momarken Travbane ;2019-09-03
+124480;Vibras Star;Vibra Line;Momarken Travbane ;2019-10-08
+30024300;Victory Lap;Victory Line;Biri Travbane ;2019-09-15
+30037991;Vikanti;Vikar;Bjerke Travbane ;2019-09-25
+30037991;Vikanti;Vikar;Jarlsberg Travbane ;2019-09-13
+30095267;Vinnas Titania;Titania;Bjerke Travbane ;2019-09-08
+30095267;Vinnas Titania;Titania;Momarken Travbane ;2019-10-01
+127806;Visconti;Contio;Bjerke Travbane ;2019-09-04
+30079286;Waxen;Findal Faxen;Sørlandets Travpark ;2019-09-14
+30079286;Waxen;Findal Faxen;Sørlandets Travpark ;2019-10-06
+30069877;Way To Go;Way To Glory;Leangen Travbane ;2019-09-22
+126562;Wessel Arwen;Wessel Svarten;Jarlsberg Travbane ;2019-09-13
+30088650;Wilda H.R.;Irma H.R.;Jarlsberg Travbane ;2019-09-13
+30088611;Will Eros;Will Prinsen;Forus Travbane ;2019-08-31
+30088611;Will Eros;Will Prinsen;Forus Travbane ;2019-09-10
+30064591;Wilmawerth;Wilma Creation;Klosterskogen Travbane ;2019-09-23
+130601;Wilson Laylock;Wictoria Laylock;Jarlsberg Travbane ;2019-09-13
+30025921;Winning Colors (DE);Winning Colors;Bjerke Travbane ;2019-05-23
+30025921;Winning Colors (DE);Winning Colors;Bjerke Travbane ;2019-06-26
+30025921;Winning Colors (DE);Winning Colors;Jarlsberg Travbane ;2019-06-12
+30039060;Wow S.E.;Epower E.J.;Drammen Travbane ;2019-09-01
+30039060;Wow S.E.;Epower E.J.;Drammen Travbane ;2019-10-03
+30039060;Wow S.E.;Epower E.J.;Jarlsberg Travbane ;2019-09-20
+30090292;Xandria;Alexandria Ås (S);Leangen Travbane ;2019-09-09
+30090292;Xandria;Alexandria Ås (S);Leangen Travbane ;2019-09-22
+30090292;Xandria;Alexandria Ås (S);Leangen Travbane ;2019-10-14
+125456;Zarahs Valentino;Dorr Valentin;Leangen Travbane ;2019-09-09
+125456;Zarahs Valentino;Dorr Valentin;Leangen Travbane ;2019-09-22
+133478;Zeb Ess;Power Ess;Momarken Travbane ;2019-10-08
+62077;Zero Gravity;Zero (S);Drammen Travbane ;2019-09-01
+30098751;Zlatan;Zlatan Classic;Leangen Travbane ;2019-09-02
+30105025;Åsajerkila;Åsajerkeld;Leangen Travbane ;2019-09-02

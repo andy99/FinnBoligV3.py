@@ -1,0 +1,1419 @@
+3;0;0.00;1;0.00;0;0.00;Stine Aftret                  ;13
+12;3;25.00;11;91.67;7;58.33;Geir Aga                      ;14
+284;30;10.56;224;78.87;71;25.00;Bjørn Steine                  ;15
+283;11;3.89;229;80.92;66;23.32;Kai Johansen                  ;16
+570;58;10.18;468;82.11;138;24.21;Adrian Solberg Akselsen       ;41
+9;2;22.22;6;66.67;0;0.00;Celine Solberg Akselsen       ;42
+0;0;0.00;0;0.00;0;0.00;Christer Aksnes               ;43
+0;0;0.00;0;0.00;0;0.00;Raymond Albertsen             ;57
+0;0;0.00;0;0.00;0;0.00;Asalam Ali                    ;59
+20;2;10.00;12;60.00;3;15.00;Jens Alm                      ;66
+0;0;0.00;0;0.00;0;0.00;Berit Tveter Alm              ;67
+0;0;0.00;0;0.00;0;0.00;Kristin Alm                   ;68
+0;0;0.00;0;0.00;0;0.00;Kjell Alme                    ;70
+23;4;17.39;16;69.57;4;17.39;Ulf Alme                      ;71
+0;0;0.00;0;0.00;0;0.00;Øystein Amdal                 ;79
+30;3;10.00;27;90.00;3;10.00;Victoria Amundsen             ;81
+0;0;0.00;0;0.00;0;0.00;Reidar Andersen               ;86
+0;0;0.00;0;0.00;0;0.00;Anette Andersen               ;87
+153;6;3.92;128;83.66;42;27.45;Anders Andersen               ;88
+34;0;0.00;24;0.00;1;0.00;Hans Even Andersen            ;91
+0;0;0.00;0;0.00;0;0.00;Per Åge Andersen              ;92
+0;0;0.00;0;0.00;0;0.00;Kåre Andersen                 ;93
+0;0;0.00;0;0.00;0;0.00;Susanne Andersen              ;95
+0;0;0.00;0;0.00;0;0.00;Hanne Kristin Andersen        ;101
+0;0;0.00;0;0.00;0;0.00;Ida-Helen M. Andersen         ;102
+0;0;0.00;0;0.00;0;0.00;Trond Anderssen               ;109
+83;1;1.20;69;83.13;1;1.20;Anders Andersson              ;122
+0;0;0.00;0;0.00;0;0.00;Thomas Andreassen             ;164
+0;0;0.00;0;0.00;0;0.00;Maria Andreassen              ;165
+0;0;0.00;0;0.00;0;0.00;Benedicte Andreassen          ;166
+0;0;0.00;0;0.00;0;0.00;Karl Andreassen               ;167
+0;0;0.00;0;0.00;0;0.00;Ole Kristian Andreassen       ;168
+0;0;0.00;0;0.00;0;0.00;Oddvar Anholt                 ;175
+0;0;0.00;0;0.00;0;0.00;Vilde Marie Antonsen          ;179
+271;20;7.38;194;71.59;46;16.97;Cato Antonsen                 ;180
+0;0;0.00;0;0.00;0;0.00;Thomas Antonsen               ;181
+0;0;0.00;0;0.00;0;0.00;Lisa-Cathrin Antonsen         ;182
+9;0;0.00;8;0.00;0;0.00;Morten Antonsen               ;183
+195;13;6.67;146;74.87;39;20.00;Gøran Antonsen                ;184
+118;6;5.08;101;85.59;34;28.81;Martine Foldvik Anvik         ;188
+0;0;0.00;0;0.00;0;0.00;Julie Therese Arneberg        ;191
+0;0;0.00;0;0.00;0;0.00;Marlene Arnesen               ;193
+0;0;0.00;0;0.00;0;0.00;Hege Karin Arverud            ;201
+32;0;0.00;27;0.00;7;0.00;Per Arvesen                   ;202
+15;1;6.67;12;80.00;0;0.00;Ivar Asphaug                  ;210
+0;0;0.00;0;0.00;0;0.00;Hedda E. Assev                ;212
+0;0;0.00;0;0.00;0;0.00;Olav Aune                     ;217
+0;0;0.00;0;0.00;0;0.00;Arne Aunhaug                  ;219
+0;0;0.00;0;0.00;0;0.00;Trine Austevoll               ;223
+1165;97;8.33;901;77.34;273;23.43;Gunnar Austevoll              ;224
+256;17;6.64;204;79.69;58;22.66;Øyvind Austevoll              ;225
+17;2;11.76;13;76.47;8;47.06;Gry Vigdis Bachmann           ;234
+0;0;0.00;0;0.00;0;0.00;Marie Bagstevold              ;238
+0;0;0.00;0;0.00;0;0.00;Vidar Bakkeli                 ;239
+0;0;0.00;0;0.00;0;0.00;Jørn Harald Bakkeli           ;240
+4;0;0.00;4;0.00;1;0.00;Nina Bakken                   ;241
+0;0;0.00;0;0.00;0;0.00;Line Barane                   ;245
+0;0;0.00;0;0.00;0;0.00;Holger Barka                  ;247
+0;0;0.00;0;0.00;0;0.00;Håkon Barka                   ;248
+29;0;0.00;20;0.00;3;0.00;Beate Barka                   ;249
+0;0;0.00;0;0.00;0;0.00;Ellen Andrea Barth            ;252
+0;0;0.00;0;0.00;0;0.00;Kirstine Barth                ;253
+12;0;0.00;8;0.00;3;0.00;Jostein Barth                 ;254
+0;0;0.00;0;0.00;0;0.00;Raymond Bechen                ;265
+0;0;0.00;0;0.00;0;0.00;Stine Marlen Bendiksen        ;278
+15;0;0.00;12;0.00;8;0.00;Per Ivar Bendiksen            ;279
+35;0;0.00;27;0.00;6;0.00;Guro Berg                     ;284
+0;0;0.00;0;0.00;0;0.00;Guro Rødland Berg             ;285
+0;0;0.00;0;0.00;0;0.00;Einar Berg                    ;286
+1;0;0.00;1;0.00;0;0.00;Roar Berg                     ;287
+0;0;0.00;0;0.00;0;0.00;Andrea Krogstad Berg          ;289
+4;0;0.00;2;0.00;0;0.00;Gunnar Bergem                 ;291
+0;0;0.00;0;0.00;0;0.00;Bjørn Helge Berndt            ;315
+0;0;0.00;0;0.00;0;0.00;Ros-Mari Bernhardsen          ;316
+3;0;0.00;2;0.00;0;0.00;Madelen Berås                 ;322
+55;7;12.73;44;80.00;2;3.64;Malin Berås                   ;323
+95;1;1.05;77;81.05;26;27.37;Arild Berås                   ;324
+29;5;17.24;22;75.86;3;10.34;Stine Birkeland               ;335
+0;0;0.00;0;0.00;0;0.00;Terje Bjerkan                 ;338
+0;0;0.00;0;0.00;0;0.00;Renate Bjerland               ;340
+98;5;5.10;75;76.53;28;28.57;Jan Martin Bjerring           ;342
+0;0;0.00;0;0.00;0;0.00;Tom Bjølgerud                 ;343
+0;0;0.00;0;0.00;0;0.00;Brynjulf Bjørge               ;344
+0;0;0.00;0;0.00;0;0.00;Anne Bjørge                   ;345
+0;0;0.00;0;0.00;0;0.00;Ann-Helen Bjørgum             ;346
+0;0;0.00;0;0.00;0;0.00;Ragnhild Bjørnbeth            ;360
+266;33;12.41;215;80.83;63;23.68;Ragnhild Bjørnbeth            ;361
+124;1;0.81;99;79.84;30;24.19;Kristian Bjørnerød            ;362
+15;1;6.67;9;60.00;3;20.00;Benedicte Bjørnstad           ;365
+0;0;0.00;0;0.00;0;0.00;Eva-Kristine E. Bjørnstad     ;366
+0;0;0.00;0;0.00;0;0.00;Øystein Bjørnstad             ;367
+21;0;0.00;16;0.00;7;0.00;Heidi Bjørntvedt              ;368
+173;18;10.40;123;71.10;35;20.23;Jørn Bjaanes                  ;369
+10;0;0.00;10;0.00;1;0.00;Katrine Blakkestad            ;370
+382;62;16.23;313;81.94;119;31.15;Jomar Blekkan                 ;372
+1;0;0.00;1;0.00;1;0.00;Jonny Blien                   ;373
+0;0;0.00;0;0.00;0;0.00;Tore Morten Blihovde          ;374
+3;1;33.33;3;100.00;1;33.33;Arve G. Blihovde              ;375
+0;0;0.00;0;0.00;0;0.00;Astrid Blokkum                ;376
+0;0;0.00;0;0.00;0;0.00;Eirin Bolme                   ;393
+2;0;0.00;1;0.00;0;0.00;Erika Bolme                   ;394
+0;0;0.00;0;0.00;0;0.00;Eirin Bolme                   ;395
+0;0;0.00;0;0.00;0;0.00;Sandra Bondestad              ;401
+0;0;0.00;0;0.00;0;0.00;Kjetil Bore                   ;408
+0;0;0.00;0;0.00;0;0.00;Thor Borg                     ;409
+0;0;0.00;0;0.00;0;0.00;Stine Andrea Borgan           ;413
+4;0;0.00;4;0.00;2;0.00;Mariann Borgen                ;414
+2;0;0.00;1;0.00;0;0.00;Jonn Borgen                   ;415
+0;0;0.00;0;0.00;0;0.00;Stein Isak Borstad            ;417
+2;0;0.00;2;0.00;0;0.00;Harald Bragstad               ;425
+0;0;0.00;0;0.00;0;0.00;Roger Brandt                  ;428
+0;0;0.00;0;0.00;0;0.00;Jan Ketil Brattås             ;433
+0;0;0.00;0;0.00;0;0.00;Cecilie Breivik               ;437
+0;0;0.00;0;0.00;0;0.00;Ida Brekke                    ;438
+0;0;0.00;0;0.00;0;0.00;Knut Ola Brenden              ;441
+29;2;6.90;26;89.66;5;17.24;Kenneth Brenden               ;442
+0;0;0.00;0;0.00;0;0.00;Jan Per Brenden               ;443
+0;0;0.00;0;0.00;0;0.00;Egil Brenden                  ;444
+9;0;0.00;4;0.00;3;0.00;Hanne Brendengen              ;445
+1;0;0.00;1;0.00;0;0.00;Jens Kristian Brenne          ;447
+0;0;0.00;0;0.00;0;0.00;Evy Marie Brinch              ;450
+5;0;0.00;2;0.00;2;0.00;Tone Bronken                  ;458
+0;0;0.00;0;0.00;0;0.00;Katarina Brorsgård            ;459
+0;0;0.00;0;0.00;0;0.00;Knut Brorsgård                ;460
+0;0;0.00;0;0.00;0;0.00;Egil Brunes                   ;467
+11;0;0.00;10;0.00;2;0.00;Eivind Bryn                   ;475
+9;0;0.00;5;0.00;2;0.00;Stian Hansen Brynemo          ;476
+76;6;7.89;53;69.74;2;2.63;Erik Brækken                  ;477
+0;0;0.00;0;0.00;0;0.00;Kristin Brækken               ;478
+96;13;13.54;71;73.96;23;23.96;Noralf P. Brækken             ;479
+2;0;0.00;2;0.00;1;0.00;Ole Brænden                   ;480
+0;0;0.00;0;0.00;0;0.00;Reidar Braadland              ;481
+5;0;0.00;3;0.00;0;0.00;Petter Braadland              ;482
+1;0;0.00;1;0.00;1;0.00;Marthe Braastad               ;483
+0;0;0.00;0;0.00;0;0.00;Kjell Vidar Braaten           ;484
+0;0;0.00;0;0.00;0;0.00;Cecilie Bråthen               ;486
+0;0;0.00;0;0.00;0;0.00;Anne Braathen                 ;487
+447;70;15.66;349;78.08;96;21.48;Pål Buer                      ;490
+280;22;7.86;207;73.93;63;22.50;Veronika Bugge                ;491
+0;0;0.00;0;0.00;0;0.00;Hanna Brun Buran              ;494
+0;0;0.00;0;0.00;0;0.00;Bente Busklein                ;498
+0;0;0.00;0;0.00;0;0.00;Maren Bustadmo                ;499
+0;0;0.00;0;0.00;0;0.00;Nils Magne Bye                ;505
+1;0;0.00;0;0.00;1;0.00;Arvid Bye                     ;506
+0;0;0.00;0;0.00;0;0.00;Josephine Bæckryd             ;516
+3;1;33.33;2;66.67;0;0.00;Linda Bø                      ;521
+0;0;0.00;0;0.00;0;0.00;Siw Helen Bø                  ;522
+0;0;0.00;0;0.00;0;0.00;Arthur Bø                     ;523
+0;0;0.00;0;0.00;0;0.00;Mari Lie Celius               ;556
+29;5;17.24;25;86.21;2;6.90;Bjarke Christensen            ;571
+0;0;0.00;0;0.00;0;0.00;Monica Christiansen           ;573
+0;0;0.00;0;0.00;0;0.00;Toril Clemensen               ;588
+0;0;0.00;0;0.00;0;0.00;Frida Haaker Dagestad         ;617
+20;2;10.00;17;85.00;8;40.00;Jeanett Marie Dagsvold        ;622
+0;0;0.00;0;0.00;0;0.00;Ine Elisabeth Dahl            ;624
+3;0;0.00;3;0.00;2;0.00;Terje Dahl                    ;625
+3;0;0.00;3;0.00;0;0.00;Gudmund Dahle                 ;630
+0;0;0.00;0;0.00;0;0.00;Thomas Dahle                  ;631
+0;0;0.00;0;0.00;0;0.00;Anne Dahlshaug                ;638
+0;0;0.00;0;0.00;0;0.00;Kristine Dale                 ;641
+2053;194;9.45;1664;81.05;499;24.31;Dag-Sveinung Dalen            ;643
+0;0;0.00;0;0.00;0;0.00;Astri Sekkelsten Daljord      ;647
+52;2;3.85;40;76.92;17;32.69;Knut Robin Dalsbotten         ;648
+0;0;0.00;0;0.00;0;0.00;Darja Dalseg                  ;649
+0;0;0.00;0;0.00;0;0.00;Kenneth Danielsen             ;654
+0;0;0.00;0;0.00;0;0.00;Alf-Magne Danielsen           ;655
+0;0;0.00;0;0.00;0;0.00;Ann-Christin Davanger         ;665
+21;0;0.00;17;0.00;2;0.00;Mikkel Davidsen               ;667
+30;4;13.33;21;70.00;6;20.00;Truls Desserud                ;705
+0;0;0.00;0;0.00;0;0.00;Solveig Didriksen             ;715
+0;0;0.00;0;0.00;0;0.00;Tore Bjørn Diskerud           ;719
+0;0;0.00;0;0.00;0;0.00;Gunnar Diskerud               ;720
+186;30;16.13;160;86.02;59;31.72;Kjetil Djøseland              ;731
+1;0;0.00;0;0.00;0;0.00;Ronja Good Djøseland          ;732
+53;6;11.32;46;86.79;14;26.42;Vemund Madsen Drolsum         ;743
+24;2;8.33;19;79.17;8;33.33;Bjørn Duestad                 ;751
+0;0;0.00;0;0.00;0;0.00;Odd Dvergsdal                 ;761
+0;0;0.00;0;0.00;0;0.00;Leif Dybdahl                  ;762
+26;0;0.00;22;0.00;6;0.00;Hedda Edvardsen               ;781
+0;0;0.00;0;0.00;0;0.00;Asgeir Edvardsen              ;782
+0;0;0.00;0;0.00;0;0.00;Yvonne Sommer Edvardsen       ;783
+0;0;0.00;0;0.00;0;0.00;Ansgar Egeland                ;788
+9;0;0.00;4;0.00;1;0.00;Per Arne Eggan                ;791
+0;0;0.00;0;0.00;0;0.00;Atle Eggan                    ;792
+276;12;4.35;208;75.36;35;12.68;Atle Eggan                    ;793
+5;0;0.00;1;0.00;0;0.00;Kine Ørndal Eggan             ;794
+1;0;0.00;1;0.00;0;0.00;Hans Jörgen Eggen             ;795
+111;8;7.21;92;82.88;1;0.90;Tor Arne Eggen                ;796
+146;9;6.16;110;75.34;29;19.86;Hans Jørgen Eggen             ;798
+9;0;0.00;7;0.00;4;0.00;Gunnar Eggen                  ;799
+0;0;0.00;0;0.00;0;0.00;Mia Sandnes Eggum             ;800
+0;0;0.00;0;0.00;0;0.00;Oddmund Eggum                 ;801
+0;0;0.00;0;0.00;0;0.00;Janne Karin Eidal             ;805
+0;0;0.00;0;0.00;0;0.00;Julie Hjelen Eide             ;806
+4;0;0.00;3;0.00;1;0.00;Trond-Andre Eidspjeld         ;807
+0;0;0.00;0;0.00;0;0.00;Lindsey Eigeland              ;808
+0;0;0.00;0;0.00;0;0.00;Linda Eikeberg                ;809
+40;5;12.50;32;80.00;13;32.50;Stian Eilefsen                ;810
+0;0;0.00;0;0.00;0;0.00;Tore Eilertsen                ;811
+0;0;0.00;0;0.00;0;0.00;Silje Kristin Eilertsen       ;812
+241;10;4.15;183;75.93;1;0.41;Josefine Eilertsen            ;813
+0;0;0.00;0;0.00;0;0.00;Catrine Cornelia Einarsen     ;814
+0;0;0.00;0;0.00;0;0.00;Knut Ekeberg                  ;820
+0;0;0.00;0;0.00;0;0.00;Kristine W Ekerhovd           ;821
+3;0;0.00;2;0.00;0;0.00;Stine Totland Ekerhovd        ;822
+13;2;15.38;11;84.62;3;23.08;Thomas Ellefsen               ;843
+2;0;0.00;2;0.00;0;0.00;Julie M. Ellingsen            ;844
+0;0;0.00;0;0.00;0;0.00;Silje B. Emilsen              ;849
+0;0;0.00;0;0.00;0;0.00;Tommy Enberg                  ;852
+0;0;0.00;0;0.00;0;0.00;Fredrik Eng                   ;856
+0;0;0.00;0;0.00;0;0.00;Vidar Engebretsen             ;860
+110;2;1.82;80;72.73;43;39.09;Connie Engebråthen            ;861
+0;0;0.00;0;0.00;0;0.00;Inger Lise S. Engen           ;863
+0;0;0.00;0;0.00;0;0.00;Erik Engen                    ;864
+0;0;0.00;0;0.00;0;0.00;Nuste Enger                   ;865
+0;0;0.00;0;0.00;0;0.00;Per Arne Enholm               ;877
+0;0;0.00;0;0.00;0;0.00;Willy Erga                    ;879
+45;1;2.22;29;64.44;11;24.44;Per Arvid Erga                ;880
+330;45;13.64;254;76.97;107;32.42;Tom Erga                      ;881
+0;0;0.00;0;0.00;0;0.00;Johnny Erga                   ;882
+45;2;4.44;34;75.56;7;15.56;Morten Erga                   ;883
+0;0;0.00;0;0.00;0;0.00;Kjell Erik Eriksen            ;887
+25;0;0.00;19;0.00;5;0.00;Rune Eriksen                  ;888
+0;0;0.00;0;0.00;0;0.00;Geir Arne Eriksen             ;889
+56;7;12.50;45;80.36;3;5.36;Einar Ludvig Eriksen          ;890
+0;0;0.00;0;0.00;0;0.00;Alice Eriksen                 ;891
+621;40;6.44;481;77.46;72;11.59;Johan Kringeland Eriksen      ;892
+0;0;0.00;0;0.00;0;0.00;Stine Dyngeland Eriksen       ;893
+0;0;0.00;0;0.00;0;0.00;Børre Ertzaas                 ;960
+2;0;0.00;1;0.00;0;0.00;Annika T. Espedal             ;963
+2;0;0.00;2;0.00;0;0.00;Trine-Alice T. Espedal        ;964
+11;0;0.00;4;0.00;1;0.00;Frode Espeland                ;965
+0;0;0.00;0;0.00;0;0.00;Anja Espeland                 ;966
+0;0;0.00;0;0.00;0;0.00;Gry-Silje Espelid             ;967
+5;0;0.00;1;0.00;0;0.00;Widar Evensen                 ;974
+0;0;0.00;0;0.00;0;0.00;Wenche Evenshaug              ;975
+0;0;0.00;0;0.00;0;0.00;Charles Evertsen              ;976
+0;0;0.00;0;0.00;0;0.00;Ingvild Charlen Evertsen      ;977
+0;0;0.00;0;0.00;0;0.00;Vilde Fagerlund               ;984
+0;0;0.00;0;0.00;0;0.00;Ole Jan Fallet                ;987
+0;0;0.00;0;0.00;0;0.00;Hege Fatland                  ;994
+0;0;0.00;0;0.00;0;0.00;Mariann V. Fennefoss          ;998
+0;0;0.00;0;0.00;0;0.00;Johan Roger Fenstad           ;999
+0;0;0.00;0;0.00;0;0.00;Jens Ferløv                   ;1002
+0;0;0.00;0;0.00;0;0.00;Mari-Anne Fiane               ;1005
+9;0;0.00;9;0.00;1;0.00;Camilla G. Fidje              ;1006
+76;3;3.95;53;69.74;16;21.05;Martine Finsand               ;1012
+0;0;0.00;0;0.00;0;0.00;Line Fjeldvik                 ;1017
+0;0;0.00;0;0.00;0;0.00;Jens Ivar Fjellhaug           ;1018
+0;0;0.00;0;0.00;0;0.00;Eivind Fjellstad              ;1019
+0;0;0.00;0;0.00;0;0.00;Tonje Fjellstad               ;1020
+9;1;11.11;7;77.78;0;0.00;Frode Fladen                  ;1022
+0;0;0.00;0;0.00;0;0.00;Rune Flaskerud                ;1023
+0;0;0.00;0;0.00;0;0.00;Olav R. Flatekvål             ;1024
+0;0;0.00;0;0.00;0;0.00;Egil Flenes Stall             ;1025
+7;0;0.00;2;0.00;0;0.00;Gorm Flognes                  ;1035
+18;0;0.00;11;0.00;6;0.00;Eva Flolid                    ;1036
+0;0;0.00;0;0.00;0;0.00;Jan Arne Flor                 ;1037
+0;0;0.00;0;0.00;0;0.00;Mette Fløttum                 ;1041
+64;4;6.25;60;93.75;30;46.88;Tommy Jensen Fløysand         ;1042
+0;0;0.00;0;0.00;0;0.00;Endre Flå                     ;1043
+272;35;12.87;214;78.68;88;32.35;Geir Flåten                   ;1044
+5;0;0.00;4;0.00;1;0.00;Gunnar Flåten                 ;1045
+36;1;2.78;28;77.78;5;13.89;Helene G. Forberg             ;1052
+0;0;0.00;0;0.00;0;0.00;Tom Forkerud                  ;1053
+0;0;0.00;0;0.00;0;0.00;Tom Forkerud                  ;1054
+0;0;0.00;0;0.00;0;0.00;Erna Forsberg                 ;1056
+1;0;0.00;1;0.00;0;0.00;Thomas Forsberg               ;1057
+4;0;0.00;1;0.00;0;0.00;Mika Forss                    ;1065
+0;0;0.00;0;0.00;0;0.00;Beate Fosse                   ;1067
+21;2;9.52;16;76.19;3;14.29;Solveig Maria Fosse           ;1068
+2;0;0.00;1;0.00;0;0.00;Robert S. Fossen              ;1069
+16;0;0.00;10;0.00;6;0.00;Arne Petter Fossen            ;1070
+0;0;0.00;0;0.00;0;0.00;Jan Foyn                      ;1071
+0;0;0.00;0;0.00;0;0.00;Kent Frankert                 ;1075
+10;0;0.00;9;0.00;6;0.00;Andrea Frednes                ;1077
+0;0;0.00;0;0.00;0;0.00;Birgitte Fredriksen           ;1078
+13;5;38.46;13;100.00;3;23.08;Ragnar Fremstad               ;1082
+80;2;2.50;62;77.50;21;26.25;Monika Fremstad               ;1083
+0;0;0.00;0;0.00;0;0.00;Lene Nielsen Frogner          ;1100
+0;0;0.00;0;0.00;0;0.00;Nils-Erik Frøhaug             ;1107
+146;13;8.90;107;73.29;45;30.82;Anette Frønes                 ;1108
+0;0;0.00;0;0.00;0;0.00;Linn Isaksen Frøysland        ;1109
+23;3;13.04;19;82.61;3;13.04;Olea Villa Furre              ;1112
+1;0;0.00;1;0.00;0;0.00;Maria Faanes                  ;1114
+0;0;0.00;0;0.00;0;0.00;Monica Gabrielsen             ;1115
+0;0;0.00;0;0.00;0;0.00;Stein Galgerud                ;1121
+4;0;0.00;2;0.00;1;0.00;Bjørn Vidar Garseg            ;1131
+0;0;0.00;0;0.00;0;0.00;Rune Garseg                   ;1132
+151;17;11.26;128;84.77;42;27.81;Jan Rune Gaustad              ;1133
+0;0;0.00;0;0.00;0;0.00;Yaiza Gaustad                 ;1134
+0;0;0.00;0;0.00;0;0.00;Linn Anita S. Gaustad         ;1135
+0;0;0.00;0;0.00;0;0.00;Jan Tormod Gilja              ;1155
+0;0;0.00;0;0.00;0;0.00;Gunnar H. Gjelsvik            ;1162
+0;0;0.00;0;0.00;0;0.00;Frauke B. Gjendal             ;1163
+25;0;0.00;19;0.00;3;0.00;Maren Andrea Gjermundrød      ;1164
+0;0;0.00;0;0.00;0;0.00;Gunnar Gjerstad               ;1165
+1;1;100.00;1;100.00;0;0.00;Julie Ann Gjerstad            ;1166
+21;2;9.52;20;95.24;6;28.57;Ove Sigmund Gjeruldsen        ;1167
+15;1;6.67;14;93.33;1;6.67;Trond Gjervan                 ;1168
+0;0;0.00;0;0.00;0;0.00;Madelen Gjesdal               ;1169
+0;0;0.00;0;0.00;0;0.00;Torgeir Gjølberg              ;1171
+0;0;0.00;0;0.00;0;0.00;Kristine K. Glesnes           ;1173
+0;0;0.00;0;0.00;0;0.00;Petter Glittum                ;1174
+7;1;14.29;6;85.71;1;14.29;Truls S. Glittum              ;1175
+6;0;0.00;4;0.00;3;0.00;Martin Opheim Gløersen        ;1176
+0;0;0.00;0;0.00;0;0.00;Per Gottling                  ;1192
+248;27;10.89;193;77.82;62;25.00;Bjørn Garberg                 ;1203
+170;2;1.18;129;75.88;45;26.47;Eivind Gravdal                ;1210
+1;0;0.00;0;0.00;0;0.00;Per-Erik Gravdal              ;1211
+0;0;0.00;0;0.00;0;0.00;Tron Gravdal                  ;1212
+6;1;16.67;6;100.00;3;50.00;Christine Marie Gravdal       ;1213
+0;0;0.00;0;0.00;0;0.00;John Helge Gravvold           ;1215
+1;0;0.00;1;0.00;0;0.00;Annika Gresseth               ;1220
+0;0;0.00;0;0.00;0;0.00;Tormod Gretland               ;1221
+0;0;0.00;0;0.00;0;0.00;Mia Gretland                  ;1222
+11;0;0.00;9;0.00;6;0.00;Marte Greve                   ;1223
+0;0;0.00;0;0.00;0;0.00;Terry Gribbin                 ;1224
+9;0;0.00;8;0.00;4;0.00;Guri Grimsgård                ;1228
+4;0;0.00;3;0.00;0;0.00;Julie Grindbakken             ;1229
+27;1;3.70;20;74.07;4;14.81;Espen Grohs                   ;1232
+0;0;0.00;0;0.00;0;0.00;Wolfgang Ewald Grote          ;1233
+0;0;0.00;0;0.00;0;0.00;Knut Halvor Grønbekk          ;1237
+52;2;3.85;38;73.08;13;25.00;Tonje Gudmestad               ;1243
+0;0;0.00;0;0.00;0;0.00;Miriam Gudmestad              ;1244
+0;0;0.00;0;0.00;0;0.00;Marius Tjørhom Gudmestad      ;1245
+18;0;0.00;16;0.00;6;0.00;Tor Leiv Gudmestad            ;1246
+76;12;15.79;61;80.26;13;17.11;Ole Gaute Gudmestad           ;1247
+275;38;13.82;215;78.18;62;22.55;Geir Gudmestad                ;1248
+32;3;9.38;23;71.88;3;9.38;Torstein Gudmestad            ;1249
+0;0;0.00;0;0.00;0;0.00;Trond Gudmestad               ;1250
+0;0;0.00;0;0.00;0;0.00;Torbjørn Gudmestad            ;1251
+48;2;4.17;36;75.00;20;41.67;Tormod Gudmestad              ;1252
+3;0;0.00;2;0.00;2;0.00;Rannveig Gudmestad            ;1253
+0;0;0.00;0;0.00;0;0.00;May Tove Gudmestad            ;1254
+0;0;0.00;0;0.00;0;0.00;Lise Gulbrandsen              ;1256
+5;0;0.00;4;0.00;1;0.00;Paal Gulbrandsen              ;1257
+0;0;0.00;0;0.00;0;0.00;Bjørn Gulbransen              ;1258
+0;0;0.00;0;0.00;0;0.00;Håkon Gulheim                 ;1260
+0;0;0.00;0;0.00;0;0.00;Helge Gundersen               ;1261
+0;0;0.00;0;0.00;0;0.00;Øystein Gundersen             ;1262
+0;0;0.00;0;0.00;0;0.00;Kristen T. Gundersen          ;1263
+0;0;0.00;0;0.00;0;0.00;Esben Gundersen               ;1264
+0;0;0.00;0;0.00;0;0.00;Geir Vegard Gundersen         ;1265
+736;113;15.35;604;82.07;167;22.69;Magnus Teien Gundersen        ;1266
+0;0;0.00;0;0.00;0;0.00;Line Gundersen                ;1267
+0;0;0.00;0;0.00;0;0.00;Rune Gundersen                ;1268
+230;35;15.22;181;78.70;45;19.57;Geir Vegard Gundersen         ;1269
+0;0;0.00;0;0.00;0;0.00;Jarle R. Gustavsen            ;1295
+0;0;0.00;0;0.00;0;0.00;Bjørn Gustavsen               ;1296
+9;0;0.00;4;0.00;1;0.00;Elin Gustavsson               ;1299
+0;0;0.00;0;0.00;0;0.00;Osvald Guttorm                ;1311
+0;0;0.00;0;0.00;0;0.00;Janne Gyland                  ;1313
+1;0;0.00;0;0.00;0;0.00;Stig Gyllensten               ;1314
+0;0;0.00;0;0.00;0;0.00;Tove Elin Gyllensten          ;1315
+0;0;0.00;0;0.00;0;0.00;Mats Gællerstedt              ;1318
+0;0;0.00;0;0.00;0;0.00;Otto S. Gøperød               ;1321
+0;0;0.00;0;0.00;0;0.00;Ola Røstad Haga               ;1332
+53;4;7.55;45;84.91;19;35.85;Harald Inge Hagen             ;1334
+0;0;0.00;0;0.00;0;0.00;Tor Ivar Hagen                ;1336
+51;1;1.96;42;82.35;10;19.61;Roya Haghighat                ;1337
+0;0;0.00;0;0.00;0;0.00;Signe Haglund                 ;1338
+0;0;0.00;0;0.00;0;0.00;Torgeir Hagmann               ;1342
+0;0;0.00;0;0.00;0;0.00;Hans Tore Halland             ;1348
+0;0;0.00;0;0.00;0;0.00;Tor Olaf Halle                ;1350
+0;0;0.00;0;0.00;0;0.00;Jan Erik Halvardsson          ;1360
+98;2;2.04;74;75.51;9;9.18;Ronny Halvorsen               ;1363
+6;1;16.67;4;66.67;3;50.00;Frank Ove Halvorsen           ;1364
+0;0;0.00;0;0.00;0;0.00;Rune Halvorsen                ;1365
+0;0;0.00;0;0.00;0;0.00;Henrikke Halvorsrud           ;1366
+0;0;0.00;0;0.00;0;0.00;Ulf Hammern                   ;1372
+26;3;11.54;20;76.92;8;30.77;Roald Hamre                   ;1374
+375;77;20.53;316;84.27;61;16.27;Frode Hamre                   ;1375
+60;7;11.67;52;86.67;12;20.00;Christina A. Hande            ;1376
+1;0;0.00;0;0.00;0;0.00;Bjørn Handeland               ;1377
+123;5;4.07;102;82.93;41;33.33;Kenneth Handeland             ;1378
+3;0;0.00;2;0.00;0;0.00;Terje Hanestad                ;1381
+0;0;0.00;0;0.00;0;0.00;Wenche Hansen                 ;1388
+9;0;0.00;6;0.00;5;0.00;Roger Hansen                  ;1390
+0;0;0.00;0;0.00;0;0.00;Svein-Petter Hansen           ;1391
+0;0;0.00;0;0.00;0;0.00;Frode Hansen                  ;1392
+0;0;0.00;0;0.00;0;0.00;Tor Øyvind Hansen             ;1394
+0;0;0.00;0;0.00;0;0.00;Rolf Tore Hansen              ;1395
+0;0;0.00;0;0.00;0;0.00;Ronnie Hansen                 ;1396
+228;16;7.02;175;76.75;47;20.61;Joakim Hansen                 ;1397
+10;0;0.00;6;0.00;3;0.00;Frode Hansen                  ;1400
+0;0;0.00;0;0.00;0;0.00;Ole-Jonny Hansen              ;1404
+0;0;0.00;0;0.00;0;0.00;Jan Morten Hansen             ;1405
+0;0;0.00;0;0.00;0;0.00;Helene Heim Hansen            ;1410
+15;0;0.00;11;0.00;5;0.00;Liv Marie Hansen              ;1412
+0;0;0.00;0;0.00;0;0.00;Camilla Hansen                ;1423
+0;0;0.00;0;0.00;0;0.00;Sally Merete Hansen           ;1424
+0;0;0.00;0;0.00;0;0.00;Amanda I. Hansen              ;1428
+0;0;0.00;0;0.00;0;0.00;Marita Hanssen                ;1429
+0;0;0.00;0;0.00;0;0.00;June Hanssen                  ;1430
+0;0;0.00;0;0.00;0;0.00;Nora Udjus Hanssen            ;1431
+3;0;0.00;2;0.00;1;0.00;Eldar Harviken                ;1439
+0;0;0.00;0;0.00;0;0.00;Roger Hasle                   ;1440
+0;0;0.00;0;0.00;0;0.00;Liv Haslie                    ;1441
+0;0;0.00;0;0.00;0;0.00;Torstein Hatlevik             ;1443
+0;0;0.00;0;0.00;0;0.00;Marte Hauane                  ;1444
+0;0;0.00;0;0.00;0;0.00;Mina Haug                     ;1446
+0;0;0.00;0;0.00;0;0.00;Ronald Haug                   ;1447
+2;0;0.00;1;0.00;1;0.00;Frode Haugan                  ;1448
+46;0;0.00;31;0.00;2;0.00;Egil Hauge                    ;1449
+281;26;9.25;213;75.80;67;23.84;Lars Tore Hauge               ;1450
+9;0;0.00;6;0.00;2;0.00;Håkon Hagebø Hauge            ;1451
+0;0;0.00;0;0.00;0;0.00;John Hermund Hauge            ;1452
+2;0;0.00;2;0.00;1;0.00;Karin Hauge                   ;1453
+0;0;0.00;0;0.00;0;0.00;Kjetil Haugelien              ;1454
+0;0;0.00;0;0.00;0;0.00;Rune Haugen                   ;1455
+3;0;0.00;3;0.00;0;0.00;Trond Haugen                  ;1456
+0;0;0.00;0;0.00;0;0.00;Jeanette Brandt Haugen        ;1457
+0;0;0.00;0;0.00;0;0.00;Christine Haugen              ;1458
+3;0;0.00;2;0.00;0;0.00;Daniel Haugland               ;1459
+0;0;0.00;0;0.00;0;0.00;Gudmund Haugstad              ;1461
+0;0;0.00;0;0.00;0;0.00;Kenneth Haugstad              ;1462
+0;0;0.00;0;0.00;0;0.00;Marius Haugvaldstad           ;1463
+0;0;0.00;0;0.00;0;0.00;Joachim Haugvaldstad          ;1464
+0;0;0.00;0;0.00;0;0.00;Morten Haukøy                 ;1466
+0;0;0.00;0;0.00;0;0.00;Thomas Haukås                 ;1467
+0;0;0.00;0;0.00;0;0.00;Sebastian Hedblom             ;1473
+197;15;7.61;156;79.19;52;26.40;Øyvind Hegdal                 ;1478
+0;0;0.00;0;0.00;0;0.00;Geir Hegdal                   ;1479
+0;0;0.00;0;0.00;0;0.00;Kåre O. Hegdal                ;1480
+0;0;0.00;0;0.00;0;0.00;Catrine Couling Heggland      ;1481
+0;0;0.00;0;0.00;0;0.00;Amanda Hegland                ;1482
+0;0;0.00;0;0.00;0;0.00;Jens Heia                     ;1483
+0;0;0.00;0;0.00;0;0.00;Bjørnar Heibø                 ;1484
+15;3;20.00;13;86.67;4;26.67;Sondre Heimdal                ;1490
+7;1;14.29;6;85.71;2;28.57;Alexander Heisholt            ;1492
+0;0;0.00;0;0.00;0;0.00;Silje Therese Heistad         ;1494
+0;0;0.00;0;0.00;0;0.00;Helge Heistad                 ;1495
+0;0;0.00;0;0.00;0;0.00;Linn Hernar Helgeland         ;1497
+0;0;0.00;0;0.00;0;0.00;Carina Berge Helgesen         ;1498
+0;0;0.00;0;0.00;0;0.00;Kjetil Helgestad              ;1499
+0;0;0.00;0;0.00;0;0.00;Bror Helgestad                ;1500
+0;0;0.00;0;0.00;0;0.00;Nina Helland                  ;1502
+0;0;0.00;0;0.00;0;0.00;Jill Helland                  ;1503
+6;0;0.00;6;0.00;0;0.00;Magnus Helland                ;1504
+1;0;0.00;0;0.00;0;0.00;Nils-Ivar Helledal            ;1505
+0;0;0.00;0;0.00;0;0.00;Eva Hellem                    ;1506
+0;0;0.00;0;0.00;0;0.00;Kersti Hellevik               ;1507
+15;0;0.00;10;0.00;6;0.00;Sigurd Helmen                 ;1515
+0;0;0.00;0;0.00;0;0.00;Hovel Helmen                  ;1516
+0;0;0.00;0;0.00;0;0.00;Gaute Inge Helseth            ;1517
+0;0;0.00;0;0.00;0;0.00;Trude Hem                     ;1518
+0;0;0.00;0;0.00;0;0.00;Siv Henriksen                 ;1520
+0;0;0.00;0;0.00;0;0.00;Anders Henriksen              ;1523
+0;0;0.00;0;0.00;0;0.00;Dagfin Henriksen              ;1524
+32;0;0.00;27;0.00;11;0.00;Ingolf Herbjørnrød            ;1531
+0;0;0.00;0;0.00;0;0.00;Mathilde Herleiksplass        ;1532
+0;0;0.00;0;0.00;0;0.00;Mathilde Herleiksplass        ;1533
+3;0;0.00;2;0.00;1;0.00;Karoline Herleiksplass        ;1534
+1;0;0.00;1;0.00;0;0.00;Eline Ringen Hernes           ;1535
+0;0;0.00;0;0.00;0;0.00;Narve Heslien                 ;1536
+0;0;0.00;0;0.00;0;0.00;Wenche Hestad                 ;1537
+4;1;25.00;4;100.00;0;0.00;Jan Hetland                   ;1538
+0;0;0.00;0;0.00;0;0.00;Sindre Hindenes               ;1552
+0;0;0.00;0;0.00;0;0.00;Stine-Beate Hjartholm         ;1559
+5;0;0.00;4;0.00;2;0.00;Lise Hjetland                 ;1561
+4;2;50.00;4;100.00;1;25.00;Sverre Hjørnerød              ;1564
+0;0;0.00;0;0.00;0;0.00;Atle Gustav Hoel              ;1566
+0;0;0.00;0;0.00;0;0.00;Martin Hoel                   ;1567
+0;0;0.00;0;0.00;0;0.00;Stein-Harald Hoftaniska       ;1571
+0;0;0.00;0;0.00;0;0.00;Stine Hogseth                 ;1572
+0;0;0.00;0;0.00;0;0.00;Hans Gunnar Hogsnes           ;1573
+0;0;0.00;0;0.00;0;0.00;Aleksander Hoksrud            ;1575
+16;0;0.00;13;0.00;5;0.00;Stine Hole                    ;1577
+1;0;0.00;1;0.00;0;0.00;Inger Halldis Holm            ;1588
+2;0;0.00;2;0.00;0;0.00;Nora Hagelund Holm            ;1589
+665;39;5.86;510;76.69;197;29.62;Hans Chr. Holm                ;1590
+0;0;0.00;0;0.00;0;0.00;Trond Holm                    ;1592
+29;3;10.34;25;86.21;1;3.45;Steinar Holm                  ;1593
+0;0;0.00;0;0.00;0;0.00;Per-Åke Holm                  ;1595
+67;4;5.97;57;85.07;21;31.34;Nils Olav Holm                ;1596
+17;0;0.00;13;0.00;5;0.00;Erland Holm                   ;1597
+0;0;0.00;0;0.00;0;0.00;Finn Holmen                   ;1600
+0;0;0.00;0;0.00;0;0.00;Håkan Holmstrand              ;1606
+2;0;0.00;2;0.00;2;0.00;Beate Holmstrøm               ;1607
+0;0;0.00;0;0.00;0;0.00;Elise Kristine Holt           ;1610
+0;0;0.00;0;0.00;0;0.00;Caroline S. Holtan            ;1611
+0;0;0.00;0;0.00;0;0.00;Per Dave Holtung              ;1614
+0;0;0.00;0;0.00;0;0.00;Anders Hop                    ;1618
+1278;125;9.78;1034;80.91;36;2.82;Vidar Hop                     ;1619
+27;0;0.00;15;0.00;2;0.00;Erik Hagseth Hordvik          ;1620
+65;3;4.62;51;78.46;7;10.77;Tor-Bjørn Horpestad           ;1621
+0;0;0.00;0;0.00;0;0.00;Geir Horpestad                ;1622
+0;0;0.00;0;0.00;0;0.00;Henning N. Horpestad          ;1625
+0;0;0.00;0;0.00;0;0.00;Kim M. Horstad                ;1627
+0;0;0.00;0;0.00;0;0.00;Marte Hotvedt                 ;1628
+0;0;0.00;0;0.00;0;0.00;Helge Hovde                   ;1630
+9;0;0.00;7;0.00;4;0.00;Arvid M. Hovsten              ;1632
+0;0;0.00;0;0.00;0;0.00;Stian Hovstø                  ;1633
+28;4;14.29;20;71.43;3;10.71;Anders Hultgren               ;1638
+23;1;4.35;16;69.57;4;17.39;Bjørn Humborstad              ;1643
+27;1;3.70;23;85.19;7;25.93;Bård Humborstad               ;1644
+0;0;0.00;0;0.00;0;0.00;Karl Henry Humlekjær          ;1645
+2;0;0.00;1;0.00;1;0.00;Sunniva S. Husby              ;1647
+5;2;40.00;5;100.00;0;0.00;Frode Husbyn                  ;1648
+0;0;0.00;0;0.00;0;0.00;Katja Huuskonen               ;1650
+43;11;25.58;33;76.74;11;25.58;Per M. Hvattum                ;1652
+0;0;0.00;0;0.00;0;0.00;Tormod Hynne                  ;1655
+0;0;0.00;0;0.00;0;0.00;Ann Charlotte Hyytiainen      ;1657
+0;0;0.00;0;0.00;0;0.00;Lena Høiland                  ;1668
+29;0;0.00;23;0.00;7;0.00;Synne Høitomt                 ;1669
+126;14;11.11;104;82.54;33;26.19;Marius Høitomt                ;1670
+1835;253;13.79;1481;80.71;328;17.87;Eirik Høitomt                 ;1671
+34;2;5.88;22;64.71;12;35.29;Hege Kristin Høyland          ;1672
+0;0;0.00;0;0.00;0;0.00;Knut Haakenstad               ;1675
+1;0;0.00;0;0.00;0;0.00;Carl Andre Håkestad           ;1676
+0;0;0.00;0;0.00;0;0.00;Kjell Håkonsen                ;1677
+0;0;0.00;0;0.00;0;0.00;Alfred Haaland                ;1678
+59;3;5.08;40;67.80;15;25.42;Håkon Håvardstun              ;1684
+3;0;0.00;3;0.00;0;0.00;Tore Håvardstun               ;1685
+0;0;0.00;0;0.00;0;0.00;Trond Håvardstun              ;1686
+2;0;0.00;2;0.00;2;0.00;June Marie Idland             ;1688
+0;0;0.00;0;0.00;0;0.00;Lene Bjånes Indrevær          ;1695
+27;0;0.00;14;0.00;1;0.00;Ole Johan Ingebrigtsen        ;1696
+0;0;0.00;0;0.00;0;0.00;Odd-Bjørnar Ingebrigtsen      ;1697
+1;0;0.00;1;0.00;1;0.00;Gro Ingvaldsen                ;1700
+3;0;0.00;2;0.00;1;0.00;Anette Isaksen                ;1706
+0;0;0.00;0;0.00;0;0.00;Jorunn Isaksen                ;1707
+10;0;0.00;4;0.00;3;0.00;Stine-Elise Iversen           ;1717
+0;0;0.00;0;0.00;0;0.00;Ely Rishaug Iversen           ;1718
+0;0;0.00;0;0.00;0;0.00;Reidar Jacobsen               ;1721
+2;0;0.00;2;0.00;1;0.00;Anders Jahre                  ;1729
+0;0;0.00;0;0.00;0;0.00;Anne Jakhelln                 ;1730
+0;0;0.00;0;0.00;0;0.00;Sigmund Jakobsen              ;1733
+22;3;13.64;17;77.27;1;4.55;Ida Jansen                    ;1744
+0;0;0.00;0;0.00;0;0.00;Nils Kristian Jansen          ;1745
+0;0;0.00;0;0.00;0;0.00;Vereide Jeanette T.           ;1766
+0;0;0.00;0;0.00;0;0.00;Stine-Mari Jensen             ;1768
+2;0;0.00;1;0.00;1;0.00;Terje Jensen                  ;1776
+0;0;0.00;0;0.00;0;0.00;Helge W. Jensen               ;1781
+0;0;0.00;0;0.00;0;0.00;Carina Marie Jensen           ;1782
+0;0;0.00;0;0.00;0;0.00;Trond Søhoel Jensen           ;1789
+0;0;0.00;0;0.00;0;0.00;Monika Nordli Jenssen         ;1790
+0;0;0.00;0;0.00;0;0.00;Tor Anders Jensvoll           ;1791
+147;17;11.56;123;83.67;24;16.33;Simen Bremseth Jessen         ;1800
+0;0;0.00;0;0.00;0;0.00;Silje Jessen                  ;1801
+0;0;0.00;0;0.00;0;0.00;Fredrik Jessen                ;1802
+0;0;0.00;0;0.00;0;0.00;Fredrik Jessen                ;1803
+0;0;0.00;0;0.00;0;0.00;Anne Berit S. Johannessen     ;1805
+0;0;0.00;0;0.00;0;0.00;Fred Johannessen              ;1806
+0;0;0.00;0;0.00;0;0.00;Steinar Johannessen           ;1807
+12;1;8.33;9;75.00;5;41.67;Per Johansen                  ;1810
+1;0;0.00;0;0.00;0;0.00;Jan-Ivar Johansen             ;1811
+0;0;0.00;0;0.00;0;0.00;Arvid Johansen                ;1812
+0;0;0.00;0;0.00;0;0.00;Øyvind Tore Johansen          ;1813
+0;0;0.00;0;0.00;0;0.00;Sven Håkon Johansen           ;1814
+0;0;0.00;0;0.00;0;0.00;Line Voss Johansen            ;1815
+0;0;0.00;0;0.00;0;0.00;Dag Johansen                  ;1816
+23;0;0.00;17;0.00;5;0.00;Lisa Johansen                 ;1817
+0;0;0.00;0;0.00;0;0.00;Silje Marie L. Johansen       ;1818
+0;0;0.00;0;0.00;0;0.00;Line Johansen                 ;1819
+0;0;0.00;0;0.00;0;0.00;Erland Johansen               ;1820
+0;0;0.00;0;0.00;0;0.00;Merete Johansen               ;1821
+0;0;0.00;0;0.00;0;0.00;Ståle B. Johansen             ;1822
+0;0;0.00;0;0.00;0;0.00;Tom Johansen                  ;1823
+7;0;0.00;6;0.00;5;0.00;Tanja Johansen                ;1824
+0;0;0.00;0;0.00;0;0.00;Trond W. Johansen             ;1825
+0;0;0.00;0;0.00;0;0.00;Kristin Høgmo Johansen        ;1826
+2;0;0.00;2;0.00;1;0.00;Janne Johansen                ;1827
+0;0;0.00;0;0.00;0;0.00;Thorunn Bergsta Johansen      ;1828
+2;0;0.00;1;0.00;1;0.00;Karolina Johansson            ;1862
+0;0;0.00;0;0.00;0;0.00;Terje Johnsen                 ;1880
+0;0;0.00;0;0.00;0;0.00;Harald Johnsen                ;1881
+0;0;0.00;0;0.00;0;0.00;Lars Johnsen                  ;1882
+29;1;3.45;24;82.76;11;37.93;Ole Johnsen                   ;1885
+2;0;0.00;2;0.00;1;0.00;Jan Marius Johnsen            ;1886
+0;0;0.00;0;0.00;0;0.00;Leif Johnsen                  ;1887
+0;0;0.00;0;0.00;0;0.00;Roy H. Johnsen                ;1889
+0;0;0.00;0;0.00;0;0.00;Kristin Johnsen               ;1890
+0;0;0.00;0;0.00;0;0.00;Ane B. Salen Johnsen          ;1891
+14;0;0.00;11;0.00;0;0.00;Dag Petter Johnsrud           ;1893
+0;0;0.00;0;0.00;0;0.00;Svein Jokerud                 ;1895
+0;0;0.00;0;0.00;0;0.00;Willy Jonli                   ;1908
+55;1;1.82;47;85.45;6;10.91;Silje Jordalen                ;1929
+64;0;0.00;49;0.00;2;0.00;Anita Hansen Juklerød         ;1935
+1;1;100.00;1;100.00;0;0.00;Tiril Furnes Jørgensen        ;1952
+0;0;0.00;0;0.00;0;0.00;Wilfred Jørgensen             ;1956
+0;0;0.00;0;0.00;0;0.00;Hege Jørgensen                ;1957
+0;0;0.00;0;0.00;0;0.00;Alf-Einar Jørgensen           ;1961
+0;0;0.00;0;0.00;0;0.00;Anna Jørgensen                ;1962
+1;0;0.00;1;0.00;0;0.00;Per Jørgensen                 ;1963
+0;0;0.00;0;0.00;0;0.00;Rolf Ola Kals                 ;1974
+0;0;0.00;0;0.00;0;0.00;Per Vetle Kals                ;1975
+2;0;0.00;2;0.00;1;0.00;Vilde M. Kals                 ;1976
+270;18;6.67;203;75.19;62;22.96;Per Vetle Kals                ;1977
+0;0;0.00;0;0.00;0;0.00;Gunn Carol Kampesveen         ;1980
+0;0;0.00;0;0.00;0;0.00;Maja Kanstad                  ;1984
+38;1;2.63;27;71.05;9;23.68;Maja Kanstad                  ;1985
+7;0;0.00;5;0.00;3;0.00;Gry Kanstad                   ;1986
+2;0;0.00;1;0.00;0;0.00;Jouni Karhu                   ;1988
+0;0;0.00;0;0.00;0;0.00;Ida-Marie Karlin              ;1994
+2;0;0.00;1;0.00;0;0.00;Henrik Karlin                 ;1995
+0;0;0.00;0;0.00;0;0.00;April Karlsen                 ;1996
+228;15;6.58;164;71.93;53;23.25;Thomas Sverre Karlsen         ;1997
+4;1;25.00;4;100.00;1;25.00;Ove Kenneth Karlsen           ;1998
+0;0;0.00;0;0.00;0;0.00;Ragnar Karlsen                ;1999
+0;0;0.00;0;0.00;0;0.00;Jarle Karlsen                 ;2000
+0;0;0.00;0;0.00;0;0.00;Karina Karlsen                ;2001
+22;6;27.27;17;77.27;5;22.73;Kari Helen B. Karlsen         ;2002
+0;0;0.00;0;0.00;0;0.00;Jeanett Lund Karlsen          ;2003
+0;0;0.00;0;0.00;0;0.00;Victor Karlsson               ;2042
+0;0;0.00;0;0.00;0;0.00;Kåre Kartevoll                ;2053
+0;0;0.00;0;0.00;0;0.00;Geir Sondre Kartevoll         ;2054
+0;0;0.00;0;0.00;0;0.00;Herman S. Kihle               ;2072
+0;0;0.00;0;0.00;0;0.00;Geir Kihle                    ;2073
+27;6;22.22;25;92.59;6;22.22;Erik Killingmo                ;2076
+0;0;0.00;0;0.00;0;0.00;Brede Killingmo               ;2077
+0;0;0.00;0;0.00;0;0.00;Sara Marie Kittelsen          ;2084
+0;0;0.00;0;0.00;0;0.00;Anne Maren Kjellstrøm         ;2090
+0;0;0.00;0;0.00;0;0.00;Mette Kjelsli                 ;2091
+0;0;0.00;0;0.00;0;0.00;Ole-Christian Kjenner         ;2092
+80;7;8.75;63;78.75;12;15.00;Christina Kjenner             ;2093
+236;13;5.51;185;78.39;61;25.85;Ole Christian Kjenner         ;2094
+0;0;0.00;0;0.00;0;0.00;Sidsel Kjeve                  ;2095
+0;0;0.00;0;0.00;0;0.00;Leif Kjøniksen                ;2098
+0;0;0.00;0;0.00;0;0.00;Stine Helen R. Kjøpsnes       ;2099
+91;4;4.40;61;67.03;20;21.98;Odd Arne Kjøsnes              ;2100
+0;0;0.00;0;0.00;0;0.00;Bodil Klausen                 ;2101
+0;0;0.00;0;0.00;0;0.00;Renate Klausen                ;2102
+9;0;0.00;7;0.00;1;0.00;Per Kr. Klemmetsen            ;2104
+34;0;0.00;28;0.00;6;0.00;Marion Kleveland              ;2106
+0;0;0.00;0;0.00;0;0.00;Kine Kleveland                ;2107
+33;4;12.12;24;72.73;4;12.12;Trude Kleveland               ;2108
+6;0;0.00;5;0.00;0;0.00;Mona Kleveland                ;2109
+0;0;0.00;0;0.00;0;0.00;Kenneth Klever                ;2110
+0;0;0.00;0;0.00;0;0.00;Dorte Klimes                  ;2111
+0;0;0.00;0;0.00;0;0.00;Sonja Kløften                 ;2117
+0;0;0.00;0;0.00;0;0.00;Stein Ivar Kløven             ;2118
+2;1;50.00;2;100.00;0;0.00;Jeanett D. Knappskog          ;2119
+0;0;0.00;0;0.00;0;0.00;Svein Knapskaug               ;2120
+0;0;0.00;0;0.00;0;0.00;Truls Knive                   ;2121
+0;0;0.00;0;0.00;0;0.00;Sven Sturla Knudsen           ;2123
+0;0;0.00;0;0.00;0;0.00;Kari Anne Knutsen             ;2124
+0;0;0.00;0;0.00;0;0.00;Arnulf Knutsen                ;2125
+0;0;0.00;0;0.00;0;0.00;Malin Estenstad Knutsen       ;2126
+64;4;6.25;46;71.88;17;26.56;Ernst-Petter Knutsen          ;2127
+0;0;0.00;0;0.00;0;0.00;Børre Knutsen                 ;2128
+0;0;0.00;0;0.00;0;0.00;Marie Knutsen                 ;2129
+0;0;0.00;0;0.00;0;0.00;Knut Bjørnar Knutsen          ;2130
+0;0;0.00;0;0.00;0;0.00;Egle Kochanauskaite           ;2133
+113;19;16.81;94;83.19;27;23.89;Lars Fredrik Kolle            ;2145
+129;41;31.78;109;84.50;28;21.71;Helene Kolle                  ;2146
+1160;105;9.05;949;81.81;271;23.36;Lars Anvar Kolle              ;2147
+0;0;0.00;0;0.00;0;0.00;Harald Dagfinn Koller         ;2148
+0;0;0.00;0;0.00;0;0.00;Sigbjørn Kolnes               ;2149
+0;0;0.00;0;0.00;0;0.00;Trond Kolstad                 ;2150
+0;0;0.00;0;0.00;0;0.00;Aina T. Korsmo                ;2167
+5;0;0.00;5;0.00;0;0.00;Olav Korssjøen                ;2168
+17;2;11.76;13;76.47;6;35.29;Rakel Krabseth                ;2175
+0;0;0.00;0;0.00;0;0.00;Astrid Kristensen             ;2186
+0;0;0.00;0;0.00;0;0.00;Trond-Egil Kristensen         ;2187
+0;0;0.00;0;0.00;0;0.00;Christiane J. Kristiansen     ;2188
+0;0;0.00;0;0.00;0;0.00;Ellen K. Låhne Kristiansen    ;2189
+2;0;0.00;2;0.00;1;0.00;Pål Kristiansen               ;2190
+2;0;0.00;1;0.00;1;0.00;Cecilie Kristiansen           ;2191
+0;0;0.00;0;0.00;0;0.00;Lars Kristiansen              ;2192
+8;0;0.00;4;0.00;0;0.00;Henry Kristiansen             ;2193
+0;0;0.00;0;0.00;0;0.00;Arne Kristiansen              ;2195
+119;6;5.04;88;73.95;21;17.65;Edvard Kristiansen            ;2196
+6;1;16.67;6;100.00;1;16.67;Linda Kristiansen             ;2197
+0;0;0.00;0;0.00;0;0.00;Inge Kristoffersen            ;2200
+0;0;0.00;0;0.00;0;0.00;Kjetil Kristoffersen          ;2201
+0;0;0.00;0;0.00;0;0.00;Karoline Krogh-Hanssen        ;2203
+3;0;0.00;2;0.00;1;0.00;Tone Elisabeth Krokdal        ;2204
+36;6;16.67;31;86.11;9;25.00;Øystein Kruse                 ;2205
+115;6;5.22;97;84.35;26;22.61;Henrik Kulblik                ;2215
+18;1;5.56;13;72.22;2;11.11;Thea Merete Kulblik           ;2216
+2;0;0.00;1;0.00;0;0.00;Thor Daniel Kulblik           ;2217
+0;0;0.00;0;0.00;0;0.00;Aina Kulterud                 ;2220
+0;0;0.00;0;0.00;0;0.00;Svein Ola Kurås               ;2230
+8;0;0.00;5;0.00;1;0.00;Jan Kvalen                    ;2234
+84;5;5.95;68;80.95;16;19.05;Daniel Kvamsdal               ;2235
+284;39;13.73;242;85.21;51;17.96;Kristine Kvasnes              ;2236
+3;0;0.00;2;0.00;0;0.00;Stine Elvine Kvernberg        ;2237
+0;0;0.00;0;0.00;0;0.00;Anne Kvikne-Moe               ;2238
+0;0;0.00;0;0.00;0;0.00;Jørn Morten Kvikstad          ;2239
+126;12;9.52;100;79.37;25;19.84;Jørn Morten Kvikstad          ;2240
+0;0;0.00;0;0.00;0;0.00;Håkon Marius Kvæken           ;2241
+0;0;0.00;0;0.00;0;0.00;Gunleiv Kvål                  ;2242
+0;0;0.00;0;0.00;0;0.00;Karen Eriksen Kvåle           ;2243
+0;0;0.00;0;0.00;0;0.00;Hilde Karin Køhne             ;2253
+5;0;0.00;3;0.00;2;0.00;Caroline Kaarevik             ;2254
+7;1;14.29;5;71.43;4;57.14;May Linn Kåsa                 ;2258
+0;0;0.00;0;0.00;0;0.00;Arild Kaasa                   ;2259
+0;0;0.00;0;0.00;0;0.00;Christian Kaasa               ;2260
+5;2;40.00;4;80.00;0;0.00;Tina Lagesen                  ;2269
+0;0;0.00;0;0.00;0;0.00;Lage Lagesen                  ;2270
+73;3;4.11;61;83.56;17;23.29;Inga Andrea Lamvik            ;2280
+0;0;0.00;0;0.00;0;0.00;Siv Marit Jonli Lamøy         ;2282
+5;0;0.00;4;0.00;1;0.00;Kristian Lamøy                ;2283
+2;0;0.00;2;0.00;2;0.00;Marianne Landsem              ;2285
+0;0;0.00;0;0.00;0;0.00;Petter Landsrød               ;2286
+200;10;5.00;132;66.00;34;17.00;Jan Erik Landaas              ;2289
+0;0;0.00;0;0.00;0;0.00;Torstein Landaas              ;2290
+0;0;0.00;0;0.00;0;0.00;Anders Langerud               ;2291
+0;0;0.00;0;0.00;0;0.00;Hanne Tora Langerud           ;2292
+0;0;0.00;0;0.00;0;0.00;Kåre Langseth                 ;2295
+2;0;0.00;1;0.00;0;0.00;Tonje Langsæter               ;2296
+0;0;0.00;0;0.00;0;0.00;Marthe Langørgen              ;2297
+0;0;0.00;0;0.00;0;0.00;Celine Magnus Larsen          ;2299
+0;0;0.00;0;0.00;0;0.00;Elias Larsen                  ;2304
+0;0;0.00;0;0.00;0;0.00;Susann Larsen                 ;2305
+0;0;0.00;0;0.00;0;0.00;Anja Ruud Larsen              ;2306
+13;0;0.00;10;0.00;3;0.00;Bjørn Larsen                  ;2312
+15;0;0.00;12;0.00;1;0.00;Linda Marie Larsen            ;2313
+0;0;0.00;0;0.00;0;0.00;Roar Skaug Larsen             ;2314
+0;0;0.00;0;0.00;0;0.00;Rune Larsen                   ;2316
+0;0;0.00;0;0.00;0;0.00;Thor Frank Ruud Larsen        ;2318
+0;0;0.00;0;0.00;0;0.00;Jan Sverre Larsen             ;2319
+0;0;0.00;0;0.00;0;0.00;Bo Larsen                     ;2322
+0;0;0.00;0;0.00;0;0.00;Reidun Lassegård              ;2350
+20;0;0.00;11;0.00;5;0.00;Kurt Magne Lauvsnes           ;2360
+0;0;0.00;0;0.00;0;0.00;Renate Lea                    ;2363
+22;1;4.55;18;81.82;5;22.73;Brit Lea                      ;2364
+0;0;0.00;0;0.00;0;0.00;May Helen Lea                 ;2365
+2;0;0.00;1;0.00;1;0.00;June Leire                    ;2383
+2;0;0.00;2;0.00;1;0.00;Mads Arne Leivseth            ;2384
+3;1;33.33;2;66.67;1;33.33;Marita J. Leivseth            ;2385
+4;0;0.00;3;0.00;0;0.00;Tom Arild Lekvam              ;2389
+0;0;0.00;0;0.00;0;0.00;Knut Endre Lie                ;2411
+0;0;0.00;0;0.00;0;0.00;Herleik Lie                   ;2412
+3;0;0.00;2;0.00;1;0.00;Geir Lie                      ;2413
+5;0;0.00;2;0.00;0;0.00;Frank Lie                     ;2414
+0;0;0.00;0;0.00;0;0.00;Irene Lien                    ;2415
+0;0;0.00;0;0.00;0;0.00;Kristine Lier                 ;2416
+4;1;25.00;4;100.00;1;25.00;Christine Lihaug              ;2417
+0;0;0.00;0;0.00;0;0.00;Morten Lindahl                ;2433
+54;2;3.70;41;75.93;10;18.52;Trond Lindbak                 ;2434
+0;0;0.00;0;0.00;0;0.00;Arild Lindborg                ;2450
+5;1;20.00;4;80.00;0;0.00;Kristine Lindgren             ;2461
+0;0;0.00;0;0.00;0;0.00;Karianne Lindin               ;2472
+0;0;0.00;0;0.00;0;0.00;Martha Lindstad               ;2488
+2;0;0.00;0;0.00;0;0.00;Annette Lindstrand            ;2489
+11;0;0.00;8;0.00;3;0.00;Eini S Linn                   ;2492
+0;0;0.00;0;0.00;0;0.00;Marius Lium                   ;2498
+0;0;0.00;0;0.00;0;0.00;Knut Arne Ljosok              ;2499
+0;0;0.00;0;0.00;0;0.00;Dominiek Lochqueneux          ;2503
+4;0;0.00;4;0.00;2;0.00;Elin Lode                     ;2505
+0;0;0.00;0;0.00;0;0.00;Stein Lode                    ;2506
+25;0;0.00;21;0.00;8;0.00;Maylen Lode                   ;2507
+31;0;0.00;22;0.00;8;0.00;Stine Lode                    ;2508
+0;0;0.00;0;0.00;0;0.00;Eirin E. Lohne                ;2511
+0;0;0.00;0;0.00;0;0.00;Benedikte Elvan Lorentzen     ;2519
+0;0;0.00;0;0.00;0;0.00;Jack Lothe                    ;2524
+0;0;0.00;0;0.00;0;0.00;Liv Jorunn Lund               ;2532
+0;0;0.00;0;0.00;0;0.00;Harald Lunde                  ;2539
+13;1;7.69;10;76.92;1;7.69;Kjetil Lunde                  ;2540
+18;2;11.11;13;72.22;3;16.67;Kristian Lunde                ;2541
+0;0;0.00;0;0.00;0;0.00;Arne Lunde                    ;2542
+0;0;0.00;0;0.00;0;0.00;Øystein Lura                  ;2566
+0;0;0.00;0;0.00;0;0.00;Morten Lura                   ;2567
+0;0;0.00;0;0.00;0;0.00;Gaute Lura                    ;2568
+0;0;0.00;0;0.00;0;0.00;Ellinor Luther                ;2570
+8;2;25.00;4;50.00;6;75.00;Jan Lyng                      ;2576
+0;0;0.00;0;0.00;0;0.00;Ronny Lyngbø                  ;2577
+0;0;0.00;0;0.00;0;0.00;Per Øivind Lyngås             ;2578
+0;0;0.00;0;0.00;0;0.00;Ida Marie K. Lysen            ;2579
+1;0;0.00;1;0.00;0;0.00;Chris-André Lysenstøen        ;2580
+0;0;0.00;0;0.00;0;0.00;Roy Lysgård                   ;2581
+8;0;0.00;7;0.00;4;0.00;Øyvind Lyssand                ;2582
+2;0;0.00;2;0.00;0;0.00;Amalie Børdal Lyssand         ;2583
+7;1;14.29;5;71.43;0;0.00;Lars Kristian Løkken          ;2597
+0;0;0.00;0;0.00;0;0.00;Signy Elise Løvdal            ;2605
+1;0;0.00;1;0.00;0;0.00;Andreas Løvdal                ;2606
+24;0;0.00;19;0.00;12;0.00;Kjell Løvdal                  ;2607
+0;0;0.00;0;0.00;0;0.00;Ida Løve                      ;2609
+32;5;15.62;28;87.50;8;25.00;Guro Løve                     ;2610
+16;2;12.50;14;87.50;3;18.75;Mari Løve                     ;2611
+0;0;0.00;0;0.00;0;0.00;Terje Løvseth                 ;2614
+0;0;0.00;0;0.00;0;0.00;Jan Løvvold                   ;2615
+94;23;24.47;84;89.36;2;2.13;Siv Emilie Løvvold            ;2616
+0;0;0.00;0;0.00;0;0.00;Bård Arne Løvås               ;2617
+1;0;0.00;0;0.00;0;0.00;Emelie Løwenborg              ;2618
+0;0;0.00;0;0.00;0;0.00;Tina Fossan Låg               ;2619
+20;0;0.00;15;0.00;5;0.00;Anders Magne Låhne            ;2620
+0;0;0.00;0;0.00;0;0.00;Tom Magnussen                 ;2635
+9;0;0.00;6;0.00;3;0.00;Paw Mahony                    ;2644
+0;0;0.00;0;0.00;0;0.00;Nick Mahony                   ;2645
+646;89;13.78;537;83.13;137;21.21;Kristian Malmin               ;2651
+0;0;0.00;0;0.00;0;0.00;Kari Janne Mangerøy           ;2655
+0;0;0.00;0;0.00;0;0.00;Gilbert Martens               ;2675
+0;0;0.00;0;0.00;0;0.00;Therese Martinsen             ;2678
+0;0;0.00;0;0.00;0;0.00;Monica Mathiesen              ;2693
+82;5;6.10;71;86.59;3;3.66;Kim Mathisen                  ;2694
+0;0;0.00;0;0.00;0;0.00;Mette Mathisen                ;2695
+0;0;0.00;0;0.00;0;0.00;Øivind Mathisen               ;2696
+0;0;0.00;0;0.00;0;0.00;Charlotte Matre               ;2698
+0;0;0.00;0;0.00;0;0.00;Christina Medin               ;2708
+0;0;0.00;0;0.00;0;0.00;Asbjørn Mehla                 ;2709
+0;0;0.00;0;0.00;0;0.00;Gunnar Mehla                  ;2710
+0;0;0.00;0;0.00;0;0.00;Sissel Meland                 ;2714
+3;0;0.00;2;0.00;1;0.00;Helena Meland                 ;2715
+207;13;6.28;160;77.29;56;27.05;Inge Melby                    ;2721
+0;0;0.00;0;0.00;0;0.00;Terje Melnæs                  ;2729
+0;0;0.00;0;0.00;0;0.00;Mathis Ailu Eira Meløy        ;2730
+4;2;50.00;2;50.00;0;0.00;Cato Michelsen                ;2737
+447;39;8.72;359;80.31;95;21.25;Per Oleg Midtfjeld            ;2738
+0;0;0.00;0;0.00;0;0.00;Olav Mikkelborg               ;2741
+579;46;7.94;462;79.79;188;32.47;Olav Mikkelborg               ;2742
+0;0;0.00;0;0.00;0;0.00;Anders Mikkelborg             ;2743
+463;68;14.69;369;79.70;121;26.13;Geir Mikkelsen                ;2744
+0;0;0.00;0;0.00;0;0.00;Henriette Mikkelsen           ;2745
+23;0;0.00;17;0.00;1;0.00;Jan-Erik Minge                ;2762
+256;33;12.89;207;80.86;65;25.39;Thomas Mjøen                  ;2765
+230;38;16.52;189;82.17;68;29.57;Jan Roar Mjølnerød            ;2766
+92;7;7.61;80;86.96;33;35.87;Frode Mjølnerød               ;2767
+0;0;0.00;0;0.00;0;0.00;Lene Moen                     ;2777
+0;0;0.00;0;0.00;0;0.00;Heidi Moen                    ;2778
+3;0;0.00;3;0.00;0;0.00;Lisa Christine Moen           ;2779
+0;0;0.00;0;0.00;0;0.00;Hege Solvang Morken           ;2796
+0;0;0.00;0;0.00;0;0.00;Fredrik Mortensen             ;2800
+0;0;0.00;0;0.00;0;0.00;Tuva Verhage Mortensen        ;2801
+0;0;0.00;0;0.00;0;0.00;Tove Brevik Muhle             ;2806
+0;0;0.00;0;0.00;0;0.00;Marte Brevik Muhle            ;2807
+4;0;0.00;4;0.00;0;0.00;Dagfinn Murud                 ;2809
+0;0;0.00;0;0.00;0;0.00;Tommi Mustola                 ;2810
+0;0;0.00;0;0.00;0;0.00;Trond Myhre                   ;2813
+0;0;0.00;0;0.00;0;0.00;Kim-Andre Myhren              ;2814
+0;0;0.00;0;0.00;0;0.00;Mari Mykkeltvedt              ;2815
+1;0;0.00;0;0.00;1;0.00;Christina Sophie Myklebust    ;2816
+1;0;0.00;1;0.00;0;0.00;Tor Egil Mæhre                ;2824
+0;0;0.00;0;0.00;0;0.00;Silje Nes Mæland              ;2827
+26;0;0.00;23;0.00;9;0.00;Mette H. Mæland               ;2828
+0;0;0.00;0;0.00;0;0.00;Geirulf Mæland                ;2829
+6;0;0.00;5;0.00;1;0.00;Ove Mæland                    ;2830
+60;2;3.33;40;66.67;10;16.67;Oddvar Mæland                 ;2831
+0;0;0.00;0;0.00;0;0.00;Ole Møller                    ;2836
+0;0;0.00;0;0.00;0;0.00;Oda S. Nakken                 ;2852
+0;0;0.00;0;0.00;0;0.00;Tormod Nakkim                 ;2853
+0;0;0.00;0;0.00;0;0.00;Ole A. Natland                ;2857
+114;6;5.26;91;79.82;32;28.07;Einar Nedrebø                 ;2859
+1;0;0.00;1;0.00;0;0.00;Eirik Nedrelid                ;2860
+0;0;0.00;0;0.00;0;0.00;Caroline Nedrelid             ;2861
+0;0;0.00;0;0.00;0;0.00;Line Thue Nervik              ;2863
+0;0;0.00;0;0.00;0;0.00;Stein Egil Nervik             ;2864
+0;0;0.00;0;0.00;0;0.00;Kristina Nesbø                ;2865
+0;0;0.00;0;0.00;0;0.00;Per Jostein Nesvik            ;2866
+0;0;0.00;0;0.00;0;0.00;Anne Marie Nicolaisen         ;2872
+0;0;0.00;0;0.00;0;0.00;Silje Lund Nikolaisen         ;2895
+59;3;5.08;50;84.75;23;38.98;Ingar Nikolaisen              ;2896
+0;0;0.00;0;0.00;0;0.00;Arnstein Nikolaisen           ;2897
+0;0;0.00;0;0.00;0;0.00;Magne Nilsen                  ;2898
+9;0;0.00;8;0.00;2;0.00;Lene Nilsen                   ;2899
+0;0;0.00;0;0.00;0;0.00;Karina-Elisabeth Nilsen       ;2900
+0;0;0.00;0;0.00;0;0.00;Edgard Nilsen                 ;2901
+173;14;8.09;127;73.41;62;35.84;Arne Nilsen                   ;2902
+18;2;11.11;17;94.44;8;44.44;Dag Sandø Nilsen              ;2903
+1;0;0.00;1;0.00;0;0.00;Joakim Nilsen                 ;2905
+1;0;0.00;0;0.00;0;0.00;Johnny Nilssen                ;2907
+0;0;0.00;0;0.00;0;0.00;Marit Nilssen                 ;2908
+0;0;0.00;0;0.00;0;0.00;Wolfgang Nimczyk              ;2956
+0;0;0.00;0;0.00;0;0.00;Jon Nisjaløkk                 ;2959
+43;0;0.00;39;0.00;13;0.00;Geir Nordbotten               ;2976
+0;0;0.00;0;0.00;0;0.00;Gro Anita Nordby              ;2977
+2;0;0.00;1;0.00;1;0.00;Jill Nordby                   ;2978
+3;0;0.00;3;0.00;0;0.00;Arne Nordheim                 ;2982
+20;0;0.00;17;0.00;7;0.00;Håkon Johannes Nordland       ;2984
+0;0;0.00;0;0.00;0;0.00;Lotte Nordli                  ;2985
+0;0;0.00;0;0.00;0;0.00;Ragnvald Nordstrand           ;2989
+0;0;0.00;0;0.00;0;0.00;Jann Nordstrand               ;2990
+87;10;11.49;68;78.16;17;19.54;Karl Ove Nordtømme            ;2992
+0;0;0.00;0;0.00;0;0.00;Tor Kristian Nordvang         ;2993
+1;0;0.00;1;0.00;0;0.00;Øyvind Nordvik                ;2994
+4;0;0.00;2;0.00;0;0.00;Eirin Dächert Norekvål        ;2995
+0;0;0.00;0;0.00;0;0.00;Julie Ch. Normann             ;3003
+0;0;0.00;0;0.00;0;0.00;Tor Nyborg                    ;3020
+8;0;0.00;5;0.00;1;0.00;Anna Nyborg                   ;3021
+13;1;7.69;11;84.62;5;38.46;Synne Nybø                    ;3022
+0;0;0.00;0;0.00;0;0.00;Tom-Christer Nygård           ;3026
+0;0;0.00;0;0.00;0;0.00;Ivar Magne Nygård             ;3027
+37;0;0.00;31;0.00;2;0.00;Line Nygård                   ;3028
+0;0;0.00;0;0.00;0;0.00;Therese Nyhaven               ;3029
+0;0;0.00;0;0.00;0;0.00;Dag-Roar Nymoen               ;3033
+1;0;0.00;1;0.00;0;0.00;Tina Nypen                    ;3034
+0;0;0.00;0;0.00;0;0.00;Toralf Nystad                 ;3036
+4;0;0.00;3;0.00;1;0.00;Hans Petter Næss              ;3043
+0;0;0.00;0;0.00;0;0.00;Alf-Åge Næss                  ;3044
+0;0;0.00;0;0.00;0;0.00;Elisabeth Næss                ;3045
+0;0;0.00;0;0.00;0;0.00;Jon Anders Næsset             ;3046
+0;0;0.00;0;0.00;0;0.00;Monica Odderstøl              ;3053
+0;0;0.00;0;0.00;0;0.00;Brit Elin Oftedal             ;3057
+0;0;0.00;0;0.00;0;0.00;Susanne Ohme                  ;3061
+6;0;0.00;5;0.00;3;0.00;Ragna R Okkenhaug             ;3068
+0;0;0.00;0;0.00;0;0.00;Kenneth Olafsen               ;3070
+137;3;2.19;97;70.80;31;22.63;Claus Olsen                   ;3088
+0;0;0.00;0;0.00;0;0.00;Kai Frode Olsen               ;3089
+4;0;0.00;3;0.00;0;0.00;Hans Johan Olsen              ;3090
+13;1;7.69;10;76.92;5;38.46;Jørn Olaf Olsen               ;3093
+135;13;9.63;100;74.07;1;0.74;Magne Olsen                   ;3094
+0;0;0.00;0;0.00;0;0.00;Rino Olsen                    ;3095
+0;0;0.00;0;0.00;0;0.00;Jim Roger Olsen               ;3096
+2;0;0.00;2;0.00;0;0.00;Marianne N. Olsen             ;3097
+19;4;21.05;17;89.47;1;5.26;Janne E. Olsen                ;3098
+0;0;0.00;0;0.00;0;0.00;Ingrid Helland Olsen          ;3099
+0;0;0.00;0;0.00;0;0.00;Siv Ailin Olsen               ;3100
+0;0;0.00;0;0.00;0;0.00;Jan Ove Olsen                 ;3101
+1;0;0.00;1;0.00;1;0.00;Knut Olsen                    ;3104
+0;0;0.00;0;0.00;0;0.00;Svein R. Olsen                ;3105
+4;0;0.00;4;0.00;0;0.00;Cathrine Olsen                ;3107
+1;0;0.00;1;0.00;0;0.00;Ida Beathe Olsen              ;3109
+0;0;0.00;0;0.00;0;0.00;Lena Birgitte Olsen           ;3111
+3;0;0.00;2;0.00;0;0.00;Ole Henrik F. Olsen           ;3112
+0;0;0.00;0;0.00;0;0.00;Diana L. Olsson               ;3117
+3;0;0.00;1;0.00;1;0.00;Christina Olsson              ;3135
+0;0;0.00;0;0.00;0;0.00;Linda Olsvik                  ;3145
+0;0;0.00;0;0.00;0;0.00;Tine Omdal                    ;3146
+0;0;0.00;0;0.00;0;0.00;Trine Veronica Opdahl         ;3151
+0;0;0.00;0;0.00;0;0.00;Ida Kristine Opås             ;3153
+25;2;8.00;20;80.00;1;4.00;Vilde Orstad                  ;3155
+0;0;0.00;0;0.00;0;0.00;Ivar Os                       ;3157
+0;0;0.00;0;0.00;0;0.00;Anette Skår Osen              ;3164
+0;0;0.00;0;0.00;0;0.00;Morten M. Ottersen            ;3167
+1;0;0.00;0;0.00;0;0.00;Lina P. Oulie                 ;3171
+0;0;0.00;0;0.00;0;0.00;Atle Jostein Owren            ;3174
+0;0;0.00;0;0.00;0;0.00;Veronica Paltto               ;3193
+0;0;0.00;0;0.00;0;0.00;Geir Paulsen                  ;3206
+0;0;0.00;0;0.00;0;0.00;Berit Prestholt Paulsen       ;3207
+0;0;0.00;0;0.00;0;0.00;Sjoerd Paulusma               ;3210
+0;0;0.00;0;0.00;0;0.00;Karoline Pedersen             ;3216
+0;0;0.00;0;0.00;0;0.00;Christine Pedersen            ;3218
+11;0;0.00;7;0.00;1;0.00;Tomas Pedersen                ;3224
+1;0;0.00;0;0.00;0;0.00;Sandra Pedersen               ;3226
+6;2;33.33;5;83.33;2;33.33;Nathalie T.M. Pedersen        ;3228
+0;0;0.00;0;0.00;0;0.00;Geir Pedersen                 ;3235
+0;0;0.00;0;0.00;0;0.00;Terje Pedersen                ;3236
+0;0;0.00;0;0.00;0;0.00;Truls G. Pedersen             ;3237
+49;4;8.16;44;89.80;9;18.37;Liv Pedersen                  ;3238
+0;0;0.00;0;0.00;0;0.00;Ole-Martin Pedersen           ;3240
+0;0;0.00;0;0.00;0;0.00;Stian Sem Pedersen            ;3241
+102;9;8.82;86;84.31;1;0.98;Morten A. Pedersen            ;3242
+0;0;0.00;0;0.00;0;0.00;Marius Pedersen               ;3243
+3;0;0.00;3;0.00;0;0.00;Stine Marie Pedersen          ;3244
+0;0;0.00;0;0.00;0;0.00;Mats Pedersen                 ;3245
+0;0;0.00;0;0.00;0;0.00;Bjørge Pedersen               ;3246
+12;1;8.33;11;91.67;1;8.33;Stefan Persson                ;3278
+1;0;0.00;1;0.00;0;0.00;Hanne Pettersen               ;3297
+0;0;0.00;0;0.00;0;0.00;Arnt Pettersen                ;3298
+0;0;0.00;0;0.00;0;0.00;Bent Pettersen                ;3299
+0;0;0.00;0;0.00;0;0.00;Ida Basmo Pettersen           ;3300
+0;0;0.00;0;0.00;0;0.00;Stian Pettersen               ;3301
+0;0;0.00;0;0.00;0;0.00;Anders Pettersen              ;3302
+6;0;0.00;6;0.00;3;0.00;Jan Pettersen                 ;3303
+0;0;0.00;0;0.00;0;0.00;Lisa Kjeilen Pickersgill      ;3327
+0;0;0.00;0;0.00;0;0.00;Lisbeth Plassen               ;3335
+0;0;0.00;0;0.00;0;0.00;Per Rune Pollestad            ;3341
+0;0;0.00;0;0.00;0;0.00;Joop Pool                     ;3343
+2;0;0.00;2;0.00;0;0.00;Marita S. Poulsen             ;3356
+0;0;0.00;0;0.00;0;0.00;Privat                        ;3363
+0;0;0.00;0;0.00;0;0.00;Jomar Grande Rabban           ;3382
+0;0;0.00;0;0.00;0;0.00;Per Ingar Rakkestad           ;3394
+0;0;0.00;0;0.00;0;0.00;Johanne Eide Raknes           ;3395
+3;0;0.00;0;0.00;0;0.00;Hanne Karin Rasch             ;3404
+76;3;3.95;65;85.53;17;22.37;Ann Kristin Rasmussen         ;3408
+0;0;0.00;0;0.00;0;0.00;Mai Helen Rasmussen           ;3409
+131;6;4.58;103;78.63;33;25.19;Joakim Rasmussen              ;3411
+0;0;0.00;0;0.00;0;0.00;Susanne Evensen Rasmussen     ;3412
+33;0;0.00;25;0.00;8;0.00;Mats-Andre Rasmussen          ;3415
+0;0;0.00;0;0.00;0;0.00;Helene Rasmussen              ;3416
+28;0;0.00;24;0.00;1;0.00;Anne Grete Rasmussen          ;3419
+0;0;0.00;0;0.00;0;0.00;Øystein Rasmussen             ;3420
+0;0;0.00;0;0.00;0;0.00;Kenneth Rasmussen             ;3421
+0;0;0.00;0;0.00;0;0.00;Kjartan Refsdal               ;3427
+2;0;0.00;2;0.00;0;0.00;Brede Øigarden Refsdal        ;3428
+0;0;0.00;0;0.00;0;0.00;Monica Refsland               ;3429
+19;1;5.26;9;47.37;2;10.53;Anne-Serine Moe Reigstad      ;3432
+16;2;12.50;16;100.00;2;12.50;Ove Bakkevold Reime           ;3433
+0;0;0.00;0;0.00;0;0.00;Terje Remme                   ;3439
+448;56;12.50;362;80.80;110;24.55;Erlend Rennesvik              ;3442
+23;3;13.04;21;91.30;2;8.70;Natalie Iselin Repstad        ;3445
+4;0;0.00;3;0.00;0;0.00;Rebecca Retland               ;3446
+0;0;0.00;0;0.00;0;0.00;Silje Revheim                 ;3447
+0;0;0.00;0;0.00;0;0.00;Arne Revheim                  ;3448
+22;0;0.00;15;0.00;5;0.00;John Revheim                  ;3449
+19;1;5.26;13;68.42;3;15.79;Lars B. Revheim               ;3450
+42;8;19.05;34;80.95;6;14.29;Anders Richvoldsen            ;3453
+0;0;0.00;0;0.00;0;0.00;Linda Marie Ring              ;3462
+0;0;0.00;0;0.00;0;0.00;Mats Gunnar Ringberg          ;3463
+1;0;0.00;0;0.00;0;0.00;Mats Gunnar Ringberg          ;3464
+75;3;4.00;59;78.67;18;24.00;Frank Ringheim                ;3465
+9;0;0.00;7;0.00;7;0.00;Therese Ringkilen             ;3466
+0;0;0.00;0;0.00;0;0.00;Milly Bøe Ringstad            ;3467
+0;0;0.00;0;0.00;0;0.00;Are Ringvold                  ;3468
+2;1;50.00;2;100.00;0;0.00;Sverre Risa                   ;3472
+0;0;0.00;0;0.00;0;0.00;Jan Risa                      ;3473
+7;0;0.00;6;0.00;4;0.00;Irmelin Risa                  ;3474
+0;0;0.00;0;0.00;0;0.00;Kjell Ove Risa                ;3475
+3;0;0.00;3;0.00;1;0.00;Brendon Robartson             ;3481
+0;0;0.00;0;0.00;0;0.00;Britt Robertsen               ;3483
+1;0;0.00;0;0.00;0;0.00;Kai Helge Robertsen           ;3484
+176;19;10.80;127;72.16;34;19.32;Amanda Robertsen              ;3485
+0;0;0.00;0;0.00;0;0.00;Willi Rode                    ;3489
+15;0;0.00;10;0.00;4;0.00;Kjetil Roe                    ;3492
+0;0;0.00;0;0.00;0;0.00;Kai Rogn                      ;3496
+0;0;0.00;0;0.00;0;0.00;Jostein Rogstad               ;3497
+2;0;0.00;2;0.00;0;0.00;Kim Åge Rokkan                ;3501
+3;0;0.00;2;0.00;0;0.00;Andrea Roland                 ;3502
+18;0;0.00;14;0.00;0;0.00;Caroline Roland               ;3503
+28;0;0.00;24;0.00;4;0.00;Rudolf Roland                 ;3504
+11;0;0.00;10;0.00;3;0.00;Kristin B. Rolandsen          ;3505
+1;0;0.00;1;0.00;0;0.00;Rebekka Romstad               ;3509
+0;0;0.00;0;0.00;0;0.00;Lars O. Romtveit              ;3510
+0;0;0.00;0;0.00;0;0.00;Victoria Roos                 ;3512
+2;0;0.00;1;0.00;1;0.00;Tor Oskar Ropstad             ;3514
+0;0;0.00;0;0.00;0;0.00;Tor-Egil Rosland              ;3519
+0;0;0.00;0;0.00;0;0.00;Silje S. Rosland              ;3520
+0;0;0.00;0;0.00;0;0.00;Torbjørn Rostad               ;3521
+0;0;0.00;0;0.00;0;0.00;Jeanette Rostad               ;3522
+16;2;12.50;15;93.75;1;6.25;Lene Rotneim                  ;3525
+0;0;0.00;0;0.00;0;0.00;Lise Marie Rudshagen          ;3532
+0;0;0.00;0;0.00;0;0.00;Jan Kjetil Rundberget         ;3534
+15;1;6.67;13;86.67;4;26.67;Roger Rundhaug                ;3535
+0;0;0.00;0;0.00;0;0.00;Bjørn Ruttenborg              ;3539
+204;14;6.86;172;84.31;71;34.80;Øyvind Ruttenborg             ;3540
+50;1;2.00;38;76.00;14;28.00;Svein Olav Ruud               ;3541
+0;0;0.00;0;0.00;0;0.00;Hege Ruud                     ;3542
+0;0;0.00;0;0.00;0;0.00;Yvonne Rydningen              ;3544
+0;0;0.00;0;0.00;0;0.00;Bjørg Karin Ryen              ;3545
+0;0;0.00;0;0.00;0;0.00;Elisabeth Ryggvik             ;3546
+0;0;0.00;0;0.00;0;0.00;Kristin Rygh                  ;3547
+0;0;0.00;0;0.00;0;0.00;Ove M. Rygh                   ;3548
+0;0;0.00;0;0.00;0;0.00;Tor Inge Rygh                 ;3549
+0;0;0.00;0;0.00;0;0.00;Jenny Ryman                   ;3550
+4;0;0.00;4;0.00;0;0.00;Gunnvor Rød                   ;3558
+0;0;0.00;0;0.00;0;0.00;Kjærsti T. Rødsjø             ;3559
+0;0;0.00;0;0.00;0;0.00;Carina Røgdekøien             ;3560
+0;0;0.00;0;0.00;0;0.00;Knut Rønning                  ;3563
+7;0;0.00;5;0.00;1;0.00;Åge Rønningen                 ;3565
+0;0;0.00;0;0.00;0;0.00;Jan Tore Rønningen            ;3566
+1;0;0.00;0;0.00;1;0.00;Bjørn Håvard Rønningen        ;3567
+16;0;0.00;14;0.00;2;0.00;Pål Rønningen                 ;3568
+0;0;0.00;0;0.00;0;0.00;Tina Marie L. Rønningen       ;3569
+0;0;0.00;0;0.00;0;0.00;Kine Maritha Rønningen        ;3570
+0;0;0.00;0;0.00;0;0.00;Hanne Rønningen               ;3571
+52;3;5.77;44;84.62;6;11.54;Arnt-Sverre Røren             ;3572
+0;0;0.00;0;0.00;0;0.00;Anette Rørvik                 ;3573
+0;0;0.00;0;0.00;0;0.00;Per Erik Rørvik               ;3574
+0;0;0.00;0;0.00;0;0.00;Harald Røraas                 ;3575
+0;0;0.00;0;0.00;0;0.00;Toril Røsseng                 ;3576
+0;0;0.00;0;0.00;0;0.00;Roy Ketil Røstad              ;3577
+2;0;0.00;0;0.00;0;0.00;Anita Røsvik                  ;3580
+0;0;0.00;0;0.00;0;0.00;Marthe Røsæg                  ;3581
+0;0;0.00;0;0.00;0;0.00;Svein Tore Røynestad          ;3582
+0;0;0.00;0;0.00;0;0.00;Jan-Arne Raab                 ;3583
+0;0;0.00;0;0.00;0;0.00;Leif Gustav Raae              ;3584
+0;0;0.00;0;0.00;0;0.00;Elin Råmunddal                ;3585
+0;0;0.00;0;0.00;0;0.00;Dag Morten Raastad            ;3587
+0;0;0.00;0;0.00;0;0.00;Trond Sagen                   ;3589
+0;0;0.00;0;0.00;0;0.00;Odd Arne Sagholen             ;3590
+245;19;7.76;190;77.55;59;24.08;Odd-Arne Sagholen             ;3591
+26;3;11.54;22;84.62;10;38.46;Tord R. Salte                 ;3599
+12;0;0.00;11;0.00;0;0.00;Arild Salte                   ;3600
+0;0;0.00;0;0.00;0;0.00;Willy Salvesen                ;3601
+0;0;0.00;0;0.00;0;0.00;Katrine Samuelsen             ;3602
+0;0;0.00;0;0.00;0;0.00;Øyvind Samuelsen              ;3603
+9;1;11.11;6;66.67;0;0.00;Kjell Magne Sand              ;3607
+0;0;0.00;0;0.00;0;0.00;Tore Sandaker                 ;3608
+0;0;0.00;0;0.00;0;0.00;Lilly-Kristin E. Sandberg     ;3609
+1;0;0.00;1;0.00;0;0.00;Renee M. Sandersen            ;3612
+2;0;0.00;2;0.00;0;0.00;Tore Sandmoen                 ;3615
+0;0;0.00;0;0.00;0;0.00;Sara Flack Sandven            ;3619
+0;0;0.00;0;0.00;0;0.00;Solveig R. Sandven            ;3620
+6;1;16.67;4;66.67;0;0.00;Liss-Karin Sandvik            ;3622
+0;0;0.00;0;0.00;0;0.00;Desiree Schatzer              ;3626
+0;0;0.00;0;0.00;0;0.00;Kim Andre Schei               ;3627
+9;0;0.00;8;0.00;4;0.00;Mats Schei                    ;3628
+55;8;14.55;46;83.64;18;32.73;Espen A. Schem                ;3629
+0;0;0.00;0;0.00;0;0.00;Espen Andre Schie             ;3631
+0;0;0.00;0;0.00;0;0.00;Vidar Schwabe                 ;3638
+0;0;0.00;0;0.00;0;0.00;Kjell Sele                    ;3659
+11;2;18.18;8;72.73;2;18.18;Leif Sele                     ;3660
+2;0;0.00;2;0.00;0;0.00;Stig Rune Sele                ;3661
+0;0;0.00;0;0.00;0;0.00;Kamilla Sele                  ;3662
+11;0;0.00;7;0.00;4;0.00;Ingrid Sellie                 ;3667
+20;1;5.00;15;75.00;2;10.00;Odd Kåre Selliken             ;3668
+2;1;50.00;2;100.00;0;0.00;Reier Oscar Selte             ;3669
+0;0;0.00;0;0.00;0;0.00;Tor Reidar Selvik             ;3670
+0;0;0.00;0;0.00;0;0.00;Arne Sem                      ;3671
+78;4;5.13;64;82.05;14;17.95;Pål Sem                       ;3672
+0;0;0.00;0;0.00;0;0.00;Øystein Simonsen              ;3693
+0;0;0.00;0;0.00;0;0.00;Marlene Simonsen              ;3694
+251;19;7.57;167;66.53;46;18.33;Arve Sjoner                   ;3700
+19;0;0.00;14;0.00;1;0.00;Peter H. Sjøberg              ;3703
+0;0;0.00;0;0.00;0;0.00;Eirik Sjøholt                 ;3709
+0;0;0.00;0;0.00;0;0.00;Mariann Sjølie                ;3711
+0;0;0.00;0;0.00;0;0.00;Egil Sjåvoll                  ;3716
+0;0;0.00;0;0.00;0;0.00;Gro Sølvi Sjåvoll             ;3717
+7;0;0.00;6;0.00;4;0.00;Lill-Tove L. Skar             ;3719
+0;0;0.00;0;0.00;0;0.00;Martine S. Skarsholt          ;3720
+0;0;0.00;0;0.00;0;0.00;Trond Skauen                  ;3721
+52;0;0.00;43;0.00;14;0.00;Erik Skaug                    ;3722
+1;0;0.00;1;0.00;0;0.00;Alf Torfinn Skeie             ;3723
+23;0;0.00;18;0.00;6;0.00;Hans G Skiaker                ;3724
+0;0;0.00;0;0.00;0;0.00;Hege Skjei                    ;3725
+0;0;0.00;0;0.00;0;0.00;Ragnar Skjellestad            ;3726
+20;1;5.00;14;70.00;2;10.00;Helge Skjoldal                ;3727
+0;0;0.00;0;0.00;0;0.00;Mangfred Skjæveland           ;3728
+26;3;11.54;21;80.77;4;15.38;Åsbjørn Skjæveland            ;3729
+1;0;0.00;0;0.00;1;0.00;Tor Ove Skjæveland            ;3730
+0;0;0.00;0;0.00;0;0.00;Rune Skjæveland               ;3731
+0;0;0.00;0;0.00;0;0.00;Merete Skjæveland             ;3732
+0;0;0.00;0;0.00;0;0.00;Marita Bjelland Skjæveland    ;3733
+10;0;0.00;7;0.00;1;0.00;Sindre Skjølås                ;3734
+0;0;0.00;0;0.00;0;0.00;Sylvia Renate Skjøthaug       ;3735
+6;0;0.00;4;0.00;4;0.00;Trond Skofsrud                ;3736
+5;0;0.00;4;0.00;4;0.00;Rune Skogen                   ;3737
+2;0;0.00;2;0.00;0;0.00;Celina Knutsen Skogmo         ;3743
+0;0;0.00;0;0.00;0;0.00;Trine Lise Skreosen           ;3745
+0;0;0.00;0;0.00;0;0.00;Silje Therese F. Skrudland    ;3746
+0;0;0.00;0;0.00;0;0.00;Ola M. Skrugstad              ;3747
+5;2;40.00;5;100.00;1;20.00;Sverre Skrugstad              ;3748
+4;0;0.00;3;0.00;0;0.00;Kåre Skrugstad                ;3749
+2;0;0.00;1;0.00;0;0.00;Tor Erik Skyltbæk             ;3750
+0;0;0.00;0;0.00;0;0.00;Thorbjørn Skår                ;3754
+0;0;0.00;0;0.00;0;0.00;Grethe Cecilie Skaar          ;3755
+0;0;0.00;0;0.00;0;0.00;Jan Erling Slethei            ;3756
+0;0;0.00;0;0.00;0;0.00;Veronica Sletsjø              ;3757
+3;0;0.00;3;0.00;1;0.00;Andrea Sletsjø                ;3758
+2;0;0.00;2;0.00;0;0.00;Malin B. Sletten              ;3759
+25;1;4.00;22;88.00;5;20.00;Geir Smeby                    ;3762
+0;0;0.00;0;0.00;0;0.00;Trond Smedshammer             ;3766
+0;0;0.00;0;0.00;0;0.00;Stig-Ove Snøsen               ;3773
+1;0;0.00;1;0.00;0;0.00;Kristian Solbakken            ;3774
+0;0;0.00;0;0.00;0;0.00;Marie Fismen Solberg          ;3775
+7;0;0.00;7;0.00;3;0.00;Rune Solberg                  ;3776
+0;0;0.00;0;0.00;0;0.00;Karoline Lund Solberg         ;3777
+855;139;16.26;705;82.46;1;0.12;Tom Erik Solberg              ;3778
+0;0;0.00;0;0.00;0;0.00;Karsten Solberg               ;3779
+3;0;0.00;3;0.00;0;0.00;Vera Lamvik Solhjell          ;3781
+0;0;0.00;0;0.00;0;0.00;Arne F. Solhus                ;3782
+235;25;10.64;171;72.77;52;22.13;Atle Solhus                   ;3783
+0;0;0.00;0;0.00;0;0.00;Stine Therese Solli           ;3785
+1;0;0.00;1;0.00;0;0.00;Marina Volle Solvang          ;3786
+4;0;0.00;4;0.00;1;0.00;Margrete Heia Solås           ;3787
+0;0;0.00;0;0.00;0;0.00;Ester Marie Solås             ;3788
+14;0;0.00;11;0.00;6;0.00;Martin Soma                   ;3789
+0;0;0.00;0;0.00;0;0.00;Aino Kulblik Sorknes          ;3792
+0;0;0.00;0;0.00;0;0.00;Svein Sparby                  ;3798
+0;0;0.00;0;0.00;0;0.00;Geir Stangeland               ;3803
+0;0;0.00;0;0.00;0;0.00;Merethe Stangeland            ;3804
+10;2;20.00;10;100.00;2;20.00;Jane Helen Stareng            ;3805
+0;0;0.00;0;0.00;0;0.00;Haavel O. Stastad             ;3809
+0;0;0.00;0;0.00;0;0.00;Asbjørn Steen                 ;3810
+1;0;0.00;1;0.00;0;0.00;Signe Fonneland Steen         ;3813
+4;0;0.00;3;0.00;1;0.00;Christian Fr. Steenland       ;3814
+0;0;0.00;0;0.00;0;0.00;Vibecke Steig                 ;3816
+22;1;4.55;18;81.82;7;31.82;Charlotte Steine              ;3817
+80;2;2.50;64;80.00;21;26.25;Håkon B. Steine               ;3818
+17;0;0.00;13;0.00;2;0.00;Henriette Steine              ;3819
+79;5;6.33;53;67.09;2;2.53;Victoria Steine               ;3820
+34;3;8.82;30;88.24;11;32.35;Glenn Kramer Stenberg         ;3823
+0;0;0.00;0;0.00;0;0.00;Knut Andre Stenberg           ;3824
+0;0;0.00;0;0.00;0;0.00;Rebekka Stenberg              ;3826
+15;1;6.67;13;86.67;7;46.67;Nina Dragsten Stene           ;3827
+0;0;0.00;0;0.00;0;0.00;Pernilla Stenhammar           ;3828
+25;0;0.00;22;0.00;6;0.00;Ulrika Stenman                ;3832
+514;58;11.28;411;79.96;126;24.51;Andre H. Stensen              ;3834
+0;0;0.00;0;0.00;0;0.00;Lars André Stensen            ;3835
+0;0;0.00;0;0.00;0;0.00;Hanne Stenset                 ;3836
+0;0;0.00;0;0.00;0;0.00;Egil Stensland                ;3837
+0;0;0.00;0;0.00;0;0.00;Kjell Arne Stensvik           ;3841
+3;0;0.00;3;0.00;1;0.00;Michael T. Stiansen           ;3845
+0;0;0.00;0;0.00;0;0.00;John Stillerud                ;3846
+0;0;0.00;0;0.00;0;0.00;Terje Stokka                  ;3848
+0;0;0.00;0;0.00;0;0.00;Arne Stokke                   ;3849
+17;4;23.53;11;64.71;1;5.88;Malin C. Stokke               ;3850
+0;0;0.00;0;0.00;0;0.00;Kristin Stokkedal             ;3851
+4;0;0.00;2;0.00;2;0.00;Tor Arne Stordal              ;3855
+0;0;0.00;0;0.00;0;0.00;Alf Stordal                   ;3856
+6;0;0.00;3;0.00;3;0.00;Annette Stordal               ;3857
+0;0;0.00;0;0.00;0;0.00;Solveig Stordal               ;3858
+0;0;0.00;0;0.00;0;0.00;Kristoffer Stordal            ;3859
+2;0;0.00;2;0.00;1;0.00;Tom Otto Storemyr             ;3860
+174;21;12.07;133;76.44;1;0.57;Odd Storetvedt                ;3861
+0;0;0.00;0;0.00;0;0.00;Tina Storetvedt               ;3862
+106;8;7.55;78;73.58;27;25.47;Elisabeth Storetvedt          ;3863
+0;0;0.00;0;0.00;0;0.00;Kristian Storhaug             ;3864
+1;0;0.00;1;0.00;0;0.00;Håvard Winther Storler        ;3865
+0;0;0.00;0;0.00;0;0.00;Aurora Stormyr                ;3866
+0;0;0.00;0;0.00;0;0.00;Viggo Stornes                 ;3867
+0;0;0.00;0;0.00;0;0.00;Helene Stornes                ;3868
+0;0;0.00;0;0.00;0;0.00;Ola I. Storseth               ;3869
+159;7;4.40;122;76.73;27;16.98;Hans Wilhelm Storås           ;3870
+10;0;0.00;5;0.00;1;0.00;Ida Therese Stoum             ;3872
+14;0;0.00;13;0.00;4;0.00;Morten Strand                 ;3873
+2;0;0.00;0;0.00;0;0.00;Raymon Stranden               ;3877
+0;0;0.00;0;0.00;0;0.00;Trond Strandmoen              ;3878
+1;0;0.00;1;0.00;1;0.00;Heidi Struck                  ;3882
+0;0;0.00;0;0.00;0;0.00;Linn Stryken                  ;3883
+0;0;0.00;0;0.00;0;0.00;Hilde S. Strædet              ;3884
+1;0;0.00;0;0.00;0;0.00;Ragnhild Strøm                ;3885
+26;0;0.00;24;0.00;9;0.00;Bjørn Strømnes                ;3892
+1;0;0.00;1;0.00;1;0.00;Morten Stubberud              ;3893
+0;0;0.00;0;0.00;0;0.00;Arild Stubbmo                 ;3894
+15;2;13.33;13;86.67;5;33.33;Karl Einar Stubsjøen          ;3895
+0;0;0.00;0;0.00;0;0.00;Øyvind Stuve                  ;3897
+1;0;0.00;1;0.00;0;0.00;Magnar Støtland               ;3901
+0;0;0.00;0;0.00;0;0.00;Geir Ståhl                    ;3902
+29;0;0.00;24;0.00;12;0.00;Eirik Sund                    ;3904
+0;0;0.00;0;0.00;0;0.00;Camilla Sund                  ;3905
+0;0;0.00;0;0.00;0;0.00;Odd Sundberg                  ;3906
+0;0;0.00;0;0.00;0;0.00;Åke Sundberg                  ;3908
+0;0;0.00;0;0.00;0;0.00;Kjell Sunde                   ;3914
+0;0;0.00;0;0.00;0;0.00;Ole Andreas Sunde             ;3915
+0;0;0.00;0;0.00;0;0.00;Silje Sundstøl                ;3926
+0;0;0.00;0;0.00;0;0.00;Kristin Sundt                 ;3927
+0;0;0.00;0;0.00;0;0.00;Russell Douglas Suttle        ;3935
+2;0;0.00;1;0.00;1;0.00;Anne Marie Sveen              ;3949
+54;0;0.00;38;0.00;12;0.00;Ragnhild Sveen                ;3950
+0;0;0.00;0;0.00;0;0.00;Marte Fjellhaug Svehagen      ;3951
+0;0;0.00;0;0.00;0;0.00;Oda Sveinsvoll                ;3952
+2;0;0.00;2;0.00;1;0.00;Sanna Svendsen                ;3953
+0;0;0.00;0;0.00;0;0.00;Tonje Eidissen Svendsen       ;3954
+0;0;0.00;0;0.00;0;0.00;Jone Svendsen                 ;3955
+6;0;0.00;5;0.00;0;0.00;Stian Svendsen                ;3957
+2;0;0.00;2;0.00;0;0.00;Marit E. Stokka Svendsen      ;3958
+0;0;0.00;0;0.00;0;0.00;Lennart Svensson              ;3965
+0;0;0.00;0;0.00;0;0.00;Gin Svensson-Disanto          ;3980
+10;1;10.00;7;70.00;3;30.00;Jo Svenstad                   ;3981
+0;0;0.00;0;0.00;0;0.00;Ole Anton Svinsholt           ;3984
+4;0;0.00;3;0.00;1;0.00;Bjarne Syversen               ;3998
+0;0;0.00;0;0.00;0;0.00;Bjørn Arvid Sæle              ;4000
+15;1;6.67;11;73.33;4;26.67;Marita Kristin Sælen          ;4001
+63;6;9.52;56;88.89;1;1.59;Maren Sødal                   ;4005
+0;0;0.00;0;0.00;0;0.00;Sonja Søderholm               ;4011
+2;0;0.00;2;0.00;0;0.00;Harry Åge Søfteland           ;4020
+9;0;0.00;9;0.00;4;0.00;Philip Scott Sønsteby         ;4028
+3;0;0.00;2;0.00;1;0.00;Heidi Sønstegård              ;4029
+0;0;0.00;0;0.00;0;0.00;Monica Sønstegård             ;4030
+0;0;0.00;0;0.00;0;0.00;Steinar Sønsterudbråten       ;4031
+12;0;0.00;9;0.00;0;0.00;Mari Sørensen                 ;4034
+0;0;0.00;0;0.00;0;0.00;Kristel Sørgård               ;4040
+122;3;2.46;91;74.59;45;36.89;Per Einar Sørmo               ;4041
+36;0;0.00;19;0.00;14;0.00;Jarle Morten Sørmo            ;4042
+0;0;0.00;0;0.00;0;0.00;Eirin Sørmo                   ;4043
+48;0;0.00;35;0.00;19;0.00;Gunn Merete Sør-Reime         ;4044
+0;0;0.00;0;0.00;0;0.00;Lars M. Søvik                 ;4045
+0;0;0.00;0;0.00;0;0.00;Gerd K. Søvik                 ;4046
+0;0;0.00;0;0.00;0;0.00;Preben Søvik                  ;4047
+0;0;0.00;0;0.00;0;0.00;Loyd Taksdal                  ;4056
+2;0;0.00;2;0.00;1;0.00;Jimmy Takter                  ;4057
+0;0;0.00;0;0.00;0;0.00;Anette Dobloug Talbot         ;4061
+0;0;0.00;0;0.00;0;0.00;Darius Tamulevicius           ;4065
+0;0;0.00;0;0.00;0;0.00;Håvar Tandberg                ;4066
+0;0;0.00;0;0.00;0;0.00;Sigmund Tandberg              ;4067
+0;0;0.00;0;0.00;0;0.00;Oddmar Tangen                 ;4068
+0;0;0.00;0;0.00;0;0.00;Marita Helle Tangen           ;4069
+0;0;0.00;0;0.00;0;0.00;Ingrid Tangvik                ;4070
+0;0;0.00;0;0.00;0;0.00;Tapio Tanskanen               ;4071
+0;0;0.00;0;0.00;0;0.00;Per Teigen                    ;4078
+0;0;0.00;0;0.00;0;0.00;Turid Agnete Teigen           ;4079
+0;0;0.00;0;0.00;0;0.00;Anette Teigen                 ;4080
+0;0;0.00;0;0.00;0;0.00;Leiv Ove Tengesdal            ;4083
+0;0;0.00;0;0.00;0;0.00;Inger-Alice T. Tengesdal      ;4084
+1470;152;10.34;1174;79.86;354;24.08;Åsbjørn Tengsareid            ;4085
+0;0;0.00;0;0.00;0;0.00;Anja Synnøve Tharaldsen       ;4095
+38;3;7.89;25;65.79;8;21.05;Harry Tharaldsen              ;4096
+6;0;0.00;4;0.00;0;0.00;Lillian Tharaldsen            ;4097
+25;1;4.00;24;96.00;4;16.00;Jenny Martine Theodorsen      ;4099
+22;0;0.00;17;0.00;6;0.00;John Einar Theodorsen         ;4100
+7;0;0.00;4;0.00;1;0.00;Silje Dragsten Theodorsen     ;4101
+0;0;0.00;0;0.00;0;0.00;Hans Petter Tholfsen          ;4104
+2;0;0.00;2;0.00;1;0.00;Ida Gundersen Thompson        ;4108
+0;0;0.00;0;0.00;0;0.00;Steven Thorkildsen            ;4111
+0;0;0.00;0;0.00;0;0.00;Roy Thorstein                 ;4113
+0;0;0.00;0;0.00;0;0.00;Thorleif Thorup               ;4114
+0;0;0.00;0;0.00;0;0.00;Lars Thorup                   ;4115
+0;0;0.00;0;0.00;0;0.00;Karoline Thronsen             ;4116
+7;0;0.00;6;0.00;2;0.00;Laila Thue                    ;4117
+3;0;0.00;3;0.00;1;0.00;Jenny Thygesen                ;4120
+0;0;0.00;0;0.00;0;0.00;Morten Tidemansen             ;4121
+7;0;0.00;7;0.00;2;0.00;Ernestas Tijunelis            ;4124
+0;0;0.00;0;0.00;0;0.00;Sofie Tillerflaten            ;4126
+0;0;0.00;0;0.00;0;0.00;Elise Tillerflaten            ;4127
+1;0;0.00;1;0.00;0;0.00;Helene T. Tinglum             ;4131
+2;0;0.00;0;0.00;1;0.00;Ragnhild Tjaum                ;4135
+0;0;0.00;0;0.00;0;0.00;Elise Tjetland                ;4136
+0;0;0.00;0;0.00;0;0.00;Vidar Tjomsland               ;4137
+308;92;29.87;269;87.34;51;16.56;Øystein Tjomsland             ;4138
+210;24;11.43;171;81.43;48;22.86;Vidar Tjomsland               ;4139
+35;5;14.29;31;88.57;12;34.29;Per-Eivind Tjordal            ;4141
+108;4;3.70;81;75.00;26;24.07;Gunleif Tollefsen             ;4143
+0;0;0.00;0;0.00;0;0.00;Svein Kåre Tollefsen          ;4144
+15;2;13.33;12;80.00;0;0.00;Ingvild Tonholm               ;4145
+0;0;0.00;0;0.00;0;0.00;Arild Topland                 ;4148
+0;0;0.00;0;0.00;0;0.00;John Torp                     ;4150
+0;0;0.00;0;0.00;0;0.00;Knut Torpe                    ;4151
+180;20;11.11;129;71.67;31;17.22;Tore Totland                  ;4158
+2;0;0.00;1;0.00;0;0.00;Tore Andre Totland            ;4159
+1;0;0.00;1;0.00;0;0.00;Marie Tovengen                ;4160
+0;0;0.00;0;0.00;0;0.00;Anders Tovengen               ;4161
+0;0;0.00;0;0.00;0;0.00;Ulrikke Trondsen              ;4165
+105;5;4.76;78;74.29;20;19.05;Louise V. Trudvang            ;4168
+0;0;0.00;0;0.00;0;0.00;Mariann Vebostad Trudvang     ;4169
+0;0;0.00;0;0.00;0;0.00;Tommy Trælnes                 ;4171
+23;1;4.35;15;65.22;7;30.43;Jan Roar Trøan                ;4173
+0;0;0.00;0;0.00;0;0.00;Kine Tråseth                  ;4174
+60;2;3.33;40;66.67;12;20.00;Thomas Tuft                   ;4176
+0;0;0.00;0;0.00;0;0.00;Tone Turnbull                 ;4185
+3;0;0.00;3;0.00;1;0.00;Charlotte Myren Tuverud       ;4187
+321;30;9.35;260;81.00;68;21.18;Herman R. Tvedt               ;4188
+168;20;11.90;121;72.02;31;18.45;Rolf Tvedt                    ;4189
+1;0;0.00;1;0.00;0;0.00;Thomas Tvedt                  ;4190
+0;0;0.00;0;0.00;0;0.00;Edith Sofie Tvedt             ;4191
+0;0;0.00;0;0.00;0;0.00;Andrea Tveit                  ;4192
+0;0;0.00;0;0.00;0;0.00;Stine L. Skår Tveiten         ;4193
+0;0;0.00;0;0.00;0;0.00;Alf Tveter                    ;4194
+0;0;0.00;0;0.00;0;0.00;Randi Elise Ø Tveter          ;4195
+0;0;0.00;0;0.00;0;0.00;Ina Johanne B. Tømmervik      ;4196
+0;0;0.00;0;0.00;0;0.00;Malin Tønjum                  ;4197
+5;0;0.00;4;0.00;1;0.00;Andreas Tønnesen              ;4198
+0;0;0.00;0;0.00;0;0.00;Even Tørud                    ;4202
+9;1;11.11;8;88.89;2;22.22;Nina Ullestad                 ;4211
+0;0;0.00;0;0.00;0;0.00;Even H. Ulsmåg                ;4213
+0;0;0.00;0;0.00;0;0.00;Per Ulven                     ;4214
+4;0;0.00;4;0.00;1;0.00;Agnes Usterud                 ;4218
+0;0;0.00;0;0.00;0;0.00;Lisensinnehaver Utenlandsk    ;4220
+0;0;0.00;0;0.00;0;0.00;Stian Andre Uthaug            ;4221
+287;18;6.27;212;73.87;1;0.35;Anita Valstad                 ;4227
+63;2;3.17;52;82.54;22;34.92;Marit Valstad                 ;4228
+2;0;0.00;2;0.00;1;0.00;Lena Valstad                  ;4229
+36;0;0.00;23;0.00;11;0.00;Morten Valstad                ;4230
+0;0;0.00;0;0.00;0;0.00;Anna Henriette Vangen         ;4247
+15;0;0.00;11;0.00;2;0.00;Jimmy Vatland                 ;4249
+0;0;0.00;0;0.00;0;0.00;Lars Vebostad                 ;4250
+0;0;0.00;0;0.00;0;0.00;Anette Veggeberg              ;4252
+0;0;0.00;0;0.00;0;0.00;Odd-Helge Vekve               ;4254
+0;0;0.00;0;0.00;0;0.00;Hans Velten                   ;4255
+0;0;0.00;0;0.00;0;0.00;Sanne Svinningen Vereide      ;4262
+0;0;0.00;0;0.00;0;0.00;Katrine Verkland              ;4265
+0;0;0.00;0;0.00;0;0.00;Gunn Elisabeth Vigane         ;4275
+0;0;0.00;0;0.00;0;0.00;Lisbeth J. Vigtil             ;4276
+10;0;0.00;5;0.00;1;0.00;Hilde Pettersen Vik           ;4277
+0;0;0.00;0;0.00;0;0.00;Pia-Margrethe Vik             ;4278
+2;0;0.00;2;0.00;0;0.00;Helen Vikeby                  ;4279
+0;0;0.00;0;0.00;0;0.00;Kine Vikse                    ;4282
+3;0;0.00;2;0.00;2;0.00;Ida Beate Vikse               ;4283
+1;0;0.00;1;0.00;0;0.00;Ida Vinterdal                 ;4290
+0;0;0.00;0;0.00;0;0.00;Tore Vinterdal                ;4291
+0;0;0.00;0;0.00;0;0.00;Elisabeth Rise Vorland        ;4299
+0;0;0.00;0;0.00;0;0.00;Karina Vudduaune              ;4301
+0;0;0.00;0;0.00;0;0.00;Marthe Kristine Vaabenø       ;4304
+0;0;0.00;0;0.00;0;0.00;Oddmund Wallevik              ;4315
+0;0;0.00;0;0.00;0;0.00;Jeanett Walmann               ;4330
+98;3;3.06;66;67.35;1;1.02;Roar Walsøe                   ;4331
+0;0;0.00;0;0.00;0;0.00;Annelise Wara                 ;4336
+359;29;8.08;270;75.21;59;16.43;Ove Wassberg                  ;4337
+801;118;14.73;628;78.40;170;21.22;Svein Ove Wassberg            ;4338
+45;4;8.89;34;75.56;4;8.89;Thomas Wassberg               ;4339
+44;6;13.64;33;75.00;9;20.45;Sven Olav Weberg              ;4341
+3;0;0.00;3;0.00;0;0.00;Stephanie J. Werder           ;4345
+0;0;0.00;0;0.00;0;0.00;Rene Werth                    ;4347
+0;0;0.00;0;0.00;0;0.00;Martine Wessel                ;4348
+39;1;2.56;32;82.05;20;51.28;Frank Westberg                ;4349
+0;0;0.00;0;0.00;0;0.00;Aina H. Westberg              ;4350
+0;0;0.00;0;0.00;0;0.00;Bo Westergaard                ;4357
+0;0;0.00;0;0.00;0;0.00;Anna Karina Wiborg            ;4368
+0;0;0.00;0;0.00;0;0.00;Odd Magne Wibstad             ;4369
+0;0;0.00;0;0.00;0;0.00;Bent Olav Wigdal              ;4380
+289;39;13.49;224;77.51;103;35.64;Rune Wiig                     ;4381
+2;0;0.00;2;0.00;2;0.00;Kjell Wilhelmsen              ;4393
+2;0;0.00;2;0.00;0;0.00;Tore Witberg                  ;4403
+0;0;0.00;0;0.00;0;0.00;Truls Roar Wivestad           ;4404
+0;0;0.00;0;0.00;0;0.00;Vegard L. Wolden              ;4409
+6;1;16.67;5;83.33;2;33.33;Tor Wollebæk                  ;4411
+60;1;1.67;40;66.67;16;26.67;Asbjørn Wright                ;4415
+0;0;0.00;0;0.00;0;0.00;Frode Waage                   ;4420
+12;0;0.00;9;0.00;3;0.00;Katrine Olsen Wågenes         ;4421
+0;0;0.00;0;0.00;0;0.00;Jan Kristian Waaler           ;4422
+25;2;8.00;20;80.00;6;24.00;Haakon Ydersbond              ;4423
+0;0;0.00;0;0.00;0;0.00;Ellen Helgeland Ydstebø       ;4424
+0;0;0.00;0;0.00;0;0.00;Tommy Ytterdahl               ;4432
+17;1;5.88;13;76.47;5;29.41;Amalie Ødegård                ;4446
+1;0;0.00;1;0.00;0;0.00;Finn Ødegård                  ;4447
+0;0;0.00;0;0.00;0;0.00;Arne O. Ødegaard              ;4448
+147;12;8.16;119;80.95;40;27.21;Knut Arne Ødegaard            ;4449
+0;0;0.00;0;0.00;0;0.00;Knut Arne Ödegaard            ;4450
+0;0;0.00;0;0.00;0;0.00;Olav Øfstedal                 ;4451
+0;0;0.00;0;0.00;0;0.00;Amanda Øien                   ;4455
+74;7;9.46;59;79.73;2;2.70;Bernt Øksnevad                ;4458
+3;0;0.00;1;0.00;3;0.00;Stian Øksnevad                ;4459
+19;2;10.53;17;89.47;2;10.53;Boye Ølstøren                 ;4460
+24;1;4.17;21;87.50;9;37.50;Hilde Marie Østborg           ;4462
+0;0;0.00;0;0.00;0;0.00;Ole Østby                     ;4463
+1;0;0.00;1;0.00;1;0.00;Maria Østergaard              ;4473
+17;0;0.00;15;0.00;4;0.00;Katarina Østerholt            ;4474
+0;0;0.00;0;0.00;0;0.00;Vidar Østervold               ;4476
+1019;121;11.87;859;84.30;310;30.42;Ole Johan Østre               ;4480
+20;0;0.00;15;0.00;9;0.00;Lars Håkenby Østre            ;4481
+0;0;0.00;0;0.00;0;0.00;Jan Ottar Østring             ;4482
+1;0;0.00;1;0.00;0;0.00;Harald Øverdal                ;4483
+1;0;0.00;1;0.00;1;0.00;Jan Kristian Øverdal          ;4484
+2;0;0.00;1;0.00;1;0.00;Marlen Øvergård               ;4485
+0;0;0.00;0;0.00;0;0.00;Jarle Øverland                ;4486
+56;14;25.00;50;89.29;9;16.07;Johanne Ulrica Øveraasen      ;4487
+20;1;5.00;16;80.00;4;20.00;Marie Øvestad                 ;4488
+0;0;0.00;0;0.00;0;0.00;Marielle Øvrebø               ;4489
+0;0;0.00;0;0.00;0;0.00;Hilda Øyasæter                ;4490
+0;0;0.00;0;0.00;0;0.00;Kjell Øyhaugen                ;4491
+0;0;0.00;0;0.00;0;0.00;Odd Arne Aaland               ;4508
+0;0;0.00;0;0.00;0;0.00;Andrea Aarekol                ;4512
+0;0;0.00;0;0.00;0;0.00;Hilde-Karin Aarlie            ;4513
+86;3;3.49;68;79.07;13;15.12;Renate Aarlie                 ;4514
+3;0;0.00;3;0.00;0;0.00;Bjørn Olav Aarskog            ;4516
+1;0;0.00;1;0.00;1;0.00;Martin Nielsen Aarvåg         ;4518
+5;1;20.00;5;100.00;0;0.00;Lars Erik Aas                 ;4519
+0;0;0.00;0;0.00;0;0.00;Ola Åsebø                     ;4524
+0;0;0.00;0;0.00;0;0.00;Frida Aasegg                  ;4525
+0;0;0.00;0;0.00;0;0.00;Ola Martin Aasen              ;4527
+0;0;0.00;0;0.00;0;0.00;Renate Aaseng                 ;4528
+0;0;0.00;0;0.00;0;0.00;Lill Andersen Aasheim         ;4529
+0;0;0.00;0;0.00;0;0.00;Arvid Aasheim                 ;4530
+0;0;0.00;0;0.00;0;0.00;Hanne Aasmundstad             ;4534
+469;39;8.32;369;78.68;171;36.46;Bjørn Steinseth               ;4536
+5;0;0.00;3;0.00;1;0.00;Olof    Högberg               ;99999

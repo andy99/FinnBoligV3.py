@@ -5,8 +5,8 @@ if os.path.isfile("D:\workplace_python\pythonapp\DntStartLister.txt"):
     print("D:\workplace_python\pythonapp\DntStartlister.txt","blir slettet")
     os.remove("D:\workplace_python\pythonapp\DntStartLister.txt")
 coding='utf8'
-r = requests.get("http://www.travsport.no/Sport/StartLister/Bergen-Travpark/?date=20191114")
-#                       http://www.travsport.no/Sport/Resultater/Forus-Travbane/ 
+r = requests.get("http://www.travsport.no/Sport/StartLister/Jarlsberg-travbane/?date=20220920")
+#                       http://www.travsport.no/Sport/Resultater/Leangen-Travbane/ 
 
 r.content
 soup = BeautifulSoup(r.content,"html.parser")
@@ -47,12 +47,12 @@ with open('D:\workplace_python\pythonapp\DntStartLister.txt', 'a') as f:
             if startmetodefinn > 0:
                 startmetode = "Autostart"
             else:
-                startmetode = "Volestart"    
+                startmetode = "Voltestart"
 #             startmetodeslutt = lopinformasjon.find(".Premier")   # Fungerer ikke ved tilli
 #             Startmetodestart = lopinformasjon.find("m.")
 # #             startmetode = lopinformasjon[Startmetodestart,startmetodeslutt]
 #             startmetode = lopinformasjon[Startmetodestart+3:startmetodeslutt]
-#             print(startmetode,"Har vi startmetode?")
+                print(startmetode,"Har vi startmetode?")
 # #             startmetode =
             
         if antkol == 7:    

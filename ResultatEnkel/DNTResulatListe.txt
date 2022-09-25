@@ -1,0 +1,74 @@
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;1;Volte;Ingen galopp ;1;1;Røyns Kasper;1720;2:26,5;25,2;22000;Ragnar    Fremstad;120
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;1;Volte;Ingen galopp ;2;5;Pave Faks;1740;2:26,8;24,4;11000;Kristin    Mogset;56
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;1;Volte;Ingen galopp ;3;3;Storm Teddy;1740;2:27,1;24,5;7000;Arve    Sjoner;30
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;1;Volte;Ingen galopp ;4;2;Kashmir;1720;2:27,4;25,7;5000;Thomas    Mjøen;52
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;1;Volte;Ingen galopp ;5;6;Jardar;1740;2:28,0;25,1;3500;Jomar    Blekkan;*26
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;1;Volte;Ingen galopp ;0;4;Helle Spik;1740;2:28,1;25,1;;Boye    Ølstøren;112
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 45000; 2300;2;Volte;Ingen galopp ;1;4;Juliana Rags;2340;3:02,1;17,8;22000;Noralf P.    Brækken;*13
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 45000; 2300;2;Volte;Ingen galopp ;2;1;Gloria B.R.;2300;3:02,6;19,4;11000;Arve    Sjoner;107
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 45000; 2300;2;Volte;Ingen galopp ;3;2;Brilliant Star (DK);2300;3:02,9;19,5;7000;Monika    Fremstad;127
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 45000; 2300;2;Volte;Ingen galopp ;4;5;Synjo Danseuse;2340;3:04,2;18,7;5000;Roar    Walsøe;56
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 45000; 2300;2;Volte;Ingen galopp ;Disk. galopp;3;M.H. Queen B.;2300;DG;dg;;Inge    Melby;55
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;Ingen galopp ;1;4;Nelson Beat'em;2300;3:05,6;20,7;14000;Thomas    Mjøen;*30
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;Ingen galopp ;2;12;Investron;2320;3:05,7;20,0;7000;Jomar    Blekkan;76
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;Ingen galopp ;3;1;Kasai B.R.;2300;3:06,5;21,1;5000;Arne Petter    Fossen;257
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;Ingen galopp ;4;8;Jason B.R.;2320;3:07,2;20,7;3500;Arve    Sjoner;260
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;Ingen galopp ;5;5;Chanto Maratcho;2320;3:07,4;20,8;3000;Atle    Solhus;55
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;galopp;6;11;Tipo di Vittoria;2320;3:07,6;20,9 g;3000;Magne    Olsen;122
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;galopp;7;3;L'Etoile;2300;3:08,6;22,0 g;2000;Inge    Melby;57
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;galopp;0;6;Viking Street;2320;3:16,1;24,5 g;;Atle    Eggan;58
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;galopp;0;10;Come Easy;2320;3:16,1;24,5 g;;Anneli    Lindgaard;532
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;galopp;0;2;Mojo's Chablis V.P.;2300;3:18,7;26,4 g;;Veronika    Bugge;532
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;Ingen galopp ;Disk. galopp;9;Vicilane;2320;DG;dg;;Dag-Sveinung    Dalen;152
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 37500; 2300;3;Volte;Ingen galopp ;Strøket;7;De Ice (S);2320;;;;Boye    Ølstøren;0
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 54500; 2300;4;Volte;Ingen galopp ;1;5;Brosjan;2340;3:34,8;31,8;20000;Ida Therese    Stoum;115
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 54500; 2300;4;Volte;Ingen galopp ;2;7;Spang Wikblesa;2340;3:35,0;31,9;10000;Jenny Rise    Krangsås;255
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 54500; 2300;4;Volte;Ingen galopp ;3;2;Go Brage;2320;3:35,4;32,8;7000;Rakel    Krabseth;73
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 54500; 2300;4;Volte;Ingen galopp ;4;10;Kolbu Julian;2340;3:36,0;32,3;5000;Kristin    Mogset;*19
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 54500; 2300;4;Volte;Ingen galopp ;5;9;Potetgull;2340;3:36,0;32,3;3500;Ola Røstad    Haga;175
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 54500; 2300;4;Volte;Ingen galopp ;6;4;Fjell Reven;2320;3:36,5;33,3;3000;Marion    Kleveland;425
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 54500; 2300;4;Volte;Ingen galopp ;7;6;Jærvsømina;2340;3:36,7;32,6;2000;Erik    Sæther;223
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 54500; 2300;4;Volte;Ingen galopp ;8;8;Lesja Prima;2340;3:38,3;33,3;2000;Henrik    Kihle;42
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 54500; 2300;4;Volte;galopp;9;3;Hellinrappa;2320;3:41,6;35,5 g;2000;Cathrine    Dahle;128
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 54500; 2300;4;Volte;Ingen galopp ;Disk. galopp;1;Frisk Bris;2300;DG;dg;;Anna    Heimsbakk;386
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 2300;5;Volte;galopp;1;4;Dalebros Vilja;2300;3:40,0;35,7 g;16000;Edvard    Kristiansen;52
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 2300;5;Volte;Ingen galopp ;2;7;V.H. Sjarmis;2320;3:40,0;34,8;8000;Inge    Melby;*23
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 2300;5;Volte;galopp;3;8;Lille Jenta;2320;3:40,8;35,2 g;5000;Jarle Morten    Sørmo;66
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 2300;5;Volte;Ingen galopp ;4;10;Bork Lill;2320;3:41,5;35,5;4000;Arve    Sjoner;102
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 2300;5;Volte;Ingen galopp ;5;9;Myras Mimo;2320;3:41,5;35,5;3000;Monika    Fremstad;133
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 2300;5;Volte;Ingen galopp ;6;3;Svartemaja;2300;3:42,5;36,7;3000;Atle    Solhus;125
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 2300;5;Volte;Ingen galopp ;0;5;Hafell Mari;2300;3:42,6;36,8;;Robert    Larsen;89
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 2300;5;Volte;galopp;0;6;Tyholt Frøkna;2300;3:44,2;37,5 g;;Jomar    Blekkan;140
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 2300;5;Volte;Ingen galopp ;0;1;Spang Anna;2300;3:47,7;39,0;;Eirin    Bolme;411
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 2300;5;Volte;galopp;0;2;Liheim Maia;2300;3:56,8;43,0 g;;Marit    Valstad;502
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;1;11;Hush;1720;2:11,9;16,7;16000;Edvard    Kristiansen;*15
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;2;9;Kvåles Nightmare;1720;2:12,3;16,9;8000;Dag-Sveinung    Dalen;44
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;3;7;L.J.'s Red Rajah;1720;2:12,6;17,1;5000;Jomar    Blekkan;185
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;4;5;Umoko's Dream G.M.;1720;2:12,7;17,2;4000;Atle    Eggan;430
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;5;10;Oli Bonera;1720;2:12,9;17,3;3000;Arve    Sjoner;254
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;6;12;Aston Brodde (S);1720;2:13,0;17,3;3000;Thomas    Mjøen;145
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;0;8;Racer Coin (S);1720;2:13,3;17,5;;Boye    Ølstøren;944
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;0;3;Toxica Cox;1720;2:14,3;18,1;;Torkil    Steinshaug;1529
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;galopp;0;1;M.H. Coktail Step;1720;2:14,4;18,1 g;;Atle    Solhus;142
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;Disk. galopp;2;Kalland Monaco;1720;DG;dg;;Mats    Schei;458
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;Disk. galopp;6;Carillo I.V.;1720;DG;dg;;Monika    Fremstad;112
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 39000; 1720;6;Volte;Ingen galopp ;Strøket;4;One Knight Stand;1720;;;;Christine    Lihaug;0
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;7;Volte;Ingen galopp ;1;3;Walentino Star;1720;2:15,6;18,8;20000;Dag-Sveinung    Dalen;144
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;7;Volte;Ingen galopp ;2;1;Eliana Rags;1720;2:15,7;18,9;10000;Noralf P.    Brækken;*18
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;7;Volte;Ingen galopp ;3;4;Scarselli;1720;2:15,9;19,0;7000;Magne    Olsen;127
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;7;Volte;Ingen galopp ;4;5;Wicket Surface;1720;2:16,2;19,2;5000;Boye    Ølstøren;74
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;7;Volte;galopp;5;6;Pogba;1720;2:16,5;19,4 g;3500;Tor Arne    Eggen;116
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 48500; 1720;7;Volte;galopp;6;2;Super Cash;1720;2:17,3;19,8 g;3000;Jomar    Blekkan;29
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 29000; 1720;8;Volte;Ingen galopp ;1;1;Solemsveet Tingeling;1720;2:38,2;32,0;12000;Marion    Kleveland;65
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 29000; 1720;8;Volte;Ingen galopp ;2;2;Arnt Si;1720;2:39,2;32,6;6000;Jomar Grande    Rabban;*20
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 29000; 1720;8;Volte;galopp;3;5;Sundmin;1740;2:54,4;40,2 g;4000;Arve    Sjoner;90
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 29000; 1720;8;Volte;galopp;4;6;Tverdals Kongen;1740;2:54,5;40,3 g;5000;Jarle Morten    Sørmo;90
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 29000; 1720;8;Volte;Ingen galopp ;5;3;Kos Mar;1740;2:56,0;41,1;2000;Dag-Sveinung    Dalen;52
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 29000; 1720;8;Volte;Ingen galopp ;Disk. galopp;4;Vertigo Veronica;1740;DG;dg;;Atle    Eggan;52
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 0; 1720;8;Volte;galopp;;2;Imperatrix W.H.;1720;2:30,0;27,2 g;;Torkil    Steinshaug;B
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 0; 1720;8;Volte;galopp;;1;Finding Nemo;1720;2:37,1;31,3 g;;Jomar    Blekkan;B
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 0; 2300;8;Volte;Ingen galopp ;P;2;Mojo's Hot n'Sweet;2300;3:13,3;24,0;;Atle    Eggan;P
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 0; 2300;8;Volte;Ingen galopp ;Disk. galopp prøveløp;3;Millminx;2300;DGPP;dgpp;;Veronika    Bugge;N
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 0; 2300;8;Volte;Ingen galopp ;Strøket;1;Gjølmes Pastor Olsen;2300;;;;Kasper    Klæbu;
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 0; 2300;8;Volte;Ingen galopp ;P;2;Skeie Max;2300;3:42,2;36,6;;Odd Arne    Kjøsnes;P
+Resultater    -  Varig Orkla Arena  -  02.05.2022; 0; 2300;8;Volte;Ingen galopp ;Strøket;1;Bekke Stjernen;2300;;;;Kasper    Klæbu;

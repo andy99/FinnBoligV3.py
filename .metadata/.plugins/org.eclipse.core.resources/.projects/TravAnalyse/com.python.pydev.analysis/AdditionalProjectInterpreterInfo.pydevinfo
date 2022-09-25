@@ -1,15 +1,15 @@
 -- VERSION_5
 -- START DISKCACHE_2
 D:\workplace_python\.metadata\.plugins\org.eclipse.core.resources\.projects\TravAnalyse\com.python.pydev.analysis\v2_indexcache
-Hovedprogram|1567843371608474000|D:\workplace_python\TravAnalyse\Hovedprogram.py
+Hovedprogram|1591774016072650000|D:\workplace_python\TravAnalyse\Hovedprogram.py
 Funktrippel|1534493760627130000|D:\workplace_python\TravAnalyse\Funktrippel.py
 Funkkuskgalopp|1556460166310079000|D:\workplace_python\TravAnalyse\Funkkuskgalopp.py
-ResultaterAutomatisk|1541153215229251000|D:\workplace_python\TravAnalyse\ResultaterAutomatisk.py
+ResultaterAutomatisk|1572159153373451000|D:\workplace_python\TravAnalyse\ResultaterAutomatisk.py
 sjekkresultater|1540806271541379000|D:\workplace_python\TravAnalyse\sjekkresultater.py
-BergenDatoer|1544901849239130000|D:\workplace_python\TravAnalyse\BergenDatoer.py
+BergenDatoer|1587807223010883000|D:\workplace_python\TravAnalyse\BergenDatoer.py
 Funkplass|1541667749528562000|D:\workplace_python\TravAnalyse\Funkplass.py
 TabResultatMan|1541152969722394000|D:\workplace_python\TravAnalyse\TabResultatMan.py
-FunkFakta|1534492925802289000|D:\workplace_python\TravAnalyse\FunkFakta.py
+FunkFakta|1578309814577845000|D:\workplace_python\TravAnalyse\FunkFakta.py
 Funkstarterkusk|1556183447039925000|D:\workplace_python\TravAnalyse\Funkstarterkusk.py
 Funkvinner|1534492974809158000|D:\workplace_python\TravAnalyse\Funkvinner.py
 tellantallresultatbane|1541070079126795000|D:\workplace_python\TravAnalyse\tellantallresultatbane.py
@@ -21,7 +21,7 @@ Funkstarter|1534493670594663000|D:\workplace_python\TravAnalyse\Funkstarter.py
 FinnerulikHeterNavn|1567147353235957000|D:\workplace_python\TravAnalyse\FinnerulikHeterNavn.py
 Funkkusk1plass|1556265067611879000|D:\workplace_python\TravAnalyse\Funkkusk1plass.py
 HesterForm|1534491948805505000|D:\workplace_python\TravAnalyse\HesterForm.py
-HovedProgramKusker|1556460225347534000|D:\workplace_python\TravAnalyse\HovedProgramKusker.py
+HovedProgramKusker|1574176833139924000|D:\workplace_python\TravAnalyse\HovedProgramKusker.py
 UpdateUlikenavn|1567148167893993000|D:\workplace_python\TravAnalyse\UpdateUlikenavn.py
 Lopkalendar|1533375238758623000|D:\workplace_python\TravAnalyse\Lopkalendar.py
 Funksjekkidnr|1565256372738633000|D:\workplace_python\TravAnalyse\Funksjekkidnr.py
@@ -91,31 +91,31 @@ Beregnerform|1533033230838015000|D:\workplace_python\TravAnalyse\Beregnerform.py
 -- END DICTIONARY
 -- START TREE 1
 54
-ant|22|Antallstartekusk!1^3#1*19@antrader!3^28#9*35@antkol!5^69#9*51@Antalllop!7^26#5*67@antrader!9^36#13*83@antallbaner!11^16#1*99@antrader!5^67#9*51@antkol!11^90#13*99@Anttalltrippel!13^40#9*115@Antallgalloper!13^41#9*115@Antallstartekusk!15^3#1*131@Antallstartekusk!17^3#1*147@Antallstartekusk!13^38#9*115@antlop!9^71#17*83@Antallstartekusk!19^3#1*163@antlop!5^107#17*51@Antallvunnet!13^39#9*115@antlop!3^57#17*35@antalltabeller!9^25#5*83@antkol!9^39#13*83@antkol!3^30#9*35@antstarter!21^57#9*179@
+ant|22|Antallstartekusk!1^3#1*19@antrader!3^28#9*35@antkol!5^69#9*51@Antalllop!7^26#5*67@antrader!9^36#13*83@antallbaner!11^16#1*99@antrader!5^67#9*51@antkol!11^90#13*99@Anttalltrippel!13^40#9*115@Antallgalloper!13^41#9*115@Antallstartekusk!15^3#1*131@Antallstartekusk!17^3#1*147@Antallstartekusk!13^38#9*115@antlop!9^71#17*83@Antallstartekusk!19^3#1*163@antlop!5^107#17*51@Antallvunnet!13^39#9*115@antlop!3^57#17*35@antalltabeller!9^25#5*83@antkol!9^39#13*83@antkol!3^30#9*35@antstarter!21^58#9*179@
 ban|9|Bane!11^21#1*99@bane!5^17#1*51@banenavn!11^74#9*99@bane!11^40#1*99@banenavn!9^26#5*83@baneid!9^27#5*83@Baneverdi!11^95#17*99@Bane!23^33#5*195@Bane!5^14#1*51@
 ber|1|Beregnerform!25^3#5*210@
 cod|5|coding!9^7#1*83@coding!27^1#1*227@coding!11^56#1*99@coding!5^43#1*51@coding!3^7#1*35@
-con|23|con!15^2#1*131@con!29^2#1*243@con!31^2#1*259@con!33^2#1*275@con!17^2#1*147@con!35^7#1*291@con!37^2#1*307@con!7^4#1*67@con!13^7#1*115@con!39^2#1*323@con!41^2#1*339@con!23^8#1*195@con!1^2#1*19@con!43^2#1*355@con!45^2#1*371@con!19^2#1*163@con!21^20#1*179@con!47^2#1*387@con!25^2#1*211@con!49^2#1*403@con!51^2#1*419@con!53^2#1*435@con!55^2#1*451@
-cur|5|cursor!7^17#1*67@cursor!35^27#1*291@cursor!13^20#1*115@cursor!21^32#1*179@cursor!23^24#1*195@
+con|23|con!15^2#1*131@con!29^2#1*243@con!31^2#1*259@con!33^2#1*275@con!17^2#1*147@con!35^7#1*291@con!37^2#1*307@con!7^4#1*67@con!13^7#1*115@con!39^2#1*323@con!41^2#1*339@con!23^8#1*195@con!1^2#1*19@con!43^2#1*355@con!45^2#1*371@con!19^2#1*163@con!21^18#1*179@con!47^2#1*387@con!25^2#1*211@con!49^2#1*403@con!51^2#1*419@con!53^2#1*435@con!55^2#1*451@
+cur|5|cursor!7^17#1*67@cursor!35^27#1*291@cursor!13^20#1*115@cursor!21^33#1*179@cursor!23^24#1*195@
 dag|4|dagensdato!11^11#1*99@dagensdato!5^8#1*51@Dagenstartnr!35^38#5*291@dagenslop!5^10#1*51@
 dat|1|Dato!23^34#5*195@
 dis|1|Distanse!11^94#17*99@
 fin|1|finnstrek!11^23#1*99@
 fun|11|funkformatdato!27^2#5*226@Funksjekkidnr!53^3#5*434@FunkFakta!41^3#5*338@Funkplass!43^3#5*354@Funkstarter!55^3#5*450@Funkstarterkusk!15^4#5*130@Funkvinner!31^3#5*258@Funkkusk1plass!19^4#5*162@FunkKusktrippel!17^4#5*146@Funkkuskgalopp!1^4#5*18@Funktrippel!39^3#5*322@
 gyl|3|GyldigeBanerNavn!51^3#5*418@gyldigbane!5^15#1*51@gyldigbane!11^44#5*99@
-hes|4|Hestenummer!21^45#5*179@Hestenavn!23^30#5*195@Hesttabell!9^23#5*83@Hestenavn!21^41#5*179@
-id_|2|id_nr!21^43#5*179@id_nr!23^32#5*195@
+hes|4|Hestenummer!21^46#5*179@Hestenavn!23^30#5*195@Hesttabell!9^23#5*83@Hestenavn!21^42#5*179@
+id_|2|id_nr!21^44#5*179@id_nr!23^32#5*195@
 inn|6|Inntjent!35^39#5*291@inndatodag!11^33#1*99@inndatomnd!11^32#1*99@inndato!11^30#1*99@inndata!5^26#1*51@inndatoaar!11^31#1*99@
 kmt|1|kmtid!11^134#17*99@
-kus|3|Kusk!21^42#5*179@Kuskenavn!13^26#5*115@Kuskidnr!13^25#5*115@
+kus|3|Kusk!21^43#5*179@Kuskenavn!13^26#5*115@Kuskidnr!13^25#5*115@
 lop|19|lop!7^22#1*67@lopnr!11^122#13*99@lopinformasjon!5^60#1*51@lopnr!9^43#13*83@lop!9^70#17*83@lop!3^20#1*35@lopinfo!3^56#17*35@lopdato!5^52#1*51@lop!5^59#1*51@lopdato!3^13#1*35@lopdistanse!11^108#21*99@lopinformasjon!11^79#1*99@lopnr!5^76#9*51@lopinfo!5^106#17*51@Lop!35^36#5*291@lopdato!11^66#1*99@Lopkalendar!49^3#5*402@lop!11^78#1*99@lopinformasjon!3^21#1*35@
 nav|2|Navn!23^31#5*195@navnulike!23^26#1*195@
 num|1|num!9^11#1*83@
 nyb|3|nybane2!11^24#1*99@nybane!11^22#1*99@nybane3!11^26#1*99@
 opp|1|oppdaterenavn!23^69#9*195@
-pla|3|plasingint!11^120#13*99@plassering123!21^58#9*179@plassering!11^124#17*99@
+pla|3|plasingint!11^120#13*99@plassering123!21^59#9*179@plassering!11^124#17*99@
 pre|1|premisum!11^93#17*99@
-pro|6|prosenttrippel!13^46#13*115@prosentvinner!21^60#9*179@prosentgallop!21^56#9*179@prosentgallop!13^47#13*115@prosenttrippel!21^61#9*179@prosentvunnet!13^37#9*115@
+pro|6|prosenttrippel!13^46#13*115@prosentvinner!21^61#9*179@prosentgallop!21^57#9*179@prosentgallop!13^47#13*115@prosenttrippel!21^62#9*179@prosentvunnet!13^37#9*115@
 r|2|r!3^8#1*35@r!9^18#5*83@
 rda|4|rdato1!9^49#17*83@rdato3!9^53#17*83@rdato2!9^51#17*83@rdato0!9^47#17*83@
 res|6|resultatliste!11^58#1*99@reslutdato1!9^50#17*83@reslutdato3!9^54#17*83@reslutdato0!9^48#17*83@resultatinfo!11^15#1*99@reslutdato2!9^52#17*83@
@@ -128,7 +128,7 @@ sjn|2|sjnavn!23^36#5*195@sjnavnlen!23^35#5*195@
 sjp|1|sjpremie!11^98#17*99@
 sle|1|SlettResMan!47^3#5*386@
 sou|4|soup!9^22#5*83@soup!3^12#1*35@soup!5^50#1*51@soup!11^64#1*99@
-sql|6|SQL1!23^65#9*195@SQL!21^31#1*179@SQL!23^23#1*195@SQL!35^26#1*291@SQL!7^16#1*67@SQL!13^19#1*115@
+sql|6|SQL1!23^65#9*195@SQL!21^32#1*179@SQL!23^23#1*195@SQL!35^26#1*291@SQL!7^16#1*67@SQL!13^19#1*115@
 sta|11|startnrint!5^93#21*51@startmetodefinn!5^83#13*51@Startnr!35^37#5*291@startnr!5^91#13*51@Starttabell!3^15#1*35@startmetode!5^86#17*51@Starttabell!11^68#1*99@Starttabell!5^54#1*51@startnr!3^39#13*35@Startmetode!11^96#17*99@startliste!5^46#1*51@
 stj|1|stjerne!23^45#5*195@
 t|1|t!5^31#1*51@
@@ -140,7 +140,7 @@ tes|2|testdato!11^46#1*99@testdato!5^23#1*51@
 uda|1|UdateUlikenavn!29^3#5*242@
 uid|1|uidnr!23^59#9*195@
 una|1|unavn!23^60#9*195@
-utd|3|utdata!21^19#1*179@utdata!35^6#1*291@utdata!7^3#1*67@
+utd|3|utdata!21^17#1*179@utdata!35^6#1*291@utdata!7^3#1*67@
 utg|1|utgallop!11^138#17*99@
 uts|1|utstartmetode!11^116#21*99@
 web|1|webbane!5^45#1*51@

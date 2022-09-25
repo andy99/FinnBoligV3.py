@@ -1,0 +1,540 @@
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;1;6;B.B. Pave Faks;2320;3:42,1;35,7;20000;Thomas    Mjøen;*20
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;2;3;Kringlers Tollef;2300;3:44,9;37,8;7000;Arne    Nilsen;133
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;3;4;Pave Faksa T.M.;2320;3:45,0;37,0 g;7000;Kristin    Mogset;37
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;4;7;Tyholt Frøkna;2320;3:45,8;37,3 g;3500;Jomar    Blekkan;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;5;5;Liheim Maia;2320;3:52,4;40,2 g;3000;Marit    Valstad;191
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Disk. galopp;2;Sørdals Ruska;2300;DG;dg;;Noralf P.    Brækken;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Strøket;1;Søreng Viktor;2300;;;;Morten    Valstad;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;1;1;Juliana Rags;2300;2:50,6;14,2a;40000;Noralf P.    Brækken;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;2;4;Rocket Man;2300;2:51,3;14,5a;20000;Dag-Sveinung    Dalen;32
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;3;7;Global Undefeded (S);2300;2:51,4;14,5a;12000;Inge    Melby;62
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;4;3;L.J.'s Musclemadness;2300;2:51,5;14,6a;8000;Jomar    Blekkan;109
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;5;2;Synjo Danseuse;2300;2:52,3;14,9a;5000;Roar    Walsøe;174
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;6;Down And Dirty;2300;2:52,6;15,0a;;Thomas    Mjøen;221
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;5;Locamotion;2300;2:52,7;15,1a;;Atle    Solhus;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;1;1;Kolbu Julian;2300;3:25,8;29,5a;40000;Atle    Solhus;99
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;2;12;Alltid Ø.K.;2300;3:26,2;29,7ag;20000;Jomar    Blekkan;*17
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;3;10;Rygval;2300;3:26,3;29,7a;12000;Inge    Melby;121
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;4;3;Admiral B.;2300;3:26,8;29,9a;8000;Odd Arne    Kjøsnes;118
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;5;2;Høibygjerven;2300;3:27,0;30,0a;5000;Morten    Valstad;445
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;6;4;Fossenlilja;2300;3:27,2;30,1a;4000;Boye    Ølstøren;572
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;5;Brosjan;2300;3:27,2;30,1a;;Veronika    Bugge;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;7;Potetgull;2300;3:28,2;30,5a;;Dag-Sveinung    Dalen;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;9;Faks Trym;2300;3:29,1;30,9ag;;Monika    Fremstad;49
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;8;Kristinstjerna;2300;3:29,5;31,1a;;Hans Chr.    Holm;159
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;6;Jåra Blessen;2300;3:34,3;33,2ag;;Thomas    Mjøen;671
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;Strøket;11;Eva Maria;2300;;;;Bjørn    Garberg;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;1;8;Alma Prins;2320;3:18,3;25,5;40000;Jomar    Blekkan;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;2;7;Komnes Bork;2320;3:18,7;25,6;20000;Atle    Solhus;80
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;3;6;Villmira;2320;3:20,8;26,6;12000;Thomas    Mjøen;269
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;4;2;Kashmir;2300;3:21,3;27,5;8000;Boye    Ølstøren;333
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;5;3;Myr Tøtta;2300;3:21,7;27,7;5000;Robert    Larsen;462
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;1;Il Jerven;2300;3:22,0;27,8;;Arve    Sjoner;55
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;4;Arkan;2300;3:22,6;28,1;;Ivar    Asphaug;354
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;Disk. galopp;5;Storm Teddy;2320;DG;dg;;Edvard    Kristiansen;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;1;1;Cox Rome;2300;2:54,9;16,0a;40000;Inge    Melby;47
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;2;9;Casartelli;2300;2:55,1;16,1a;20000;Jomar    Blekkan;*16
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;3;3;Clerken;2300;2:56,1;16,6a;12000;Arve    Sjoner;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;4;4;Folsom Cash;2300;2:56,4;16,7a;8000;Dag-Sveinung    Dalen;76
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;5;7;Gloria B.R.;2300;2:56,5;16,7a;5000;Edvard    Kristiansen;540
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;5;Moonrise;2300;2:56,7;16,8a;;Jan Roar    Trøan;363
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;2;Dewey;2300;2:56,9;16,9a;;Boye    Ølstøren;155
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;8;Magic Messi;2300;2:57,9;17,3a;;Jomar Grande    Rabban;525
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;6;Playtakethewave;2300;2:58,4;17,6a;;Kristin    Mogset;521
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;1;3;Eik Odin;2320;3:22,3;27,2;40000;Atle    Solhus;*12
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;2;2;Solør Jo;2300;3:24,5;28,9;20000;Jomar    Blekkan;135
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;3;1;Tustna Svarten;2300;3:24,8;29,0;12000;Noralf P.    Brækken;69
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;4;8;Alonso Sol;2320;3:25,3;28,5 g;8000;Thomas    Mjøen;595
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;5;11;Gullkontoen;2320;3:26,0;28,8;5000;Hans Chr.    Holm;507
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;6;6;Oria;2320;3:26,3;28,9 g;4000;Kristin    Mogset;311
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;5;Lille Vilma;2320;3:27,3;29,4 g;;Frank    Westberg;559
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;9;Sæter Fia;2320;3:27,7;29,5;;Arve    Sjoner;777
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;4;Skeie Knerten;2320;3:27,9;29,6;;Inge    Melby;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;10;Terne Pil;2320;3:28,3;29,8 g;;Odd Arne    Kjøsnes;236
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;Disk. galopp;7;Holst Pil;2320;DG;dg;;Dag-Sveinung    Dalen;251
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;1;5;Rambunctious Ravin;2300;2:50,5;14,1a;40000;Hans Chr.    Holm;*13
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;2;3;Way To Go;2300;2:50,5;14,1a;20000;Jomar    Blekkan;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;3;7;Looking Sharp;2300;2:53,4;15,4a;12000;Bjørn    Garberg;349
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;galopp;4;6;R.M.G. Lady In Red;2300;2:53,5;15,4ag;8000;Dag-Sveinung    Dalen;86
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;5;10;Conseila's De Bello;2300;2:54,3;15,8a;5000;Boye    Ølstøren;364
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;4;Mr Micman (S);2300;2:54,5;15,9a;;Edvard    Kristiansen;249
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;9;Jazmine B.R.;2300;2:55,5;16,3a;;Tor Arne    Eggen;124
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;1;Dancer Halbak;2300;3:00,7;18,6a;;Inge    Melby;357
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Disk. galopp;2;Take It Easy;2300;DG;dg a;;Arve    Sjoner;340
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Strøket;8;With A Mission;2300;;;;Atle    Solhus;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;1;5;Eddie Brogård (DK);2320;3:02,1;18,5;16000;Victoria    Amundsen;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;2;4;Tearsofthesun;2320;3:03,5;19,1;8000;Trude    Kleveland;27
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;3;6;Efes Trotter;2340;3:05,3;19,2;5000;Marit    Valstad;44
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;4;1;Gerboise (FR);2300;3:05,8;20,8;4000;Ingrid    Sellie;163
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;galopp;5;2;One Knight Stand;2300;3:09,1;22,2 g;3000;Olea Villa    Furre;167
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;Strøket;3;De Ice (S);2300;;;;Nina    Stene;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;1;5;Alm Jerker;2340;3:30,7;30,0;14000;Boye    Ølstøren;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;2;6;Go Brage;2340;3:35,3;32,0;7000;Bernt K.    Kvamme;252
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;3;4;Brunte Martin;2340;3:35,5;32,1;5000;Arve    Sjoner;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;4;1;Hafell Mari;2300;3:35,9;33,9;3500;Robert    Larsen;142
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;5;3;Myras Mimo;2320;3:36,8;33,4 g;3000;Monika    Fremstad;140
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;0;7;Polar Brage;2340;3:37,2;32,8 g;;Jomar    Blekkan;95
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;Disk. galopp;2;V.H. Sjarmis;2320;DG;dg;;Inge    Melby;162
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;1;1;Chanto Maratcho;2300;3:04,7;20,3;14000;Inge    Melby;*24
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;2;6;Saga Krobak;2320;3:04,8;19,7;7000;Arve    Sjoner;31
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;3;4;Walentino Star;2320;3:05,0;19,7;7000;Jomar    Blekkan;51
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;4;2;Vicilane;2320;3:05,0;19,7;3500;Thomas    Mjøen;291
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;5;3;Pogba;2320;3:05,7;20,0;3500;Tor Arne    Eggen;74
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;6;7;Gaston Design (DK);2320;3:06,2;20,3;3000;Magne    Olsen;81
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;galopp;0;5;Mojo's Chablis V.P.;2320;3:25,2;28,4 g;;Ola Røstad    Haga;304
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;1;Vicky Vici;2300;3:01,9;19,1;;Inge    Melby;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;2;Wicket Surface;2300;3:03,4;19,7;;Boye    Ølstøren;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;galopp;P;3;Shallow;2300;3:14,6;24,6 g;;Magne    Olsen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;5;Gullgutten;2320;3:59,4;43,2;;Thomas    Mjøen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Disk. galopp prøveløp;4;Millminx;2300;DGPP;dgpp;;Veronika    Bugge;N
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Strøket;6;Spik Svarten;2320;;;;Arve    Sjoner;
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;1;6;B.B. Pave Faks;2320;3:42,1;35,7;20000;Thomas    Mjøen;*20
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;2;3;Kringlers Tollef;2300;3:44,9;37,8;7000;Arne    Nilsen;133
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;3;4;Pave Faksa T.M.;2320;3:45,0;37,0 g;7000;Kristin    Mogset;37
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;4;7;Tyholt Frøkna;2320;3:45,8;37,3 g;3500;Jomar    Blekkan;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;5;5;Liheim Maia;2320;3:52,4;40,2 g;3000;Marit    Valstad;191
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Disk. galopp;2;Sørdals Ruska;2300;DG;dg;;Noralf P.    Brækken;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Strøket;1;Søreng Viktor;2300;;;;Morten    Valstad;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;1;1;Juliana Rags;2300;2:50,6;14,2a;40000;Noralf P.    Brækken;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;2;4;Rocket Man;2300;2:51,3;14,5a;20000;Dag-Sveinung    Dalen;32
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;3;7;Global Undefeded (S);2300;2:51,4;14,5a;12000;Inge    Melby;62
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;4;3;L.J.'s Musclemadness;2300;2:51,5;14,6a;8000;Jomar    Blekkan;109
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;5;2;Synjo Danseuse;2300;2:52,3;14,9a;5000;Roar    Walsøe;174
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;6;Down And Dirty;2300;2:52,6;15,0a;;Thomas    Mjøen;221
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;5;Locamotion;2300;2:52,7;15,1a;;Atle    Solhus;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;1;1;Kolbu Julian;2300;3:25,8;29,5a;40000;Atle    Solhus;99
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;2;12;Alltid Ø.K.;2300;3:26,2;29,7ag;20000;Jomar    Blekkan;*17
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;3;10;Rygval;2300;3:26,3;29,7a;12000;Inge    Melby;121
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;4;3;Admiral B.;2300;3:26,8;29,9a;8000;Odd Arne    Kjøsnes;118
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;5;2;Høibygjerven;2300;3:27,0;30,0a;5000;Morten    Valstad;445
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;6;4;Fossenlilja;2300;3:27,2;30,1a;4000;Boye    Ølstøren;572
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;5;Brosjan;2300;3:27,2;30,1a;;Veronika    Bugge;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;7;Potetgull;2300;3:28,2;30,5a;;Dag-Sveinung    Dalen;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;9;Faks Trym;2300;3:29,1;30,9ag;;Monika    Fremstad;49
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;8;Kristinstjerna;2300;3:29,5;31,1a;;Hans Chr.    Holm;159
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;6;Jåra Blessen;2300;3:34,3;33,2ag;;Thomas    Mjøen;671
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;Strøket;11;Eva Maria;2300;;;;Bjørn    Garberg;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;1;8;Alma Prins;2320;3:18,3;25,5;40000;Jomar    Blekkan;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;2;7;Komnes Bork;2320;3:18,7;25,6;20000;Atle    Solhus;80
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;3;6;Villmira;2320;3:20,8;26,6;12000;Thomas    Mjøen;269
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;4;2;Kashmir;2300;3:21,3;27,5;8000;Boye    Ølstøren;333
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;5;3;Myr Tøtta;2300;3:21,7;27,7;5000;Robert    Larsen;462
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;1;Il Jerven;2300;3:22,0;27,8;;Arve    Sjoner;55
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;4;Arkan;2300;3:22,6;28,1;;Ivar    Asphaug;354
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;Disk. galopp;5;Storm Teddy;2320;DG;dg;;Edvard    Kristiansen;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;1;1;Cox Rome;2300;2:54,9;16,0a;40000;Inge    Melby;47
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;2;9;Casartelli;2300;2:55,1;16,1a;20000;Jomar    Blekkan;*16
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;3;3;Clerken;2300;2:56,1;16,6a;12000;Arve    Sjoner;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;4;4;Folsom Cash;2300;2:56,4;16,7a;8000;Dag-Sveinung    Dalen;76
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;5;7;Gloria B.R.;2300;2:56,5;16,7a;5000;Edvard    Kristiansen;540
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;5;Moonrise;2300;2:56,7;16,8a;;Jan Roar    Trøan;363
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;2;Dewey;2300;2:56,9;16,9a;;Boye    Ølstøren;155
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;8;Magic Messi;2300;2:57,9;17,3a;;Jomar Grande    Rabban;525
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;6;Playtakethewave;2300;2:58,4;17,6a;;Kristin    Mogset;521
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;1;3;Eik Odin;2320;3:22,3;27,2;40000;Atle    Solhus;*12
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;2;2;Solør Jo;2300;3:24,5;28,9;20000;Jomar    Blekkan;135
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;3;1;Tustna Svarten;2300;3:24,8;29,0;12000;Noralf P.    Brækken;69
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;4;8;Alonso Sol;2320;3:25,3;28,5 g;8000;Thomas    Mjøen;595
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;5;11;Gullkontoen;2320;3:26,0;28,8;5000;Hans Chr.    Holm;507
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;6;6;Oria;2320;3:26,3;28,9 g;4000;Kristin    Mogset;311
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;5;Lille Vilma;2320;3:27,3;29,4 g;;Frank    Westberg;559
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;9;Sæter Fia;2320;3:27,7;29,5;;Arve    Sjoner;777
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;4;Skeie Knerten;2320;3:27,9;29,6;;Inge    Melby;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;10;Terne Pil;2320;3:28,3;29,8 g;;Odd Arne    Kjøsnes;236
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;Disk. galopp;7;Holst Pil;2320;DG;dg;;Dag-Sveinung    Dalen;251
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;1;5;Rambunctious Ravin;2300;2:50,5;14,1a;40000;Hans Chr.    Holm;*13
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;2;3;Way To Go;2300;2:50,5;14,1a;20000;Jomar    Blekkan;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;3;7;Looking Sharp;2300;2:53,4;15,4a;12000;Bjørn    Garberg;349
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;galopp;4;6;R.M.G. Lady In Red;2300;2:53,5;15,4ag;8000;Dag-Sveinung    Dalen;86
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;5;10;Conseila's De Bello;2300;2:54,3;15,8a;5000;Boye    Ølstøren;364
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;4;Mr Micman (S);2300;2:54,5;15,9a;;Edvard    Kristiansen;249
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;9;Jazmine B.R.;2300;2:55,5;16,3a;;Tor Arne    Eggen;124
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;1;Dancer Halbak;2300;3:00,7;18,6a;;Inge    Melby;357
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Disk. galopp;2;Take It Easy;2300;DG;dg a;;Arve    Sjoner;340
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Strøket;8;With A Mission;2300;;;;Atle    Solhus;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;1;5;Eddie Brogård (DK);2320;3:02,1;18,5;16000;Victoria    Amundsen;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;2;4;Tearsofthesun;2320;3:03,5;19,1;8000;Trude    Kleveland;27
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;3;6;Efes Trotter;2340;3:05,3;19,2;5000;Marit    Valstad;44
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;4;1;Gerboise (FR);2300;3:05,8;20,8;4000;Ingrid    Sellie;163
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;galopp;5;2;One Knight Stand;2300;3:09,1;22,2 g;3000;Olea Villa    Furre;167
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;Strøket;3;De Ice (S);2300;;;;Nina    Stene;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;1;5;Alm Jerker;2340;3:30,7;30,0;14000;Boye    Ølstøren;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;2;6;Go Brage;2340;3:35,3;32,0;7000;Bernt K.    Kvamme;252
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;3;4;Brunte Martin;2340;3:35,5;32,1;5000;Arve    Sjoner;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;4;1;Hafell Mari;2300;3:35,9;33,9;3500;Robert    Larsen;142
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;5;3;Myras Mimo;2320;3:36,8;33,4 g;3000;Monika    Fremstad;140
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;0;7;Polar Brage;2340;3:37,2;32,8 g;;Jomar    Blekkan;95
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;Disk. galopp;2;V.H. Sjarmis;2320;DG;dg;;Inge    Melby;162
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;1;1;Chanto Maratcho;2300;3:04,7;20,3;14000;Inge    Melby;*24
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;2;6;Saga Krobak;2320;3:04,8;19,7;7000;Arve    Sjoner;31
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;3;4;Walentino Star;2320;3:05,0;19,7;7000;Jomar    Blekkan;51
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;4;2;Vicilane;2320;3:05,0;19,7;3500;Thomas    Mjøen;291
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;5;3;Pogba;2320;3:05,7;20,0;3500;Tor Arne    Eggen;74
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;6;7;Gaston Design (DK);2320;3:06,2;20,3;3000;Magne    Olsen;81
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;galopp;0;5;Mojo's Chablis V.P.;2320;3:25,2;28,4 g;;Ola Røstad    Haga;304
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;1;Vicky Vici;2300;3:01,9;19,1;;Inge    Melby;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;2;Wicket Surface;2300;3:03,4;19,7;;Boye    Ølstøren;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;galopp;P;3;Shallow;2300;3:14,6;24,6 g;;Magne    Olsen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;5;Gullgutten;2320;3:59,4;43,2;;Thomas    Mjøen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Disk. galopp prøveløp;4;Millminx;2300;DGPP;dgpp;;Veronika    Bugge;N
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Strøket;6;Spik Svarten;2320;;;;Arve    Sjoner;
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;1;6;B.B. Pave Faks;2320;3:42,1;35,7;20000;Thomas    Mjøen;*20
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;2;3;Kringlers Tollef;2300;3:44,9;37,8;7000;Arne    Nilsen;133
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;3;4;Pave Faksa T.M.;2320;3:45,0;37,0 g;7000;Kristin    Mogset;37
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;4;7;Tyholt Frøkna;2320;3:45,8;37,3 g;3500;Jomar    Blekkan;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;5;5;Liheim Maia;2320;3:52,4;40,2 g;3000;Marit    Valstad;191
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Disk. galopp;2;Sørdals Ruska;2300;DG;dg;;Noralf P.    Brækken;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Strøket;1;Søreng Viktor;2300;;;;Morten    Valstad;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;1;1;Juliana Rags;2300;2:50,6;14,2a;40000;Noralf P.    Brækken;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;2;4;Rocket Man;2300;2:51,3;14,5a;20000;Dag-Sveinung    Dalen;32
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;3;7;Global Undefeded (S);2300;2:51,4;14,5a;12000;Inge    Melby;62
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;4;3;L.J.'s Musclemadness;2300;2:51,5;14,6a;8000;Jomar    Blekkan;109
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;5;2;Synjo Danseuse;2300;2:52,3;14,9a;5000;Roar    Walsøe;174
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;6;Down And Dirty;2300;2:52,6;15,0a;;Thomas    Mjøen;221
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;5;Locamotion;2300;2:52,7;15,1a;;Atle    Solhus;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;1;1;Kolbu Julian;2300;3:25,8;29,5a;40000;Atle    Solhus;99
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;2;12;Alltid Ø.K.;2300;3:26,2;29,7ag;20000;Jomar    Blekkan;*17
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;3;10;Rygval;2300;3:26,3;29,7a;12000;Inge    Melby;121
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;4;3;Admiral B.;2300;3:26,8;29,9a;8000;Odd Arne    Kjøsnes;118
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;5;2;Høibygjerven;2300;3:27,0;30,0a;5000;Morten    Valstad;445
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;6;4;Fossenlilja;2300;3:27,2;30,1a;4000;Boye    Ølstøren;572
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;5;Brosjan;2300;3:27,2;30,1a;;Veronika    Bugge;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;7;Potetgull;2300;3:28,2;30,5a;;Dag-Sveinung    Dalen;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;9;Faks Trym;2300;3:29,1;30,9ag;;Monika    Fremstad;49
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;8;Kristinstjerna;2300;3:29,5;31,1a;;Hans Chr.    Holm;159
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;6;Jåra Blessen;2300;3:34,3;33,2ag;;Thomas    Mjøen;671
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;Strøket;11;Eva Maria;2300;;;;Bjørn    Garberg;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;1;8;Alma Prins;2320;3:18,3;25,5;40000;Jomar    Blekkan;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;2;7;Komnes Bork;2320;3:18,7;25,6;20000;Atle    Solhus;80
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;3;6;Villmira;2320;3:20,8;26,6;12000;Thomas    Mjøen;269
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;4;2;Kashmir;2300;3:21,3;27,5;8000;Boye    Ølstøren;333
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;5;3;Myr Tøtta;2300;3:21,7;27,7;5000;Robert    Larsen;462
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;1;Il Jerven;2300;3:22,0;27,8;;Arve    Sjoner;55
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;4;Arkan;2300;3:22,6;28,1;;Ivar    Asphaug;354
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;Disk. galopp;5;Storm Teddy;2320;DG;dg;;Edvard    Kristiansen;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;1;1;Cox Rome;2300;2:54,9;16,0a;40000;Inge    Melby;47
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;2;9;Casartelli;2300;2:55,1;16,1a;20000;Jomar    Blekkan;*16
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;3;3;Clerken;2300;2:56,1;16,6a;12000;Arve    Sjoner;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;4;4;Folsom Cash;2300;2:56,4;16,7a;8000;Dag-Sveinung    Dalen;76
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;5;7;Gloria B.R.;2300;2:56,5;16,7a;5000;Edvard    Kristiansen;540
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;5;Moonrise;2300;2:56,7;16,8a;;Jan Roar    Trøan;363
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;2;Dewey;2300;2:56,9;16,9a;;Boye    Ølstøren;155
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;8;Magic Messi;2300;2:57,9;17,3a;;Jomar Grande    Rabban;525
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;6;Playtakethewave;2300;2:58,4;17,6a;;Kristin    Mogset;521
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;1;3;Eik Odin;2320;3:22,3;27,2;40000;Atle    Solhus;*12
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;2;2;Solør Jo;2300;3:24,5;28,9;20000;Jomar    Blekkan;135
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;3;1;Tustna Svarten;2300;3:24,8;29,0;12000;Noralf P.    Brækken;69
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;4;8;Alonso Sol;2320;3:25,3;28,5 g;8000;Thomas    Mjøen;595
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;5;11;Gullkontoen;2320;3:26,0;28,8;5000;Hans Chr.    Holm;507
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;6;6;Oria;2320;3:26,3;28,9 g;4000;Kristin    Mogset;311
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;5;Lille Vilma;2320;3:27,3;29,4 g;;Frank    Westberg;559
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;9;Sæter Fia;2320;3:27,7;29,5;;Arve    Sjoner;777
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;4;Skeie Knerten;2320;3:27,9;29,6;;Inge    Melby;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;10;Terne Pil;2320;3:28,3;29,8 g;;Odd Arne    Kjøsnes;236
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;Disk. galopp;7;Holst Pil;2320;DG;dg;;Dag-Sveinung    Dalen;251
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;1;5;Rambunctious Ravin;2300;2:50,5;14,1a;40000;Hans Chr.    Holm;*13
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;2;3;Way To Go;2300;2:50,5;14,1a;20000;Jomar    Blekkan;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;3;7;Looking Sharp;2300;2:53,4;15,4a;12000;Bjørn    Garberg;349
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;galopp;4;6;R.M.G. Lady In Red;2300;2:53,5;15,4ag;8000;Dag-Sveinung    Dalen;86
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;5;10;Conseila's De Bello;2300;2:54,3;15,8a;5000;Boye    Ølstøren;364
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;4;Mr Micman (S);2300;2:54,5;15,9a;;Edvard    Kristiansen;249
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;9;Jazmine B.R.;2300;2:55,5;16,3a;;Tor Arne    Eggen;124
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;1;Dancer Halbak;2300;3:00,7;18,6a;;Inge    Melby;357
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Disk. galopp;2;Take It Easy;2300;DG;dg a;;Arve    Sjoner;340
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Strøket;8;With A Mission;2300;;;;Atle    Solhus;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;1;5;Eddie Brogård (DK);2320;3:02,1;18,5;16000;Victoria    Amundsen;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;2;4;Tearsofthesun;2320;3:03,5;19,1;8000;Trude    Kleveland;27
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;3;6;Efes Trotter;2340;3:05,3;19,2;5000;Marit    Valstad;44
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;4;1;Gerboise (FR);2300;3:05,8;20,8;4000;Ingrid    Sellie;163
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;galopp;5;2;One Knight Stand;2300;3:09,1;22,2 g;3000;Olea Villa    Furre;167
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;Strøket;3;De Ice (S);2300;;;;Nina    Stene;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;1;5;Alm Jerker;2340;3:30,7;30,0;14000;Boye    Ølstøren;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;2;6;Go Brage;2340;3:35,3;32,0;7000;Bernt K.    Kvamme;252
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;3;4;Brunte Martin;2340;3:35,5;32,1;5000;Arve    Sjoner;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;4;1;Hafell Mari;2300;3:35,9;33,9;3500;Robert    Larsen;142
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;5;3;Myras Mimo;2320;3:36,8;33,4 g;3000;Monika    Fremstad;140
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;0;7;Polar Brage;2340;3:37,2;32,8 g;;Jomar    Blekkan;95
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;Disk. galopp;2;V.H. Sjarmis;2320;DG;dg;;Inge    Melby;162
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;1;1;Chanto Maratcho;2300;3:04,7;20,3;14000;Inge    Melby;*24
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;2;6;Saga Krobak;2320;3:04,8;19,7;7000;Arve    Sjoner;31
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;3;4;Walentino Star;2320;3:05,0;19,7;7000;Jomar    Blekkan;51
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;4;2;Vicilane;2320;3:05,0;19,7;3500;Thomas    Mjøen;291
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;5;3;Pogba;2320;3:05,7;20,0;3500;Tor Arne    Eggen;74
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;6;7;Gaston Design (DK);2320;3:06,2;20,3;3000;Magne    Olsen;81
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;galopp;0;5;Mojo's Chablis V.P.;2320;3:25,2;28,4 g;;Ola Røstad    Haga;304
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;1;Vicky Vici;2300;3:01,9;19,1;;Inge    Melby;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;2;Wicket Surface;2300;3:03,4;19,7;;Boye    Ølstøren;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;galopp;P;3;Shallow;2300;3:14,6;24,6 g;;Magne    Olsen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;5;Gullgutten;2320;3:59,4;43,2;;Thomas    Mjøen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Disk. galopp prøveløp;4;Millminx;2300;DGPP;dgpp;;Veronika    Bugge;N
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Strøket;6;Spik Svarten;2320;;;;Arve    Sjoner;
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;1;6;B.B. Pave Faks;2320;3:42,1;35,7;20000;Thomas    Mjøen;*20
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;2;3;Kringlers Tollef;2300;3:44,9;37,8;7000;Arne    Nilsen;133
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;3;4;Pave Faksa T.M.;2320;3:45,0;37,0 g;7000;Kristin    Mogset;37
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;4;7;Tyholt Frøkna;2320;3:45,8;37,3 g;3500;Jomar    Blekkan;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;5;5;Liheim Maia;2320;3:52,4;40,2 g;3000;Marit    Valstad;191
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Disk. galopp;2;Sørdals Ruska;2300;DG;dg;;Noralf P.    Brækken;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Strøket;1;Søreng Viktor;2300;;;;Morten    Valstad;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;1;1;Juliana Rags;2300;2:50,6;14,2a;40000;Noralf P.    Brækken;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;2;4;Rocket Man;2300;2:51,3;14,5a;20000;Dag-Sveinung    Dalen;32
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;3;7;Global Undefeded (S);2300;2:51,4;14,5a;12000;Inge    Melby;62
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;4;3;L.J.'s Musclemadness;2300;2:51,5;14,6a;8000;Jomar    Blekkan;109
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;5;2;Synjo Danseuse;2300;2:52,3;14,9a;5000;Roar    Walsøe;174
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;6;Down And Dirty;2300;2:52,6;15,0a;;Thomas    Mjøen;221
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;5;Locamotion;2300;2:52,7;15,1a;;Atle    Solhus;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;1;1;Kolbu Julian;2300;3:25,8;29,5a;40000;Atle    Solhus;99
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;2;12;Alltid Ø.K.;2300;3:26,2;29,7ag;20000;Jomar    Blekkan;*17
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;3;10;Rygval;2300;3:26,3;29,7a;12000;Inge    Melby;121
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;4;3;Admiral B.;2300;3:26,8;29,9a;8000;Odd Arne    Kjøsnes;118
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;5;2;Høibygjerven;2300;3:27,0;30,0a;5000;Morten    Valstad;445
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;6;4;Fossenlilja;2300;3:27,2;30,1a;4000;Boye    Ølstøren;572
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;5;Brosjan;2300;3:27,2;30,1a;;Veronika    Bugge;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;7;Potetgull;2300;3:28,2;30,5a;;Dag-Sveinung    Dalen;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;9;Faks Trym;2300;3:29,1;30,9ag;;Monika    Fremstad;49
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;8;Kristinstjerna;2300;3:29,5;31,1a;;Hans Chr.    Holm;159
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;6;Jåra Blessen;2300;3:34,3;33,2ag;;Thomas    Mjøen;671
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;Strøket;11;Eva Maria;2300;;;;Bjørn    Garberg;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;1;8;Alma Prins;2320;3:18,3;25,5;40000;Jomar    Blekkan;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;2;7;Komnes Bork;2320;3:18,7;25,6;20000;Atle    Solhus;80
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;3;6;Villmira;2320;3:20,8;26,6;12000;Thomas    Mjøen;269
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;4;2;Kashmir;2300;3:21,3;27,5;8000;Boye    Ølstøren;333
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;5;3;Myr Tøtta;2300;3:21,7;27,7;5000;Robert    Larsen;462
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;1;Il Jerven;2300;3:22,0;27,8;;Arve    Sjoner;55
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;4;Arkan;2300;3:22,6;28,1;;Ivar    Asphaug;354
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;Disk. galopp;5;Storm Teddy;2320;DG;dg;;Edvard    Kristiansen;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;1;1;Cox Rome;2300;2:54,9;16,0a;40000;Inge    Melby;47
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;2;9;Casartelli;2300;2:55,1;16,1a;20000;Jomar    Blekkan;*16
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;3;3;Clerken;2300;2:56,1;16,6a;12000;Arve    Sjoner;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;4;4;Folsom Cash;2300;2:56,4;16,7a;8000;Dag-Sveinung    Dalen;76
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;5;7;Gloria B.R.;2300;2:56,5;16,7a;5000;Edvard    Kristiansen;540
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;5;Moonrise;2300;2:56,7;16,8a;;Jan Roar    Trøan;363
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;2;Dewey;2300;2:56,9;16,9a;;Boye    Ølstøren;155
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;8;Magic Messi;2300;2:57,9;17,3a;;Jomar Grande    Rabban;525
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;6;Playtakethewave;2300;2:58,4;17,6a;;Kristin    Mogset;521
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;1;3;Eik Odin;2320;3:22,3;27,2;40000;Atle    Solhus;*12
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;2;2;Solør Jo;2300;3:24,5;28,9;20000;Jomar    Blekkan;135
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;3;1;Tustna Svarten;2300;3:24,8;29,0;12000;Noralf P.    Brækken;69
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;4;8;Alonso Sol;2320;3:25,3;28,5 g;8000;Thomas    Mjøen;595
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;5;11;Gullkontoen;2320;3:26,0;28,8;5000;Hans Chr.    Holm;507
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;6;6;Oria;2320;3:26,3;28,9 g;4000;Kristin    Mogset;311
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;5;Lille Vilma;2320;3:27,3;29,4 g;;Frank    Westberg;559
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;9;Sæter Fia;2320;3:27,7;29,5;;Arve    Sjoner;777
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;4;Skeie Knerten;2320;3:27,9;29,6;;Inge    Melby;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;10;Terne Pil;2320;3:28,3;29,8 g;;Odd Arne    Kjøsnes;236
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;Disk. galopp;7;Holst Pil;2320;DG;dg;;Dag-Sveinung    Dalen;251
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;1;5;Rambunctious Ravin;2300;2:50,5;14,1a;40000;Hans Chr.    Holm;*13
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;2;3;Way To Go;2300;2:50,5;14,1a;20000;Jomar    Blekkan;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;3;7;Looking Sharp;2300;2:53,4;15,4a;12000;Bjørn    Garberg;349
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;galopp;4;6;R.M.G. Lady In Red;2300;2:53,5;15,4ag;8000;Dag-Sveinung    Dalen;86
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;5;10;Conseila's De Bello;2300;2:54,3;15,8a;5000;Boye    Ølstøren;364
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;4;Mr Micman (S);2300;2:54,5;15,9a;;Edvard    Kristiansen;249
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;9;Jazmine B.R.;2300;2:55,5;16,3a;;Tor Arne    Eggen;124
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;1;Dancer Halbak;2300;3:00,7;18,6a;;Inge    Melby;357
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Disk. galopp;2;Take It Easy;2300;DG;dg a;;Arve    Sjoner;340
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Strøket;8;With A Mission;2300;;;;Atle    Solhus;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;1;5;Eddie Brogård (DK);2320;3:02,1;18,5;16000;Victoria    Amundsen;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;2;4;Tearsofthesun;2320;3:03,5;19,1;8000;Trude    Kleveland;27
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;3;6;Efes Trotter;2340;3:05,3;19,2;5000;Marit    Valstad;44
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;4;1;Gerboise (FR);2300;3:05,8;20,8;4000;Ingrid    Sellie;163
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;galopp;5;2;One Knight Stand;2300;3:09,1;22,2 g;3000;Olea Villa    Furre;167
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;Strøket;3;De Ice (S);2300;;;;Nina    Stene;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;1;5;Alm Jerker;2340;3:30,7;30,0;14000;Boye    Ølstøren;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;2;6;Go Brage;2340;3:35,3;32,0;7000;Bernt K.    Kvamme;252
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;3;4;Brunte Martin;2340;3:35,5;32,1;5000;Arve    Sjoner;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;4;1;Hafell Mari;2300;3:35,9;33,9;3500;Robert    Larsen;142
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;5;3;Myras Mimo;2320;3:36,8;33,4 g;3000;Monika    Fremstad;140
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;0;7;Polar Brage;2340;3:37,2;32,8 g;;Jomar    Blekkan;95
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;Disk. galopp;2;V.H. Sjarmis;2320;DG;dg;;Inge    Melby;162
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;1;1;Chanto Maratcho;2300;3:04,7;20,3;14000;Inge    Melby;*24
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;2;6;Saga Krobak;2320;3:04,8;19,7;7000;Arve    Sjoner;31
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;3;4;Walentino Star;2320;3:05,0;19,7;7000;Jomar    Blekkan;51
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;4;2;Vicilane;2320;3:05,0;19,7;3500;Thomas    Mjøen;291
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;5;3;Pogba;2320;3:05,7;20,0;3500;Tor Arne    Eggen;74
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;6;7;Gaston Design (DK);2320;3:06,2;20,3;3000;Magne    Olsen;81
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;galopp;0;5;Mojo's Chablis V.P.;2320;3:25,2;28,4 g;;Ola Røstad    Haga;304
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;1;Vicky Vici;2300;3:01,9;19,1;;Inge    Melby;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;2;Wicket Surface;2300;3:03,4;19,7;;Boye    Ølstøren;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;galopp;P;3;Shallow;2300;3:14,6;24,6 g;;Magne    Olsen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;5;Gullgutten;2320;3:59,4;43,2;;Thomas    Mjøen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Disk. galopp prøveløp;4;Millminx;2300;DGPP;dgpp;;Veronika    Bugge;N
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Strøket;6;Spik Svarten;2320;;;;Arve    Sjoner;
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;1;6;B.B. Pave Faks;2320;3:42,1;35,7;20000;Thomas    Mjøen;*20
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;2;3;Kringlers Tollef;2300;3:44,9;37,8;7000;Arne    Nilsen;133
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;3;4;Pave Faksa T.M.;2320;3:45,0;37,0 g;7000;Kristin    Mogset;37
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;4;7;Tyholt Frøkna;2320;3:45,8;37,3 g;3500;Jomar    Blekkan;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;5;5;Liheim Maia;2320;3:52,4;40,2 g;3000;Marit    Valstad;191
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Disk. galopp;2;Sørdals Ruska;2300;DG;dg;;Noralf P.    Brækken;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Strøket;1;Søreng Viktor;2300;;;;Morten    Valstad;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;1;1;Juliana Rags;2300;2:50,6;14,2a;40000;Noralf P.    Brækken;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;2;4;Rocket Man;2300;2:51,3;14,5a;20000;Dag-Sveinung    Dalen;32
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;3;7;Global Undefeded (S);2300;2:51,4;14,5a;12000;Inge    Melby;62
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;4;3;L.J.'s Musclemadness;2300;2:51,5;14,6a;8000;Jomar    Blekkan;109
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;5;2;Synjo Danseuse;2300;2:52,3;14,9a;5000;Roar    Walsøe;174
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;6;Down And Dirty;2300;2:52,6;15,0a;;Thomas    Mjøen;221
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;5;Locamotion;2300;2:52,7;15,1a;;Atle    Solhus;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;1;1;Kolbu Julian;2300;3:25,8;29,5a;40000;Atle    Solhus;99
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;2;12;Alltid Ø.K.;2300;3:26,2;29,7ag;20000;Jomar    Blekkan;*17
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;3;10;Rygval;2300;3:26,3;29,7a;12000;Inge    Melby;121
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;4;3;Admiral B.;2300;3:26,8;29,9a;8000;Odd Arne    Kjøsnes;118
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;5;2;Høibygjerven;2300;3:27,0;30,0a;5000;Morten    Valstad;445
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;6;4;Fossenlilja;2300;3:27,2;30,1a;4000;Boye    Ølstøren;572
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;5;Brosjan;2300;3:27,2;30,1a;;Veronika    Bugge;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;7;Potetgull;2300;3:28,2;30,5a;;Dag-Sveinung    Dalen;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;9;Faks Trym;2300;3:29,1;30,9ag;;Monika    Fremstad;49
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;8;Kristinstjerna;2300;3:29,5;31,1a;;Hans Chr.    Holm;159
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;6;Jåra Blessen;2300;3:34,3;33,2ag;;Thomas    Mjøen;671
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;Strøket;11;Eva Maria;2300;;;;Bjørn    Garberg;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;1;8;Alma Prins;2320;3:18,3;25,5;40000;Jomar    Blekkan;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;2;7;Komnes Bork;2320;3:18,7;25,6;20000;Atle    Solhus;80
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;3;6;Villmira;2320;3:20,8;26,6;12000;Thomas    Mjøen;269
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;4;2;Kashmir;2300;3:21,3;27,5;8000;Boye    Ølstøren;333
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;5;3;Myr Tøtta;2300;3:21,7;27,7;5000;Robert    Larsen;462
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;1;Il Jerven;2300;3:22,0;27,8;;Arve    Sjoner;55
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;4;Arkan;2300;3:22,6;28,1;;Ivar    Asphaug;354
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;Disk. galopp;5;Storm Teddy;2320;DG;dg;;Edvard    Kristiansen;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;1;1;Cox Rome;2300;2:54,9;16,0a;40000;Inge    Melby;47
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;2;9;Casartelli;2300;2:55,1;16,1a;20000;Jomar    Blekkan;*16
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;3;3;Clerken;2300;2:56,1;16,6a;12000;Arve    Sjoner;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;4;4;Folsom Cash;2300;2:56,4;16,7a;8000;Dag-Sveinung    Dalen;76
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;5;7;Gloria B.R.;2300;2:56,5;16,7a;5000;Edvard    Kristiansen;540
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;5;Moonrise;2300;2:56,7;16,8a;;Jan Roar    Trøan;363
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;2;Dewey;2300;2:56,9;16,9a;;Boye    Ølstøren;155
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;8;Magic Messi;2300;2:57,9;17,3a;;Jomar Grande    Rabban;525
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;6;Playtakethewave;2300;2:58,4;17,6a;;Kristin    Mogset;521
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;1;3;Eik Odin;2320;3:22,3;27,2;40000;Atle    Solhus;*12
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;2;2;Solør Jo;2300;3:24,5;28,9;20000;Jomar    Blekkan;135
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;3;1;Tustna Svarten;2300;3:24,8;29,0;12000;Noralf P.    Brækken;69
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;4;8;Alonso Sol;2320;3:25,3;28,5 g;8000;Thomas    Mjøen;595
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;5;11;Gullkontoen;2320;3:26,0;28,8;5000;Hans Chr.    Holm;507
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;6;6;Oria;2320;3:26,3;28,9 g;4000;Kristin    Mogset;311
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;5;Lille Vilma;2320;3:27,3;29,4 g;;Frank    Westberg;559
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;9;Sæter Fia;2320;3:27,7;29,5;;Arve    Sjoner;777
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;4;Skeie Knerten;2320;3:27,9;29,6;;Inge    Melby;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;10;Terne Pil;2320;3:28,3;29,8 g;;Odd Arne    Kjøsnes;236
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;Disk. galopp;7;Holst Pil;2320;DG;dg;;Dag-Sveinung    Dalen;251
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;1;5;Rambunctious Ravin;2300;2:50,5;14,1a;40000;Hans Chr.    Holm;*13
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;2;3;Way To Go;2300;2:50,5;14,1a;20000;Jomar    Blekkan;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;3;7;Looking Sharp;2300;2:53,4;15,4a;12000;Bjørn    Garberg;349
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;galopp;4;6;R.M.G. Lady In Red;2300;2:53,5;15,4ag;8000;Dag-Sveinung    Dalen;86
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;5;10;Conseila's De Bello;2300;2:54,3;15,8a;5000;Boye    Ølstøren;364
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;4;Mr Micman (S);2300;2:54,5;15,9a;;Edvard    Kristiansen;249
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;9;Jazmine B.R.;2300;2:55,5;16,3a;;Tor Arne    Eggen;124
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;1;Dancer Halbak;2300;3:00,7;18,6a;;Inge    Melby;357
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Disk. galopp;2;Take It Easy;2300;DG;dg a;;Arve    Sjoner;340
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Strøket;8;With A Mission;2300;;;;Atle    Solhus;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;1;5;Eddie Brogård (DK);2320;3:02,1;18,5;16000;Victoria    Amundsen;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;2;4;Tearsofthesun;2320;3:03,5;19,1;8000;Trude    Kleveland;27
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;3;6;Efes Trotter;2340;3:05,3;19,2;5000;Marit    Valstad;44
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;4;1;Gerboise (FR);2300;3:05,8;20,8;4000;Ingrid    Sellie;163
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;galopp;5;2;One Knight Stand;2300;3:09,1;22,2 g;3000;Olea Villa    Furre;167
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;Strøket;3;De Ice (S);2300;;;;Nina    Stene;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;1;5;Alm Jerker;2340;3:30,7;30,0;14000;Boye    Ølstøren;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;2;6;Go Brage;2340;3:35,3;32,0;7000;Bernt K.    Kvamme;252
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;3;4;Brunte Martin;2340;3:35,5;32,1;5000;Arve    Sjoner;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;4;1;Hafell Mari;2300;3:35,9;33,9;3500;Robert    Larsen;142
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;5;3;Myras Mimo;2320;3:36,8;33,4 g;3000;Monika    Fremstad;140
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;0;7;Polar Brage;2340;3:37,2;32,8 g;;Jomar    Blekkan;95
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;Disk. galopp;2;V.H. Sjarmis;2320;DG;dg;;Inge    Melby;162
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;1;1;Chanto Maratcho;2300;3:04,7;20,3;14000;Inge    Melby;*24
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;2;6;Saga Krobak;2320;3:04,8;19,7;7000;Arve    Sjoner;31
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;3;4;Walentino Star;2320;3:05,0;19,7;7000;Jomar    Blekkan;51
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;4;2;Vicilane;2320;3:05,0;19,7;3500;Thomas    Mjøen;291
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;5;3;Pogba;2320;3:05,7;20,0;3500;Tor Arne    Eggen;74
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;6;7;Gaston Design (DK);2320;3:06,2;20,3;3000;Magne    Olsen;81
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;galopp;0;5;Mojo's Chablis V.P.;2320;3:25,2;28,4 g;;Ola Røstad    Haga;304
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;1;Vicky Vici;2300;3:01,9;19,1;;Inge    Melby;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;2;Wicket Surface;2300;3:03,4;19,7;;Boye    Ølstøren;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;galopp;P;3;Shallow;2300;3:14,6;24,6 g;;Magne    Olsen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;5;Gullgutten;2320;3:59,4;43,2;;Thomas    Mjøen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Disk. galopp prøveløp;4;Millminx;2300;DGPP;dgpp;;Veronika    Bugge;N
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Strøket;6;Spik Svarten;2320;;;;Arve    Sjoner;
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;1;6;B.B. Pave Faks;2320;3:42,1;35,7;20000;Thomas    Mjøen;*20
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;2;3;Kringlers Tollef;2300;3:44,9;37,8;7000;Arne    Nilsen;133
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;3;4;Pave Faksa T.M.;2320;3:45,0;37,0 g;7000;Kristin    Mogset;37
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;4;7;Tyholt Frøkna;2320;3:45,8;37,3 g;3500;Jomar    Blekkan;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;galopp;5;5;Liheim Maia;2320;3:52,4;40,2 g;3000;Marit    Valstad;191
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Disk. galopp;2;Sørdals Ruska;2300;DG;dg;;Noralf P.    Brækken;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 40500; 2300;1;Volte;Ingen galopp ;Strøket;1;Søreng Viktor;2300;;;;Morten    Valstad;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;1;1;Juliana Rags;2300;2:50,6;14,2a;40000;Noralf P.    Brækken;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;2;4;Rocket Man;2300;2:51,3;14,5a;20000;Dag-Sveinung    Dalen;32
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;3;7;Global Undefeded (S);2300;2:51,4;14,5a;12000;Inge    Melby;62
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;4;3;L.J.'s Musclemadness;2300;2:51,5;14,6a;8000;Jomar    Blekkan;109
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;5;2;Synjo Danseuse;2300;2:52,3;14,9a;5000;Roar    Walsøe;174
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;6;Down And Dirty;2300;2:52,6;15,0a;;Thomas    Mjøen;221
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;2;Auto;Ingen galopp ;0;5;Locamotion;2300;2:52,7;15,1a;;Atle    Solhus;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;1;1;Kolbu Julian;2300;3:25,8;29,5a;40000;Atle    Solhus;99
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;2;12;Alltid Ø.K.;2300;3:26,2;29,7ag;20000;Jomar    Blekkan;*17
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;3;10;Rygval;2300;3:26,3;29,7a;12000;Inge    Melby;121
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;4;3;Admiral B.;2300;3:26,8;29,9a;8000;Odd Arne    Kjøsnes;118
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;5;2;Høibygjerven;2300;3:27,0;30,0a;5000;Morten    Valstad;445
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;6;4;Fossenlilja;2300;3:27,2;30,1a;4000;Boye    Ølstøren;572
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;5;Brosjan;2300;3:27,2;30,1a;;Veronika    Bugge;242
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;7;Potetgull;2300;3:28,2;30,5a;;Dag-Sveinung    Dalen;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;9;Faks Trym;2300;3:29,1;30,9ag;;Monika    Fremstad;49
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;0;8;Kristinstjerna;2300;3:29,5;31,1a;;Hans Chr.    Holm;159
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;galopp;0;6;Jåra Blessen;2300;3:34,3;33,2ag;;Thomas    Mjøen;671
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;3;Auto;Ingen galopp ;Strøket;11;Eva Maria;2300;;;;Bjørn    Garberg;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;1;8;Alma Prins;2320;3:18,3;25,5;40000;Jomar    Blekkan;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;2;7;Komnes Bork;2320;3:18,7;25,6;20000;Atle    Solhus;80
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;3;6;Villmira;2320;3:20,8;26,6;12000;Thomas    Mjøen;269
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;4;2;Kashmir;2300;3:21,3;27,5;8000;Boye    Ølstøren;333
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;5;3;Myr Tøtta;2300;3:21,7;27,7;5000;Robert    Larsen;462
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;1;Il Jerven;2300;3:22,0;27,8;;Arve    Sjoner;55
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;0;4;Arkan;2300;3:22,6;28,1;;Ivar    Asphaug;354
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;4;Volte;Ingen galopp ;Disk. galopp;5;Storm Teddy;2320;DG;dg;;Edvard    Kristiansen;64
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;1;1;Cox Rome;2300;2:54,9;16,0a;40000;Inge    Melby;47
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;2;9;Casartelli;2300;2:55,1;16,1a;20000;Jomar    Blekkan;*16
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;3;3;Clerken;2300;2:56,1;16,6a;12000;Arve    Sjoner;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;4;4;Folsom Cash;2300;2:56,4;16,7a;8000;Dag-Sveinung    Dalen;76
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;5;7;Gloria B.R.;2300;2:56,5;16,7a;5000;Edvard    Kristiansen;540
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;5;Moonrise;2300;2:56,7;16,8a;;Jan Roar    Trøan;363
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;2;Dewey;2300;2:56,9;16,9a;;Boye    Ølstøren;155
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;8;Magic Messi;2300;2:57,9;17,3a;;Jomar Grande    Rabban;525
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;5;Auto;Ingen galopp ;0;6;Playtakethewave;2300;2:58,4;17,6a;;Kristin    Mogset;521
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;1;3;Eik Odin;2320;3:22,3;27,2;40000;Atle    Solhus;*12
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;2;2;Solør Jo;2300;3:24,5;28,9;20000;Jomar    Blekkan;135
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;3;1;Tustna Svarten;2300;3:24,8;29,0;12000;Noralf P.    Brækken;69
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;4;8;Alonso Sol;2320;3:25,3;28,5 g;8000;Thomas    Mjøen;595
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;5;11;Gullkontoen;2320;3:26,0;28,8;5000;Hans Chr.    Holm;507
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;6;6;Oria;2320;3:26,3;28,9 g;4000;Kristin    Mogset;311
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;5;Lille Vilma;2320;3:27,3;29,4 g;;Frank    Westberg;559
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;9;Sæter Fia;2320;3:27,7;29,5;;Arve    Sjoner;777
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;0;4;Skeie Knerten;2320;3:27,9;29,6;;Inge    Melby;166
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;galopp;0;10;Terne Pil;2320;3:28,3;29,8 g;;Odd Arne    Kjøsnes;236
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 89000; 2300;6;Volte;Ingen galopp ;Disk. galopp;7;Holst Pil;2320;DG;dg;;Dag-Sveinung    Dalen;251
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;1;5;Rambunctious Ravin;2300;2:50,5;14,1a;40000;Hans Chr.    Holm;*13
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;2;3;Way To Go;2300;2:50,5;14,1a;20000;Jomar    Blekkan;59
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;3;7;Looking Sharp;2300;2:53,4;15,4a;12000;Bjørn    Garberg;349
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;galopp;4;6;R.M.G. Lady In Red;2300;2:53,5;15,4ag;8000;Dag-Sveinung    Dalen;86
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;5;10;Conseila's De Bello;2300;2:54,3;15,8a;5000;Boye    Ølstøren;364
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;4;Mr Micman (S);2300;2:54,5;15,9a;;Edvard    Kristiansen;249
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;9;Jazmine B.R.;2300;2:55,5;16,3a;;Tor Arne    Eggen;124
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;0;1;Dancer Halbak;2300;3:00,7;18,6a;;Inge    Melby;357
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Disk. galopp;2;Take It Easy;2300;DG;dg a;;Arve    Sjoner;340
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 85000; 2300;7;Auto;Ingen galopp ;Strøket;8;With A Mission;2300;;;;Atle    Solhus;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;1;5;Eddie Brogård (DK);2320;3:02,1;18,5;16000;Victoria    Amundsen;*18
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;2;4;Tearsofthesun;2320;3:03,5;19,1;8000;Trude    Kleveland;27
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;3;6;Efes Trotter;2340;3:05,3;19,2;5000;Marit    Valstad;44
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;4;1;Gerboise (FR);2300;3:05,8;20,8;4000;Ingrid    Sellie;163
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;galopp;5;2;One Knight Stand;2300;3:09,1;22,2 g;3000;Olea Villa    Furre;167
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 36000; 2300;8;Volte;Ingen galopp ;Strøket;3;De Ice (S);2300;;;;Nina    Stene;0
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;1;5;Alm Jerker;2340;3:30,7;30,0;14000;Boye    Ølstøren;*14
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;2;6;Go Brage;2340;3:35,3;32,0;7000;Bernt K.    Kvamme;252
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;3;4;Brunte Martin;2340;3:35,5;32,1;5000;Arve    Sjoner;46
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;4;1;Hafell Mari;2300;3:35,9;33,9;3500;Robert    Larsen;142
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;5;3;Myras Mimo;2320;3:36,8;33,4 g;3000;Monika    Fremstad;140
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;galopp;0;7;Polar Brage;2340;3:37,2;32,8 g;;Jomar    Blekkan;95
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 32500; 2300;9;Volte;Ingen galopp ;Disk. galopp;2;V.H. Sjarmis;2320;DG;dg;;Inge    Melby;162
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;1;1;Chanto Maratcho;2300;3:04,7;20,3;14000;Inge    Melby;*24
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;2;6;Saga Krobak;2320;3:04,8;19,7;7000;Arve    Sjoner;31
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;3;4;Walentino Star;2320;3:05,0;19,7;7000;Jomar    Blekkan;51
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;4;2;Vicilane;2320;3:05,0;19,7;3500;Thomas    Mjøen;291
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;5;3;Pogba;2320;3:05,7;20,0;3500;Tor Arne    Eggen;74
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;Ingen galopp ;6;7;Gaston Design (DK);2320;3:06,2;20,3;3000;Magne    Olsen;81
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 38000; 2300;10;Volte;galopp;0;5;Mojo's Chablis V.P.;2320;3:25,2;28,4 g;;Ola Røstad    Haga;304
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;1;Vicky Vici;2300;3:01,9;19,1;;Inge    Melby;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;2;Wicket Surface;2300;3:03,4;19,7;;Boye    Ølstøren;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;galopp;P;3;Shallow;2300;3:14,6;24,6 g;;Magne    Olsen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;P;5;Gullgutten;2320;3:59,4;43,2;;Thomas    Mjøen;P
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Disk. galopp prøveløp;4;Millminx;2300;DGPP;dgpp;;Veronika    Bugge;N
+Resultater    -  Varig Orkla Arena  -  17.04.2022; 0; 2300;10;Volte;Ingen galopp ;Strøket;6;Spik Svarten;2320;;;;Arve    Sjoner;

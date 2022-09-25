@@ -1,0 +1,88 @@
+Resultater    -  Forus Travbane  -  19.11.2019; 38500; 2040;1;Volte;Ingen galopp ;1;1;Lillemann Ø.K.;2040;3:10,6;33,4;20000;Tom    Erga;25
+Resultater    -  Forus Travbane  -  19.11.2019; 38500; 2040;1;Volte;Ingen galopp ;2;3;Honannas Marcelle;2080;3:11,0;31,8;7000;Atle    Erga;107
+Resultater    -  Forus Travbane  -  19.11.2019; 38500; 2040;1;Volte;galopp;3;5;Wik Viktor;2080;3:13,5;33,0 rg;5000;Thomas Sverre    Karlsen;*17
+Resultater    -  Forus Travbane  -  19.11.2019; 38500; 2040;1;Volte;Ingen galopp ;4;2;Verdals Tyren;2080;3:15,5;34,0 r;3500;Dag-Sveinung    Dalen;64
+Resultater    -  Forus Travbane  -  19.11.2019; 38500; 2040;1;Volte;galopp;5;6;Sanna Ø.K.;2080;3:17,5;35,0 g;3000;Morten    Erga;774
+Resultater    -  Forus Travbane  -  19.11.2019; 38500; 2040;1;Volte;Ingen galopp ;0;4;Barka Loma;2080;3:17,6;35,0;;Beate    Barka;346
+Resultater    -  Forus Travbane  -  19.11.2019; 82000; 2040;2;Volte;Ingen galopp ;1;8;Thai Eros;2060;2:37,6;16,5;30000;Johan Kringeland    Eriksen;*20
+Resultater    -  Forus Travbane  -  19.11.2019; 82000; 2040;2;Volte;Ingen galopp ;2;1;Youandi Salt;2040;2:37,9;17,4;17000;Tord R.    Salte;28
+Resultater    -  Forus Travbane  -  19.11.2019; 82000; 2040;2;Volte;Ingen galopp ;3;3;Samantha Frecel;2040;2:38,3;17,6;11000;Geir    Mikkelsen;71
+Resultater    -  Forus Travbane  -  19.11.2019; 82000; 2040;2;Volte;Ingen galopp ;4;7;Thai Athena;2060;2:39,1;17,2 r;8000;Dag-Sveinung    Dalen;65
+Resultater    -  Forus Travbane  -  19.11.2019; 82000; 2040;2;Volte;Ingen galopp ;5;4;Vittoria B.;2040;2:39,3;18,1;6000;Svein Ove    Wassberg;157
+Resultater    -  Forus Travbane  -  19.11.2019; 82000; 2040;2;Volte;Ingen galopp ;6;5;One Night;2040;2:39,5;18,2;5000;Rune    Wiig;694
+Resultater    -  Forus Travbane  -  19.11.2019; 82000; 2040;2;Volte;galopp;7;2;Ellys Jet;2040;2:39,5;18,2 g;5000;Jørn    Bjaanes;1205
+Resultater    -  Forus Travbane  -  19.11.2019; 82000; 2040;2;Volte;Ingen galopp ;Disk. galopp;6;Orlando Street;2040;DG;dg;;Pål    Buer;309
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;1;6;Kissmymuscles;2040;2:36,4;16,7a;14000;Rune    Wiig;274
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;2;11;Coktail Mack;2040;2:37,2;17,1a;7000;Thomas Sverre    Karlsen;885
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;3;1;Anders U.S.;2040;2:37,4;17,2a;7000;Pål    Buer;46
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;4;3;Quickstep O.;2040;2:37,9;17,4a;5000;Geir    Mikkelsen;103
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;5;9;Bibo;2040;2:38,4;17,6a;3000;Gunleif    Tollefsen;235
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;6;5;Thai Selfie;2040;2:38,5;17,7a;3000;Atle    Erga;442
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;7;4;Piece Of Candy;2040;2:38,9;17,9a;3000;Øyvind    Hegdal;670
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;0;8;A Child (DK);2040;2:39,3;18,1a;;Eirik    Sund;922
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;0;2;Dream Endurance;2040;2:44,1;20,4a;;Tom    Erga;654
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;Disk. galopp;7;Ciku Brogård (DK);2040;DG;dg a;;Dag-Sveinung    Dalen;93
+Resultater    -  Forus Travbane  -  19.11.2019; 42000; 2040;3;Auto;Ingen galopp ;Disk. galopp;10;Double Trouble E.P. (DK);2040;DG;dg a;;Svein Ove    Wassberg;*14
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;4;Volte;Ingen galopp ;1;7;Neslands Faksen;2080;3:01,8;27,4;14000;Geir    Mikkelsen;*14
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;4;Volte;Ingen galopp ;2;5;Høvåg Ask;2060;3:01,9;28,3;7000;Jørn    Bjaanes;84
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;4;Volte;Ingen galopp ;3;9;Kringeland Enok;2080;3:01,9;27,5;5000;Johan Kringeland    Eriksen;222
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;4;Volte;Ingen galopp ;4;2;Frøya Lill;2060;3:02,2;28,4;3500;Oddvar    Mæland;68
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;4;Volte;Ingen galopp ;5;3;Njølstad Jela;2060;3:02,2;28,4;3000;Tormod    Gudmestad;382
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;4;Volte;Ingen galopp ;6;10;Spik Lotta;2080;3:02,8;27,9;3000;Svein Ove    Wassberg;331
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;4;Volte;Ingen galopp ;0;4;Dæmro Svarten;2060;3:03,2;28,9;;Geir    Gudmestad;242
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;4;Volte;Ingen galopp ;0;8;Vertigo Håkon;2080;3:03,3;28,1;;Dag-Sveinung    Dalen;388
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;4;Volte;Ingen galopp ;0;6;Odins Høvding;2060;3:03,6;29,1;;Tom    Erga;705
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;4;Volte;Ingen galopp ;0;1;Vestpol Iver;2040;3:03,6;30,0;;Jeanett Marie    Dagsvold;76
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;Ingen galopp ;1;6;Vimse Lars;2040;2:58,1;27,3a;14000;Dag-Sveinung    Dalen;86
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;Ingen galopp ;2;7;Tysvær Odin;2040;2:58,2;27,4a;7000;Pål    Buer;38
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;Ingen galopp ;3;8;Solhøy Gunn;2040;2:58,3;27,4a;5000;Morten    Erga;110
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;Ingen galopp ;4;11;Misi Ø.K.;2040;2:58,5;27,5a;3500;Bernt    Øksnevad;296
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;Ingen galopp ;5;10;Verdals Svarten;2040;2:59,2;27,8a;3000;Svein Ove    Wassberg;484
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;Ingen galopp ;6;5;Flyteld;2040;2:59,5;28,0a;3000;Torstein    Gudmestad;1840
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;Ingen galopp ;0;1;Nesvik Spik'n;2040;3:00,5;28,5a;2000;Thomas Sverre    Karlsen;2045
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;galopp;0;9;Mjølner Brun;2040;3:02,7;29,6ag;;Ole Gaute    Gudmestad;107
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;galopp;0;2;Lykke Ida;2040;3:03,1;29,8ag;;Bjørn    Steine;876
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;Ingen galopp ;Disk. galopp;3;Elvin;2040;DG;dg a;;Rune    Wiig;77
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;5;Auto;Ingen galopp ;Disk. galopp;4;Pøylefanten;2040;DG;dg a;;Jørn    Bjaanes;*20
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;1;9;Blues Photo;2040;2:34,2;15,6a;14000;Geir    Mikkelsen;*21
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;2;2;Call the Judge (S);2040;2:34,7;15,8a;7000;Stine    Lode;87
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;3;8;Ivo Baldwin (NL);2040;2:34,8;15,9a;5000;Svein Ove    Wassberg;70
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;4;4;Counterstrike* (DK);2040;2:35,0;16,0a;3500;Øyvind    Hegdal;38
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;5;7;Cliff Hydrup;2040;2:35,2;16,1a;3000;Tom    Erga;89
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;6;6;Maksi Lady;2040;2:35,4;16,2a;3000;Pål    Buer;97
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;0;1;Maksi Queen;2040;2:35,6;16,3a;;Bjørn    Steine;419
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;0;11;Mr. Classic;2040;2:37,3;17,1a;;Beate    Barka;938
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;0;3;Libeccio Sun;2040;2:40,5;18,7a;;Bernt    Øksnevad;351
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;Strøket;5;Judd Trump (DE);2040;;;;Odd Kåre    Selliken;0
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;6;Auto;Ingen galopp ;Strøket;10;Makeawish;2040;;;;Thomas Sverre    Karlsen;0
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;1;11;You Love;2040;2:35,1;16,0a;14000;Tom    Erga;61
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;2;6;Bleeding Heart (US);2040;2:35,4;16,2a;7000;Rune    Wiig;130
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;3;12;Backup (DK);2040;2:35,5;16,2a;5000;Pål    Buer;130
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;4;2;Xante;2040;2:35,6;16,3a;3500;Einar    Nedrebø;116
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;5;5;Thai M. Share;2040;2:35,6;16,3a;3000;Per Arvid    Erga;183
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;6;9;Al B. Back Zet (S);2040;2:35,8;16,4a;3000;Geir    Mikkelsen;59
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;7;1;Ithinkiama Genius;2040;2:35,9;16,4a;2000;Dag-Sveinung    Dalen;*26
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;0;4;Joe Frazier (S);2040;2:36,0;16,5a;;Svein Ove    Wassberg;493
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;0;3;Imperium Bo (DE);2040;2:36,1;16,5a;;Øyvind    Hegdal;224
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;0;8;Neverending L.;2040;2:36,2;16,6a;;Thomas Sverre    Karlsen;491
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;galopp;0;10;Golden Dooleys;2040;2:39,7;18,3ag;;Bjørn    Steine;112
+Resultater    -  Forus Travbane  -  19.11.2019; 37500; 2040;7;Auto;Ingen galopp ;Disk. galopp;7;Lucky Black Pearl;2040;DG;dg a;;Tonje    Gudmestad;134
+Resultater    -  Forus Travbane  -  19.11.2019; 32500; 2040;8;Auto;Ingen galopp ;1;4;Wilma Leggrowbach;2040;2:30,8;13,9a;14000;Geir    Mikkelsen;*27
+Resultater    -  Forus Travbane  -  19.11.2019; 32500; 2040;8;Auto;Ingen galopp ;2;6;Delec Hanover (US);2040;2:31,3;14,2a;7000;Dag-Sveinung    Dalen;170
+Resultater    -  Forus Travbane  -  19.11.2019; 32500; 2040;8;Auto;Ingen galopp ;3;7;Lucky Vegas;2040;2:31,4;14,2a;5000;Pål    Buer;139
+Resultater    -  Forus Travbane  -  19.11.2019; 32500; 2040;8;Auto;Ingen galopp ;4;3;Hades Håleryd (S);2040;2:32,2;14,6a;3500;Rune    Wiig;119
+Resultater    -  Forus Travbane  -  19.11.2019; 32500; 2040;8;Auto;Ingen galopp ;5;5;Silas Hovmand (DK);2040;2:32,2;14,6a;3000;Svein Ove    Wassberg;133
+Resultater    -  Forus Travbane  -  19.11.2019; 32500; 2040;8;Auto;Ingen galopp ;0;1;Conquestador B.R.;2040;2:32,4;14,7a;;Geir    Gudmestad;28
+Resultater    -  Forus Travbane  -  19.11.2019; 32500; 2040;8;Auto;Ingen galopp ;Disk. galopp;2;Photo Va Bene;2040;DG;dg a;;Bjørn    Steine;40
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;9;Volte;Ingen galopp ;1;5;Etne Spretten;2060;3:05,2;29,9;14000;Stine    Birkeland;*20
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;9;Volte;Ingen galopp ;2;9;Erga Prinsen;2060;3:05,4;30,0;7000;Morten    Erga;28
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;9;Volte;Ingen galopp ;3;7;Tåga Prinsen (S);2060;3:06,1;30,3;5000;Marte    Greve;320
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;9;Volte;Ingen galopp ;4;6;Flytin;2060;3:06,3;30,4;3500;Tord R.    Salte;80
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;9;Volte;Ingen galopp ;5;10;Vimse Sindre;2060;3:06,3;30,4;3000;Thea    Vatne;253
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;9;Volte;Ingen galopp ;6;3;Nordsjø Elden;2040;3:07,3;31,8;3000;Tonje    Gudmestad;65
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;9;Volte;galopp;0;8;Lustra Oda;2060;3:13,4;33,9 g;;Evy Anita    Nordbustad;782
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;9;Volte;Ingen galopp ;0;2;Karmøy Frøya;2040;3:14,3;35,2;;Ida    Skjæveland;421
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;9;Volte;galopp;Brutt løp;4;Robust;2060;;br g;;Beate    Barka;252
+Resultater    -  Forus Travbane  -  19.11.2019; 35500; 2040;9;Volte;Ingen galopp ;Strøket;1;Kolnes Borken;2040;;;;Bjørn    Steine;0
+Resultater    -  Forus Travbane  -  19.11.2019; 0; 2040;9;Volte;Ingen galopp ;P;1;Thai Poseidon;2040;2:41,8;19,3;;Geir    Mikkelsen;P
+Resultater    -  Forus Travbane  -  19.11.2019; 0; 2040;9;Volte;Ingen galopp ;N;2;Lome Silja;2060;3:36,1;44,9 r;;Svein Ove    Wassberg;N

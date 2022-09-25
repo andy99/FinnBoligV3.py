@@ -1,19 +1,8 @@
-  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;5;Knut Arne Ødegaard;Autostart;55.688;O.M. Ebony;1.16,9v;1.15,7a;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;6;Christina Sophie Myklebust;Autostart;57.974;Sophie's Loveandxxx;1.18,3v;1.16,0a;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;7;Magnus Teien Gundersen;Autostart;64.614;Maxwell P.S.;;1.16,0a;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;2;2100;8;Lars Anvar Kolle;Autostart;74.075;Cayman Bee;1.17,7v;1.16,6a;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;3;Maren Øyo;Autostart;245.663;Tiria Jet;1.14,8v;1.15,0a;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;4;Dag-Sveinung Dalen;Autostart;213.280;Circe des Emois;1.16,0v;1.13,5a;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;5;2100;7;Hans Chr. Holm;Autostart;242.500;New Talisman;1.16,5v;1.14,6a;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;1;Gunnar Austevoll;Autostart;440.351;Muscle Mack;1.13,8v;1.12,3a;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;6;Hans Chr. Holm;Autostart;508.723;Soros Kronos;1.14,7v;1.14,1a;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;6;2100;9;Herman R. Tvedt;Autostart;457.496;Among Hastrup;1.15,4v;1.12,7a;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;2;Dag-Sveinung Dalen;Volestart;3.500;Sølv Faks;1.37,1v;;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;4;Joakim Rasmussen;Volestart;2.000;T.K. Lars;1.37,4v;;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;5;Åsbjørn Tengsareid;Volestart;2.000;Tora;1.36,8v;;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;7;2100;10;Tom Erik Solberg;Volestart;0;Valle Grid;;;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;8;1700;1;Knut Arne Ødegaard;Volestart;0;Haugs Knekten;;;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;8;1700;2;Eirik Høitomt;Volestart;0;Geissler;;;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;8;1700;3;Geir Flåten;Volestart;0;Elsås Stjernen;;;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;8;1700;4;Eivind Gravdal;Volestart;0;Topp Stemning;;;  Drammen Travbane ;18.11.2019
-  Startliste    -  Drammen Travbane - 18.11.2019;8;1700;5;Asbjørn Wright;Volestart;0;Grudis;;;  Drammen Travbane ;18.11.2019
+  Startliste    -  Bergen Travpark - 25.09.2022;1;2100;5;Lars Tore Hauge;Volestart;40.000;Fat Bob;1.18,8v;1.18,6a;  Bergen Travpark ;25.09.2022
+  Startliste    -  Bergen Travpark - 25.09.2022;4;2100;9;Daniel Kvamsdal;Autostart;178.047;Exciting Lady;1.16,0v;1.14,3a;  Bergen Travpark ;25.09.2022
+  Startliste    -  Bergen Travpark - 25.09.2022;9;2120;6;Egil Hauge;Volestart;10.000;Mi Bella;1.37,6v;;  Bergen Travpark ;25.09.2022
+  Startliste    -  Bergen Travpark - 25.09.2022;10;2120;5;Lars Tore Hauge;Volestart;27.922;Rönnerdahl;1.20,6v;1.17,4a;  Bergen Travpark ;25.09.2022
+  Startliste    -  Bergen Travpark - 25.09.2022;11;1600;1;Ove Wassberg;Autostart;107.737;Golden Hulsig;1.16,9v;1.14,7a;  Bergen Travpark ;25.09.2022
+  Startliste    -  Bergen Travpark - 25.09.2022;12;2100;1;Svein Ove Wassberg;Volestart;0;Nothing Like This;;;  Bergen Travpark ;25.09.2022
+  Startliste    -  Bergen Travpark - 25.09.2022;12;2120;2;Rolf Tvedt;Volestart;0;Jega Bollis;;;  Bergen Travpark ;25.09.2022
+  Startliste    -  Bergen Travpark - 25.09.2022;12;2120;3;Odd Storetvedt;Volestart;0;Tin Martin;;;  Bergen Travpark ;25.09.2022

@@ -1,0 +1,532 @@
+2477;Dag-Sveinung Dalen            ;643
+1993;Eirik Høitomt                 ;1671
+1704;Åsbjørn Tengsareid            ;4085
+1382;Gunnar Austevoll              ;224
+1341;Vidar Hop                     ;1619
+1078;Lars Anvar Kolle              ;2147
+1074;Kristian Malmin               ;2651
+1049;Magnus Teien Gundersen        ;1266
+1042;Ole Johan Østre               ;4480
+976;Andre H. Stensen              ;3834
+906;Olav Mikkelborg               ;2742
+892;Hans Chr. Holm                ;1590
+802;Jomar Blekkan                 ;372
+776;Per Oleg Midtfjeld            ;2738
+772;Erlend Rennesvik              ;3442
+682;Bjørn Steinseth               ;4536
+674;Tom Erik Solberg              ;3778
+628;Arve Sjoner                   ;3700
+542;Veronika Bugge                ;491
+534;Thomas Mjøen                  ;2765
+515;Atle Solhus                   ;3783
+513;Frode Hamre                   ;1375
+489;Ragnhild Bjørnbeth            ;361
+477;Kai Johansen                  ;16
+470;Inge Melby                    ;2721
+460;Adrian Solberg Akselsen       ;41
+424;Kristine Kvasnes              ;2236
+399;Cato Antonsen                 ;180
+393;Bjørn Garberg                 ;1203
+376;Anita Valstad                 ;4227
+363;Ole Christian Kjenner         ;2094
+357;Geir Vegard Gundersen         ;1269
+349;Atle Eggan                    ;793
+345;Odd-Arne Sagholen             ;3591
+327;Jan Roar Mjølnerød            ;2766
+321;Øyvind Ruttenborg             ;3540
+310;Arne Nilsen                   ;2902
+291;Gøran Antonsen                ;184
+283;Magne Olsen                   ;3094
+272;Herman R. Tvedt               ;4188
+238;Edvard Kristiansen            ;2196
+231;Per Einar Sørmo               ;4041
+228;Jørn Morten Kvikstad          ;2240
+227;Tor Arne Eggen                ;796
+226;Hans Wilhelm Storås           ;3870
+223;Josefine Eilertsen            ;813
+220;Odd Arne Kjøsnes              ;2100
+219;Joakim Rasmussen              ;3411
+217;Amanda Robertsen              ;3485
+206;Geir Flåten                   ;1044
+202;Boye Ølstøren                 ;4460
+191;Knut Arne Ødegaard            ;4449
+189;Henrik Kulblik                ;2215
+183;Noralf P. Brækken             ;479
+182;Roar Walsøe                   ;4331
+179;Hans Jørgen Eggen             ;798
+177;Morten A. Pedersen            ;3242
+164;Karl Ove Nordtømme            ;2992
+158;Joakim Hansen                 ;1397
+156;Marit Valstad                 ;4228
+153;Svein Ove Wassberg            ;4338
+152;Lars Fredrik Kolle            ;2145
+151;Monika Fremstad               ;1083
+132;Erik Brækken                  ;477
+125;Eivind Gravdal                ;1210
+122;Victoria Steine               ;3820
+122;Øystein Tjomsland             ;4138
+120;Bjørn Steine                  ;15
+118;Tor-Bjørn Horpestad           ;1621
+117;Kim Mathisen                  ;2694
+115;Marius Høitomt                ;1670
+113;Kristian Bjørnerød            ;362
+112;Frode Mjølnerød               ;2767
+112;Espen A. Schem                ;3629
+109;Jan Rune Gaustad              ;1133
+108;Jan Martin Bjerring           ;342
+105;Vemund Madsen Drolsum         ;743
+104;Johan Kringeland Eriksen      ;892
+104;Christina Kjenner             ;2093
+101;Frank Westberg                ;4349
+101;Helene Kolle                  ;2146
+96;Louise V. Trudvang            ;4168
+94;Anders Lundstrøm Wolden       ;3453
+92;Anders Andersen               ;88
+92;Connie Engebråthen            ;861
+91;Simen Bremseth Jessen         ;1800
+90;Lars Erik Aas                 ;4519
+89;Morten Valstad                ;4230
+85;Pål Sem                       ;3672
+77;Nils Olav Holm                ;1596
+77;Anders Andersson              ;122
+76;Guro Løve                     ;2610
+76;Sven Olav Weberg              ;4341
+72;Renate Aarlie                 ;4514
+71;Ingar Nikolaisen              ;2896
+69;Guro Berg                     ;284
+68;Maren Sødal                   ;4005
+68;Anette Frønes                 ;1108
+68;Liv Pedersen                  ;3238
+67;Svein Olav Ruud               ;3541
+65;Ove Bakkevold Reime           ;3433
+64;Erik Killingmo                ;2076
+63;Martine Foldvik Anvik         ;188
+62;Jan Roar Trøan                ;4173
+61;Ragnhild Sveen                ;3950
+61;Per Arvesen                   ;202
+61;Per M. Hvattum                ;1652
+60;Anders Hultgren               ;1638
+60;Trond Lindbak                 ;2434
+60;Per Ivar Bendiksen            ;279
+59;Inga Andrea Lamvik            ;2280
+58;Ivar Asphaug                  ;210
+58;Per Vetle Kals                ;1977
+58;Marion Kleveland              ;2106
+57;Trude Kleveland               ;2108
+57;Kenneth Brenden               ;442
+56;Jarle Morten Sørmo            ;4042
+56;Ann Kristin Rasmussen         ;3408
+56;Malin Berås                   ;323
+56;Arnt-Sverre Røren             ;3572
+54;Stian Eilefsen                ;810
+54;Lars B. Revheim               ;3450
+53;Øystein Kruse                 ;2205
+52;Liv Marie Hansen              ;1412
+52;Siv Emilie Løvvold            ;2616
+51;John Einar Theodorsen         ;4100
+50;Mats-Andre Rasmussen          ;3415
+49;Tommy Jensen Fløysand         ;1042
+49;Haakon Ydersbond              ;4423
+49;Amalie Ødegård                ;4446
+49;Einar Ludvig Eriksen          ;890
+48;Pål Buer                      ;490
+46;Rakel Krabseth                ;2175
+46;Hilde Marie Østborg           ;4462
+46;Jo Svenstad                   ;3981
+45;Kjetil Djøseland              ;731
+43;Olea Villa Furre              ;1112
+42;Ernst-Petter Knutsen          ;2127
+41;Glenn Kramer Stenberg         ;3823
+41;Vidar Tjomsland               ;4139
+41;Jenny Martine Theodorsen      ;4099
+40;Hedda Edvardsen               ;781
+40;Bjørn Strømnes                ;3892
+40;Maja Kanstad                  ;1985
+40;Victoria Amundsen             ;81
+39;Johanne Ulrica Øveraasen      ;4487
+39;Silje Jordalen                ;1929
+38;Geir Mikkelsen                ;2744
+36;Ole Johnsen                   ;1885
+35;Christina A. Hande            ;1376
+35;Nina Dragsten Stene           ;3827
+35;Ulf Alme                      ;71
+34;Erik Skaug                    ;3722
+33;Bård Humborstad               ;1644
+33;Lisa Johansen                 ;1817
+33;Line Nygård                   ;3028
+31;Ragnar Fremstad               ;1082
+31;Per Johansen                  ;1810
+30;Asbjørn Wright                ;4415
+30;Anne Grete Rasmussen          ;3419
+30;Thea Merete Kulblik           ;2216
+30;Ulrika Stenman                ;3832
+29;Roger Rundhaug                ;3535
+29;Dag Sandø Nilsen              ;2903
+29;Kjetil Lunde                  ;2540
+29;Truls Desserud                ;705
+28;Janne E. Olsen                ;3098
+28;Jens Alm                      ;66
+28;Mikkel Davidsen               ;667
+27;Kristian Lunde                ;2541
+27;Erland Holm                   ;1597
+27;Karl Einar Stubsjøen          ;3895
+27;Hans G Skiaker                ;3724
+26;Arne Petter Fossen            ;1070
+26;Natalie Iselin Repstad        ;3445
+25;Bjørn Humborstad              ;1643
+25;Tor Wollebæk                  ;4411
+25;Stine Hole                    ;1577
+24;Peter H. Sjøberg              ;3703
+23;Steinar Holm                  ;1593
+23;Roya Haghighat                ;1337
+23;Vilde Orstad                  ;3155
+22;Kristian Lamøy                ;2283
+22;Jan Lyng                      ;2576
+21;Thomas Wassberg               ;4339
+21;Trond Gjervan                 ;1168
+21;Lars Håkenby Østre            ;4481
+20;Bjarke Christensen            ;571
+19;Dagfinn Murud                 ;2809
+19;Ingrid Sellie                 ;3667
+19;Ida Therese Stoum             ;3872
+18;Jan-Erik Minge                ;2762
+18;Stefan Persson                ;3278
+17;Ingolf Herbjørnrød            ;1531
+17;Tor Arne Stordal              ;3855
+17;Bjørn Olav Aarskog            ;4516
+17;Geir Nordbotten               ;2976
+16;Paw Mahony                    ;2644
+16;Benedicte Bjørnstad           ;365
+16;Anita Hansen Juklerød         ;1935
+16;Ragna R Okkenhaug             ;3068
+16;Ingvild Tonholm               ;4145
+16;Henriette Steine              ;3819
+16;Gry Vigdis Bachmann           ;234
+15;Morten Strand                 ;3873
+14;Agnes Usterud                 ;4218
+14;Nathalie T.M. Pedersen        ;3228
+14;Katrine Blakkestad            ;370
+14;Sindre Skjølås                ;3734
+14;Stine Marie Pedersen          ;3244
+14;Kjetil Roe                    ;3492
+14;Mona Kleveland                ;2109
+13;Gorm Flognes                  ;1035
+13;Thomas Dahle                  ;631
+13;Helge Skjoldal                ;3727
+13;Christina Olsson              ;3135
+12;Alexander Heisholt            ;1492
+12;Jeanett Marie Dagsvold        ;622
+12;Jomar Grande Rabban           ;3382
+12;Rune Wiig                     ;4381
+12;Arvid Bye                     ;506
+11;Vera Lamvik Solhjell          ;3781
+11;Kåre Skrugstad                ;3749
+11;Jan Kvalen                    ;2234
+11;Mari Løve                     ;2611
+11;Hilde Pettersen Vik           ;4277
+11;Raymon Stranden               ;3877
+11;Dag Petter Johnsrud           ;1893
+11;Mats Schei                    ;3628
+11;Per Arne Eggan                ;791
+10;Ola Røstad Haga               ;1332
+10;Hans Johan Olsen              ;3090
+10;Jane Helen Stareng            ;3805
+10;Lill-Tove L. Skar             ;3719
+10;Eini S Linn                   ;2492
+10;Silje Dragsten Theodorsen     ;4101
+10;Ole Gaute Gudmestad           ;1247
+10;Therese Ringkilen             ;3466
+10;Morten Antonsen               ;183
+10;John Revheim                  ;3449
+9;Christine Marie Gravdal       ;1213
+9;Bjarne Syversen               ;3998
+9;Guri Grimsgård                ;1228
+9;Arvid M. Hovsten              ;1632
+9;Anna Nyborg                   ;3021
+9;Kjell Magne Sand              ;3607
+9;Arild Berås                   ;324
+9;Hanne Brendengen              ;445
+9;Julie Grindbakken             ;1229
+9;Olav Korssjøen                ;2168
+8;Øyvind Hegdal                 ;1478
+8;Mari Sørensen                 ;4034
+8;Bernt Øksnevad                ;4458
+8;Knut Robin Dalsbotten         ;648
+8;Sigurd Helmen                 ;1515
+8;Brendon Robartson             ;3481
+8;Bjørn Larsen                  ;2312
+8;Jørn Olaf Olsen               ;3093
+8;Ernestas Tijunelis            ;4124
+8;Thomas Sverre Karlsen         ;1997
+8;Jarle Karlsen                 ;2000
+8;Tom Erga                      ;881
+8;Caroline Roland               ;3503
+8;Tone Elisabeth Krokdal        ;2204
+7;Geir Aga                      ;14
+7;Gry Kanstad                   ;1986
+7;Sverre Risa                   ;3472
+7;Frode Husbyn                  ;1648
+7;Ove Mæland                    ;2830
+7;Olof    Högberg               ;99999
+7;Henry Kristiansen             ;2193
+7;Bo Westergaard                ;4357
+7;Philip Scott Sønsteby         ;4028
+7;Malin B. Sletten              ;3759
+7;Christine Lihaug              ;2417
+7;Sverre Skrugstad              ;3748
+7;Sverre Hjørnerød              ;1564
+6;Kristin Johnsen               ;1890
+6;Pål Rønningen                 ;3568
+6;Ida Jansen                    ;1744
+6;Kristin B. Rolandsen          ;3505
+6;Kine Ørndal Eggan             ;794
+6;Widar Evensen                 ;974
+6;Geir Smeby                    ;3762
+6;Harald Bragstad               ;425
+6;Trond Skofsrud                ;3736
+6;Paal Gulbrandsen              ;1257
+6;Frode Fladen                  ;1022
+6;Gunnar Eggen                  ;799
+6;Øystein Rasmussen             ;3420
+6;Odd Storetvedt                ;3861
+6;Lars Tore Hauge               ;1450
+6;Hans Even Andersen            ;91
+6;Anne-Serine Moe Reigstad      ;3432
+5;Geir Gudmestad                ;1248
+5;Rebecca Retland               ;3446
+5;Martine Finsand               ;1012
+5;Charlotte Myren Tuverud       ;4187
+5;Linn Hernar Helgeland         ;1497
+5;Thor Daniel Kulblik           ;2217
+5;Annette Lindstrand            ;2489
+5;Anne Marie Sveen              ;3949
+5;Celine Solberg Akselsen       ;42
+5;Gudmund Dahle                 ;630
+5;Annika Gresseth               ;1220
+5;Bjørn Vidar Garseg            ;1131
+5;Tone Bronken                  ;458
+5;Harald Inge Hagen             ;1334
+5;Jan Hetland                   ;1538
+5;Rune Flaskerud                ;1023
+5;Bjørn Duestad                 ;751
+5;Michael T. Stiansen           ;3845
+5;Thomas Forsberg               ;1057
+5;Håkon Johannes Nordland       ;2984
+5;Cathrine Olsen                ;3107
+4;Cecilie Kristiansen           ;2191
+4;Helena Meland                 ;2715
+4;Jeanett D. Knappskog          ;2119
+4;Terje Dahl                    ;625
+4;Rune Solberg                  ;3776
+4;Tormod Hynne                  ;1655
+4;Kim Åge Rokkan                ;3501
+4;Jimmy Vatland                 ;4249
+4;Stian Hansen Brynemo          ;476
+4;Rune Eriksen                  ;888
+4;Kjell Vidar Braaten           ;484
+4;Sandra Pedersen               ;3226
+4;Stine Birkeland               ;335
+4;Per Kr. Klemmetsen            ;2104
+4;Harald Johnsen                ;1881
+4;Ove Wassberg                  ;4337
+4;Kine Kleveland                ;2107
+4;Gunnar Bergem                 ;291
+4;Per-Eivind Tjordal            ;4141
+4;Anne Berit S. Johannessen     ;1805
+4;Øyvind Austevoll              ;225
+4;Linda Kristiansen             ;2197
+4;Thomas Ellefsen               ;843
+4;Stine Aftret                  ;13
+4;Kjell Løvdal                  ;2607
+4;Tina Fossan Låg               ;2619
+4;Martin Opheim Gløersen        ;1176
+4;Trine-Alice T. Espedal        ;964
+4;Mads Arne Leivseth            ;2384
+4;Frode Haugan                  ;1448
+4;Elin Gustavsson               ;1299
+4;Anette Isaksen                ;1706
+3;Tore Andre Totland            ;4159
+3;Lene Nilsen                   ;2899
+3;Eirin Bolme                   ;395
+3;Henrik Karlin                 ;1995
+3;Tore Sandmoen                 ;3615
+3;Heidi Sønstegård              ;4029
+3;Reier Oscar Selte             ;3669
+3;Julie M. Ellingsen            ;844
+3;Stephanie J. Werder           ;4345
+3;Marit E. Stokka Svendsen      ;3958
+3;Heidi Bjørntvedt              ;368
+3;Håvard Winther Storler        ;3865
+3;Rudolf Roland                 ;3504
+3;Arve G. Blihovde              ;375
+3;Oddvar Mæland                 ;2831
+3;Jens Kristian Brenne          ;447
+3;Camilla G. Fidje              ;1006
+3;Annette Stordal               ;3857
+3;Ragnhild Strøm                ;3885
+3;Morten Stubberud              ;3893
+3;Elin Lode                     ;2505
+3;Ole Henrik F. Olsen           ;3112
+3;Stine Elvine Kvernberg        ;2237
+3;Kenneth Handeland             ;1378
+3;Lena Valstad                  ;4229
+3;Truls S. Glittum              ;1175
+3;Sunniva S. Husby              ;1647
+3;Madelen Berås                 ;322
+3;Jimmy Takter                  ;4057
+3;Christian Fr. Steenland       ;3814
+3;Renate Klausen                ;2102
+3;Anders Magne Låhne            ;2620
+2;Arild Stubbmo                 ;3894
+2;Roar Berg                     ;287
+2;Laila Thue                    ;4117
+2;Andrea Frednes                ;1077
+2;Lene Rotneim                  ;3525
+2;Lillian Tharaldsen            ;4097
+2;Marianne Landsem              ;2285
+2;Karolina Johansson            ;1862
+2;Terje Jensen                  ;1776
+2;Lars Johnsen                  ;1882
+2;Jill Nordby                   ;2978
+2;Espen Grohs                   ;1232
+2;Terje Hanestad                ;1381
+2;Ole Johan Ingebrigtsen        ;1696
+2;Pernilla Stenhammar           ;3828
+2;Tormod Gudmestad              ;1252
+2;Johan Roger Fenstad           ;999
+2;Mika Forss                    ;1065
+2;Anders Jahre                  ;1729
+2;Marita J. Leivseth            ;2385
+2;Pål Kristiansen               ;2190
+2;Yvonne Rydningen              ;3544
+2;Linda Marie Larsen            ;2313
+2;Tore Witberg                  ;4403
+2;Bjørn Håvard Rønningen        ;3567
+2;Espen Andre Schie             ;3631
+2;Per-Erik Gravdal              ;1211
+2;Nina Bakken                   ;241
+2;Tonje Langsæter               ;2296
+2;Hege Kristin Høyland          ;1672
+2;Bjørn Handeland               ;1377
+2;Kai Helge Robertsen           ;3484
+2;Nora Hagelund Holm            ;1589
+2;Ronny Halvorsen               ;1363
+2;Cato Michelsen                ;2737
+2;Daniel Haugland               ;1459
+2;Arild Salte                   ;3600
+2;Jostein Barth                 ;254
+2;Celina Knutsen Skogmo         ;3743
+2;Tina Lagesen                  ;2269
+2;June Marie Idland             ;1688
+2;Marthe Braastad               ;483
+2;Roger Hansen                  ;1390
+2;Carl Andre Håkestad           ;1676
+2;Line Barane                   ;245
+2;Erika Bolme                   ;394
+2;Karin Hauge                   ;1453
+2;Tor Oskar Ropstad             ;3514
+2;Arne Nordheim                 ;2982
+2;Jan Morten Hansen             ;1405
+2;Harry Tharaldsen              ;4096
+2;Sondre Heimdal                ;1490
+2;Anders Pettersen              ;3302
+2;Marina Volle Solvang          ;3786
+2;Mathilde Herleiksplass        ;1533
+2;Jan-Ivar Johansen             ;1811
+2;Eldar Harviken                ;1439
+2;Joakim Nilsen                 ;2905
+2;Magnar Støtland               ;3901
+2;Marianne N. Olsen             ;3097
+2;Einar Nedrebø                 ;2859
+2;Reidun Lassegård              ;2350
+2;Jan Pettersen                 ;3303
+2;Tina Nypen                    ;3034
+2;Claus Olsen                   ;3088
+2;Karoline Herleiksplass        ;1534
+2;Katarina Østerholt            ;4474
+2;Lise Marie Rudshagen          ;3532
+1;Rebekka Romstad               ;3509
+1;Eivind Bryn                   ;475
+1;Thomas Tvedt                  ;4190
+1;Hege Solvang Morken           ;2796
+1;Sanne Svinningen Vereide      ;4262
+1;Eivind Fjellstad              ;1019
+1;Maylen Lode                   ;2507
+1;Helen Vikeby                  ;4279
+1;Ole Møller                    ;2836
+1;Andrea Sletsjø                ;3758
+1;Eva-Kristine E. Bjørnstad     ;366
+1;Beate Barka                   ;249
+1;Tina Marie L. Rønningen       ;3569
+1;Mette H. Mæland               ;2828
+1;Gunn Merete Sør-Reime         ;4044
+1;Lina P. Oulie                 ;3171
+1;Inger Halldis Holm            ;1588
+1;Nils-Ivar Helledal            ;1505
+1;Synne Nybø                    ;3022
+1;Marlene Simonsen              ;3694
+1;Anita Røsvik                  ;3580
+1;Mats Pedersen                 ;3245
+1;Caroline L.B. Morken          ;11
+1;Kristine Lindgren             ;2461
+1;Øyvind Nordvik                ;2994
+1;Gro Ingvaldsen                ;1700
+1;Renee M. Sandersen            ;3612
+1;Sanna Svendsen                ;3953
+1;Thomas Tuft                   ;4176
+1;Hanne Pettersen               ;3297
+1;Maria Østergaard              ;4473
+1;Karina Vudduaune              ;4301
+1;Finn Ødegård                  ;4447
+1;Monica Gabrielsen             ;1115
+1;Stein Isak Borstad            ;417
+1;Ellen K. Låhne Kristiansen    ;2189
+1;Tor Egil Mæhre                ;2824
+1;Ida Vinterdal                 ;4290
+1;Anja Ruud Larsen              ;2306
+1;Jouni Karhu                   ;1988
+1;Thomas Antonsen               ;181
+1;Nick Mahony                   ;2645
+1;Tanja Johansen                ;1824
+1;Svein Ola Kurås               ;2230
+1;Bo Larsen                     ;2322
+1;Steven Thorkildsen            ;4111
+1;Kenneth Rasmussen             ;3421
+1;Silje Jessen                  ;1801
+1;Eirik Nedrelid                ;2860
+1;Milly Bøe Ringstad            ;3467
+1;Jenny Ryman                   ;3550
+1;Janne Johansen                ;1827
+1;Sofie Tillerflaten            ;4126
+1;Annika T. Espedal             ;963
+1;Roar Hop                      ;12
+1;Stian Pettersen               ;3301
+1;Signe Fonneland Steen         ;3813
+1;Stine Lode                    ;2508
+1;Heidi Struck                  ;3882
+1;Helene T. Tinglum             ;4131
+1;Camilla Hansen                ;1423
+1;Maria Faanes                  ;1114
+1;Stig Gyllensten               ;1314
+1;Ida Gundersen Thompson        ;4108
+1;Åge Rønningen                 ;3565
+1;Robert S. Fossen              ;1069
+1;Eline Ringen Hernes           ;1535
+1;Andreas Løvdal                ;2606
+1;Julie Ann Gjerstad            ;1166
+1;Kristian Solbakken            ;3774
+1;Katrine Olsen Wågenes         ;4421
+1;Amalie Børdal Lyssand         ;2583
+1;Victor Karlsson               ;2042
+1;Tomas Pedersen                ;3224
+1;Susann Larsen                 ;2305
+1;Mia Sandnes Eggum             ;800
+1;Jenny Thygesen                ;4120
+1;Marie Tovengen                ;4160
+1;Sigmund Jakobsen              ;1733
+1;Eirin Sørmo                   ;4043
+1;Thomas Andreassen             ;164
+1;Chris-André Lysenstøen        ;2580
+1;Åke Sundberg                  ;3908
+1;Jonny Blien                   ;373
+1;Liss-Karin Sandvik            ;3622

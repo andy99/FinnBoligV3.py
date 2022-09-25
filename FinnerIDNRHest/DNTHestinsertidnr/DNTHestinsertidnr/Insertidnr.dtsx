@@ -11,8 +11,8 @@
   DTS:LocaleID="1044"
   DTS:ObjectName="Insertidnr"
   DTS:PackageType="5"
-  DTS:VersionBuild="18"
-  DTS:VersionGUID="{4FA8D1EF-E526-4BE0-B1C2-8116D609F1E0}">
+  DTS:VersionBuild="20"
+  DTS:VersionGUID="{7CF27898-4B0C-4163-A9DB-502980ADE98C}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -48,7 +48,7 @@
               DTS:DataType="3"
               DTS:TextQualified="True"
               DTS:ObjectName="idnr"
-              DTS:DTSID="{E3322ABC-2B5D-49EE-8A3C-0ADA178F4BC7}"
+              DTS:DTSID="{6607667C-D85B-4B3A-BE05-3C57DA3A15B5}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -57,7 +57,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Hestenavn"
-              DTS:DTSID="{3CE3355E-6BF3-49ED-927E-F43C028F285F}"
+              DTS:DTSID="{C6D5DF09-139F-4994-9CF1-651D1FCB8CDB}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>

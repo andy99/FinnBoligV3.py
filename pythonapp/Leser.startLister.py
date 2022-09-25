@@ -4,7 +4,7 @@ import requests
 #import LeserDNTdatofradatabase
 # from token import NEWLINE
 coding='utf8'
-r = requests.get("http://www.travsport.no/Sport/StartLister/Leangen-Travbane/?date=20180429")
+r = requests.get("http://www.travsport.no/Sport/StartLister/Jarlsberg-Travbane/?date=20220830")
 #                       http://www.travsport.no/Sport/Resultater/Forus-Travbane/ 
 
 r.content

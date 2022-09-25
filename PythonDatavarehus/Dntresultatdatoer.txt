@@ -1,0 +1,676 @@
+ Jarlsberg-travbane;Søndag, 23. mai 2021
+ Jarlsberg-travbane; Lørdag, 15. mai 2021
+ Jarlsberg-travbane;Torsdag, 13. mai 2021
+ Jarlsberg-travbane;Mandag, 10. mai 2021
+ Jarlsberg-travbane;Tirsdag, 4. mai 2021
+ Jarlsberg-travbane; Mandag, 3. mai 2021
+ Jarlsberg-travbane;Fredag, 30. apr 2021
+ Jarlsberg-travbane;Onsdag, 28. apr 2021
+ Jarlsberg-travbane;Søndag, 24. jan 2021
+ Jarlsberg-travbane; Søndag, 17. jan 2021
+ Jarlsberg-travbane;Onsdag, 13. jan 2021
+ Jarlsberg-travbane;Lørdag, 9. jan 2021
+ Jarlsberg-travbane;Fredag, 1. jan 2021
+ Jarlsberg-travbane; Fredag, 11. des 2020
+ Jarlsberg-travbane;Torsdag, 3. des 2020
+ Jarlsberg-travbane;Søndag, 29. nov 2020
+ Jarlsberg-travbane;Fredag, 13. nov 2020
+ Jarlsberg-travbane; Fredag, 6. nov 2020
+ Jarlsberg-travbane;Lørdag, 31. okt 2020
+ Jarlsberg-travbane;Søndag, 25. okt 2020
+ Jarlsberg-travbane;Fredag, 9. okt 2020
+ Jarlsberg-travbane; Fredag, 25. sept 2020
+ Jarlsberg-travbane;Torsdag, 10. sept 2020
+ Jarlsberg-travbane;Mandag, 31. aug 2020
+ Jarlsberg-travbane;Tirsdag, 25. aug 2020
+ Jarlsberg-travbane; Fredag, 14. aug 2020
+ Jarlsberg-travbane;Fredag, 31. jul 2020
+ Jarlsberg-travbane;Søndag, 5. jul 2020
+ Jarlsberg-travbane;Lørdag, 4. jul 2020
+ Jarlsberg-travbane; Fredag, 3. jul 2020
+ Jarlsberg-travbane;Mandag, 29. jun 2020
+ Jarlsberg-travbane;Mandag, 22. jun 2020
+ Jarlsberg-travbane;Onsdag, 17. jun 2020
+ Jarlsberg-travbane; Mandag, 15. jun 2020
+ Jarlsberg-travbane;Mandag, 8. jun 2020
+ Jarlsberg-travbane;Mandag, 1. jun 2020
+ Jarlsberg-travbane;Fredag, 29. mai 2020
+ Jarlsberg-travbane; Fredag, 22. mai 2020
+ Jarlsberg-travbane;Lørdag, 16. mai 2020
+ Jarlsberg-travbane;Søndag, 10. mai 2020
+ Jarlsberg-travbane;Onsdag, 29. apr 2020
+ Jarlsberg-travbane; Søndag, 26. apr 2020
+ Jarlsberg-travbane;Tirsdag, 21. apr 2020
+ Jarlsberg-travbane;Mandag, 20. apr 2020
+ Jarlsberg-travbane;Søndag, 19. apr 2020
+ Jarlsberg-travbane; Torsdag, 16. apr 2020
+ Jarlsberg-travbane;Torsdag, 12. mar 2020
+ Jarlsberg-travbane;Fredag, 6. mar 2020
+ Jarlsberg-travbane;Lørdag, 29. feb 2020
+ Jarlsberg-travbane; Fredag, 21. feb 2020
+ Jarlsberg-travbane;Fredag, 14. feb 2020
+ Jarlsberg-travbane;Fredag, 7. feb 2020
+ Jarlsberg-travbane;Torsdag, 30. jan 2020
+ Jarlsberg-travbane; Fredag, 24. jan 2020
+ Jarlsberg-travbane;Torsdag, 16. jan 2020
+ Jarlsberg-travbane;Lørdag, 11. jan 2020
+ Jarlsberg-travbane;Fredag, 3. jan 2020
+ Jarlsberg-travbane; Søndag, 29. des 2019
+ Jarlsberg-travbane;Søndag, 22. des 2019
+ Jarlsberg-travbane;Fredag, 6. des 2019
+ Jarlsberg-travbane;Søndag, 24. nov 2019
+ Jarlsberg-travbane; Lørdag, 9. nov 2019
+ Jarlsberg-travbane;Fredag, 1. nov 2019
+ Jarlsberg-travbane;Fredag, 25. okt 2019
+ Jarlsberg-travbane;Torsdag, 17. okt 2019
+ Jarlsberg-travbane; Fredag, 11. okt 2019
+ Jarlsberg-travbane;Fredag, 27. sept 2019
+ Jarlsberg-travbane;Fredag, 20. sept 2019
+ Jarlsberg-travbane;Fredag, 13. sept 2019
+ Jarlsberg-travbane; Fredag, 23. aug 2019
+ Jarlsberg-travbane;Mandag, 12. aug 2019
+ Jarlsberg-travbane;Søndag, 4. aug 2019
+ Jarlsberg-travbane;Fredag, 2. aug 2019
+ Jarlsberg-travbane; Søndag, 7. jul 2019
+ Jarlsberg-travbane;Lørdag, 6. jul 2019
+ Jarlsberg-travbane;Fredag, 5. jul 2019
+ Jarlsberg-travbane;Torsdag, 4. jul 2019
+ Jarlsberg-travbane; Mandag, 1. jul 2019
+ Jarlsberg-travbane;Mandag, 24. jun 2019
+ Jarlsberg-travbane;Mandag, 17. jun 2019
+ Jarlsberg-travbane;Onsdag, 12. jun 2019
+ Jarlsberg-travbane; Søndag, 2. jun 2019
+ Jarlsberg-travbane;Fredag, 31. mai 2019
+ Jarlsberg-travbane;Lørdag, 18. mai 2019
+ Jarlsberg-travbane;Mandag, 13. mai 2019
+ Jarlsberg-travbane; Søndag, 5. mai 2019
+ Jarlsberg-travbane;Søndag, 28. apr 2019
+ Jarlsberg-travbane;Mandag, 15. apr 2019
+ Jarlsberg-travbane;Mandag, 8. apr 2019
+ Jarlsberg-travbane; Fredag, 5. apr 2019
+ Jarlsberg-travbane;Fredag, 29. mar 2019
+ Jarlsberg-travbane;Fredag, 15. mar 2019
+ Jarlsberg-travbane;Søndag, 10. mar 2019
+ Jarlsberg-travbane; Fredag, 1. mar 2019
+ Jarlsberg-travbane;Lørdag, 16. feb 2019
+ Jarlsberg-travbane;Fredag, 1. feb 2019
+ Jarlsberg-travbane;Fredag, 18. jan 2019
+ Jarlsberg-travbane; Lørdag, 12. jan 2019
+ Jarlsberg-travbane;Fredag, 4. jan 2019
+ Jarlsberg-travbane;Fredag, 28. des 2018
+ Jarlsberg-travbane;Søndag, 23. des 2018
+ Jarlsberg-travbane; Torsdag, 20. des 2018
+ Jarlsberg-travbane;Fredag, 7. des 2018
+ Jarlsberg-travbane;Søndag, 25. nov 2018
+ Jarlsberg-travbane;Torsdag, 15. nov 2018
+ Jarlsberg-travbane; Lørdag, 10. nov 2018
+ Jarlsberg-travbane;Fredag, 2. nov 2018
+ Jarlsberg-travbane;Fredag, 26. okt 2018
+ Jarlsberg-travbane;Fredag, 12. okt 2018
+ Jarlsberg-travbane; Fredag, 28. sept 2018
+ Jarlsberg-travbane;Fredag, 21. sept 2018
+ Jarlsberg-travbane;Fredag, 14. sept 2018
+ Jarlsberg-travbane;Mandag, 10. sept 2018
+ Jarlsberg-travbane; Søndag, 2. sept 2018
+ Jarlsberg-travbane;Mandag, 27. aug 2018
+ Jarlsberg-travbane;Mandag, 13. aug 2018
+ Jarlsberg-travbane;Søndag, 5. aug 2018
+ Jarlsberg-travbane; Fredag, 3. aug 2018
+ Jarlsberg-travbane;Mandag, 9. jul 2018
+ Jarlsberg-travbane;Søndag, 8. jul 2018
+ Jarlsberg-travbane;Lørdag, 7. jul 2018
+ Jarlsberg-travbane; Fredag, 6. jul 2018
+ Jarlsberg-travbane;Torsdag, 5. jul 2018
+ Jarlsberg-travbane;Mandag, 25. jun 2018
+ Jarlsberg-travbane;Mandag, 18. jun 2018
+ Jarlsberg-travbane; Onsdag, 13. jun 2018
+ Jarlsberg-travbane;Mandag, 11. jun 2018
+ Jarlsberg-travbane;Fredag, 1. jun 2018
+ Jarlsberg-travbane;Torsdag, 24. mai 2018
+ Jarlsberg-travbane; Lørdag, 19. mai 2018
+ Jarlsberg-travbane;Fredag, 4. mai 2018
+ Jarlsberg-travbane;Fredag, 27. apr 2018
+ Jarlsberg-travbane;Søndag, 22. apr 2018
+ Jarlsberg-travbane; Fredag, 13. apr 2018
+ Jarlsberg-travbane;Onsdag, 28. mar 2018
+ Jarlsberg-travbane;Søndag, 25. mar 2018
+ Jarlsberg-travbane;Fredag, 16. mar 2018
+ Jarlsberg-travbane; Fredag, 2. mar 2018
+ Jarlsberg-travbane;Lørdag, 17. feb 2018
+ Jarlsberg-travbane;Fredag, 2. feb 2018
+ Jarlsberg-travbane;Fredag, 19. jan 2018
+ Jarlsberg-travbane; Lørdag, 13. jan 2018
+ Jarlsberg-travbane;Fredag, 5. jan 2018
+ Jarlsberg-travbane;Onsdag, 27. des 2017
+ Jarlsberg-travbane;Søndag, 10. des 2017
+ Jarlsberg-travbane; Fredag, 1. des 2017
+ Jarlsberg-travbane;Lørdag, 25. nov 2017
+ Jarlsberg-travbane;Fredag, 17. nov 2017
+ Jarlsberg-travbane;Fredag, 3. nov 2017
+ Jarlsberg-travbane; Fredag, 27. okt 2017
+ Jarlsberg-travbane;Søndag, 15. okt 2017
+ Jarlsberg-travbane;Lørdag, 30. sept 2017
+ Jarlsberg-travbane;Fredag, 22. sept 2017
+ Jarlsberg-travbane; Tirsdag, 12. sept 2017
+ Jarlsberg-travbane;Søndag, 27. aug 2017
+ Jarlsberg-travbane;Fredag, 18. aug 2017
+ Jarlsberg-travbane;Fredag, 4. aug 2017
+ Jarlsberg-travbane; Torsdag, 13. jul 2017
+ Jarlsberg-travbane;Søndag, 9. jul 2017
+ Jarlsberg-travbane;Lørdag, 8. jul 2017
+ Jarlsberg-travbane;Fredag, 7. jul 2017
+ Jarlsberg-travbane; Torsdag, 6. jul 2017
+ Jarlsberg-travbane;Mandag, 26. jun 2017
+ Jarlsberg-travbane;Mandag, 19. jun 2017
+ Jarlsberg-travbane;Fredag, 16. jun 2017
+ Jarlsberg-travbane; Mandag, 12. jun 2017
+ Jarlsberg-travbane;Fredag, 9. jun 2017
+ Jarlsberg-travbane;Fredag, 26. mai 2017
+ Jarlsberg-travbane;Lørdag, 20. mai 2017
+ Jarlsberg-travbane; Fredag, 12. mai 2017
+ Jarlsberg-travbane;Fredag, 5. mai 2017
+ Jarlsberg-travbane;Fredag, 28. apr 2017
+ Jarlsberg-travbane;Torsdag, 20. apr 2017
+ Jarlsberg-travbane; Torsdag, 6. apr 2017
+ Jarlsberg-travbane;Fredag, 31. mar 2017
+ Jarlsberg-travbane;Søndag, 26. mar 2017
+ Jarlsberg-travbane;Fredag, 17. mar 2017
+ Jarlsberg-travbane; Fredag, 24. feb 2017
+ Jarlsberg-travbane;Fredag, 17. feb 2017
+ Jarlsberg-travbane;Fredag, 3. feb 2017
+ Jarlsberg-travbane;Torsdag, 26. jan 2017
+ Jarlsberg-travbane; Fredag, 20. jan 2017
+ Jarlsberg-travbane;Torsdag, 19. jan 2017
+ Jarlsberg-travbane;Lørdag, 14. jan 2017
+ Jarlsberg-travbane;Torsdag, 5. jan 2017
+ Jarlsberg-travbane; Søndag, 1. jan 2017
+ Jarlsberg-travbane;Fredag, 23. des 2016
+ Jarlsberg-travbane;Søndag, 11. des 2016
+ Jarlsberg-travbane;Søndag, 4. des 2016
+ Jarlsberg-travbane; Tirsdag, 29. nov 2016
+ Jarlsberg-travbane;Lørdag, 26. nov 2016
+ Jarlsberg-travbane;Tirsdag, 22. nov 2016
+ Jarlsberg-travbane;Fredag, 11. nov 2016
+ Jarlsberg-travbane; Fredag, 4. nov 2016
+ Jarlsberg-travbane;Lørdag, 29. okt 2016
+ Jarlsberg-travbane;Fredag, 21. okt 2016
+ Jarlsberg-travbane;Fredag, 7. okt 2016
+ Jarlsberg-travbane; Fredag, 30. sept 2016
+ Jarlsberg-travbane;Mandag, 19. sept 2016
+ Jarlsberg-travbane;Lørdag, 3. sept 2016
+ Jarlsberg-travbane;Tirsdag, 23. aug 2016
+ Jarlsberg-travbane; Fredag, 19. aug 2016
+ Jarlsberg-travbane;Fredag, 12. aug 2016
+ Jarlsberg-travbane;Tirsdag, 9. aug 2016
+ Jarlsberg-travbane;Fredag, 5. aug 2016
+ Jarlsberg-travbane; Søndag, 10. jul 2016
+ Jarlsberg-travbane;Lørdag, 9. jul 2016
+ Jarlsberg-travbane;Fredag, 8. jul 2016
+ Jarlsberg-travbane;Torsdag, 7. jul 2016
+ Jarlsberg-travbane; Fredag, 1. jul 2016
+ Jarlsberg-travbane;Mandag, 27. jun 2016
+ Jarlsberg-travbane;Mandag, 20. jun 2016
+ Jarlsberg-travbane;Onsdag, 15. jun 2016
+ Jarlsberg-travbane; Torsdag, 2. jun 2016
+ Jarlsberg-travbane;Tirsdag, 24. mai 2016
+ Jarlsberg-travbane;Lørdag, 21. mai 2016
+ Jarlsberg-travbane;Fredag, 13. mai 2016
+ Jarlsberg-travbane; Søndag, 8. mai 2016
+ Jarlsberg-travbane;Fredag, 29. apr 2016
+ Jarlsberg-travbane;Søndag, 24. apr 2016
+ Jarlsberg-travbane;Fredag, 15. apr 2016
+ Jarlsberg-travbane; Tirsdag, 29. mar 2016
+ Jarlsberg-travbane;Søndag, 20. mar 2016
+ Jarlsberg-travbane;Tirsdag, 8. mar 2016
+ Jarlsberg-travbane;Fredag, 5. feb 2016
+ Jarlsberg-travbane; Fredag, 22. jan 2016
+ Jarlsberg-travbane;Lørdag, 16. jan 2016
+ Jarlsberg-travbane;Fredag, 8. jan 2016
+ Jarlsberg-travbane;Tirsdag, 5. jan 2016
+ Jarlsberg-travbane; Fredag, 1. jan 2016
+ Jarlsberg-travbane;Søndag, 20. des 2015
+ Jarlsberg-travbane;Fredag, 11. des 2015
+ Jarlsberg-travbane;Lørdag, 5. des 2015
+ Jarlsberg-travbane; Fredag, 27. nov 2015
+ Jarlsberg-travbane;Fredag, 13. nov 2015
+ Jarlsberg-travbane;Lørdag, 7. nov 2015
+ Jarlsberg-travbane;Tirsdag, 3. nov 2015
+ Jarlsberg-travbane; Fredag, 30. okt 2015
+ Jarlsberg-travbane;Fredag, 23. okt 2015
+ Jarlsberg-travbane;Søndag, 11. okt 2015
+ Jarlsberg-travbane;Lørdag, 3. okt 2015
+ Jarlsberg-travbane; Fredag, 18. sept 2015
+ Jarlsberg-travbane;Torsdag, 3. sept 2015
+ Jarlsberg-travbane;Søndag, 30. aug 2015
+ Jarlsberg-travbane;Fredag, 21. aug 2015
+ Jarlsberg-travbane; Fredag, 7. aug 2015
+ Jarlsberg-travbane;Søndag, 5. jul 2015
+ Jarlsberg-travbane;Lørdag, 4. jul 2015
+ Jarlsberg-travbane;Fredag, 3. jul 2015
+ Jarlsberg-travbane; Torsdag, 2. jul 2015
+ Jarlsberg-travbane;Mandag, 22. jun 2015
+ Jarlsberg-travbane;Torsdag, 18. jun 2015
+ Jarlsberg-travbane;Fredag, 12. jun 2015
+ Jarlsberg-travbane; Fredag, 29. mai 2015
+ Jarlsberg-travbane;Lørdag, 23. mai 2015
+ Jarlsberg-travbane;Fredag, 8. mai 2015
+ Jarlsberg-travbane;Søndag, 3. mai 2015
+ Jarlsberg-travbane; Søndag, 26. apr 2015
+ Jarlsberg-travbane;Fredag, 17. apr 2015
+ Jarlsberg-travbane;Torsdag, 9. apr 2015
+ Jarlsberg-travbane;Søndag, 29. mar 2015
+ Jarlsberg-travbane; Fredag, 20. mar 2015
+ Jarlsberg-travbane;Fredag, 13. mar 2015
+ Jarlsberg-travbane;Tirsdag, 3. mar 2015
+ Jarlsberg-travbane;Fredag, 27. feb 2015
+ Jarlsberg-travbane; Tirsdag, 17. feb 2015
+ Jarlsberg-travbane;Lørdag, 14. feb 2015
+ Jarlsberg-travbane;Fredag, 6. feb 2015
+ Jarlsberg-travbane;Fredag, 30. jan 2015
+ Jarlsberg-travbane; Fredag, 16. jan 2015
+ Jarlsberg-travbane;Fredag, 2. jan 2015
+ Jarlsberg-travbane;Fredag, 26. des 2014
+ Jarlsberg-travbane;Søndag, 21. des 2014
+ Jarlsberg-travbane; Lørdag, 13. des 2014
+ Jarlsberg-travbane;Fredag, 5. des 2014
+ Jarlsberg-travbane;Søndag, 23. nov 2014
+ Jarlsberg-travbane;Lørdag, 15. nov 2014
+ Jarlsberg-travbane; Fredag, 7. nov 2014
+ Jarlsberg-travbane;Fredag, 31. okt 2014
+ Jarlsberg-travbane;Fredag, 24. okt 2014
+ Jarlsberg-travbane;Fredag, 10. okt 2014
+ Jarlsberg-travbane; Lørdag, 4. okt 2014
+ Jarlsberg-travbane;Torsdag, 25. sept 2014
+ Jarlsberg-travbane;Fredag, 19. sept 2014
+ Jarlsberg-travbane;Mandag, 1. sept 2014
+ Jarlsberg-travbane; Fredag, 22. aug 2014
+ Jarlsberg-travbane;Tirsdag, 12. aug 2014
+ Jarlsberg-travbane;Fredag, 8. aug 2014
+ Jarlsberg-travbane;Søndag, 13. jul 2014
+ Jarlsberg-travbane; Lørdag, 12. jul 2014
+ Jarlsberg-travbane;Fredag, 11. jul 2014
+ Jarlsberg-travbane;Torsdag, 10. jul 2014
+ Jarlsberg-travbane;Onsdag, 9. jul 2014
+ Jarlsberg-travbane; Fredag, 4. jul 2014
+ Jarlsberg-travbane;Mandag, 30. jun 2014
+ Jarlsberg-travbane;Tirsdag, 24. jun 2014
+ Jarlsberg-travbane;Onsdag, 11. jun 2014
+ Jarlsberg-travbane; Lørdag, 31. mai 2014
+ Jarlsberg-travbane;Søndag, 25. mai 2014
+ Jarlsberg-travbane;Fredag, 16. mai 2014
+ Jarlsberg-travbane;Lørdag, 10. mai 2014
+ Jarlsberg-travbane; Fredag, 2. mai 2014
+ Jarlsberg-travbane;Søndag, 27. apr 2014
+ Jarlsberg-travbane;Fredag, 11. apr 2014
+ Jarlsberg-travbane;Fredag, 28. mar 2014
+ Jarlsberg-travbane; Fredag, 21. feb 2014
+ Jarlsberg-travbane;Tirsdag, 11. feb 2014
+ Jarlsberg-travbane;Fredag, 7. feb 2014
+ Jarlsberg-travbane;Torsdag, 30. jan 2014
+ Jarlsberg-travbane; Fredag, 24. jan 2014
+ Jarlsberg-travbane;Lørdag, 18. jan 2014
+ Jarlsberg-travbane;Fredag, 10. jan 2014
+ Jarlsberg-travbane;Fredag, 27. des 2013
+ Jarlsberg-travbane; Søndag, 15. des 2013
+ Jarlsberg-travbane;Torsdag, 5. des 2013
+ Jarlsberg-travbane;Fredag, 29. nov 2013
+ Jarlsberg-travbane;Fredag, 15. nov 2013
+ Jarlsberg-travbane; Fredag, 8. nov 2013
+ Jarlsberg-travbane;Lørdag, 2. nov 2013
+ Jarlsberg-travbane;Torsdag, 24. okt 2013
+ Jarlsberg-travbane;Fredag, 18. okt 2013
+ Jarlsberg-travbane; Torsdag, 10. okt 2013
+ Jarlsberg-travbane;Søndag, 6. okt 2013
+ Jarlsberg-travbane;Fredag, 27. sept 2013
+ Jarlsberg-travbane;Torsdag, 19. sept 2013
+ Jarlsberg-travbane; Fredag, 13. sept 2013
+ Jarlsberg-travbane;Mandag, 26. aug 2013
+ Jarlsberg-travbane;Fredag, 23. aug 2013
+ Jarlsberg-travbane;Søndag, 18. aug 2013
+ Jarlsberg-travbane; Fredag, 9. aug 2013
+ Jarlsberg-travbane;Søndag, 14. jul 2013
+ Jarlsberg-travbane;Lørdag, 13. jul 2013
+ Jarlsberg-travbane;Fredag, 12. jul 2013
+ Jarlsberg-travbane; Torsdag, 11. jul 2013
+ Jarlsberg-travbane;Onsdag, 10. jul 2013
+ Jarlsberg-travbane;Fredag, 5. jul 2013
+ Jarlsberg-travbane;Mandag, 1. jul 2013
+ Jarlsberg-travbane; Fredag, 21. jun 2013
+ Jarlsberg-travbane;Fredag, 7. jun 2013
+ Jarlsberg-travbane;Fredag, 31. mai 2013
+ Jarlsberg-travbane;Lørdag, 18. mai 2013
+ Jarlsberg-travbane; Torsdag, 16. mai 2013
+ Jarlsberg-travbane;Fredag, 10. mai 2013
+ Jarlsberg-travbane;Mandag, 29. apr 2013
+ Jarlsberg-travbane;Fredag, 26. apr 2013
+ Jarlsberg-travbane; Torsdag, 11. apr 2013
+ Jarlsberg-travbane;Fredag, 5. apr 2013
+ Jarlsberg-travbane;Fredag, 15. mar 2013
+ Jarlsberg-travbane;Fredag, 1. mar 2013
+ Jarlsberg-travbane; Fredag, 15. feb 2013
+ Jarlsberg-travbane;Fredag, 1. feb 2013
+ Jarlsberg-travbane;Fredag, 18. jan 2013
+ Jarlsberg-travbane;Lørdag, 5. jan 2013
+ Jarlsberg-travbane; Torsdag, 3. jan 2013
+ Jarlsberg-travbane;Fredag, 28. des 2012
+ Jarlsberg-travbane;Søndag, 23. des 2012
+ Jarlsberg-travbane;Fredag, 7. des 2012
+ Jarlsberg-travbane; Fredag, 23. nov 2012
+ Jarlsberg-travbane;Fredag, 16. nov 2012
+ Jarlsberg-travbane;Fredag, 9. nov 2012
+ Jarlsberg-travbane;Lørdag, 3. nov 2012
+ Jarlsberg-travbane; Søndag, 21. okt 2012
+ Jarlsberg-travbane;Mandag, 15. okt 2012
+ Jarlsberg-travbane;Fredag, 12. okt 2012
+ Jarlsberg-travbane;Fredag, 5. okt 2012
+ Jarlsberg-travbane; Fredag, 14. sept 2012
+ Jarlsberg-travbane;Mandag, 3. sept 2012
+ Jarlsberg-travbane;Torsdag, 30. aug 2012
+ Jarlsberg-travbane;Fredag, 24. aug 2012
+ Jarlsberg-travbane; Mandag, 13. aug 2012
+ Jarlsberg-travbane;Fredag, 10. aug 2012
+ Jarlsberg-travbane;Søndag, 15. jul 2012
+ Jarlsberg-travbane;Lørdag, 14. jul 2012
+ Jarlsberg-travbane; Fredag, 13. jul 2012
+ Jarlsberg-travbane;Torsdag, 12. jul 2012
+ Jarlsberg-travbane;Onsdag, 11. jul 2012
+ Jarlsberg-travbane;Fredag, 6. jul 2012
+ Jarlsberg-travbane; Tirsdag, 3. jul 2012
+ Jarlsberg-travbane;Fredag, 29. jun 2012
+ Jarlsberg-travbane;Tirsdag, 26. jun 2012
+ Jarlsberg-travbane;Fredag, 22. jun 2012
+ Jarlsberg-travbane; Mandag, 18. jun 2012
+ Jarlsberg-travbane;Fredag, 1. jun 2012
+ Jarlsberg-travbane;Lørdag, 19. mai 2012
+ Jarlsberg-travbane;Fredag, 18. mai 2012
+ Jarlsberg-travbane; Fredag, 4. mai 2012
+ Jarlsberg-travbane;Fredag, 27. apr 2012
+ Jarlsberg-travbane;Fredag, 13. apr 2012
+ Jarlsberg-travbane;Fredag, 16. mar 2012
+ Jarlsberg-travbane; Fredag, 9. mar 2012
+ Jarlsberg-travbane;Fredag, 24. feb 2012
+ Jarlsberg-travbane;Fredag, 3. feb 2012
+ Jarlsberg-travbane;Lørdag, 28. jan 2012
+ Jarlsberg-travbane; Fredag, 13. jan 2012
+ Jarlsberg-travbane;Tirsdag, 10. jan 2012
+ Jarlsberg-travbane;Tirsdag, 3. jan 2012
+ Jarlsberg-travbane;Fredag, 30. des 2011
+ Jarlsberg-travbane; Fredag, 23. des 2011
+ Jarlsberg-travbane;Fredag, 16. des 2011
+ Jarlsberg-travbane;Søndag, 11. des 2011
+ Jarlsberg-travbane;Fredag, 2. des 2011
+ Jarlsberg-travbane; Fredag, 25. nov 2011
+ Jarlsberg-travbane;Fredag, 18. nov 2011
+ Jarlsberg-travbane;Fredag, 11. nov 2011
+ Jarlsberg-travbane;Lørdag, 5. nov 2011
+ Jarlsberg-travbane; Fredag, 28. okt 2011
+ Jarlsberg-travbane;Tirsdag, 18. okt 2011
+ Jarlsberg-travbane;Fredag, 14. okt 2011
+ Jarlsberg-travbane;Fredag, 7. okt 2011
+ Jarlsberg-travbane; Fredag, 30. sept 2011
+ Jarlsberg-travbane;Fredag, 23. sept 2011
+ Jarlsberg-travbane;Fredag, 9. sept 2011
+ Jarlsberg-travbane;Fredag, 2. sept 2011
+ Jarlsberg-travbane; Lørdag, 27. aug 2011
+ Jarlsberg-travbane;Fredag, 26. aug 2011
+ Jarlsberg-travbane;Søndag, 21. aug 2011
+ Jarlsberg-travbane;Søndag, 17. jul 2011
+ Jarlsberg-travbane; Lørdag, 16. jul 2011
+ Jarlsberg-travbane;Fredag, 15. jul 2011
+ Jarlsberg-travbane;Torsdag, 14. jul 2011
+ Jarlsberg-travbane;Onsdag, 13. jul 2011
+ Jarlsberg-travbane; Fredag, 8. jul 2011
+ Jarlsberg-travbane;Tirsdag, 5. jul 2011
+ Jarlsberg-travbane;Fredag, 1. jul 2011
+ Jarlsberg-travbane;Torsdag, 30. jun 2011
+ Jarlsberg-travbane; Fredag, 24. jun 2011
+ Jarlsberg-travbane;Fredag, 10. jun 2011
+ Jarlsberg-travbane;Fredag, 3. jun 2011
+ Jarlsberg-travbane;Fredag, 27. mai 2011
+ Jarlsberg-travbane; Lørdag, 21. mai 2011
+ Jarlsberg-travbane;Fredag, 6. mai 2011
+ Jarlsberg-travbane;Tirsdag, 3. mai 2011
+ Jarlsberg-travbane;Fredag, 29. apr 2011
+ Jarlsberg-travbane; Fredag, 15. apr 2011
+ Jarlsberg-travbane;Fredag, 8. apr 2011
+ Jarlsberg-travbane;Fredag, 1. apr 2011
+ Jarlsberg-travbane;Fredag, 25. mar 2011
+ Jarlsberg-travbane; Søndag, 20. mar 2011
+ Jarlsberg-travbane;Fredag, 4. mar 2011
+ Jarlsberg-travbane;Fredag, 25. feb 2011
+ Jarlsberg-travbane;Lørdag, 29. jan 2011
+ Jarlsberg-travbane; Fredag, 21. jan 2011
+ Jarlsberg-travbane;Fredag, 7. jan 2011
+ Jarlsberg-travbane;Fredag, 31. des 2010
+ Jarlsberg-travbane;Søndag, 19. des 2010
+ Jarlsberg-travbane; Fredag, 10. des 2010
+ Jarlsberg-travbane;Fredag, 3. des 2010
+ Jarlsberg-travbane;Fredag, 26. nov 2010
+ Jarlsberg-travbane;Fredag, 19. nov 2010
+ Jarlsberg-travbane; Fredag, 12. nov 2010
+ Jarlsberg-travbane;Lørdag, 6. nov 2010
+ Jarlsberg-travbane;Fredag, 29. okt 2010
+ Jarlsberg-travbane;Fredag, 22. okt 2010
+ Jarlsberg-travbane; Søndag, 17. okt 2010
+ Jarlsberg-travbane;Fredag, 8. okt 2010
+ Jarlsberg-travbane;Fredag, 1. okt 2010
+ Jarlsberg-travbane;Fredag, 24. sept 2010
+ Jarlsberg-travbane; Mandag, 20. sept 2010
+ Jarlsberg-travbane;Fredag, 10. sept 2010
+ Jarlsberg-travbane;Fredag, 3. sept 2010
+ Jarlsberg-travbane;Lørdag, 28. aug 2010
+ Jarlsberg-travbane; Fredag, 27. aug 2010
+ Jarlsberg-travbane;Fredag, 20. aug 2010
+ Jarlsberg-travbane;Søndag, 18. jul 2010
+ Jarlsberg-travbane;Lørdag, 17. jul 2010
+ Jarlsberg-travbane; Fredag, 16. jul 2010
+ Jarlsberg-travbane;Torsdag, 15. jul 2010
+ Jarlsberg-travbane;Onsdag, 14. jul 2010
+ Jarlsberg-travbane;Fredag, 9. jul 2010
+ Jarlsberg-travbane; Tirsdag, 6. jul 2010
+ Jarlsberg-travbane;Torsdag, 1. jul 2010
+ Jarlsberg-travbane;Fredag, 25. jun 2010
+ Jarlsberg-travbane;Mandag, 21. jun 2010
+ Jarlsberg-travbane; Fredag, 11. jun 2010
+ Jarlsberg-travbane;Fredag, 4. jun 2010
+ Jarlsberg-travbane;Fredag, 28. mai 2010
+ Jarlsberg-travbane;Lørdag, 22. mai 2010
+ Jarlsberg-travbane; Fredag, 21. mai 2010
+ Jarlsberg-travbane;Tirsdag, 11. mai 2010
+ Jarlsberg-travbane;Fredag, 7. mai 2010
+ Jarlsberg-travbane;Fredag, 30. apr 2010
+ Jarlsberg-travbane; Fredag, 16. apr 2010
+ Jarlsberg-travbane;Fredag, 9. apr 2010
+ Jarlsberg-travbane;Fredag, 26. mar 2010
+ Jarlsberg-travbane;Fredag, 12. mar 2010
+ Jarlsberg-travbane; Fredag, 5. mar 2010
+ Jarlsberg-travbane;Lørdag, 30. jan 2010
+ Jarlsberg-travbane;Fredag, 22. jan 2010
+ Jarlsberg-travbane;Søndag, 17. jan 2010
+ Jarlsberg-travbane; Fredag, 8. jan 2010
+ Jarlsberg-travbane;Fredag, 18. des 2009
+ Jarlsberg-travbane;Fredag, 11. des 2009
+ Jarlsberg-travbane;Fredag, 4. des 2009
+ Jarlsberg-travbane; Fredag, 27. nov 2009
+ Jarlsberg-travbane;Fredag, 20. nov 2009
+ Jarlsberg-travbane;Fredag, 13. nov 2009
+ Jarlsberg-travbane;Lørdag, 7. nov 2009
+ Jarlsberg-travbane; Fredag, 30. okt 2009
+ Jarlsberg-travbane;Søndag, 18. okt 2009
+ Jarlsberg-travbane;Fredag, 9. okt 2009
+ Jarlsberg-travbane;Fredag, 2. okt 2009
+ Jarlsberg-travbane; Fredag, 25. sept 2009
+ Jarlsberg-travbane;Fredag, 18. sept 2009
+ Jarlsberg-travbane;Fredag, 11. sept 2009
+ Jarlsberg-travbane;Fredag, 28. aug 2009
+ Jarlsberg-travbane; Lørdag, 22. aug 2009
+ Jarlsberg-travbane;Fredag, 21. aug 2009
+ Jarlsberg-travbane;Fredag, 14. aug 2009
+ Jarlsberg-travbane;Fredag, 7. aug 2009
+ Jarlsberg-travbane; Tirsdag, 4. aug 2009
+ Jarlsberg-travbane;Søndag, 12. jul 2009
+ Jarlsberg-travbane;Lørdag, 11. jul 2009
+ Jarlsberg-travbane;Fredag, 10. jul 2009
+ Jarlsberg-travbane; Torsdag, 9. jul 2009
+ Jarlsberg-travbane;Onsdag, 8. jul 2009
+ Jarlsberg-travbane;Fredag, 3. jul 2009
+ Jarlsberg-travbane;Onsdag, 1. jul 2009
+ Jarlsberg-travbane; Fredag, 26. jun 2009
+ Jarlsberg-travbane;Onsdag, 24. jun 2009
+ Jarlsberg-travbane;Onsdag, 17. jun 2009
+ Jarlsberg-travbane;Tirsdag, 9. jun 2009
+ Jarlsberg-travbane; Fredag, 5. jun 2009
+ Jarlsberg-travbane;Fredag, 29. mai 2009
+ Jarlsberg-travbane;Tirsdag, 26. mai 2009
+ Jarlsberg-travbane;Fredag, 22. mai 2009
+ Jarlsberg-travbane; Lørdag, 16. mai 2009
+ Jarlsberg-travbane;Fredag, 1. mai 2009
+ Jarlsberg-travbane;Fredag, 24. apr 2009
+ Jarlsberg-travbane;Fredag, 17. apr 2009
+ Jarlsberg-travbane; Fredag, 3. apr 2009
+ Jarlsberg-travbane;Fredag, 27. mar 2009
+ Jarlsberg-travbane;Fredag, 13. mar 2009
+ Jarlsberg-travbane;Tirsdag, 3. mar 2009
+ Jarlsberg-travbane; Fredag, 27. feb 2009
+ Jarlsberg-travbane;Fredag, 20. feb 2009
+ Jarlsberg-travbane;Fredag, 13. feb 2009
+ Jarlsberg-travbane;Lørdag, 31. jan 2009
+ Jarlsberg-travbane; Fredag, 16. jan 2009
+ Jarlsberg-travbane;Fredag, 9. jan 2009
+ Jarlsberg-travbane;Fredag, 26. des 2008
+ Jarlsberg-travbane;Fredag, 19. des 2008
+ Jarlsberg-travbane; Fredag, 12. des 2008
+ Jarlsberg-travbane;Fredag, 5. des 2008
+ Jarlsberg-travbane;Søndag, 30. nov 2008
+ Jarlsberg-travbane;Tirsdag, 25. nov 2008
+ Jarlsberg-travbane; Fredag, 21. nov 2008
+ Jarlsberg-travbane;Fredag, 14. nov 2008
+ Jarlsberg-travbane;Lørdag, 8. nov 2008
+ Jarlsberg-travbane;Tirsdag, 28. okt 2008
+ Jarlsberg-travbane; Tirsdag, 21. okt 2008
+ Jarlsberg-travbane;Fredag, 10. okt 2008
+ Jarlsberg-travbane;Fredag, 3. okt 2008
+ Jarlsberg-travbane;Fredag, 19. sept 2008
+ Jarlsberg-travbane; Fredag, 12. sept 2008
+ Jarlsberg-travbane;Fredag, 5. sept 2008
+ Jarlsberg-travbane;Fredag, 29. aug 2008
+ Jarlsberg-travbane;Lørdag, 23. aug 2008
+ Jarlsberg-travbane; Fredag, 22. aug 2008
+ Jarlsberg-travbane;Fredag, 15. aug 2008
+ Jarlsberg-travbane;Fredag, 8. aug 2008
+ Jarlsberg-travbane;Søndag, 13. jul 2008
+ Jarlsberg-travbane; Lørdag, 12. jul 2008
+ Jarlsberg-travbane;Fredag, 11. jul 2008
+ Jarlsberg-travbane;Torsdag, 10. jul 2008
+ Jarlsberg-travbane;Onsdag, 9. jul 2008
+ Jarlsberg-travbane; Fredag, 4. jul 2008
+ Jarlsberg-travbane;Fredag, 27. jun 2008
+ Jarlsberg-travbane;Fredag, 20. jun 2008
+ Jarlsberg-travbane;Fredag, 6. jun 2008
+ Jarlsberg-travbane; Fredag, 30. mai 2008
+ Jarlsberg-travbane;Tirsdag, 20. mai 2008
+ Jarlsberg-travbane;Fredag, 16. mai 2008
+ Jarlsberg-travbane;Fredag, 9. mai 2008
+ Jarlsberg-travbane; Tirsdag, 29. apr 2008
+ Jarlsberg-travbane;Fredag, 25. apr 2008
+ Jarlsberg-travbane;Fredag, 18. apr 2008
+ Jarlsberg-travbane;Fredag, 11. apr 2008
+ Jarlsberg-travbane; Fredag, 4. apr 2008
+ Jarlsberg-travbane;Fredag, 28. mar 2008
+ Jarlsberg-travbane;Fredag, 14. mar 2008
+ Jarlsberg-travbane;Søndag, 2. mar 2008
+ Jarlsberg-travbane; Fredag, 22. feb 2008
+ Jarlsberg-travbane;Fredag, 8. feb 2008
+ Jarlsberg-travbane;Lørdag, 26. jan 2008
+ Jarlsberg-travbane;Fredag, 18. jan 2008
+ Jarlsberg-travbane; Fredag, 4. jan 2008
+ Jarlsberg-travbane;Søndag, 30. des 2007
+ Jarlsberg-travbane;Fredag, 21. des 2007
+ Jarlsberg-travbane;Fredag, 14. des 2007
+ Jarlsberg-travbane; Fredag, 7. des 2007
+ Jarlsberg-travbane;Fredag, 30. nov 2007
+ Jarlsberg-travbane;Fredag, 23. nov 2007
+ Jarlsberg-travbane;Fredag, 16. nov 2007
+ Jarlsberg-travbane; Lørdag, 3. nov 2007
+ Jarlsberg-travbane;Fredag, 26. okt 2007
+ Jarlsberg-travbane;Fredag, 19. okt 2007
+ Jarlsberg-travbane;Fredag, 5. okt 2007
+ Jarlsberg-travbane; Fredag, 28. sept 2007
+ Jarlsberg-travbane;Fredag, 21. sept 2007
+ Jarlsberg-travbane;Tirsdag, 11. sept 2007
+ Jarlsberg-travbane;Tirsdag, 4. sept 2007
+ Jarlsberg-travbane; Fredag, 31. aug 2007
+ Jarlsberg-travbane;Fredag, 24. aug 2007
+ Jarlsberg-travbane;Lørdag, 18. aug 2007
+ Jarlsberg-travbane;Fredag, 17. aug 2007
+ Jarlsberg-travbane; Fredag, 10. aug 2007
+ Jarlsberg-travbane;Fredag, 3. aug 2007
+ Jarlsberg-travbane;Fredag, 27. jul 2007
+ Jarlsberg-travbane;Søndag, 15. jul 2007
+ Jarlsberg-travbane; Lørdag, 14. jul 2007
+ Jarlsberg-travbane;Fredag, 13. jul 2007
+ Jarlsberg-travbane;Torsdag, 12. jul 2007
+ Jarlsberg-travbane;Onsdag, 11. jul 2007
+ Jarlsberg-travbane; Fredag, 6. jul 2007
+ Jarlsberg-travbane;Fredag, 29. jun 2007
+ Jarlsberg-travbane;Fredag, 22. jun 2007
+ Jarlsberg-travbane;Fredag, 15. jun 2007
+ Jarlsberg-travbane; Fredag, 8. jun 2007
+ Jarlsberg-travbane;Fredag, 1. jun 2007
+ Jarlsberg-travbane;Torsdag, 24. mai 2007
+ Jarlsberg-travbane;Fredag, 18. mai 2007
+ Jarlsberg-travbane; Fredag, 11. mai 2007
+ Jarlsberg-travbane;Lørdag, 5. mai 2007
+ Jarlsberg-travbane;Fredag, 27. apr 2007
+ Jarlsberg-travbane;Fredag, 20. apr 2007
+ Jarlsberg-travbane; Fredag, 13. apr 2007
+ Jarlsberg-travbane;Fredag, 30. mar 2007
+ Jarlsberg-travbane;Fredag, 9. mar 2007
+ Jarlsberg-travbane;Fredag, 23. feb 2007
+ Jarlsberg-travbane; Fredag, 16. feb 2007
+ Jarlsberg-travbane;Søndag, 4. feb 2007
+ Jarlsberg-travbane;Lørdag, 27. jan 2007
+ Jarlsberg-travbane;Fredag, 12. jan 2007
+ Jarlsberg-travbane; Fredag, 5. jan 2007
+ Jarlsberg-travbane;Fredag, 29. des 2006
+ Jarlsberg-travbane;Fredag, 22. des 2006
+ Jarlsberg-travbane;Fredag, 15. des 2006
+ Jarlsberg-travbane; Fredag, 8. des 2006
+ Jarlsberg-travbane;Fredag, 1. des 2006
+ Jarlsberg-travbane;Fredag, 24. nov 2006
+ Jarlsberg-travbane;Fredag, 17. nov 2006
+ Jarlsberg-travbane; Fredag, 10. nov 2006
+ Jarlsberg-travbane;Lørdag, 4. nov 2006
+ Jarlsberg-travbane;Fredag, 27. okt 2006
+ Jarlsberg-travbane;Fredag, 13. okt 2006
+ Jarlsberg-travbane; Fredag, 6. okt 2006
+ Jarlsberg-travbane;Fredag, 29. sept 2006
+ Jarlsberg-travbane;Fredag, 22. sept 2006
+ Jarlsberg-travbane;Fredag, 15. sept 2006
+ Jarlsberg-travbane; Torsdag, 7. sept 2006
+ Jarlsberg-travbane;Fredag, 1. sept 2006
+ Jarlsberg-travbane;Lørdag, 19. aug 2006
+ Jarlsberg-travbane;Fredag, 18. aug 2006
+ Jarlsberg-travbane; Fredag, 11. aug 2006
+ Jarlsberg-travbane;Fredag, 4. aug 2006
+ Jarlsberg-travbane;Søndag, 9. jul 2006
+ Jarlsberg-travbane;Lørdag, 8. jul 2006
+ Jarlsberg-travbane; Fredag, 7. jul 2006
+ Jarlsberg-travbane;Torsdag, 6. jul 2006
+ Jarlsberg-travbane;Fredag, 30. jun 2006
+ Jarlsberg-travbane;Fredag, 16. jun 2006
+ Jarlsberg-travbane; Fredag, 9. jun 2006
+ Jarlsberg-travbane;Fredag, 2. jun 2006
+ Jarlsberg-travbane;Fredag, 26. mai 2006
+ Jarlsberg-travbane;Fredag, 19. mai 2006
+ Jarlsberg-travbane; Fredag, 12. mai 2006
+ Jarlsberg-travbane;Fredag, 5. mai 2006
+ Jarlsberg-travbane;Fredag, 28. apr 2006
+ Jarlsberg-travbane;Fredag, 21. apr 2006
+ Jarlsberg-travbane; Fredag, 7. apr 2006
+ Jarlsberg-travbane;Fredag, 31. mar 2006
+ Jarlsberg-travbane;Lørdag, 11. mar 2006
+ Jarlsberg-travbane;Fredag, 3. mar 2006
+ Jarlsberg-travbane; Fredag, 24. feb 2006
+ Jarlsberg-travbane;Fredag, 17. feb 2006
+ Jarlsberg-travbane;Fredag, 3. feb 2006

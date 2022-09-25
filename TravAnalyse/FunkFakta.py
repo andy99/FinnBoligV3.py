@@ -14,6 +14,7 @@ def FunkFakta(Hestnummer):
 #         print("ja vi har forbindelse")
 #         testinput = [30088706]
         testinput = [id_nr]
+        print(testinput,"Behandler dette id_nr")
         SQL = '''\
         SELECT Hestenavn ,id_nr, Kusk, Galoppind
         FROM [Trav].[dbo].[Fakta_lop]

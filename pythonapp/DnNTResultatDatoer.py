@@ -1,4 +1,3 @@
-
 from bs4 import BeautifulSoup
 import requests 
 import os
@@ -8,23 +7,27 @@ coding='utf8'
 if os.path.isfile("D:\workplace_python\pythonapp\Dntresultatdatoer.txt"):
     print("D:\workplace_python\pythonapp\Dntresultatdatoer.txt","blir slettet")
     os.remove("D:\workplace_python\pythonapp\Dntresultatdatoer.txt")
+Bane='Varig-Orkla-Arena'
 num = 415
 while num < 416:
 #     num = 9
 #    Lastedato.Dato
     #print(LeserDNTdatofradatabase.Lastedato)
     #r = requests.get("http://www.alltidhest.org/Horses/Page/{}".format(num) )
-#     r = requests.get("http://www.travsport.no/Sport/Resultater/Bergen-Travpark/")
-    r = requests.get("http://www.travsport.no/Sport/Resultater/Leangen-Travbane/")
-#                       http://www.travsport.no/Sport/Resultater/Forus-Travbane/ 
+    # r = requests.get("http://www.travsport.no/Sport/Resultater/Jarlsberg-Travbane/")
+#     r = requests.get("http://www.travsport.no/Sport/Resultater/Banenavn/")
+    r = requests.get('http://www.travsport.no/Sport/Resultater/{}'.format(Bane))
+    #                       http://www.travsport.no/Sport/Resultater/Forus-Travbane/
+    print(Bane,"Henter datoer for")
     num = num + 1
     r.content
     soup = BeautifulSoup(r.content,"html.parser")
-    Hesttabell = soup.find_all('tbody')
-    #print(Hesttabell[1],"hestetabell")
+    # print(soup,"innhold Soup")
+    Hesttabell = soup.find_all('TABLE')
+#    print(Hesttabell[1],"hestetabell")
     antalltabeller = len(Hesttabell)
     
-    #print(antalltabeller,"Antall tabeller")
+    print(antalltabeller,"Antall tabeller")
     wkol = 0
     with open('Dntresultatdatoer.txt', 'a') as f:
 #         for tr in enumerate(Hesttabell[1]):
@@ -43,17 +46,17 @@ while num < 416:
             if antkol == 4:                              
                 #print(tds,'innhold td')
                 #beregne lopsnr
-                f.write(" %s;" % \
-                ( tds[0].text.strip()))
+                f.write(" %s;%s" % \
+                (Bane, tds[0].text.strip()))
                 f.write('\n')
-                f.write(" %s;" % \
-                ( tds[1].text.strip()))
+                f.write(" %s; %s" % \
+                (Bane, tds[1].text.strip()))
                 f.write('\n')
-                f.write(" %s;" % \
-                ( tds[2].text.strip()))
+                f.write(" %s;%s" % \
+                (Bane, tds[2].text.strip()))
                 f.write('\n') 
-                f.write(" %s;" % \
-                ( tds[3].text.strip()))
+                f.write(" %s;%s" % \
+                (Bane, tds[3].text.strip()))
                 f.write('\n')            
             else:
                 #print(tds,"Antall kolonner  er ikke 7")

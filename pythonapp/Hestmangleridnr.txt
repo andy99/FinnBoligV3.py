@@ -1,0 +1,13 @@
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;1;2160;6;Concerto De Lou;Kristine Kvasnes;150.998;1.16,7v;1.14,8a;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;1;2160;9;Arild Mølgård;Nina Stene;166.801;1.16,8v;1.14,8a;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;1;2160;11;Zola Sirena;Marion Kleveland;195.537;1.16,9v;1.14,8a;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;6;2180;8;Sangria Knight;Jomar Blekkan;507.961;1.13,4v;1.12,7a;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;7;3200;7;Falcon Dragon;Herman R. Tvedt;716.624;1.15,0v;1.13,3a;;
+Autostart;  Startliste    -  Leangen Travbane - 27.05.2019;10;1640;1;Høiby Håkon;Arne Nilsen;31.022;1.31,3v;;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;11;1640;1;Emma Line;Jomar Blekkan;0;;;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;11;1640;3;Fixing The Starlight;Per Einar Sørmo;0;;;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;11;1660;4;St. Petter;Inge Melby;0;;;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;11;1660;5;Tangen Bork;Andre H. Stensen;0;;;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;11;1660;6;Leik Odd;Monika Fremstad;0;;;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;11;1660;8;Pave Sola;Arne Nilsen;0;;;;
+Volestart;  Startliste    -  Leangen Travbane - 27.05.2019;11;1660;9;Myras Mimo;Atle Solhus;0;;;;
