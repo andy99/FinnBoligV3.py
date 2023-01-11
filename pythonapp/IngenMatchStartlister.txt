@@ -1,5 +1,4 @@
-  Startliste    -  Forus Travbane - 28.09.2022;3;2040;3;Eirik Høitomt;Autostart;29.830;Griffith;1.27,0v;1.16,0a;  Forus Travbane ;28.09.2022
-  Startliste    -  Forus Travbane - 28.09.2022;4;2040;8;Svein Ove Wassberg;Autostart;406.610;B J's Brogård;1.16,7v;1.13,8a;  Forus Travbane ;28.09.2022
-  Startliste    -  Forus Travbane - 28.09.2022;7;2040;2;Rune Wiig;Autostart;46.420;Gucci Girl;1.17,9v;1.17,0a;  Forus Travbane ;28.09.2022
-  Startliste    -  Forus Travbane - 28.09.2022;8;2040;1;Rune Wiig;Volestart;0;Bjørli Lotta;;;  Forus Travbane ;28.09.2022
-  Startliste    -  Forus Travbane - 28.09.2022;8;2040;2;Bernt Øksnevad;Volestart;0;Boxer Ø.K.;;;  Forus Travbane ;28.09.2022
+  Startliste    -  Jarlsberg Travbane - 11.01.2023;4;2100;2;Gunnar Austevoll;Autostart;99.500;Helia Gendreenne;1.18,1v;1.16,0a;  Jarlsberg Travbane ;11.01.2023
+  Startliste    -  Jarlsberg Travbane - 11.01.2023;4;2100;4;Åsbjørn Tengsareid;Autostart;100.818;Bellissima A.F.;1.16,5v;1.15,1a;  Jarlsberg Travbane ;11.01.2023
+  Startliste    -  Jarlsberg Travbane - 11.01.2023;4;2100;5;Frode Hamre;Autostart;99.113;Blue Spirit;;1.14,4a;  Jarlsberg Travbane ;11.01.2023
+  Startliste    -  Jarlsberg Travbane - 11.01.2023;4;2100;10;Eirik Høitomt;Autostart;120.753;Kiss Flevo Rhythm;1.18,0v;1.14,8a;  Jarlsberg Travbane ;11.01.2023

@@ -1,54 +1,45 @@
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;1;B.R.U.N.;Johan Herbjørn Undem;72.500;1.18,0v;1.15,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;2;Luckyblackmagic S.C.;Lars Anvar Kolle;73.500;1.19,8v;1.16,0a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;3;Thai Ohio;Frode Hamre;70.888;1.14,7v;1.15,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;4;Shameless I.M.;Kristian Malmin;75.990;1.17,0v;1.14,5a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;5;Fighter From Start;Dag-Sveinung Dalen;80.479;1.19,7v;1.14,0a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;6;Primary Tile;Eirik Høitomt;58.500;1.18,3v;1.16,4a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;7;Microchip;Gunnar Austevoll;62.500;1.17,8v;1.15,9a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;8;I.D. Ecailler;Magnus Teien Gundersen;81.500;1.18,7v;1.15,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;9;Muscle Love;Harry Tharaldsen;66.500;1.18,4v;1.16,0a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;10;Er Pupone;Vidar Hop;80.500;1.18,0v;1.15,2a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;11;Bold Little Drummer;Geir Nordbotten;63.000;1.18,2v;1.14,9a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;1;2100;12;Khloe B.R.;Åsbjørn Tengsareid;61.000;1.17,6v;1.16,9a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;1;Nashville Yankee;Bjørn Steine;177.859;1.16,7v;1.13,5a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;2;Star Act;Vidar Hop;203.996;1.17,4v;1.14,4a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;3;Thai Daenerys;Magnus Teien Gundersen;192.717;1.17,0v;1.13,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;4;Herman;Gunnar Austevoll;228.500;1.16,2v;1.13,4a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;5;Hera B.R.;Kristian Malmin;226.382;1.21,5v;1.13,7a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;6;Global Association;Eirik Høitomt;197.265;1.15,4v;1.13,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;7;Viking Ivi;Joakim Hansen;216.063;1.16,8v;1.13,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;8;Roald A.Boko;Dag-Sveinung Dalen;146.000;1.16,9v;1.14,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;9;Holeinone Pepper;Lars Anvar Kolle;225.980;1.16,7v;1.14,1a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;2;1609;10;Starlight Morning;Connie Engebråthen;214.000;1.19,0v;1.13,8a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;1;Trocadero;Sebastian Rishovd;117.500;1.19,1v;1.13,8a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;2;Pastor Royal;Guro Mogset;118.868;1.17,0v;1.15,6a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;3;Ultimate Love;Gunnar Austevoll;130.000;1.19,8v;1.15,0a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;4;Bellfire;Johan Herbjørn Undem;86.000;1.16,7v;1.14,8a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;5;Tib Roxanne;Magnus Teien Gundersen;128.000;1.17,3v;1.14,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;6;Klaas B.R.;Per Oleg Midtfjeld;124.652;1.17,2v;1.14,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;7;Formula Photo;Lars Anvar Kolle;96.000;1.18,5v;1.14,9a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;8;Mountain Valdimir;Connie Engebråthen;116.500;1.18,1v;1.14,6a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;9;South Valley May;Kristian Malmin;130.000;1.18,0v;1.14,0a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;10;Riverside Princess;Vidar Hop;116.000;1.18,0v;1.14,6a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;11;Shockadelica;Dag-Sveinung Dalen;121.500;1.17,1v;1.13,8a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;3;2100;12;Zakira;Eirik Høitomt;126.500;1.16,3v;1.14,7a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;1;Dynamic Dancer;Kristian Malmin;350.430;1.16,3v;1.12,4a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;2;Gentletron;Eirik Høitomt;447.344;1.14,8v;1.12,6a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;3;Mr. Chocolate;Gunnar Austevoll;492.483;1.17,4v;1.12,2a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;4;Skylander Hill;Per Vetle Kals;517.500;1.14,2v;1.13,5a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;5;Photo Fighter;Lars Anvar Kolle;532.000;1.21,2v;1.12,1a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;6;Frick;Herman R. Tvedt;558.976;1.14,8v;1.12,8a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;7;Glazier's Vici;Åsbjørn Tengsareid;641.063;1.15,4v;1.12,5a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;8;Income;Connie Engebråthen;662.500;1.14,0v;1.12,7a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;9;Caruso;Frode Hamre;583.674;;1.09,1a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;4;2100;10;Easy Kiss;Bjørn Steine;600.510;1.15,4v;1.13,1a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;1;Bellini Reviere;Eirik Høitomt;41.000;1.19,5v;1.15,6a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;2;Bravestile;Vidar Hop;44.000;;1.14,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;3;Quantum Tile;Kristian Malmin;35.000;;1.16,8a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;4;Oliver Touch;Åsbjørn Tengsareid;40.500;1.19,2v;1.16,8a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;5;Phantom Rex;Bjørn Steine;43.000;1.19,5v;1.14,3a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;6;Chapman;Dag-Sveinung Dalen;40.000;1.19,2v;1.16,2a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;7;Letsgo Soa;Herman R. Tvedt;24.000;1.16,9v;1.14,8a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;8;Golden Brunette;Per Oleg Midtfjeld;44.500;;1.17,1a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;9;Gunny Coktail M.E.;Lars Anvar Kolle;42.496;1.18,2v;1.16,9a
-Autostart;  Startliste    -  Jarlsberg Travbane - 20.09.2022;5;2100;10;Helia Gendreenne;Gunnar Austevoll;42.500;1.18,1v;1.16,9a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;1;1609;1;Global Company;Jonas Andreas Ås;214.332;1.15,0v;1.13,2a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;1;1609;2;Mellby Howlit;Christina Marie Tilp;223.973;1.15,0v;1.12,6a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;1;1609;3;Estirado;Henning Nygård;248.186;1.16,9v;1.13,5a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;1;1609;4;Cordially;Lars Anvar Kolle;253.186;1.15,5v;1.13,5a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;1;1609;5;Sophia Frecel;Magnus Teien Gundersen;229.492;1.15,7v;1.13,0a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;1;1609;6;Kong Amok;Eirik Høitomt;234.949;1.15,8v;1.15,0a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;1;1609;7;Balashi;Vidar Hop;208.961;1.16,1v;1.12,8a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;2;1609;1;Sundi;Øyvind Ruttenborg;79.780;1.30,8v;1.30,8a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;2;1609;2;Kos Røder;Vidar Hop;106.000;1.29,4v;1.30,1a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;2;1609;3;Spang Lars;Svein Olav Ruud;110.000;1.30,3v;1.27,6a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;2;1609;4;Kjølstad Trollvilja;Espen A. Schem;111.238;1.29,3v;1.29,3a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;2;1609;5;Lykkje Prinsessa;Bjørn Steinseth;113.512;1.29,8v;1.29,3a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;2;1609;6;Skar Lukas;Geir Aga;118.000;1.27,3v;1.28,2a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;2;1609;7;Bjørnli Balto;Erlend Rennesvik;126.021;1.29,5v;1.27,1a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;2;1609;8;Gylden Storm;Eirik Høitomt;129.000;1.30,1v;1.28,2a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;2;1609;9;Haugs Dronninga;Glenn Kramer Stenberg;121.000;1.29,2v;1.29,5a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;3;1609;1;Snuppa H.B.;Bjørn Steinseth;196.749;1.28,2v;1.26,3a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;3;1609;2;Åse Sannejentå;Åsbjørn Tengsareid;206.693;1.29,2v;1.27,3a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;3;1609;3;Spang Turbo;Sindre Skjølås;212.887;1.27,4v;1.26,1a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;3;1609;4;Tusse Gutt;Hans Chr. Holm;215.000;1.31,2v;1.25,5a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;3;1609;5;Helmen Terna;Lars Anvar Kolle;227.500;1.27,9v;1.26,4a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;3;1609;6;Nord Sjur;Gunnar Austevoll;239.000;1.27,1v;1.26,6a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;3;1609;7;Glitrende Tider;Eirik Høitomt;261.000;1.28,0v;1.26,5a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;3;1609;8;Gustav Ø.K.;Kristine Kvasnes;266.281;1.29,4v;1.25,6a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;3;1609;9;Tverdals Odin;Magnus Teien Gundersen;244.399;1.28,3v;1.25,3a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;3;1609;10;Børke Loke;Odd Arne Sagholen;249.409;1.29,4v;1.25,3a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;4;2100;1;Mountain Valdimir;Connie Engebråthen;117.000;1.18,1v;1.14,6a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;4;2100;2;Hymne a la Vie;Kristine Kvasnes;100.320;1.18,8v;1.14,5a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;4;2100;3;Hansen Halbak;Marius Høitomt;124.483;1.19,1v;1.14,8a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;4;2100;4;Kluivert Boko;Glenn Kramer Stenberg;132.388;1.19,0v;1.14,2a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;4;2100;5;Immun E.;Gunnar Austevoll;111.500;;1.12,8a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;4;2100;6;Premiär Tooma;Vidar Hop;128.868;1.17,3v;1.14,0a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;4;2100;7;Avonaco;Lars Anvar Kolle;132.500;1.18,0v;1.15,5a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;4;2100;8;Lollipop Laday;Hans Wilhelm Storås;138.922;1.15,6v;1.15,0a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;4;2100;9;M.H. Getonmylevel;Eirik Høitomt;141.500;;1.14,5a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;4;2100;10;Windsongs Star;Olav Mikkelborg;125.952;1.22,1v;1.14,0a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;5;2100;1;Monrad;Gunnar Austevoll;65.500;1.29,2v;1.31,9a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;5;2100;2;Gylden Tor;Bjørn Steinseth;69.430;1.30,8v;1.31,4a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;5;2100;3;Haugs Bella;Lars Anvar Kolle;93.750;1.28,6v;1.29,1a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;5;2100;4;Frøken Fyrrig;Ragnhild Sveen;89.500;1.31,7v;1.32,4a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;5;2100;5;Birk Jahn Sjur;Åsbjørn Tengsareid;72.928;1.30,7v;1.31,6a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;5;2100;6;Asakstjerne;Vidar Hop;80.000;1.30,0v;
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;5;2100;7;Balder C.;Eirik Høitomt;62.464;1.30,2v;1.30,3a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;5;2100;8;Bjørnhaug Bekki;Svein Olav Ruud;95.000;1.30,6v;1.30,1a
+Autostart;  Startliste    -  Bjerke Travbane - 04.01.2023;5;2100;9;Frivoll Faksa;Magnus Teien Gundersen;93.528;1.30,0v;1.29,6a

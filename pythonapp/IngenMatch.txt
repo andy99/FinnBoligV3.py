@@ -1,44 +1,10 @@
-Resultater    -  Bjerke Travbane  -  20.09.2022;8;5;12;Brienne of Tarth ;2100;2:36,8;14,7ar;5000;Dag-Sveinung    Dalen;Auto;Ingen galopp ;2100; 77500;269
-Resultater    -  Bjerke Travbane  -  20.09.2022;9;3;1;Island Life;1609;1:55,7;11,9a;12000;Jonas Andreas    Ås;Auto;Ingen galopp ;1609; 89000;801
-Resultater    -  Bjerke Travbane  -  20.09.2022;9;4;6;Hennessy Am;1609;1:55,8;12,0a;8000;Erlend    Rennesvik;Auto;Ingen galopp ;1609; 89000;449
-Resultater    -  Bjerke Travbane  -  20.09.2022;9;5;10;Bill's Man;1609;1:56,1;12,2a;5000;Frode    Hamre;Auto;Ingen galopp ;1609; 89000;126
-Resultater    -  Bjerke Travbane  -  20.09.2022;9;0;5;Smokin Joe ;1609;1:58,2;13,5a;;Kristian    Malmin;Auto;Ingen galopp ;1609; 89000;428
-Resultater    -  Bjerke Travbane  -  20.09.2022;9;0;9;Best Ofdream Trio ;1609;1:58,3;13,5ag;;Vidar    Hop;Auto;galopp;1609; 89000;23
-Resultater    -  Bjerke Travbane  -  20.09.2022;10;1;3;Jonny le Rocker ;2140;2:47,6;18,3;16000;Frode    Hamre;Volte;Ingen galopp ;2140; 39000;*16
-Resultater    -  Bjerke Travbane  -  20.09.2022;10;0;10;Brazil Broline ;2140;2:51,3;20,0 g;;Lars Anvar    Kolle;Volte;galopp;2140; 39000;69
-Resultater    -  Bjerke Travbane  -  20.09.2022;10;0;5;Happy So Easy;2140;2:52,4;20,6 g;;Eirik    Høitomt;Volte;galopp;2140; 39000;39
-Resultater    -  Bjerke Travbane  -  20.09.2022;10;;1;Kenza K.W.;1640;2:20,9;25,9;;Kai    Johansen;Volte;Ingen galopp ;1640; 0;B
-Resultater    -  Bjerke Travbane  -  20.09.2022;10;;2;Carmen Dolores;1640;2:21,2;26,1;;Lars Erik    Aas;Volte;Ingen galopp ;1640; 0;B
-Resultater    -  Bjerke Travbane  -  20.09.2022;10;;4;Churchill;1640;2:22,8;26,0;;Kristian    Malmin;Volte;Ingen galopp ;1660; 0;B
-Resultater    -  Bjerke Travbane  -  20.09.2022;10;;6;L.A.`s Aela Skye;1640;2:22,9;26,1;;Patrick    Larsen;Volte;Ingen galopp ;1660; 0;B
-Resultater    -  Bjerke Travbane  -  20.09.2022;10;;5;Mozart B.R.;1640;2:23,1;26,2 g;;Sven Olav    Weberg;Volte;galopp;1660; 0;B
-Resultater    -  Bjerke Travbane  -  20.09.2022;10;;3;Korsico Decoy;1640;2:28,3;29,3 g;;Dag-Sveinung    Dalen;Volte;galopp;1660; 0;B
-Resultater    -  Bjerke Travbane  -  20.09.2022;10;;7;Enjoythecash S.C.;1640;2:29,5;30,1 g;;Bjørn    Steinseth;Volte;galopp;1660; 0;B
-Resultater    -  Jarlsberg Travbane  -  20.09.2022;2;5;9;Holeinone Pepper ;1609;1:57,7;13,2a;3000;Lars Anvar    Kolle;Auto;Ingen galopp ;1609; 42000;38
-Resultater    -  Jarlsberg Travbane  -  20.09.2022;5;3;10;Helia Gendreenne ;2100;2:41,3;16,8a;5000;Gunnar    Austevoll;Auto;Ingen galopp ;2100; 42000;131
-Resultater    -  Forus Travbane  -  21.09.2022;9;;3;Polle Slauren;1600;2:49,8;44,8;;Kjetil    Djøseland;Volte;Ingen galopp ;1620; 0;N
-Resultater    -  Forus Travbane  -  21.09.2022;9;;5;Fakså Ø.K.;1600;2:50,5;45,2;;Bernt    Øksnevad;Volte;Ingen galopp ;1620; 0;B
-Resultater    -  Forus Travbane  -  21.09.2022;9;;4;Benni Ø.K.;1600;3:02,9;52,9;;Stian    Øksnevad;Volte;Ingen galopp ;1620; 0;B
-Resultater    -  Forus Travbane  -  21.09.2022;9;Disk. galopp prøveløp;2;Hå Lilja;1600;DGPP;dgpp;;Martin    Soma;Volte;Ingen galopp ;1620; 0;N
-Resultater    -  Biri Travbane  -  22.09.2022;5;0;5;Komnes Loma;2100;3:22,2;35,4 g;;Magnus Teien    Gundersen;Volte;galopp;2120; 37500;204
-Resultater    -  Biri Travbane  -  22.09.2022;6;0;5;Sundbo Hero;2100;3:10,0;30,5ag;;Dag-Sveinung    Dalen;Auto;galopp;2100; 39000;331
-Resultater    -  Biri Travbane  -  22.09.2022;8;3;9;Best Song Ever ;2100;2:45,0;17,8;5000;Louise Vebostad    Trudvang;Volte;Ingen galopp ;2120; 39000;354
-Resultater    -  Biri Travbane  -  22.09.2022;8;4;1;Helsinki NewportTF;2100;2:45,0;18,6;4000;Helene    Kolle;Volte;Ingen galopp ;2100; 39000;38
-Resultater    -  Biri Travbane  -  22.09.2022;9;;2;Ellvåk;2100;4:03,0;54,6;;Bjørn    Steinseth;Volte;Ingen galopp ;2120; 0;B
-Resultater    -  Biri Travbane  -  22.09.2022;9;;3;Ravinas Emil;2100;4:11,3;58,5 g;;Per    Johansen;Volte;galopp;2120; 0;B
-Resultater    -  Jarlsberg Travbane  -  23.09.2022;1;1;7;Bør Bornson;2100;2:41,9;17,1;14000;Eirik    Høitomt;Volte;Ingen galopp ;2100; 37500;36
-Resultater    -  Jarlsberg Travbane  -  23.09.2022;7;1;9;Wishful Order;2100;2:35,8;14,2a;16000;Eirik    Høitomt;Auto;Ingen galopp ;2100; 39000;46
-Resultater    -  Jarlsberg Travbane  -  23.09.2022;7;2;4;Hopus Castelle ;2100;2:36,7;14,6a;8000;Frode    Hamre;Auto;Ingen galopp ;2100; 39000;*15
-Resultater    -  Jarlsberg Travbane  -  23.09.2022;7;;2;Quality King;2100;3:00,0;25,7;;Åsbjørn    Tengsareid;Volte;Ingen galopp ;2100; 0;B
-Resultater    -  Jarlsberg Travbane  -  23.09.2022;7;;6;A.V.'s King Street;2100;3:00,2;25,8;;Bjørn    Steine;Volte;Ingen galopp ;2100; 0;B
-Resultater    -  Jarlsberg Travbane  -  23.09.2022;7;;3;Kid Arc;2100;3:00,7;26,0;;Lars Fredrik    Kolle;Volte;Ingen galopp ;2100; 0;B
-Resultater    -  Jarlsberg Travbane  -  23.09.2022;7;;1;Thai Blackpedia;2100;3:00,9;26,1 g;;Frode    Hamre;Volte;galopp;2100; 0;B
-Resultater    -  Jarlsberg Travbane  -  23.09.2022;7;;5;Nampara;2100;3:12,0;31,4 g;;Eirik    Høitomt;Volte;galopp;2100; 0;B
-Resultater    -  Jarlsberg Travbane  -  23.09.2022;7;;4;Vincent Sun;2100;3:25,0;37,6 g;;Erik    Solberg;Volte;galopp;2100; 0;N
-Resultater    -  Jarlsberg Travbane  -  23.09.2022;7;;7;Valle Lerke;2100;3:53,3;50,0;;Gunnar    Austevoll;Volte;Ingen galopp ;2120; 0;B
-Resultater    -  Varig Orkla Arena  -  24.09.2022;1;5;5;Acers Feliz;2300;3:09,0;22,2;3000;Åsbjørn    Tengsareid;Volte;Ingen galopp ;2300; 32500;54
-Resultater    -  Varig Orkla Arena  -  24.09.2022;2;6;8;Fantom Ima;2300;2:54,9;16,0a;3000;Ida Therese    Stoum;Auto;Ingen galopp ;2300; 54500;168
-Resultater    -  Varig Orkla Arena  -  24.09.2022;10;1;4;Velten Swarovski ;2300;2:52,8;14,5;80000;Erlend    Rennesvik;Volte;Ingen galopp ;2320; 185000;*35
-Resultater    -  Varig Orkla Arena  -  24.09.2022;10;8;1;First In Line E.P. ;2300;2:53,8;15,6;5000;Magnus Teien    Gundersen;Volte;Ingen galopp ;2300; 185000;179
-Resultater    -  Varig Orkla Arena  -  24.09.2022;10;0;3;Bourne Dominion;2300;2:54,4;15,8 g;;Dag-Sveinung    Dalen;Volte;galopp;2300; 185000;77
-Resultater    -  Varig Orkla Arena  -  24.09.2022;10;Brutt løp;2;Cartesio ;2300;;br g;;Morten A.    Pedersen;Volte;galopp;2300; 185000;38
+Resultater    -  Bergen Travpark  -  05.01.2023;1;1;7;Vulnerable Face;2100;2:44,1;17,4 g;16000;Svein Ove    Wassberg;Volte;galopp;2120; 39000;*18
+Resultater    -  Bergen Travpark  -  05.01.2023;7;N;3;Vertigo Ove;2100;3:58,9;52,7;;Håkon B.    Steine;Volte;Ingen galopp ;2120; 0;N
+Resultater    -  Jarlsberg Travbane  -  07.01.2023;2;4;4;Elio ;2100;2:44,9;18,5a;4500;Lars Anvar    Kolle;Auto;Ingen galopp ;2100; 44000;299
+Resultater    -  Jarlsberg Travbane  -  07.01.2023;2;5;12;Jonny le Rocker ;2100;2:45,1;18,6a;3500;Frode    Hamre;Auto;Ingen galopp ;2100; 44000;*29
+Resultater    -  Jarlsberg Travbane  -  07.01.2023;3;4;11;First One Diamond;2100;2:43,2;17,0;10000;Eirik    Høitomt;Volte;Ingen galopp ;2120; 114000;104
+Resultater    -  Jarlsberg Travbane  -  07.01.2023;5;1;6;Sheena's Boy;2100;2:40,0;16,2a;60000;Erlend    Rennesvik;Auto;Ingen galopp ;2100; 140000;199
+Resultater    -  Momarken Travbane  -  08.01.2023;2;2;1;Fridi;2140;2:50,9;19,9;7000;Arnt    Foss;Volte;Ingen galopp ;2140; 32500;65
+Resultater    -  Momarken Travbane  -  08.01.2023;4;2;4;Hawk Sisu ;1609;2:02,5;16,1a;8000;Vidar    Hop;Auto;Ingen galopp ;1609; 36000;48
+Resultater    -  Momarken Travbane  -  08.01.2023;4;Disk. galopp;6;Giant Laser ;1609;DG;dg a;;Per Oleg    Midtfjeld;Auto;Ingen galopp ;1609; 36000;*17
+Resultater    -  Momarken Travbane  -  08.01.2023;6;2;4;Excellent Artist ;1609;2:01,8;15,7a;8000;Gunnar    Austevoll;Auto;Ingen galopp ;1609; 39000;245

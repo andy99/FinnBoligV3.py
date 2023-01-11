@@ -5,7 +5,7 @@ if os.path.isfile("D:\workplace_python\pythonapp\DntStartLister.txt"):
     print("D:\workplace_python\pythonapp\DntStartlister.txt","blir slettet")
     os.remove("D:\workplace_python\pythonapp\DntStartLister.txt")
 coding='utf8'
-r = requests.get("http://www.travsport.no/Sport/StartLister/Jarlsberg-travbane/?date=20220920")
+r = requests.get("http://www.travsport.no/Sport/StartLister/Bjerke-Travbane/?date=20230104pip help")
 #                       http://www.travsport.no/Sport/Resultater/Leangen-Travbane/ 
 
 r.content

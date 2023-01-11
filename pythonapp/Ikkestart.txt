@@ -1,21 +1,23 @@
-,1,Strøket,Dag-Sveinung    Dalen,Resultater    -  Bjerke Travbane  -  20.09.2022,Lome Spesiell,Volte
-,4,Strøket,Erlend    Rennesvik,Resultater    -  Bjerke Travbane  -  20.09.2022,Maquavit E.,Auto
-,8,Strøket,Lars Anvar    Kolle,Resultater    -  Bjerke Travbane  -  20.09.2022,K.L.M. L'american,Auto
-,2,Strøket,Bjørn    Steine,Resultater    -  Jarlsberg Travbane  -  20.09.2022,Nashville Yankee* (S),Auto
-,9,Strøket,Svein Ove    Wassberg,Resultater    -  Forus Travbane  -  21.09.2022,Undercover O.,Volte
-,9,Strøket,Rune    Wiig,Resultater    -  Forus Travbane  -  21.09.2022,Snap Man,Volte
-,9,Strøket,Øyvind    Hegdal,Resultater    -  Forus Travbane  -  21.09.2022,Bjørnhaug Stjernen,Volte
-,1,Strøket,Eirik    Høitomt,Resultater    -  Biri Travbane  -  22.09.2022,Beak's Readytorumble,Auto
-,2,Strøket,Sebastian    Rishovd,Resultater    -  Biri Travbane  -  22.09.2022,Barbarian Division,Auto
-,4,Strøket,Patrick    Larsen,Resultater    -  Biri Travbane  -  22.09.2022,Quadrillion Tile,Auto
-,6,Strøket,Eirik    Høitomt,Resultater    -  Biri Travbane  -  22.09.2022,Torø Teddy,Auto
-,9,Strøket,Dag-Sveinung    Dalen,Resultater    -  Biri Travbane  -  22.09.2022,Korsico Decoy,Volte
-,1,Strøket,Herman R.    Tvedt,Resultater    -  Jarlsberg Travbane  -  23.09.2022,Anna Noark,Volte
-,3,Strøket,Marianne Bergsta    Johansen,Resultater    -  Jarlsberg Travbane  -  23.09.2022,Bjørnhaug Lilja,Auto
-,5,Strøket,Per Oleg    Midtfjeld,Resultater    -  Jarlsberg Travbane  -  23.09.2022,Halmrast Hella,Auto
-,7,Strøket,Herman R.    Tvedt,Resultater    -  Jarlsberg Travbane  -  23.09.2022,Fetterman,Volte
-,6,Strøket,Boye    Ølstøren,Resultater    -  Varig Orkla Arena  -  24.09.2022,Gullgutten,Volte
-,6,Strøket,Åsbjørn    Tengsareid,Resultater    -  Varig Orkla Arena  -  24.09.2022,Komnes Eira,Volte
-,7,Strøket,Noralf P.    Brækken,Resultater    -  Varig Orkla Arena  -  24.09.2022,Jalapeno M.E.,Auto
-,8,Strøket,Dag-Sveinung    Dalen,Resultater    -  Varig Orkla Arena  -  24.09.2022,Kong Amok,Auto
-,11,Strøket,Dag-Sveinung    Dalen,Resultater    -  Varig Orkla Arena  -  24.09.2022,Isla Vanilla* (FR),Auto
+,3,Strøket,Rolf    Tvedt,Resultater    -  Bergen Travpark  -  05.01.2023,Art Skogfari,Volte
+,4,Strøket,Ove    Wassberg,Resultater    -  Bergen Travpark  -  05.01.2023,Golden Hulsig (DK),Volte
+,5,Strøket,Dag-Sveinung    Dalen,Resultater    -  Bergen Travpark  -  05.01.2023,Cool Canadian (S),Auto
+,7,Strøket,Håkon    Håvardstun,Resultater    -  Bergen Travpark  -  05.01.2023,Leik Odd,Volte
+,6,Strøket,Dag-Sveinung    Dalen,Resultater    -  Forus Travbane  -  06.01.2023,Quite Perfect,Volte
+,8,Strøket,Johan Kringeland    Eriksen,Resultater    -  Forus Travbane  -  06.01.2023,Bigbrightfuture,Volte
+,8,Strøket,Carina Berge    Helgesen,Resultater    -  Forus Travbane  -  06.01.2023,Brake Cooling (S),Volte
+,8,Strøket,Bjarte    Tørresdal,Resultater    -  Forus Travbane  -  06.01.2023,Brenne Major,Volte
+,1,Strøket,Helene    Kolle,Resultater    -  Jarlsberg Travbane  -  07.01.2023,Hot Stone,Auto
+,2,Strøket,Josefine    Eilertsen,Resultater    -  Jarlsberg Travbane  -  07.01.2023,New Fighter,Auto
+,5,Strøket,Patrick    Larsen,Resultater    -  Jarlsberg Travbane  -  07.01.2023,Mellby Frodo (S),Auto
+,8,Strøket,Dag-Sveinung    Dalen,Resultater    -  Jarlsberg Travbane  -  07.01.2023,Dale Anne,Volte
+,8,Strøket,Henrik    Kulblik,Resultater    -  Jarlsberg Travbane  -  07.01.2023,Finnskog Nox,Volte
+,9,Strøket,Gunnar    Austevoll,Resultater    -  Jarlsberg Travbane  -  07.01.2023,Varenne Hangover,Volte
+,9,Strøket,Eirik    Høitomt,Resultater    -  Jarlsberg Travbane  -  07.01.2023,Pelucchi,Volte
+,9,Strøket,Andre H.    Stensen,Resultater    -  Jarlsberg Travbane  -  07.01.2023,Baker,Volte
+,9,Strøket,Tom Erik    Solberg,Resultater    -  Jarlsberg Travbane  -  07.01.2023,Bøgdis O.S.,Volte
+,2,Strøket,Tor A.    Stordal,Resultater    -  Momarken Travbane  -  08.01.2023,L.H. Tharos,Volte
+,5,Strøket,Bjørn    Steinseth,Resultater    -  Momarken Travbane  -  08.01.2023,Nårje,Volte
+,6,Strøket,Erlend    Rennesvik,Resultater    -  Momarken Travbane  -  08.01.2023,Arevs Indeed*,Auto
+,7,Strøket,Dag-Sveinung    Dalen,Resultater    -  Momarken Travbane  -  08.01.2023,Hanse Knippa,Volte
+,7,Strøket,Bjørn    Steine,Resultater    -  Momarken Travbane  -  08.01.2023,Spikoda,Volte
+,7,Strøket,Åsbjørn    Tengsareid,Resultater    -  Momarken Travbane  -  08.01.2023,Solli Viking,Volte

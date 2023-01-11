@@ -1,30 +1,20 @@
-25.09.2022;Bergen Travpark
-26.09.2022;Momarken Travbane
-27.09.2022;Bjerke Travbane
-27.09.2022;Jarlsberg Travbane
-28.09.2022;Forus Travbane
-29.09.2022;Klosterskogen Travbane
-30.09.2022;Jarlsberg Travbane
-01.10.2022;Bjerke Travbane
-02.10.2022;Varig Orkla Arena
-03.10.2022;Sørlandets Travpark
-04.10.2022;Bjerke Travbane
-05.10.2022;Forus Travbane
-06.10.2022;Bergen Travpark
-07.10.2022;Jarlsberg Travbane
-08.10.2022;Biri Travbane
-08.10.2022;Harstad Travpark
-09.10.2022;Momarken Travbane
-10.10.2022;Varig Orkla Arena
-11.10.2022;Bjerke Travbane
-12.10.2022;Forus Travbane
-13.10.2022;Klosterskogen Travbane
-14.10.2022;Jarlsberg Travbane
-15.10.2022;Bergen Travpark
-16.10.2022;Varig Orkla Arena
-17.10.2022;Sørlandets Travpark
-18.10.2022;Bjerke Travbane
-19.10.2022;Forus Travbane
-20.10.2022;Klosterskogen Travbane
-21.10.2022;Biri Travbane
-22.10.2022;Momarken Travbane
+11.01.2023;Jarlsberg Travbane
+12.01.2023;Bergen Travpark
+13.01.2023;Bjerke Travbane
+14.01.2023;Harstad Travpark
+14.01.2023;Varig Orkla Arena
+15.01.2023;Jarlsberg Travbane
+17.01.2023;Bjerke Travbane
+18.01.2023;Momarken Travbane
+19.01.2023;Klosterskogen Travbane
+20.01.2023;Forus Travbane
+21.01.2023;Bjerke Travbane
+22.01.2023;Harstad Travpark
+22.01.2023;Varig Orkla Arena
+23.01.2023;Bergen Travpark
+24.01.2023;Bjerke Travbane
+25.01.2023;Jarlsberg Travbane
+27.01.2023;Momarken Travbane
+28.01.2023;Forus Travbane
+29.01.2023;Varig Orkla Arena
+31.01.2023;Bjerke Travbane

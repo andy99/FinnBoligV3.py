@@ -5,6 +5,8 @@
       <excludeFolder url="file://$MODULE_DIR$/TestPyCharm" />
       <excludeFolder url="file://$MODULE_DIR$/PyCharmTest" />
       <excludeFolder url="file://$MODULE_DIR$/pythonProject" />
+      <excludeFolder url="file://$MODULE_DIR$/AnalyseFormfaktor" />
+      <excludeFolder url="file://$MODULE_DIR$/pythonChatGPT" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

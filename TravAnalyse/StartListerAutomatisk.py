@@ -45,7 +45,7 @@ coding='utf8'
 webbane = requests.get('http://www.travsport.no/Sport/Startlister/{}'.format(Bane))   #Dette virker
 startliste = requests.get('http://www.travsport.no/Sport/Startlister/{}'.format(Bane)+'/?date=' + inndata )   #Dette virker 
 
-print(startliste," S har vi funnet en webside") 
+print(startliste, " S har vi funnet en webside")
 # print(t," T har vi funnet en webside")
 soup = BeautifulSoup(startliste.content,"html.parser")
 # print(soup,"Hva er soup")

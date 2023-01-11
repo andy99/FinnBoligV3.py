@@ -7,8 +7,8 @@ coding='utf8'
 if os.path.isfile("D:\workplace_python\pythonapp\Dntresultatdatoer.txt"):
     print("D:\workplace_python\pythonapp\Dntresultatdatoer.txt","blir slettet")
     os.remove("D:\workplace_python\pythonapp\Dntresultatdatoer.txt")
-Bane='Varig-Orkla-Arena'
-num = 415
+Bane='Klosterskogen-Travbane'
+num = 400
 while num < 416:
 #     num = 9
 #    Lastedato.Dato
