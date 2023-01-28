@@ -1,7 +1,7 @@
 import pypyodbc
 # from FunkoppdaterHest import FunkoppdaterHest
 con = pypyodbc.connect
-con = pypyodbc.connect('Driver={SQL Server};' 'Server=DESKTOP-0CMQN56;''Database=Trav;''user=Gunnar;' 'Pwd=gunnar')
+con = pypyodbc.connect('Driver={SQL Server};' 'Server=DESKTOP-0CMQN56;''Database=Trav;''user=Gunnar;' 'Pwd=****')
 # print(Lastedato.DatoKlasse)
 if con:
     print("ja vi elsker dette landet og har forbindelse")
