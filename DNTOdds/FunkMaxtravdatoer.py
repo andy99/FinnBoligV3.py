@@ -8,7 +8,7 @@ def Funkmaxtravdatoer(webdato):
     print("Program Startet maxoddsdata")
     print("Er i funksjonen")
     con = pypyodbc.connect(
-        'Driver={SQL Server};' 'Server=DESKTOP-0CMQN56;''Database=DWtrav;''user=Gunnar;' 'Pwd=gunnar')
+        'Driver={SQL Server};' 'Server=DESKTOP-0CMQN56;''Database=DWtrav;''user=Gunnar;' 'Pwd=****')
     print("Program Startet")
     if con:
         print("ja vi har forbindelse")
